@@ -1,0 +1,3402 @@
+<html lang="id"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://www.dapurumami.com/uploads/config/favicon-1681052070-400.webp">
+    <title>
+                    Resep Ebi Furai ala AJI-NO-MOTO® - Dapur Umami    </title>
+
+    <style type="text/css">
+        #globalModal .modal-content {
+          border-radius: 10px !important;
+        }
+    </style>
+
+    <meta name="csrf-token" content="hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV">
+
+                <meta name="description" content="Rasakan kelezatan Ebi Furai Ala AJI-NO-MOTO® yang renyah di luar, lembut di dalam, dan penuh cita rasa umami! Yuk, ikuti resepnya dan buat sendiri di rumah!">
+    <meta name="keywords" content="ebi furai">
+
+    <meta property="og:title" content="Resep Ebi Furai ala AJI-NO-MOTO®">
+    <meta property="og:image" content="https://www.dapurumami.com/uploads/recipe/ebi-furai-meta_image-400.webp">
+    <meta property="og:description" content="Rasakan kelezatan Ebi Furai Ala AJI-NO-MOTO® yang renyah di luar, lembut di dalam, dan penuh cita rasa umami! Yuk, ikuti resepnya dan buat sendiri di rumah!">
+    
+    
+            <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Dapur Umami">
+        <meta property="og:url" content="https:// www.dapurumami.com/resep/ebi-furai">
+
+    
+    <meta property="twitter:card" content="summary">
+                
+    <link rel="canonical" href="https://www.dapurumami.com/resep/ebi-furai">
+
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/bootstrap-5.3.0/dist/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/global.css?v=1.1.5">
+
+    <meta name="robots" content="index, follow">
+    <meta name="base-url" content="https://www.dapurumami.com">
+    <meta name="captcha-public-key" content="6LcRlHcpAAAAAKPzJpmT536xJh5OrmhQjSMZOBEp">
+
+
+
+
+    <style>
+
+        .belanja_btn {
+            background: #D80028 url("https://www.dapurumami.com/web/assets/images/main-assets/ic_belanja.png") no-repeat right 15px center / 30px;
+            padding-right: 50px;
+            color: #fff !important;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 20px;
+            border-radius: 30px;
+            text-transform: capitalize;
+        }
+
+        @media (min-width: 768px) {
+            .image-avatar {
+                height: 100% !important;
+            }
+        }
+
+        @media only screen and (max-width: 600px) {
+            .image-avatar {
+                height: 100% !important;
+                width: 100% !important;
+            }
+        }
+    </style>
+
+    <!-- lazyload -->
+
+ 
+    <script async="" src="https://www.clarity.ms/s/0.8.0/clarity.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/f6e09c70/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script async="" src="https://www.clarity.ms/tag/ptou8iloym?ref=gtm2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-P3RBQ8L9VX&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5362v9203921461za200&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102814060~102825837"></script><script src="https://www.youtube.com/iframe_api" id="video-player-iframe-youtube"></script><script async="" src="https://www.clarity.ms/tag/mdb9etg8eb"></script><script src="https://connect.facebook.net/signals/config/539231536433940?v=2.9.186&amp;r=stable&amp;domain=www.dapurumami.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114%2C166%2C201%2C203%2C243%2C169%2C227%2C124%2C160%2C148%2C154%2C131%2C240%2C118%2C129%2C149%2C176%2C162%2C120%2C241%2C168%2C121%2C138%2C125%2C157%2C151%2C198%2C115%2C130%2C136%2C202%2C128" async=""></script><script src="https://connect.facebook.net/signals/config/1603083450418208?v=2.9.186&amp;r=stable&amp;domain=www.dapurumami.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114%2C166%2C201%2C203%2C243%2C169%2C227%2C124%2C160%2C148%2C154%2C131%2C240%2C118%2C129%2C149%2C176%2C162%2C120%2C241%2C168%2C121%2C138%2C125%2C157%2C151%2C198%2C115%2C130" async=""></script><script src="https://connect.facebook.net/signals/config/331184459432357?v=2.9.186&amp;r=stable&amp;domain=www.dapurumami.com&amp;hme=a72824d1c4e9fa19885a7ddba1edefb2829b45a4452ba98f5c6581985a4ea493&amp;ex_m=71%2C123%2C108%2C112%2C62%2C4%2C101%2C70%2C16%2C98%2C90%2C51%2C55%2C175%2C178%2C190%2C186%2C187%2C189%2C29%2C102%2C53%2C78%2C188%2C170%2C173%2C183%2C184%2C191%2C133%2C41%2C196%2C193%2C194%2C34%2C146%2C15%2C50%2C200%2C199%2C135%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C109%2C52%2C111%2C39%2C110%2C30%2C95%2C26%2C171%2C174%2C143%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C103%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C105%2C104%2C106%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C107%2C45%2C80%2C69%2C113%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C114" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-56PRBDM8"></script><script src="https://www.dapurumami.com/scripts/thehelper.js?v=1.1.5" type="text/javascript"></script>
+    <script src="https://www.dapurumami.com/scripts/custom.js?v=1.1.5" type="text/javascript"></script>
+
+    <!-- Google Tag Manager -->
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56PRBDM8');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<!-- Meta Pixel Code -->
+<script type="text/javascript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '331184459432357');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=331184459432357&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Meta Pixel Code -->
+<script type="text/javascript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1603083450418208');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src=https://www.facebook.com/tr?id=1603083450418208&ev=PageView&noscript=1
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "mdb9etg8eb");
+</script>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.css" integrity="sha512-zar81H5lVN36QFsq/da1hxpOLODXK4/oFwBGOFrvdWX6SBe3NWriWTQS6YQDVfW5fDeb2Vry41YQCELOe8cHww==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/resep.css?v=1.1.5">
+    <!-- additional -->
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/additional/resep.css?v=1.1.5">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" integrity="sha512-ZKX+BvQihRJPA8CROKBhDNvoc2aDMOdAlcm7TUQY+35XYtrd3yh95QOOhsPDQY9QnKE0Wqag9y38OIgEvb88cA==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <style>
+        .aboutFood p a {
+            color: red !important;
+        }
+    </style>
+           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.css" integrity="sha512-zar81H5lVN36QFsq/da1hxpOLODXK4/oFwBGOFrvdWX6SBe3NWriWTQS6YQDVfW5fDeb2Vry41YQCELOe8cHww==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    
+    
+    
+    
+    
+    
+            <script type="text/javascript">
+            fbq('trackCustom','pageviewresep')
+        </script>
+    
+    
+    
+
+
+    <!-- moengage -->
+        <script type="text/javascript">
+        var moeDataCenter = "dc_1"; // Replace "DC" with the actual Data center value from the above table
+        var moeAppID = "CP0THOR5ZTKJ2F03N7Z5TA5S"; // Replace "WorkspaceID" available in the settings page of MoEngage Dashboard.
+
+        !function(e,n,i,t,a,r,o,d){if(!moeDataCenter||!moeDataCenter.match(/^dc_[0-9]+$/gm))return console.error("Data center has not been passed correctly. Please follow the SDK installation instruction carefully.");var s=e[a]=e[a]||[];if(s.invoked=0,s.initialised>0||s.invoked>0)return console.error("MoEngage Web SDK initialised multiple times. Please integrate the Web SDK only once!"),!1;e.moengage_object=a;var l={},g=function n(i){return function(){for(var n=arguments.length,t=Array(n),a=0;a<n;a++)t[a]=arguments[a];(e.moengage_q=e.moengage_q||[]).push({f:i,a:t})}},u=["track_event","add_user_attribute","add_first_name","add_last_name","add_email","add_mobile","add_user_name","add_gender","add_birthday","destroy_session","add_unique_user_id","update_unique_user_id","moe_events","call_web_push","track","location_type_attribute"],m={onsite:["getData","registerCallback"]};for(var c in u)l[u[c]]=g(u[c]);for(var v in m)for(var f in m[v])null==l[v]&&(l[v]={}),l[v][m[v][f]]=g(v+"."+m[v][f]);r=n.createElement(i),o=n.getElementsByTagName("head")[0],r.async=1,r.src=t,o.appendChild(r),e.moe=e.moe||function(){return(s.invoked=s.invoked+1,s.invoked>1)?(console.error("MoEngage Web SDK initialised multiple times. Please integrate the Web SDK only once!"),!1):(d=arguments.length<=0?void 0:arguments[0],l)},r.addEventListener("load",function(){if(d)return e[a]=e.moe(d),e[a].initialised=e[a].initialised+1||1,!0}),r.addEventListener("error",function(){return console.error("Moengage Web SDK loading failed."),!1})}(window,document,"script","https://cdn.moengage.com/release/"+moeDataCenter+"/moe_webSdk.min.latest.js","Moengage");
+
+                    let debug_logs = 0
+        
+        Moengage = moe({
+          app_id: moeAppID,
+          debug_logs: debug_logs
+        });
+
+        const queryString = window.location.search;
+        if(queryString != undefined) {
+            const urlParams = new URLSearchParams(queryString);
+
+            const logout = urlParams.get('logout')
+
+            if(logout) {
+                Moengage.destroy_session();
+            }
+        }
+
+        
+
+        </script>
+    <!-- moengage -->
+
+    <style type="text/css">
+
+        #loader {
+            position: fixed;
+            width: 100vw;
+            height: 100vh;
+            z-index: 100000;
+            background: rgba(255, 255, 255, .5);
+        }
+
+
+        .lds-dual-ring {
+          /* change color here */
+          color: #D80028
+        }
+        .lds-dual-ring,
+        .lds-dual-ring:after {
+          box-sizing: border-box;
+        }
+        .lds-dual-ring {
+          display: inline-block;
+          width: 80px;
+          height: 80px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+        .lds-dual-ring:after {
+          content: " ";
+          display: block;
+          width: 64px;
+          height: 64px;
+          margin: 8px;
+          border-radius: 50%;
+          border: 6.4px solid currentColor;
+          border-color: currentColor transparent currentColor transparent;
+          animation: lds-dual-ring 1.2s linear infinite;
+        }
+        @keyframes lds-dual-ring {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+
+
+        @media only screen and (max-width:480px) {
+            header.sticky-header .logo {
+                margin: 0 !important;
+            }
+        }
+    </style>
+
+
+
+
+    <!-- new css -->
+    <!-- cdn swiper -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.css" integrity="sha512-zar81H5lVN36QFsq/da1hxpOLODXK4/oFwBGOFrvdWX6SBe3NWriWTQS6YQDVfW5fDeb2Vry41YQCELOe8cHww==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <!-- home new css -->
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/homepage-new.css?v=1.1.5">
+    <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/revamp.css?v=1.1.5">
+    <!-- <link rel="stylesheet" href="https://www.dapurumami.com/web/styles/skeleton.css?v=1.1.5" /> -->
+    <style type="text/css">
+    /*    .main_component {
+            margin-top: 150px !important;
+        }*/
+
+        .mt-0 {
+            margin-top: 0 !important;
+        }
+
+        .main_component .topSec{
+            padding: 1% 8% !important;
+        }
+
+        .main_component ..topSec .top {
+            padding: 0 !important;
+        }
+        .main_component .topSec .top {
+            max-width: none !important;
+        }
+    </style>
+
+
+    <!-- Meta Pixel Code -->
+    <script type="text/javascript">
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','539231536433940');fbq('track','PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=539231536433940&ev=PageView&noscript=1"/></noscript>
+<script async="" src="https://cdn.moengage.com/release/dc_1/moe_webSdk.min.latest.js"></script></head>
+
+<body id="scrollingPanel"><div id="moe-push-div" class="moe-push-class">
+  <div id="desktopBannerWrapped" data-rapid_height="50" style="width: 422px; top: 1px; left: calc(50% - 211px); margin: 0px; padding: 0px; box-shadow: rgb(136, 136, 136) 0px 0px 4px; font-size: 11px; font-weight: 400; position: fixed; z-index: 2147483647; background: #ffffff;">
+    <div style="margin: 0;padding: 0 20px 10px;word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;">
+      <div style="float: left;position: relative;display: inline-block;margin: 15px 15px 0 0!important;padding: 0!important;word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;">
+        <img style="word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;height: 65px!important;width: 65px!important;" src="https://image.moengage.com/dapurumamiwebsitemoengage/20241017040045091067MDCMQJlogopngdapurumamiwebsitemoengage.png">
+      </div>
+      <div style="word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;position: relative!important;padding: 10px 0 0!important;color: #000!important;text-align: left!important;margin: 0!important;line-height: 1.4em!important;display: inline-block!important;width: calc(100% - 80px)!important;">
+        <span style="margin-bottom: 5px; text-align: left; font-size: 14px; font-weight: 700; overflow: hidden; height: 2.8em; line-height: 1.4em; display: block; font-family: Open Sans, sans-serif !important; word-spacing: normal !important; letter-spacing: normal !important; color: #232323 !important;">
+          Mau Dapat Info Terbaru dan Penawaran Spesial?
+        </span>
+        <p style="overflow: hidden; height: 2.8em; word-spacing: normal !important; letter-spacing: normal !important; font-family: Open Sans, sans-serif !important; font-size: 12px !important; line-height: 1.4em !important; margin: 10px 0px !important; padding: 0px !important; text-align: left !important; color: #232323 !important;">
+          Izinkan Dapur Umami mengirimkan notifikasi mengenai resep terbaru, tips, dan penawaran spesial
+        </p>
+      </div>
+      <div style="display: flex;justify-content: space-between;word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;">
+        <div style="word-spacing: normal!important;letter-spacing: normal!important;font-family: Open Sans,sans-serif!important;margin: 0!important;padding: 0!important;margin-left: auto !important;">
+          <button id="moe-dontallow_button" style="overflow: hidden; word-spacing: normal !important; letter-spacing: normal !important; width: 100px !important; height: 26px !important; font-size: 14px !important; cursor: pointer !important; line-height: 1.1em !important; border-radius: 4px !important; border: 1px solid rgba(0, 0, 0, 0.1) !important; display: inline-block !important; font-weight: 400 !important; margin: 0px 20px 0px 0px !important; padding: 5px !important; text-transform: none !important; box-sizing: border-box !important; text-shadow: none !important; box-shadow: none !important; white-space: nowrap !important; color: #000000; background: #ffffff;">
+            Tidak Dulu
+          </button>
+          <button style="overflow: hidden; word-spacing: normal !important; letter-spacing: normal !important; width: 90px !important; height: 26px !important; font-size: 14px !important; cursor: pointer !important; line-height: 1.1em !important; border-radius: 4px !important; border: 1px solid rgba(0, 0, 0, 0.1) !important; display: inline-block !important; font-weight: 400 !important; margin: 0px !important; padding: 5px !important; text-transform: none !important; box-sizing: border-box !important; text-shadow: none !important; box-shadow: none !important; white-space: nowrap !important; color: #FFFFFF; background: #d0021b;" id="optInText">
+            Ya Izinkan
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+    <div id="loader" class="d-none">
+        <div class="lds-dual-ring"></div>
+    </div>
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56PRBDM8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <style type="text/css">
+        .menu-active {
+            border-bottom: 3px solid white;
+        }
+    </style>
+
+
+
+    <header class="sticky-header desktopHeader " id="header" style="z-index: 1000 !important;">
+
+    <div class="container-xxl">
+        <div class="links d-none d-lg-flex">
+            <a href="https://www.dapurumami.com" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Homepage', 'https://www.dapurumami.com')" class="brand">
+                <img class="logo" src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png" alt="Logo">
+            </a>
+
+            <!-- search -->
+            <div class="the-search-full">
+                <form action="https://www.dapurumami.com/search" method="get">
+                    <div class="search-input">
+                        <input class="inputSearch" type="search" name="q" placeholder="Cari resep favoritmu di sini">
+                        
+                        <label class="btn-search">
+                            <i class="icon fa-solid fa-magnifying-glass"></i>
+                        </label>
+                    </div>
+                </form>
+            </div>
+
+            <a onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Recipe', 'https://www.dapurumami.com/resep')" class="menu-active" href="https://www.dapurumami.com/resep"> Resep </a>
+            <a onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Community', 'https://www.dapurumami.com/jurnal-umami', 'Jurnal Umami')" class="" href="https://www.dapurumami.com/jurnal-umami">Jurnal</a>
+            <a onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Community', 'https://www.dapurumami.com/tanya-nutri-expert', 'Tanya NutriExpert')" class="" href="https://www.dapurumami.com/tanya-nutri-expert"> NutriExpert </a>
+
+           
+
+            <div class="dropdown news">
+                <a class="" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Berita
+                    <i class="fa-solid fa-chevron-down ms-2"></i>
+                </a>
+                <ul class="dropdown-menu">
+                    <a href="https://www.dapurumami.com/campaign">
+                        <li class="dropdown-item">
+                            <div class="insider red">
+                                <h5>Campaign</h5>
+                                <p>Bukti Nyata Dukungan Umami untuk Kehidupan yang Lebih Baik.</p>
+                            </div>
+                        </li>
+                    </a>
+                    <a href="https://www.dapurumami.com/artikel-tips">
+                        <li class="dropdown-item">
+                            <div class="insider red">
+                                <h5>Artikel &amp; Tips</h5>
+                                <p>Kumpulan Artikel dan Tips Menarik untuk Menambah Wawasan Kamu.</p>
+                            </div>
+                        </li>
+                    </a>
+                    <a href="https://www.dapurumami.com/promo-event">
+                        <li class="dropdown-item">
+                            <div class="insider red">
+                                <h5>Promo &amp; Event</h5>
+                                <p>Cek Promo-Promo dan Informasi Event Menarik yang Diadakan Umami.</p>
+                            </div>
+                        </li>
+                    </a>
+                    <a href="https://www.dapurumami.com/tukar-umami-coins">
+                        <li class="dropdown-item">
+                            <div class="insider red">
+                                <h5>Tiering XP Point</h5>
+                                <p>Cari tahu tentang XP Point dan benefit yang akan kamu dapatkan.</p>
+                            </div>
+                        </li>
+                    </a>
+                    <a href="https://www.dapurumami.com/prosedur-umami-coins">
+                        <li class="dropdown-item">
+                            <div class="insider red">
+                                <h5>Prosedur Umami Coins</h5>
+                                <p>Cek aktivitas apa saja yang dapat menghasilkan Umami Coins.</p>
+                            </div>
+                        </li>
+                    </a>
+                </ul>
+            </div>
+
+            <!-- belanja -->
+            <div class="dropdown shop">
+                <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" class="belanja_btn btn btn--white btn--rounded btn--inline">
+                    <div class="btn__wrp justify-content-center">
+                        <i class="icon">
+                            <img class="d-block" src="https://www.dapurumami.com/web/assets/images/revamp/i-belanja-red.svg" alt="belanja" title="Belanja" style="height: 100%; width: auto;">
+                            
+                        </i>
+                        <span>Belanja</span>
+                    </div>
+                </a>
+                <ul class="dropdown-menu">
+                                                                          <a href="https://tokopedia.link/Nlpzfz1zDPb" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://tokopedia.link/Nlpzfz1zDPb', 'Tokopedia')">
+                                <li class="dropdown-item">
+                                    <div class="insider shop tokopedia">
+                                        <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/tokopedia.svg" alt="Tokopedia">
+
+                                        <div class="wrapper">
+                                            <h5 class="fw-bold pe-5 me-5">Ajinomoto Official Store</h5>
+                                            <div class="absoluted">
+                                                                                                    <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/tokopedia_official.svg" alt="Official Store">
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </a>
+                                                    <a href="https://shopee.co.id/ajinomoto.id" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://shopee.co.id/ajinomoto.id', 'Shopee')">
+                                <li class="dropdown-item">
+                                    <div class="insider shop shopee">
+                                        <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/shopee.svg" alt="Shopee">
+
+                                        <div class="wrapper">
+                                            <h5 class="fw-bold pe-5 me-5">Ajinomoto Official Shop</h5>
+                                            <div class="absoluted">
+                                                                                                    <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/shopee_official.svg" alt="Shopee Mall">
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </a>
+                                                    <a href="https://www.lazada.co.id/shop/ajinomoto/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://www.lazada.co.id/shop/ajinomoto/', 'Lazada')">
+                                <li class="dropdown-item">
+                                    <div class="insider shop lazada">
+                                        <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/lazada.svg" alt="Lazada">
+
+                                        <div class="wrapper">
+                                            <h5 class="fw-bold pe-5 me-5">Ajinomoto Official Store</h5>
+                                            <div class="absoluted">
+                                                                                                    <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/lazada_official.svg" alt="LazMall Flagship Store">
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </a>
+                                                    <a href="https://vt.tiktok.com/ZS2UVeacM/?page=Mall" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://vt.tiktok.com/ZS2UVeacM/?page=Mall', 'TikTok')">
+                                <li class="dropdown-item">
+                                    <div class="insider shop bukalapak">
+                                        <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/Tiktok_Logo_2.svg" alt="TikTok">
+
+                                        <div class="wrapper">
+                                            <h5 class="fw-bold pe-5 me-5">TikTok Rahasia Koki Rumahan</h5>
+                                            <div class="absoluted">
+                                                                                                    <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/Tiktok.svg" alt="BukaMall">
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </a>
+                                                            </ul>
+            </div>
+        </div>
+
+
+        <div class="the-mobile">
+            <a href="https://www.dapurumami.com" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Homepage', 'https://www.dapurumami.com')" class="brand d-block d-lg-none">
+                <img class="logo d-flex d-lg-none" src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png" alt="Logo">
+            </a>
+
+            <div class="float-right">
+                <div class="wrapped the-search">
+                    <div class="search-container">
+                        <form action="https://www.dapurumami.com/search" method="get" id="form_search">
+                            <div class="search-input">
+                                <input class="search expandright" id="searchHeader" type="search" name="q" placeholder="Cari resep, jurnal, artikel, dll">
+                            </div>
+                            <label class="button searchbutton" for="searchHeader">
+                                <img src="https://www.dapurumami.com/web/assets/images/revamp/i-serach-white.svg" alt="search">
+                            </label>
+                            <div class="dropdown" id="dropdownSearch">
+                                <div class="suggestions">
+                                    <div class="historySearch">
+                                        <h5>Riwayat</h5>
+                                        <ul id="historyList"></ul>
+                                    </div>
+                                    <div class="popularSearch">
+                                        <h5>Pencarian Popular</h5>
+                                        <ul>
+                                            <li><a href=""> nasi goreng</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                                <!-- button login / register -->
+                <a href="https://www.dapurumami.com/login" class="btn btn--white btn--rounded btn--inline">
+                    <div class="btn__wrp justify-content-center">
+                        <span>Login / Register</span>
+                    </div>
+                </a>
+
+                
+               
+                 <!-- add -->
+                <div class="dropdown add">
+                    <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" class="btn-add">
+                        <i class="icon"><img src="https://www.dapurumami.com/web/assets/images/revamp/i-tambah.svg" alt="add menu" title="add menu"></i>
+                    </a>
+                    <ul class="dropdown-menu navigation-add">
+                        <li>
+                            <a href="https://www.dapurumami.com/me/resep-upload" class="link-with-icon">
+
+                                <i class="icon"><img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-resep.svg" alt="" title=""></i>
+                                <span>Tambah Resep</span>
+
+                                <i class="icon icon--absolute fa-solid fa-plus"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.dapurumami.com/jurnal-umami/create-post" class="link-with-icon">
+
+                                <i class="icon"><img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-jurnal.svg" alt="" title=""></i>
+                                <span>Tulis Jurnal</span>
+
+                                <i class="icon icon--absolute fa-solid fa-plus"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.dapurumami.com/tanya-nutri-expert/create-post" class="link-with-icon">
+
+                                <i class="icon"><img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-tanya.svg" alt="" title=""></i>
+                                <span>Tanya NutriExpert</span>
+
+                                <i class="icon icon--absolute fa-solid fa-plus"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <style>
+                    .btn-notif {
+                        position: relative;
+                        display: inline-block;
+                    }
+
+                    .notif-count {
+                        position: absolute;
+                        top: 4px;
+                        right: 9px;
+                        color: white;
+                        font-size: 10px;
+                        font-weight: bold;
+                        line-height: 1;
+                        text-align: center;
+                    }
+
+                    /* .notif-count-mobile {
+                        position: absolute;
+                        top: 82px;
+                        right: 60px;
+                        color: white;
+                        font-size: 9px;
+                        font-weight: bold;
+                        line-height: 1;
+                        text-align: center;
+                    } */
+                </style>
+                                            </div>
+
+            <div class="the-nav">
+                <div class="the-search-full">
+                    <form action="https://www.dapurumami.com/search" method="get">
+                        <div class="search-input">
+                            <input class="inputSearch" type="search" name="q" placeholder="Cari resep favoritmu di sini">
+                            
+                            <label class="btn-search">
+                                <i class="icon fa-solid fa-magnifying-glass"></i>
+                            </label>
+                        </div>
+                    </form>
+                </div>
+                <div class="nav">
+                    <a href="#" class="wrapped-right nav-promo" onclick="if (!window.__cfRLUnblockHandlers) return false; popupCart()">
+                       <img src="https://www.dapurumami.com/web/assets/images/revamp/i-bag-percent.svg" alt="discount"> 
+                    </a>
+
+                    
+                    <a href="https://www.dapurumami.com/me/notification" class="wrapped-right nav-notification">
+                        <i class="icon"><img src="https://www.dapurumami.com/web/assets/images/revamp/i-notif-none.svg" alt="" title="">
+                                                  </i>
+                     </a>
+
+                    <a href="#" class="wrapped-right" onclick="if (!window.__cfRLUnblockHandlers) return false; popupMenu()">
+                       <img src="https://www.dapurumami.com/web/assets/images/revamp/nav-menu-white.svg" alt="menu"> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+   <!-- NEW CONTENT HERE -->
+   <div class="container-fluid main_component resep-detail-page">
+        <div class="main_component-wrp">
+                <section class="topSec">
+        <div class="top">
+            <a href="https://www.dapurumami.com"> <i class="fa fa-home"></i></a>
+            <a href="https://www.dapurumami.com/resep"> <i class="fa fa-angle-right px-1"></i> Resep</a>
+            <i class="fa fa-angle-right px-1"></i> <b>Ebi Furai ala AJI-NO-MOTO®</b>
+        </div>
+    </section>
+
+    <section class="contentWrapper">
+        <h1 class="text-center m-0 py-3">Ebi Furai ala AJI-NO-MOTO®</h1>
+        <div class="imageWrapper  ">
+            <div class="imgWrapped">
+                                <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205.jpg" data-lightbox="image-hero" data-title="Ebi Furai ala AJI-NO-MOTO®"><img data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-1200.webp 1200w" class="lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-400.webp" alt="Ebi Furai ala AJI-NO-MOTO®" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-eee18ddb15913caedc2f120335ec5205-1200.webp 1200w"></a>
+                
+                <div class="heart-container">
+                    <span class="heart " onclick="if (!window.__cfRLUnblockHandlers) return false; bookmark_recipe(this, 10248)">
+                        <i class="far fa-heart"></i>
+                    </span>
+                </div>
+            </div>
+            <div class="row imageDetails py-2 m-0">
+                <div class="col-3 position-relative">
+                    
+                                                                                        
+                        <img class="iconTeruji" src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/terujiUmami.svg" alt="Teruji Umami">
+                    
+                                            <button type="button" class="ic_question" data-bs-toggle="modal" data-bs-target="#modalIcons">
+                            <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_question.svg" alt="info">
+                        </button>
+                                    </div>
+                <div class="col ms-md-auto justify-content-end justify-content-md-end d-flex right align-items-center">
+                    
+                    <div class="ratingStarModaller me-3" id="starContainer" onclick="if (!window.__cfRLUnblockHandlers) return false; modalStar()">
+                                                                            <span class="starModal"><i class="fas fa-star"></i></span>
+                        
+                                                    <span class="starModal"><i class="fas fa-star"></i></span>
+                        
+                                                    <span class="starModal"><i class="fas fa-star"></i></span>
+                        
+                                                    <span class="starModal"><i class="fas fa-star"></i></span>
+                        
+                                                    <span class="starModal"><i class="far fa-star"></i></span>
+                                                <b class="text-black">4.92</b>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    <a class="share" onclick="if (!window.__cfRLUnblockHandlers) return false; modalShare(); mo_event()">
+                        <i class="fa-solid fa-share-nodes"></i>
+                    </a>
+                </div>
+            </div>
+
+            
+            <div class="row bestStatus py-2 m-0">
+                <div class="col-4 each">
+                    <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_time.svg" alt="durasi masak">
+                    <b>30 Menit</b>
+                </div>
+                <div class="col-4 each">
+                    <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_dish.svg" alt="porsi">
+                    <b>4 Porsi</b>
+                </div>
+                <!-- TODO TIDAK ADA DATA UNTUK RASA DI EXISTING DATA -->
+                
+            </div>
+
+
+
+
+            <div class="pilled-yellow">
+                Under Review
+            </div>
+        </div>
+
+        
+        
+                    <div class="contentDetails">
+                <div class="row row-cols-3 row-cols-md-5 my-md-2">
+                    <div class="col pb-2">
+                        <div class="row">
+                            <div class="col-12 col-md-6 d-flex justify-content-md-end p-md-0">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_calory.svg" alt="kalori">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h5>Kalori</h5>
+                                <p>107.8 Kkal</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col pb-2">
+                        <div class="row">
+                            <div class="col-12 col-md-6 d-flex justify-content-md-end p-md-0">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_protein.svg" alt="protein">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h5>Protein</h5>
+                                <p>8.8 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col pb-2">
+                        <div class="row">
+                            <div class="col-12 col-md-6 d-flex justify-content-md-end p-md-0">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_carbs.svg" alt="karbo">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h5>Karbo</h5>
+                                <p>14.3 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col pb-2">
+                        <div class="row">
+                            <div class="col-12 col-md-6 d-flex justify-content-md-end p-md-0">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_fat.svg" alt="lemak">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h5>Lemak</h5>
+                                <p>12.0 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col pb-2">
+                        <div class="row">
+                            <div class="col-12 col-md-6 d-flex justify-content-md-end p-md-0">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/ic_fiber.svg" alt="serat">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h5>Serat</h5>
+                                <p>0.3 gram</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="smallPortionDetails text-md-center my-md-3">
+                    Kandungan tiap satu porsi
+                </p>
+            </div>
+        
+        
+        <div class="aboutFood">
+            <h2 class="text-center font-weight-bold">Tentang Masakan</h2>
+            <p class="paragraph"></p><p>Rasakan kelezatan Ebi Furai Ala AJI-NO-MOTO® yang renyah di luar, lembut di dalam, dan penuh cita rasa umami! Hidangan udang goreng tepung ini cocok jadi camilan atau lauk istimewa untuk keluarga. Dengan tambahan AJI-NO-MOTO®, rasa hidangan semakin gurih dan menggugah selera. Yuk, ikuti resepnya dan buat sendiri di rumah!</p>
+<p>&nbsp;</p>
+<p>Jangan lupa kunjungi <span style="text-decoration: underline; color: #e03e2d;"><strong><a style="color: #e03e2d; text-decoration: underline;" href="../../resep">www.dapurumami.com</a></strong></span> untuk resep-resep lezat lainnya yang bisa bikin masakanmu semakin spesial. Selamat mencoba dan semoga suka!</p><p></p>
+            
+        </div>
+
+        <div class="dynamicContent">
+
+                            
+                <h2 class="mainTitle fw-bold text-md-center my-md-4 text-center text-md-start my-3">
+                    Bahan-Bahan
+                </h2>
+                <div class="row row-cols-1 row-cols-md-4 m-0">
+                                            
+                                                                                                            
+                                <div class="col whiteBg ps-5 py-3 py-md-0 ps-md-0 my-3 my-md-0">
+                            
+                                                                        
+                                    <table class="tableCustomized">
+                                                                                    <tbody><tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    10 ekor udang dengan ekor</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    Tepung roti secukupnya</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    Minyak untuk menggoreng</td>
+                                            </tr>
+                                                                            </tbody></table>
+                                </div><!-- /.col ps-5 py-3 py-md-0 ps-md-0 my-3 my-md-0 -->
+                                                                                    
+                                <div class="col whiteBg ps-5 py-3 py-md-0 ps-md-0 my-3 my-md-0">
+                            
+                                                                            <p class="topTitle">Adonan Tepung Basah</p>
+                                                                        
+                                    <table class="tableCustomized">
+                                                                                    <tbody><tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    2 sdm tepung terigu</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    50 ml susu</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    1 butir telur</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    1 sdt garam</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    ½ sdt AJI-NO-MOTO®</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    ½ sdt lada putih</td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td style="font-weight: inherit !important;">
+                                                    1 sdt bawang putih bubuk</td>
+                                            </tr>
+                                                                            </tbody></table>
+                                </div><!-- /.col ps-5 py-3 py-md-0 ps-md-0 my-3 my-md-0 -->
+                                                            </div>
+            
+            
+            <div class="stepToMake">
+                <h2 class="text-center pt-3">Cara Membuat</h2>
+
+                                    <!-- Youtube -->
+                    <div class="videoContainer">
+                        <div class="gallery_player">
+                            <div class="video-player" data-player-type="youtube" data-player-url="https://youtu.be/LFROV9jXP6A">
+                                <div class="preview" data-js="preview">
+                                    <div class="titleTop">
+                                        Ebi Furai ala AJI-NO-MOTO®
+                                    </div>
+                                    <picture class="image-wrapper">
+                                        <source media="(min-width: 768px)" srcset="https://img.youtube.com/vi/LFROV9jXP6A/hqdefault.jpg">
+                                        <img class="image" src="https://img.youtube.com/vi/LFROV9jXP6A/hqdefault.jpg" alt="Ebi Furai ala AJI-NO-MOTO®">
+                                    </picture>
+                                    <button class="play"></button>
+                                </div>
+
+                                <div data-js="video" data-hidden="true">
+                                    <iframe data-js="video-root" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Ebi Furai ala AJI-NO-MOTO®" width="640" height="390" src="https://www.youtube.com/embed/LFROV9jXP6A?showinfo=0&amp;modestbranding=1&amp;playsinline=1&amp;rel=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.dapurumami.com&amp;widgetid=1&amp;forigin=https%3A%2F%2Fwww.dapurumami.com%2Fresep%2Febi-furai&amp;aoriginsup=1&amp;vf=1" id="widget2" data-gtm-yt-inspected-10="true"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="customizedHR">
+                    <!-- End Youtube -->
+                
+                <div class="row row-cols-1 row-cols-md-2 m-0">
+                                            
+                                                                            <div class="col">
+                                <div class="eachStep row">
+                                    <div class="col-6 d-flex align-items-center justify-content-start">
+                                        <div class="circle">1</div>
+                                    </div>
+                                    <div class="col-6 stepCounter d-flex align-items-center justify-content-end">
+                                        Langkah 1/5
+                                    </div>
+                                                                                                                        <!-- pasang lightbox -->
+                                            <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6.jpg" data-lightbox="image_step" data-title="Langkah 1">
+                                                <img class="my-4 p-0 lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-400.webp" alt="Langkah 1" data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-4172e2a521de53a1053d14d866bf4ec6-1200.webp 1200w">
+                                            </a>
+                                                                                                                <p>Siapkan udang yang sudah di kupas, sayat udang lalu tekan agar udang memanjang dan berbentuk lurus.</p>
+                                </div>
+                            </div>
+                                                                                <div class="col">
+                                <div class="eachStep row">
+                                    <div class="col-6 d-flex align-items-center justify-content-start">
+                                        <div class="circle">2</div>
+                                    </div>
+                                    <div class="col-6 stepCounter d-flex align-items-center justify-content-end">
+                                        Langkah 2/5
+                                    </div>
+                                                                                                                        <!-- pasang lightbox -->
+                                            <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95.jpg" data-lightbox="image_step" data-title="Langkah 2">
+                                                <img class="my-4 p-0 lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-400.webp" alt="Langkah 2" data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-2213aabc1fd0900e7430bfaf0bf7fd95-1200.webp 1200w">
+                                            </a>
+                                                                                                                <p>Membuat adonan tepung: Campurkan tepung terigu, susu, telur, garam, AJI-NO-MOTO®, lada, dan bawang putih bubuk. Aduk hingga tercampur rata</p>
+                                </div>
+                            </div>
+                                                                                <div class="col">
+                                <div class="eachStep row">
+                                    <div class="col-6 d-flex align-items-center justify-content-start">
+                                        <div class="circle">3</div>
+                                    </div>
+                                    <div class="col-6 stepCounter d-flex align-items-center justify-content-end">
+                                        Langkah 3/5
+                                    </div>
+                                                                                                                        <!-- pasang lightbox -->
+                                            <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469.jpg" data-lightbox="image_step" data-title="Langkah 3">
+                                                <img class="my-4 p-0 lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-400.webp" alt="Langkah 3" data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-639e20419b6100233316e53ec8e8f469-1200.webp 1200w">
+                                            </a>
+                                                                                                                <p>Lapisi udang dengan tepung terigu, adonan tepung basah, lalu tepung roti.</p>
+                                </div>
+                            </div>
+                                                                                <div class="col">
+                                <div class="eachStep row">
+                                    <div class="col-6 d-flex align-items-center justify-content-start">
+                                        <div class="circle">4</div>
+                                    </div>
+                                    <div class="col-6 stepCounter d-flex align-items-center justify-content-end">
+                                        Langkah 4/5
+                                    </div>
+                                                                                                                        <!-- pasang lightbox -->
+                                            <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955.jpg" data-lightbox="image_step" data-title="Langkah 4">
+                                                <img class="my-4 p-0 lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-400.webp" alt="Langkah 4" data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-e8710ca888fb3e4e7294bc60f6ae2955-1200.webp 1200w">
+                                            </a>
+                                                                                                                <p>Panaskan minyak dengan api sedang dan goreng udang hingga berwarna kecokelatan.</p>
+                                </div>
+                            </div>
+                                                                                <div class="col">
+                                <div class="eachStep row">
+                                    <div class="col-6 d-flex align-items-center justify-content-start">
+                                        <div class="circle">5</div>
+                                    </div>
+                                    <div class="col-6 stepCounter d-flex align-items-center justify-content-end">
+                                        Langkah 5/5
+                                    </div>
+                                                                                                                        <!-- pasang lightbox -->
+                                            <a href="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41.jpg" data-lightbox="image_step" data-title="Langkah 5">
+                                                <img class="my-4 p-0 lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-400.webp" alt="Langkah 5" data-srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-400.webp 400w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-800.webp 800w, https://www.dapurumami.com/uploads/recipe/ebi-furai-step-fb306c8bb8ef5f89906add407674fc41-1200.webp 1200w">
+                                            </a>
+                                                                                                                <p>Sajikan.</p>
+                                </div>
+                            </div>
+                                                                                        </div>
+            </div>
+            </div>
+
+            <div class="staticContent">
+                
+                <div class="row row-cols-1 row-cols-md-2 m-0">
+                        <div class="col simpleAd ps-4 greenish">
+                            <h2>Sudah Mencoba</h2>
+                            <p>
+                                Bagikan pengalaman saat kamu membuat dan menyantap resep ini,
+                                dan dapatkan Umami coins!
+                            </p>
+
+                            <a href="https://www.dapurumami.com/jurnal-umami/create-post/recook?recipe=ebi-furai" class="a-button-default mt-3"> Tulis Jurnal Umami </a>
+                        </div>
+                        <div class="col simpleAd ps-4 pinky">
+                            <h2>Tantang resep ini</h2>
+                            <p>
+                                Ajak teman untuk memasak resep ini dengan versi dan keunikannya sendiri.
+                            </p>
+
+                            <a href="https://www.dapurumami.com/challenge-recook?recipe=ebi-furai" class="a-button-default mt-3"> Challenge Recook </a>
+                        </div>
+                    </div>
+                
+                
+                
+                
+                
+                 
+
+
+                                    <div class="inspirationRecipe">
+                        <h2 class="text-center font-weight-bold mt-md-3 mb-0">
+                            Inspirasi Resep Lainnya
+                        </h2>
+                        <div class="top4Recipes">
+                            <div class="row row-cols-2 row-cols-md-4">
+                                
+                                                                    <div class="wrappedInfo col">
+
+                                        <div class="bg-white">
+
+                                                                                                <div class="imgPaading">
+                                                                                                    <a href="https://www.dapurumami.com/resep/pergedel-jagung-khas-sumatera-barat-h0bhkrpt" class="transparent">
+                                                        
+
+                                                        <div class="imgWrapper">
+                                                            <img class="lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-400.webp" alt="Pergedel Jagung Khas Sumatera Barat" data-srcset="https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-400.webp 400w, https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-800.webp 800w, https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-400.webp 400w, https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-800.webp 800w, https://www.dapurumami.com/uploads/recipe/pergedel-jagung-khas-sumatera-barat-h0bhkrpt-7ce4714d387c07b53e2b73889d4ac4ac-1200.webp 1200w">
+                                                        </div>  
+
+                                                        
+                                                                                                            </a>
+                                                </div>
+
+
+                                                                                        <div class="content">
+                                                <a href="https://www.dapurumami.com/resep/pergedel-jagung-khas-sumatera-barat-h0bhkrpt" class="inherit">
+                                                    <p class="twoliners">
+                                                        Pergedel Jagung Khas Sumatera Barat
+                                                    </p>
+                                                </a>
+                                                <a href="https://www.dapurumami.com/profile/137813" class="inherit">
+                                                    <div class="by">
+                                                      
+                                                        <div class="photo">
+                                                            <img src="https://www.dapurumami.com/uploads/user/dapurumami-avatar-zurfina-dhian-e944e3d1924676298355f4df76c6aab6-400.webp" alt="" title="">
+                                                        </div>
+                                                        <span>Zurfina Dhian</span>
+                                                    </div>
+                                                </a>
+                                                <div class="bottomListed">
+                                                    <div class="stars">
+                                                        <div class="rating">
+                                                            <span class="star"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none "><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+                                                        </div>
+                                                        <span class="count">4.89</span>
+                                                    </div>
+            
+            
+                                                    <div class="heart-container">
+                                                        <span class="heart  " onclick="if (!window.__cfRLUnblockHandlers) return false; bookmark_recipe(this, 10303) ; toggleHeart()">
+                                                            <i class="fa-solid fa-heart" style="color: #FC5C65;"></i>
+                                                        </span>
+                                                        <span class="count">11</span>
+                                                    </div>
+            
+                                                    <div class="timeWrapper">
+                                                        <img src="https://www.dapurumami.com/web/assets/images/main-assets/i-time.svg" alt="Waktu">
+                                                        <span class="count">30</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                                                    <div class="wrappedInfo col">
+
+                                        <div class="bg-white">
+
+                                                                                                <div class="imgPaading">
+                                                                                                    <a href="https://www.dapurumami.com/resep/sayur-bayam-bening-m2xmzge6" class="transparent">
+                                                        
+
+                                                        <div class="imgWrapper">
+                                                            <img class="lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-400.webp" alt="Sayur bayam bening" data-srcset="https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-400.webp 400w, https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-800.webp 800w, https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-400.webp 400w, https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-800.webp 800w, https://www.dapurumami.com/uploads/recipe/sayur-bayam-bening-m2xmzge6-74bfb94a976063b903308dc13d9fd506-1200.webp 1200w">
+                                                        </div>  
+
+                                                        
+                                                                                                            </a>
+                                                </div>
+
+
+                                                                                        <div class="content">
+                                                <a href="https://www.dapurumami.com/resep/sayur-bayam-bening-m2xmzge6" class="inherit">
+                                                    <p class="twoliners">
+                                                        Sayur bayam bening
+                                                    </p>
+                                                </a>
+                                                <a href="https://www.dapurumami.com/profile/135304" class="inherit">
+                                                    <div class="by">
+                                                      
+                                                        <div class="photo">
+                                                            <img src="https://www.dapurumami.com/uploads/user/dapurumami-avatar-kristin-ayu-rohana-sitorus-01a8239623bdaee7a8e7213e87e9046f-400.webp" alt="" title="">
+                                                        </div>
+                                                        <span>Kristin Ayu Rohana Sitorus</span>
+                                                    </div>
+                                                </a>
+                                                <div class="bottomListed">
+                                                    <div class="stars">
+                                                        <div class="rating">
+                                                            <span class="star"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none "><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+                                                        </div>
+                                                        <span class="count">4.33</span>
+                                                    </div>
+            
+            
+                                                    <div class="heart-container">
+                                                        <span class="heart  " onclick="if (!window.__cfRLUnblockHandlers) return false; bookmark_recipe(this, 10302) ; toggleHeart()">
+                                                            <i class="fa-solid fa-heart" style="color: #FC5C65;"></i>
+                                                        </span>
+                                                        <span class="count">19</span>
+                                                    </div>
+            
+                                                    <div class="timeWrapper">
+                                                        <img src="https://www.dapurumami.com/web/assets/images/main-assets/i-time.svg" alt="Waktu">
+                                                        <span class="count">20</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                                                    <div class="wrappedInfo col">
+
+                                        <div class="bg-white">
+
+                                                                                                <div class="imgPaading">
+                                                                                                    <a href="https://www.dapurumami.com/resep/nugget-pisang-crispy-3siyixlo" class="transparent">
+                                                        
+
+                                                        <div class="imgWrapper">
+                                                            <img class="lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-400.webp" alt="Nugget pisang crispy" data-srcset="https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-400.webp 400w, https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-800.webp 800w, https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-400.webp 400w, https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-800.webp 800w, https://www.dapurumami.com/uploads/recipe/nugget-pisang-crispy-3siyixlo-cb96faf003c1402520f30b4daa79dddd-1200.webp 1200w">
+                                                        </div>  
+
+                                                        
+                                                                                                            </a>
+                                                </div>
+
+
+                                                                                        <div class="content">
+                                                <a href="https://www.dapurumami.com/resep/nugget-pisang-crispy-3siyixlo" class="inherit">
+                                                    <p class="twoliners">
+                                                        Nugget pisang crispy
+                                                    </p>
+                                                </a>
+                                                <a href="https://www.dapurumami.com/profile/117943" class="inherit">
+                                                    <div class="by">
+                                                      
+                                                        <div class="photo">
+                                                            <img src="https://www.dapurumami.com/uploads/user/dapurumami-avatar-sitinurmala-1449463d9c5458fb75f210e4e56c219f-400.webp" alt="" title="">
+                                                        </div>
+                                                        <span>Sitinurmala</span>
+                                                    </div>
+                                                </a>
+                                                <div class="bottomListed">
+                                                    <div class="stars">
+                                                        <div class="rating">
+                                                            <span class="star"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none "><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+                                                        </div>
+                                                        <span class="count">4.79</span>
+                                                    </div>
+            
+            
+                                                    <div class="heart-container">
+                                                        <span class="heart  " onclick="if (!window.__cfRLUnblockHandlers) return false; bookmark_recipe(this, 10299) ; toggleHeart()">
+                                                            <i class="fa-solid fa-heart" style="color: #FC5C65;"></i>
+                                                        </span>
+                                                        <span class="count">17</span>
+                                                    </div>
+            
+                                                    <div class="timeWrapper">
+                                                        <img src="https://www.dapurumami.com/web/assets/images/main-assets/i-time.svg" alt="Waktu">
+                                                        <span class="count">60</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                                                    <div class="wrappedInfo col">
+
+                                        <div class="bg-white">
+
+                                                                                                <div class="imgPaading">
+                                                                                                    <a href="https://www.dapurumami.com/resep/brokoli-kuah-tahu-ayam-uxat25ez" class="transparent">
+                                                        
+
+                                                        <div class="imgWrapper">
+                                                            <img class="lazy entered loaded" src="https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-400.webp" alt="Brokoli Kuah Tahu Ayam" data-srcset="https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-400.webp 400w, https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-800.webp 800w, https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-1200.webp 1200w" data-ll-status="loaded" srcset="https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-400.webp 400w, https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-800.webp 800w, https://www.dapurumami.com/uploads/recipe/brokoli-kuah-tahu-ayam-uxat25ez-88935519add82ba5992f7ef737ae505b-1200.webp 1200w">
+                                                        </div>  
+
+                                                        
+                                                                                                            </a>
+                                                </div>
+
+
+                                                                                        <div class="content">
+                                                <a href="https://www.dapurumami.com/resep/brokoli-kuah-tahu-ayam-uxat25ez" class="inherit">
+                                                    <p class="twoliners">
+                                                        Brokoli Kuah Tahu Ayam
+                                                    </p>
+                                                </a>
+                                                <a href="https://www.dapurumami.com/profile/15506" class="inherit">
+                                                    <div class="by">
+                                                      
+                                                        <div class="photo">
+                                                            <img src="https://www.dapurumami.com/uploads/user/dapurumami-avatar-fettyiik-dffd987dbbc6088eb55a019b06cf2741-400.webp" alt="" title="">
+                                                        </div>
+                                                        <span>Fettyiik</span>
+                                                    </div>
+                                                </a>
+                                                <div class="bottomListed">
+                                                    <div class="stars">
+                                                        <div class="rating">
+                                                            <span class="star"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none "><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+            
+                                                            <span class="star d-none"><i class="fas fa-star"></i></span>
+                                                        </div>
+                                                        <span class="count">4.5</span>
+                                                    </div>
+            
+            
+                                                    <div class="heart-container">
+                                                        <span class="heart  " onclick="if (!window.__cfRLUnblockHandlers) return false; bookmark_recipe(this, 10297) ; toggleHeart()">
+                                                            <i class="fa-solid fa-heart" style="color: #FC5C65;"></i>
+                                                        </span>
+                                                        <span class="count">20</span>
+                                                    </div>
+            
+                                                    <div class="timeWrapper">
+                                                        <img src="https://www.dapurumami.com/web/assets/images/main-assets/i-time.svg" alt="Waktu">
+                                                        <span class="count">15</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                            </div>
+
+            <!-- MODAL RATING  -->
+            <div class="modal fade" id="modalRating" tabindex="-1" aria-labelledby="modalRatingLabel" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body py-5 py-md-5">
+                            <div class="text-center">
+                                <h6>Rating Resep Ini</h6>
+                                <p>Menurut kamu bagaimana rasa resep ini?</p>
+                                <div class="rating">
+                                    <span class="starModalRating" onclick="if (!window.__cfRLUnblockHandlers) return false; rate(1)"><i class="fas fa-star"></i></span>
+                                    <span class="starModalRating" onclick="if (!window.__cfRLUnblockHandlers) return false; rate(2)"><i class="fas fa-star"></i></span>
+                                    <span class="starModalRating" onclick="if (!window.__cfRLUnblockHandlers) return false; rate(3)"><i class="fas fa-star"></i></span>
+                                    <span class="starModalRating" onclick="if (!window.__cfRLUnblockHandlers) return false; rate(4)"><i class="fas fa-star"></i></span>
+                                    <span class="starModalRating" onclick="if (!window.__cfRLUnblockHandlers) return false; rate(5)"><i class="fas fa-star"></i></span>
+                                </div>
+                                <div class="vstack">
+                                    <button class="button-default giveRate my-md-3 my-4" onclick="if (!window.__cfRLUnblockHandlers) return false; send_rate()">
+                                        Berikan Rate
+                                    </button>
+                                    <button class="cancel" data-bs-dismiss="modal">
+                                        Batal
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MODAL STAMPS -->
+            <div class="modal fade" id="modalIcons" tabindex="-1" aria-labelledby="modalIconsLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row text-center">
+                                <div class="col-12">
+                                    <h6>About Umami Stamp</h6>
+                                    <p>Fitur penanda resep-resep pilihan di Dapur Umami agar lebih mudah memilih menu masakan harian.</p>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/redStamp.png" alt="Teruji Umami Merah">
+
+                                    <p class="fw-bold">Teruji Umami</p>
+                                    <p>Resep pilihan dan teruji oleh koki Dapur Umami! Setiap resep ditakar dengan cermat, hadir dengan langkah memasak yang mudah diikuti, dan dilengkapi dengan informasi nilai gizi yang dibutuhkan tubuh.</p>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/greenStamp.png" alt="Teruji Umami Hijau">
+
+                                    <p class="fw-bold">Pilihan Mama</p>
+                                    <p>Resep favorit kiriman member Dapur Umami yang bisa jadi rekomendasi menu masakanmu berikutnya.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section></div>
+    
+            <!-- NEW FOOTER -->
+        </div>
+
+        <!-- footer mobile -->
+<footer class="d-block d-lg-none">
+    <div class="content text-center">
+        <img class="logo" src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png" alt="Dapur Umami">
+        <div class="footerList">
+            <div class="listed">
+                <a href="https://www.dapurumami.com/resep">Resep</a>
+            </div>
+            <div class="listed">
+                <a href="https://www.dapurumami.com/produk">Produk</a>
+            </div>
+            <div class="listed">
+                <a href="https://www.dapurumami.com/campaign">Campaign</a>
+            </div>
+            <div class="listed">
+                <a href="https://www.dapurumami.com/artikel-tips">Artikel &amp; Tips</a>
+            </div>
+            <div class="listed">
+                <a href="https://www.dapurumami.com/promo-event">Promo &amp; Event</a>
+            </div>
+        </div>
+        <div class="socMedWrapper">
+                                                <a href="https://www.facebook.com/dapurumami/" target="_blank" class="wrapped">
+                        <img src="https://www.dapurumami.com/uploads/social_media/facebook-1690001117-logo.svg" alt="Facebook">
+                    </a>
+                                    <a href="https://twitter.com/dapurumami" target="_blank" class="wrapped">
+                        <img src="https://www.dapurumami.com/uploads/social_media/twitter-1695268947-logo-400.webp" alt="Twitter">
+                    </a>
+                                    <a href="https://www.instagram.com/dapurumami.id/" target="_blank" class="wrapped">
+                        <img src="https://www.dapurumami.com/uploads/social_media/instagram-1690001179-logo.svg" alt="Instagram">
+                    </a>
+                                    <a href="https://www.youtube.com/dapurumami" target="_blank" class="wrapped">
+                        <img src="https://www.dapurumami.com/uploads/social_media/youtube-1690001200-logo.svg" alt="YouTube">
+                    </a>
+                                    <a href="https://www.tiktok.com/@dapurumami.id" target="_blank" class="wrapped">
+                        <img src="https://www.dapurumami.com/uploads/social_media/tiktok-1690088606-logo.svg" alt="TikTok">
+                    </a>
+                                    </div>
+        <div class="aboutWrapper">
+            <div class="smaller">
+                <a href="https://www.dapurumami.com/syarat-dan-ketentuan">Syarat &amp; Ketentuan</a>
+            </div>
+            <div class="smaller">
+                <a href="https://www.dapurumami.com/kebijakan-privasi">Kebijakan Privasi</a>
+            </div>
+        </div>
+        <small class="trademark"> Copyright © 2025 PT Ajinomoto Indonesia. All rights reserved. </small>
+    </div>
+</footer>
+<!-- footer desktop -->
+
+
+<footer class="d-none d-lg-block">
+    <div class="container-xxl content">
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-2">
+                <img class="logo" src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png" data-srcset="https://www.dapurumami.com/web/assets/images/main-assets/logo.png 400w, https://www.dapurumami.com/web/assets/images/main-assets/logo.png 800w, https://www.dapurumami.com/web/assets/images/main-assets/logo.png 1200w" alt="logo">
+            </div>
+            <div class="col-10">
+                <div class="vstack">
+                    <div class="cols">
+                        <div class="links">
+                         <a href="https://www.dapurumami.com/resep">Resep</a>
+                        <a href="https://www.dapurumami.com/produk">Produk</a>
+                        <a href="https://www.dapurumami.com/campaign">Campaign</a>
+                        <a href="https://www.dapurumami.com/artikel-tips">Artikel &amp; Tips</a>
+                        <a href="https://www.dapurumami.com/promo-event">Promo &amp; Event</a>
+                        </div>
+                        
+                        <div class="aboutWrapper">
+                            <a href="https://www.dapurumami.com/syarat-dan-ketentuan">Syarat &amp; Ketentuan</a>
+                            <a href="https://www.dapurumami.com/kebijakan-privasi">Kebijakan Privasi</a>
+                            
+                        </div>
+                        <small class="trademark">
+                            Copyright © 2025 
+                            PT Ajinomoto Indonesia. All rights reserved. 
+                        </small>
+                        <div class="socMedWrapper">
+                                                                                                 <a href="https://www.facebook.com/dapurumami/" target="_blank" class="wrapped">
+                                        <img src="https://www.dapurumami.com/uploads/social_media/facebook-1690001117-logo.svg" alt="Facebook">
+                                    </a>
+                                                                    <a href="https://twitter.com/dapurumami" target="_blank" class="wrapped">
+                                        <img src="https://www.dapurumami.com/uploads/social_media/twitter-1695268947-logo-400.webp" alt="Twitter">
+                                    </a>
+                                                                    <a href="https://www.instagram.com/dapurumami.id/" target="_blank" class="wrapped">
+                                        <img src="https://www.dapurumami.com/uploads/social_media/instagram-1690001179-logo.svg" alt="Instagram">
+                                    </a>
+                                                                    <a href="https://www.youtube.com/dapurumami" target="_blank" class="wrapped">
+                                        <img src="https://www.dapurumami.com/uploads/social_media/youtube-1690001200-logo.svg" alt="YouTube">
+                                    </a>
+                                                                    <a href="https://www.tiktok.com/@dapurumami.id" target="_blank" class="wrapped">
+                                        <img src="https://www.dapurumami.com/uploads/social_media/tiktok-1690088606-logo.svg" alt="TikTok">
+                                    </a>
+                                                                                                                                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- comunity -->
+<div class="communityHidden">
+    <div class="communityHidden__wrp">
+        <ul>
+            <li>
+                <a href=""></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- product popup -->
+<div class="productbuyHidden">
+    <a class="abs-transparent" href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; closePopupCustomCard()"></a>
+    <div class="productbuyHidden__wrp">
+        <div class="navigation-close">
+            <!-- <span>Menu</span> -->
+            <button class="closeButton" onclick="if (!window.__cfRLUnblockHandlers) return false; closePopupCustomCard()">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+
+        <div class="list-store">
+            <div class="row" id="marketplace-wrapper">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- cart -->
+<div class="thePopup cartHidden">
+    <div class="thePopup__wrp">
+        <div class="navigation-close">
+            <!-- <span>Menu</span> -->
+            <button class="closeButton" onclick="if (!window.__cfRLUnblockHandlers) return false; popupCart()">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+        <div class="list-store" style="padding-top: 1.5rem;">
+
+              <div class="row" id="marketplace-wrapper">
+                                           
+                    <div class="col-6">
+
+                                                <a href="https://tokopedia.link/Nlpzfz1zDPb" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://tokopedia.link/Nlpzfz1zDPb', 'Tokopedia')">
+                                                    <div class="insider tokopedia">
+                                <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/tokopedia.svg" alt="Tokopedia">
+
+                                
+                                <p>
+                                                                            <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/tokopedia_official.svg" alt="Official Store">
+                                                                        Ajinomoto<br>Official Store
+
+                                    
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                              
+                    <div class="col-6">
+
+                                                <a href="https://shopee.co.id/ajinomoto.id" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://shopee.co.id/ajinomoto.id', 'Shopee')">
+                                                    <div class="insider tokopedia">
+                                <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/shopee.svg" alt="Shopee">
+
+                                
+                                <p>
+                                                                            <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/shopee_official.svg" alt="Shopee Mall">
+                                                                        Ajinomoto<br>Official Shop
+
+                                    
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                              
+                    <div class="col-6">
+
+                                                <a href="https://www.lazada.co.id/shop/ajinomoto/" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://www.lazada.co.id/shop/ajinomoto/', 'Lazada')">
+                                                    <div class="insider tokopedia">
+                                <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/lazada.svg" alt="Lazada">
+
+                                
+                                <p>
+                                                                            <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/lazada_official.svg" alt="LazMall Flagship Store">
+                                                                        Ajinomoto<br>Official Store
+
+                                    
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                              
+                    <div class="col-6">
+
+                                                <a href="https://vt.tiktok.com/ZS2UVeacM/?page=Mall" target="_blank" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigationMkp('Navigation Menu - Shop', 'https://vt.tiktok.com/ZS2UVeacM/?page=Mall', 'TikTok')">
+                                                    <div class="insider tokopedia">
+                                <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/Tiktok_Logo_2.svg" alt="TikTok">
+
+                                
+                                <p>
+                                                                            <img src="https://www.dapurumami.com/web/assets/images/home-page-assets/Tiktok.svg" alt="BukaMall">
+                                                                        TikTok Rahasia Koki Rumahan
+
+                                    
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                            
+            </div>
+        </div>
+    </div>
+</div>
+<!-- nav / menu -->
+<div class="menuHidden">
+    <div class="menuHidden__wrp">
+        <!-- area -->
+        <div class="navigation-close">
+            <span>Menu</span>
+            <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; popupMenu()">
+                <img class="menuImg" src="https://www.dapurumami.com/web/assets/images/revamp/i-close-black.svg" alt="menu">
+            </a>
+        </div>
+                  <!-- badge profile status not login -->
+        <div class="badge-profile">
+            <div class="badge-wrp">
+                <div class="badge-photo">
+                    <img src="https://www.dapurumami.com/web/assets/images/revamp/i-user.svg">
+                </div>
+                <div class="badge-information">
+                    <div class="profile">
+                        <a href="https://www.dapurumami.com/login" class="btn btn--outline-red btn--inline btn--rounded">
+                            <div class="btn__wrp justify-content-center">
+                                <span>Login/Daftar</span>
+                            </div>
+                        </a>
+                    </div>
+                    <i class="icon fa-solid fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+
+        
+         <!-- navigation -->
+        <ul class="navigation">
+            
+            <li>
+                <a href="https://www.dapurumami.com/campaign">Campaign</a>
+            </li>
+            <li>
+                <a href="https://www.dapurumami.com/artikel-tips">Article &amp; Tips</a>
+            </li>
+            <li>
+                <a href="https://www.dapurumami.com/promo-event">Promo &amp; Event</a>
+            </li>
+
+
+            <li>
+                <a href="https://www.dapurumami.com/tukar-umami-coins">Tiering XP Point</a>
+            </li>
+            <li>
+                <a href="https://www.dapurumami.com/prosedur-umami-coins">Prosedur Umami Coins</a>
+            </li>
+        </ul>
+        
+    </div>
+</div>
+<!-- add -->
+<div class="thePopup addHidden">
+    <div class="thePopup__wrp">
+        <div class="navigation-close">
+            <span>Menu</span>
+            <button class="closeButton" onclick="if (!window.__cfRLUnblockHandlers) return false; popupAdd()">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+        <!-- navigation -->
+        <ul class="navigation">
+            <li>
+                <a href="https://www.dapurumami.com/me/resep-upload" class="link-with-icon">
+                    <i class="icon">
+                        <img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-resep.svg" alt="Tambah resep" title="tambah resep">
+                    </i>
+                    <span>Tambah Resep</span>
+                    <i class="icon icon--absolute fa-solid fa-plus"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.dapurumami.com/jurnal-umami/create-post" class="link-with-icon">
+                    <i class="icon">
+                        <img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-jurnal.svg" alt="" title="">
+                    </i>
+                    <span>Tulis Jurnal</span>
+                    <i class="icon icon--absolute fa-solid fa-plus"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.dapurumami.com/tanya-nutri-expert/create-post" class="link-with-icon">
+                    <i class="icon">
+                        <img src="https://www.dapurumami.com/web/assets/images/revamp/i-img-tanya.svg" alt="" title="">
+                    </i>
+                    <span>Tanya NutriExpert</span>
+                    <i class="icon icon--absolute fa-solid fa-plus"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- sticky footer -->
+<footer class="stickyFoot">
+    <a href="https://www.dapurumami.com" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Homepage', 'https://www.dapurumami.com')" class="">
+        <div class="smaller">
+            <i class="icon icon--home"></i>
+            <span>Beranda</span>
+        </div>
+    </a>
+    <a href="https://www.dapurumami.com/resep" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Recipe', 'https://www.dapurumami.com/resep')" class="active">
+        <div class="smaller">
+            <i class="icon icon--resep"></i>
+            <span>Resep</span>
+        </div>
+    </a>
+    <div class="smaller addButton" onclick="if (!window.__cfRLUnblockHandlers) return false; popupAdd();">
+        <span>
+            <i class="icon fa-solid fa-plus"></i>
+        </span>
+    </div>
+    <a href="https://www.dapurumami.com/jurnal-umami" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Community', 'https://www.dapurumami.com/jurnal-umami', 'Jurnal Umami')" class="">
+        <div class="smaller">
+            <i class="icon icon--jurnal"></i>
+            <span>Jurnal</span>
+        </div>
+    </a>
+    <a href="https://www.dapurumami.com/tanya-nutri-expert" onclick="if (!window.__cfRLUnblockHandlers) return false; moengageNavigation('Navigation Menu - Community', 'https://www.dapurumami.com/tanya-nutri-expert', 'Tanya NutriExpert')" class="">
+        <div class="smaller">
+            <i class="icon icon--nutriexpert"></i>
+            <span>NutriExpert</span>
+        </div>
+    </a>
+</footer>        <!-- END NEW FOOTER -->
+
+   
+   <!-- END NEW CONTENT HERE -->
+
+    <!-- MODAL SHARE -->
+    <div class="modal fade" id="modalShare" tabindex="-1" aria-labelledby="modalShareLabel" aria-hidden="true">
+        <div class="modal-dialog modal-md modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body py-5 py-md-5">
+                    <div class="text-center">
+                        <h6 style="font-size: 20px;">Share</h6>
+                        <p>Bagi dan rekomendasikan ini ke teman-temanmu!</p>
+                        <div class="hstack mt-4 justify-content-md-center" style="justify-content: center !important;">
+                            <a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; share_to_facebook()">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/facebookShare.svg" alt="Share to Facebook" style="margin: 0 10px; width: 75%;">
+                            </a>
+                            <a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; share_to_x()">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/twitterShare.svg" alt="Share to X" style="margin: 0 10px; width: 75%;">
+                            </a>
+                            <a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; share_to_whatsapp()">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/whatsappShare.svg" alt="Share to Whatsapp" style="margin: 0 10px; width: 75%;">
+                            </a>
+                            <a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; share_link()">
+                                <img src="https://www.dapurumami.com/web/assets/images/resep-mama-assets/linkShare.svg" alt="Share link" style="margin: 0 10px; width: 75%;">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous" type="text/javascript"></script>
+    <script src="https://www.dapurumami.com/web/styles/bootstrap-5.3.0/dist/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+
+
+
+
+
+    <script type="text/javascript">
+        // MAKE SUGGESTIONS HISTORY SHOW ON FOCUS!
+        let isSearchInputFocused = false;
+        let isDropdownActive = false;
+
+        let prevScrollPos = window.pageYOffset;
+        function handleScroll() {
+          var currentScrollPos = window.pageYOffset;
+          if (prevScrollPos > currentScrollPos) {
+            $(".dropdown-menu.show").removeClass("show");
+            //$(".sticky-header").removeClass("nav-scroll");
+            //$(".main_component").removeClass('nav-scroll');
+
+            // if ($(window).width() > 992) {
+            //   $(".sticky-header-desktop").removeClass("nav-scroll");
+            //   $(".main_component").removeClass('nav-scroll');
+            // } else {
+            //   $(".sticky-header").removeClass("nav-scroll");
+            //   $(".main_component").removeClass('nav-scroll');
+            // }
+            // if ($(window).width() > 768) {
+            //   $(".sticky-header-desktop").removeClass("hidden");
+            // } else {
+            //   $(".sticky-header").removeClass("hidden");
+            // }
+          } else {
+            $(".dropdown-menu.show").removeClass("show");
+            //$(".sticky-header").addClass("nav-scroll");
+            //$(".main_component").addClass('nav-scroll');
+            
+            // if ($(window).width() > 992) {
+            //   $(".sticky-header-desktop").addClass("nav-scroll");
+            //   $(".main_component").addClass('nav-scroll');
+            // } else {
+            //   $(".sticky-header").addClass("nav-scroll");
+            //   $(".main_component").addClass('nav-scroll');
+            // }
+            //if ($(window).width() > 768) {
+            //  $(".sticky-header-desktop").addClass("hidden");
+            //} else {
+            //  $(".sticky-header").addClass("hidden");
+            //}
+          }
+          prevScrollPos = currentScrollPos;
+        }
+
+
+        function headerScroll() {
+
+          var heightHeader = document.getElementById('header');
+
+          if ((window.pageYOffset > heightHeader.offsetHeight) && $(window).width() <= 992) {
+
+            $(".sticky-header").addClass("nav-scroll");
+            $(".main_component").addClass('nav-scroll');
+          }else {
+
+            $(".sticky-header").removeClass("nav-scroll");
+            $(".main_component").removeClass('nav-scroll');
+          }
+        }
+
+        window.onscroll = function() {
+          headerScroll();
+        };
+
+        $(document).ready(function() {
+            prevScrollPos = window.pageYOffset;
+
+            $(window).on("scroll", handleScroll);
+            $(window).on("resize", function() {
+                handleScroll();
+            });
+
+            $("#form_search").on('submit', function(e) {
+                // e.preventDefault();
+                add_recent_search();
+            });
+
+            $("#searchHeader").focus(function() {
+                if (!isDropdownActive) {
+                    $("#dropdownSearch").show();
+                    if ($(window).width() > 768) {} else {
+                        $("body").addClass("disabledOverflow");
+                    }
+                }
+            });
+
+            $("#searchHeader").on("focusout", function() {
+                if (!isDropdownActive) {
+                    $("body").removeClass("disabledOverflow");
+                    $("#dropdownSearch").hide();
+                }
+            });
+
+            $("#searchHeader").on("blur", function() {
+                isSearchInputFocused = false;
+                setTimeout(() => {
+                    if (!isSearchInputFocused && !isDropdownActive) {
+                        $("#dropdownSearch").hide();
+                    }
+                }, 300);
+            });
+
+            $("#filterWrapper").on("hover", function(e) {
+                e.preventDefault();
+                $("#searchHeader").focus();
+                $("#dropdownSearch").show();
+            });
+
+            // Event handler for suggestion click
+            $("#dropdownSearch").on("click", ".dropdown-item", function() {
+                const suggestionText = $(this).text();
+                $("#searchHeader").val(suggestionText);
+                isDropdownActive = true;
+            });
+
+            // Event handler for mouse enter on dropdown
+            $("#dropdownSearch").on("mouseenter", function() {
+                isDropdownActive = true;
+            });
+
+            $("#dropdownSearch").on("mouseleave", function() {
+                isDropdownActive = false;
+            });
+
+            // Event handler for suggestion click
+            $("#dropdownSearch").on("click", ".dropdown-item", function() {
+                const suggestionText = $(this).text();
+                $("#searchHeader").val(suggestionText);
+                isDropdownActive = true;
+            });
+
+            $("#dropdownSearch").on("hover", function(e) {
+                $("#searchHeader").focus();
+                $("#dropdownSearch").show();
+                console.log("on Hover");
+            });
+
+            $("#dropdownSearch").on("click", function(e) {
+                $("#searchHeader").focus();
+                $("#dropdownSearch").show();
+            });
+
+            // COOKIE FOR SEARCH
+
+            // Load history from cookies
+            var history = getHistoryFromCookies();
+            if (history && history !== "") {
+                populateHistoryList(history);
+            }
+        });
+
+        function add_recent_search() {
+            var itemText = $("#searchHeader").val().trim();
+            if (itemText !== "") {
+                // Check item nya sudah ada di history ga
+                if (isItemInHistory(itemText)) {
+                    console.log("Item already exists in history");
+                    return true;
+                }
+
+                var uniqid = Date.now();
+                var listItem = $("<li id='search_history-" + uniqid + "'>");
+                var removeButton = $("<button>")
+                    .addClass("removeButton")
+                    .html('<i class="fas fa-times" onclick="removeFromHistoryCookies(\'' + itemText + '\', ' + uniqid +
+                        ')"></i>');
+                var itemTextNode = $("<span>").addClass("itemText").text(itemText);
+                listItem.append(removeButton, itemTextNode);
+                $("#historyList").prepend(listItem);
+
+                // masukkin ke cookies
+                addToHistoryCookies(itemText);
+                manageHistoryLimit();
+
+                return true;
+            }
+            return false;
+        }
+
+        // Function to get history from cookies
+        function getHistoryFromCookies() {
+            var cookies = document.cookie.split(";");
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.startsWith("history=")) {
+                    return decodeURIComponent(cookie.substring("history=".length));
+                }
+            }
+            return "";
+        }
+
+        // Function to add item to cookies
+        function addToHistoryCookies(itemText) {
+            var history = getHistoryFromCookies();
+            var items = history.split(",");
+            if (items.length >= 5) {
+                // Remove the oldest item if the history is already full
+                items.shift();
+            }
+            items.push(itemText);
+            if (items.length > 1) {
+                history = items.join(",");
+            } else {
+                history = itemText;
+            }
+            setCookie("history", history, 7);
+        }
+
+        // Function to remove item from cookies
+        function removeFromHistoryCookies(itemText, option_no = "") {
+            var history = getHistoryFromCookies();
+            var items = history.split(",");
+            var index = items.findIndex(function(item) {
+                return item.trim() === itemText.trim();
+            });
+
+            if (index !== -1) {
+                items.splice(index, 1);
+                history = items.join(",");
+                if (history !== "") {
+                    setCookie("history", history, 7);
+                } else {
+                    deleteCookie("history");
+                }
+
+                if (option_no != '') {
+                    $('#search_history-' + option_no).remove();
+                }
+            } else {
+                alert("Item not found in history");
+            }
+        }
+
+        // Function to set a cookie with expiration days
+        function setCookie(name, value, days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + encodeURIComponent(value) + expires + "; path=/";
+        }
+
+        // Function to delete a cookie
+        function deleteCookie(name) {
+            document.cookie = name + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+        }
+
+        // Function to populate history list from a string
+        function populateHistoryList(history) {
+            var items = history.split(",");
+            var historyList = $("#historyList");
+            var i = 1;
+            items.forEach(function(itemText) {
+                if (itemText.length > 0) {
+                    var listItem = $("<li id='search_history-" + i + "'>");
+                    var removeButton = $("<button>")
+                        .addClass("removeButton")
+                        .html('<i class="fas fa-times" onclick="removeFromHistoryCookies(\'' + itemText + '\', ' + i +
+                            ')"></i>');
+                    var itemTextNode = $("<a href='https://www.dapurumami.com/search?q=" + itemText + "'>")
+                        .addClass("itemText")
+                        .text(itemText);
+                    listItem.append(removeButton, itemTextNode);
+                    historyList.prepend(listItem);
+                }
+                i++;
+            });
+        }
+
+        // Function to check if an item is already in history
+        function isItemInHistory(itemText) {
+            var history = getHistoryFromCookies();
+            var items = history.split(",");
+            return items.includes(itemText);
+        }
+
+        // Function to manage history limit
+        function manageHistoryLimit() {
+            var history = getHistoryFromCookies();
+            var items = history.split(",");
+            if (items.length > 5) {
+                items.splice(0, items.length - 5);
+                history = items.join(",");
+                setCookie("history", history, 7);
+            }
+        }
+
+        // END COOKIE FOR SEARCH
+
+
+        const popupCommunity = () => {
+            const communityHidden = $(".communityHidden");
+            const menuHidden = $(".menuHidden");
+            const cartHidden = $(".cartHidden");
+
+            const imgElement = $(".communityImg");
+            const imgElement2 = $(".menuImg");
+            const imgElement3 = $(".cartImg");
+
+            if (communityHidden.hasClass("active")) {
+                $("body").removeClass("disabledOverflow");
+                communityHidden.addClass("fadeOut");
+                setTimeout(() => {
+                    communityHidden.removeClass("active fadeOut");
+                    imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/community.svg");
+                }, 500);
+            } else {
+                menuHidden.removeClass("active fadeOut");
+                cartHidden.removeClass("active fadeOut");
+                imgElement2.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/menuBurger.svg");
+                imgElement3.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/cart.svg");
+
+                communityHidden.removeClass("fadeOut");
+                communityHidden.addClass("active");
+                imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/close_red.svg");
+            }
+        };
+
+        const popupCart = () => {
+            const cartHidden = $(".cartHidden");
+            const communityHidden = $(".communityHidden");
+            const menuHidden = $(".menuHidden");
+
+            const imgElement = $(".cartImg");
+            const imgElement2 = $(".communityImg");
+            const imgElement3 = $(".menuImg");
+
+            if (cartHidden.hasClass("active")) {
+                $("body").removeClass("disabledOverflow");
+
+                cartHidden.addClass("fadeOut");
+                setTimeout(() => {
+                    cartHidden.removeClass("active fadeOut");
+                    imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/cart.svg");
+                }, 500);
+            } else {
+                menuHidden.removeClass("active fadeOut");
+                communityHidden.removeClass("active fadeOut");
+
+                imgElement2.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/community.svg");
+                imgElement3.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/menuBurger.svg");
+
+                cartHidden.removeClass("fadeOut");
+                cartHidden.addClass("active");
+                imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/close_red.svg");
+            }
+        };
+        const popupMenu = () => {
+            const menuHidden = $(".menuHidden");
+            const communityHidden = $(".communityHidden");
+            const cartHidden = $(".cartHidden");
+
+            const imgElement = $(".menuImg");
+            const imgElement2 = $(".communityImg");
+            const imgElement3 = $(".cartImg");
+
+            if (menuHidden.hasClass("active")) {
+                $(".sticky-header").removeClass("hidden");
+                $("body").removeClass("disabledOverflow");
+                menuHidden.addClass("fadeOut");
+                setTimeout(() => {
+                    menuHidden.removeClass("active fadeOut");
+                    imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/menuBurger.svg");
+                }, 500);
+            } else {
+                $(".sticky-header").addClass("hidden");
+                $("body").addClass("disabledOverflow");
+                communityHidden.removeClass("active fadeOut");
+                cartHidden.removeClass("active fadeOut");
+                imgElement2.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/community.svg");
+                imgElement3.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/cart.svg");
+
+                menuHidden.removeClass("fadeOut");
+                menuHidden.addClass("active");
+                imgElement.attr("src", "https://www.dapurumami.com/web/assets/images/main-assets/close_red.svg");
+            }
+        };
+
+
+          /*popup add */
+        const popupAdd = () => {
+            const addHidden = $(".addHidden");
+            const menuHidden = $(".menuHidden");
+            const cartHidden = $(".cartHidden");
+            
+            
+            if (addHidden.hasClass("active")) {
+              $("body").removeClass("disabledOverflow");
+              addHidden.addClass("fadeOut");
+              setTimeout(() => {
+                addHidden.removeClass("active fadeOut");
+              }, 500);
+            } else {
+              $("body").addClass("disabledOverflow");
+              menuHidden.removeClass("active fadeOut");
+              cartHidden.removeClass("active fadeOut");
+              
+              addHidden.removeClass("fadeOut");
+              addHidden.addClass("active");
+            }
+          };
+
+
+    </script>
+
+    <script type="text/javascript">
+        var on_load_online_store = false;
+        var on_load_online_store_id = 0;
+
+        const popupCustomCard = (id) => {
+            if (on_load_online_store) {
+                console.log('Please wait...');
+                return false;
+            }
+
+            const popUpCustomCard = $(".productbuyHidden");
+
+            if (popUpCustomCard.hasClass("active") && on_load_online_store_id == id) {
+                $("body").removeClass("disabledOverflow");
+
+                popUpCustomCard.addClass("fadeOut");
+                setTimeout(() => {
+                    popUpCustomCard.removeClass("active fadeOut");
+                }, 500);
+            } else {
+                $.ajax({
+                        type: 'GET',
+                        url: "https://www.dapurumami.com/produk/online-store?id=" + id,
+                        beforeSend: function() {
+                            // do something before send the data
+                            on_load_online_store = true;
+                            on_load_online_store_id = id;
+                        },
+                    })
+                    .done(function(response) {
+                        // Callback handler that will be called on success
+                        if (typeof response != 'undefined') {
+                            if (response.status == "true") {
+                                var html = '';
+
+                                $.each(response.data, function(index, value) {
+                                    
+                                    html += '<div class="col-6">';
+                                    html += '<a href="' + value.url + '" target="_blank"  onclick="mo_product_varian('+value.product_id+',\''+value.name+'\', \''+value.url+'\')"';
+                                    if (value.script_onclick != null) {
+                                        html += 'onclick="' + value.script_onclick + '"';
+                                    }
+                                    html += '>';
+                                    html += '<div class="insider ' + value.slug + '">';
+                                    html += '<img src="https://www.dapurumami.com/' + value.logo + '" alt="' +
+                                        value.name + '" />';
+                                    html += '<p>';
+                                    if (value.status_logo != null && value.status_name != null) {
+                                        html += '<img src="https://www.dapurumami.com/' + value.status_logo +
+                                            '" alt="' + value.status_name + '" />';
+                                    }
+                                    html += value.store_name;
+                                    html += '</p>';
+                                    html += '</div>';
+                                    html += '</a>';
+                                    html += '</div>';
+                                });
+
+                                $('#marketplace-wrapper').html(html);
+
+                                popUpCustomCard.removeClass("fadeOut");
+                                popUpCustomCard.addClass("active");
+                            } else {
+                                alert("Error: " + response.message);
+                            }
+                        } else {
+                            alert('Server not respond, please try again.');
+                        }
+                    })
+                    .fail(function(jqXHR, textStatus, errorThrown) {
+                        // Callback handler that will be called on failure
+
+                        // Log the error to the console
+                        console.error("The following error occurred: " + textStatus, errorThrown);
+
+                        alert("The following error occurred: " + textStatus + "\n" + errorThrown);
+                    })
+                    .always(function() {
+                        // Callback handler that will be called regardless
+                        // if the request failed or succeeded
+                        on_load_online_store = false;
+                    });
+            }
+        };
+
+        function closePopupCustomCard() {
+            const popUpCustomCard = $(".productbuyHidden");
+
+            if (popUpCustomCard.hasClass("active")) {
+                $("body").removeClass("disabledOverflow");
+
+                popUpCustomCard.addClass("fadeOut");
+                setTimeout(() => {
+                    popUpCustomCard.removeClass("active fadeOut");
+                }, 500);
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var scrollThreshold = 500; // Set the scroll threshold value here (in pixels)
+
+            $(window).scroll(function() {
+                var scrollPosition = $(window).scrollTop();
+
+                if (scrollPosition > scrollThreshold) {
+                    $("#scrollToTopButton").css("opacity", "1");
+                } else {
+                    $("#scrollToTopButton").css("opacity", "0");
+                }
+            });
+
+            $("#scrollToTopButton").click(function() {
+                $("html, body").animate({
+                    scrollTop: 0
+                }, "fast");
+            });
+
+             if ($(window).width() <= 768) {
+                 $('.dropdstart').removeClass('dropstart');
+            } else {
+                $('.dropdstart').addClass('dropstart');
+            }
+        });
+
+        function follow_user(user_id) {
+            $.ajaxSetup({
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            });
+
+            $.ajax({
+                type: 'POST',
+                url: "https://www.dapurumami.com/me/follow",
+                data: {
+                    id: user_id
+                },
+                beforeSend: function() {
+
+                },
+                success: function(response) {
+                    if (response.status == 'true') {
+
+                        if(response.response.follow == '1') {
+                            $('.follow-status').html('Un-follow')
+                            $('#follow-status').html(response.response.message)
+                        } else {
+                            $('.follow-status').html('Follow')
+                            $('#follow-status').html(response.response.message)
+            
+                        }
+
+                        $('.keuntunganHidden').addClass('active')
+
+
+                    } else if (response.status == 401) {
+                        window.location.replace(response.data);
+                    } else {
+                        alert_modal("Terjadi Kesalahan", response.message, 0, 'Tutup');
+                    }
+                },
+                error: function(data, textStatus, errorThrown) {
+                    // hide_loading();
+                    console.log(data);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+                    alert(textStatus + ': ' + errorThrown);
+                }
+            });
+        }
+
+        function bookmark_recipe(elm, recipe_id) {
+            $.ajaxSetup({
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            });
+
+            $.ajax({
+                type: 'POST',
+                url: "https://www.dapurumami.com/me/bookmark",
+                data: {
+                    recipe_id: recipe_id
+                },
+                beforeSend: function() {
+
+                },
+                success: function(response) {
+                    if (response.status == 'true') {
+                        if (response.data == 'added') {
+                            $(elm).html('<i class="fas fa-heart"></i>'); // Toggled heart
+                            $(elm).addClass('toggled');
+                        } else {
+                            $(elm).html('<i class="far fa-heart"></i>'); // Non-toggled heart
+                            $(elm).removeClass('toggled');
+                        }
+                    } else if (response.status == 401) {
+                        window.location.replace(response.data);
+                    } else {
+                        alert_modal("Terjadi Kesalahan", response.message, 0, 'Tutup');
+                    }
+
+
+
+                    Moengage.track_event("Recipe - Like Recipe", {
+                        "current_page": window.location.href,
+                        "recipe_id": recipe_id
+                    });
+
+
+
+                },
+                error: function(data, textStatus, errorThrown) {
+                    console.log(data);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+                    alert(textStatus + ': ' + errorThrown);
+                }
+            });
+        }
+    </script>
+
+    <script type="text/javascript">
+        var shareUrl = removeURLParameter(window.location.href, 'thankyou');
+        shareUrl = removeURLParameter(shareUrl, 'type');
+
+        function removeURLParameter(url, parameter) {
+            //prefer to use l.search if you have a location/link object
+            var urlparts = url.split('?');
+            if (urlparts.length >= 2) {
+
+                var prefix = encodeURIComponent(parameter) + '=';
+                var pars = urlparts[1].split(/[&;]/g);
+
+                //reverse iteration as may be destructive
+                for (var i = pars.length; i-- > 0;) {
+                    //idiom for string.startsWith
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1) {
+                        pars.splice(i, 1);
+                    }
+                }
+
+                return urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : '');
+            }
+            return url;
+        }
+
+        // CALL MODAL SHARE
+        function modalShare(url = '') {
+            $("#modalShare").modal("show");
+
+            if (url != '') {
+                shareUrl = url;
+            }
+        }
+
+        function share_to_facebook() {
+            var w = 700;
+            var h = 400;
+            var x = Number((window.screen.width - w) / 2);
+            var y = Number((window.screen.height - h) / 2);
+            if (shareUrl == '') {
+                shareUrl = window.location.href;
+            }
+            var shareWindow = window.open(
+                "https://www.facebook.com/sharer/sharer.php?u=" + shareUrl,
+                "Facebook",
+                "width=" +
+                w +
+                ",height=" +
+                h +
+                ",left=" +
+                x +
+                ",top=" +
+                y +
+                ",scrollbars=no"
+            );
+        }
+
+        function share_to_x() {
+            var w = 700;
+            var h = 400;
+            var x = Number((window.screen.width - w) / 2);
+            var y = Number((window.screen.height - h) / 2);
+            if (shareUrl == '') {
+                shareUrl = window.location.href;
+            }
+            shareUrl = encodeURIComponent(shareUrl);
+            var shareWindow = window.open(
+                "https://twitter.com/intent/tweet?url=" + shareUrl,
+                "Twitter",
+                "width=" +
+                w +
+                ",height=" +
+                h +
+                ",left=" +
+                x +
+                ",top=" +
+                y +
+                ",scrollbars=no"
+            );
+        }
+
+        function share_to_whatsapp() {
+            if (shareUrl == '') {
+                shareUrl = window.location.href;
+            }
+            window.location.replace("whatsapp://send?text=" + shareUrl);
+        }
+
+        function share_link() {
+            if (shareUrl == '') {
+                shareUrl = window.location.href;
+            }
+            window.prompt("Copy to clipboard: Ctrl+C, Enter", shareUrl);
+        }
+    </script>
+
+    <script type="text/javascript">
+        function track(url, remarks, is_header = 0) {
+            $.ajax({
+                url: "https://www.dapurumami.com/helper/track",
+                method: 'POST',
+                data: {
+                    '_token': "hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV",
+                    'url': url,
+                    'remarks': remarks,
+                    'is_header': is_header
+                },
+                success: function(response) {
+                    console.log(response);
+                },
+                error: function(error) {
+                    console.error("Error:", error);
+                }
+            });
+        }
+    </script>
+
+    <script type="text/javascript">
+        function moengageProduct(product_id, mkp_name) {
+
+            if (product_id == 0) {
+                Moengage.track_event('Navigation Menu - Shop', {
+                    "current_page": window.location.href,
+                    "mkp_label": mkp_name
+                });
+            } else {
+                Moengage.track_event("Product - View Product on Marketplace", {
+                    "current_page": window.location.href,
+                    "product_id" : product_id,
+                    "mkp_name" : mkp_name
+                });
+            }
+        }
+
+        function moengageNavigation(event, link, label) {
+            Moengage.track_event(event, {
+                "current_page": link,
+                "menu_label": label
+            });
+        }
+        function moengageNavigationMkp(event, link, label) {
+            Moengage.track_event(event, {
+                "current_page": link,
+                "mkp_label": label
+            });
+        }
+
+
+        function logout() {
+             Moengage.track_event('Profile - Logout', {
+                "current_page": window.location.href
+            });
+        }
+
+    </script>
+
+    <script type="text/javascript">
+    
+    
+    
+    
+    
+
+     
+
+    
+
+    
+
+    </script>
+
+
+
+
+<div class="modal fade" id="globalModal" tabindex="-1" aria-labelledby="globalModalLabel" data-bs-backdrop="static" data-bs-keyboard="false">
+    
+    <!-- global notif -->
+    <div class="modal-dialog modal-dialog-centered" id="default-alert" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png">
+
+                <p class="text-center fs-1 fw-medium" id="globalModalTitle" style="margin: 30px 0;">Title</p>
+                <p class="text-center" id="globalModalDesc">Terjadi kesalahan, mohon coba beberapa saat lagi.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="globalModalSubmitBtn" class="btn dismissed">
+                    Submit
+                </button>
+                <a href="javascript:void(0);" class="backToHome" id="globalModalCloseBtn">
+                    Kembali ke Home
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- WA OTP Notif -->
+    <div class="modal-dialog modal-dialog-centered" role="document" id="otp-alert">
+        <div class="modal-content">
+            <form id="submitOTP">
+                <input type="hidden" name="_token" value="hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV">
+
+                <input type="hidden" id="user_id" name="user_id" value="">
+                <input type="hidden" id="redirect" name="redirect" value="">
+                <input type="hidden" id="phoneHidden" name="phone" value="">
+
+
+                <!-- debug nanti hapus -->
+                <!-- <p class="d-none">Token : <span id="dummy_token"></span> -->
+
+                <div class="modal-body">
+                    <img src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png">
+
+                    <h1 class="text-center" style="margin-top: 16px !important; display: block;">Masukkan OTP</h1>
+                    <p class="text-center">Silakan masukkan 6 digit kode verifikasi yang dikirimkan ke nomor telepon Anda</p>
+                    
+                   <div class="otp-container">
+                        <input type="tel" required="" class="otp-input" name="input1" id="otp1" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(1)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 1)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                        <input type="tel" required="" class="otp-input" name="input2" id="otp2" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(2)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 2)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                        <input type="tel" required="" class="otp-input" name="input3" id="otp3" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(3)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 3)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                        <input type="tel" required="" class="otp-input" name="input4" id="otp4" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(4)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 4)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                        <input type="tel" required="" class="otp-input" name="input5" id="otp5" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(5)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 5)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                        <input type="tel" required="" class="otp-input" name="input6" id="otp6" maxlength="1" oninput="if (!window.__cfRLUnblockHandlers) return false; moveNext(6)" onkeydown="if (!window.__cfRLUnblockHandlers) return false; movePrevious(event, 6)" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                    </div>
+                    <p id="text-counter" class="text-center">Kirim ulang kode dalam <span style="color: #D80128;" id="countdown">02:00</span></p>
+                    <p id="text-resend" class="text-center d-none" style="color: #D80128; cursor: pointer;">Kirim ulang kode <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_15_3036)">
+                            <path d="M7.99967 15.4349C11.6816 15.4349 14.6663 12.4501 14.6663 8.76823C14.6663 5.08633 11.6816 2.10156 7.99967 2.10156C4.31778 2.10156 1.33301 5.08633 1.33301 8.76823C1.33301 12.4501 4.31778 15.4349 7.99967 15.4349Z" stroke="#D80128" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M8 11.4349L10.6667 8.76823L8 6.10156" stroke="#D80128" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5.33301 8.76758H10.6663" stroke="#D80128" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                            <defs>
+                            <clipPath id="clip0_15_3036">
+                            <rect width="16" height="16" fill="white" transform="translate(0 0.767578)"></rect>
+                            </clipPath>
+                            </defs>
+                            </svg>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="Submit" id="btnValidasi" class="btn dismissed">
+                        Verifikasi Nomor Whatsapp
+                    </button>
+
+                    <!-- <a style="color: grey; margin-top: 8px;" onclick="$('#globalModal').modal('hide')"> Close </a> -->
+                </div>
+            </form>
+        </div>
+    </div> 
+
+
+    <!-- WA OTP Change Number -->
+    <div class="modal-dialog modal-dialog-centered d-none" role="document" id="otp-change">
+        <div class="modal-content">
+            <form id="changeNumber">
+                <input type="hidden" name="_token" value="hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV">
+                <input type="hidden" id="change_user_id" name="user_id" value="">
+
+                <div class="modal-body">
+                    <img src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png">
+
+                    <div class="edit">
+                        <h1 class="text-center" style="margin-top: 16px !important; display: block;">Edit Nomor Telepon</h1>
+                        <p class="text-center" style="margin-bottom: 32px;">Silahkan masukkan kembali nomor telepon Anda</p>
+                    </div>
+
+                     <div class="new">
+                        <h1 class="text-center" style="margin-top: 16px !important; display: block;">Masukkan Nomor Telepon</h1>
+                        <p class="text-center" style="margin-bottom: 32px;">Silahkan masukkan nomor telepon Anda</p>
+                    </div>
+
+                    
+
+
+                    <div class="formGroup" style="margin: auto; max-width: 380px; ">
+                        <input style="margin: 0 !important" type="tel" name="phone" value="" placeholder="Nomer Telepon" id="phoneNumber" required="" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return isDigit(event)">
+                    </div>
+
+                </div>
+                <div class="modal-footer" style="display:block; text-align: center;">
+                    <button id="cancel-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; cancelProcess()" type="button" class="btn dismissed btn-cancel">
+                        Batal
+                    </button>
+                    <button type="submit" class="btn dismissed" style="border-radius: 40px;">
+                        Kirim
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <style type="text/css">
+        #otp-change .new {
+            display: none;
+        }
+
+         #otp-change .edit {
+            display: block;
+        }
+
+        #otp-change.new_number .new {
+            display: block !important;
+        }
+
+        #otp-change.new_number .edit {
+            display: none !important;
+        }
+
+       
+
+    </style>
+
+
+    <!-- Verify Email -->
+    <div class="modal-dialog modal-dialog-centered" id="verify-alert" role="document">
+        <div class="modal-content">
+            <form id="verificationOTP">
+                <input type="hidden" name="_token" value="hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV">                <input type="hidden" name="user_id" value="">
+                <input type="hidden" name="phone" value="">
+                <input type="hidden" name="redirect" value="https://www.dapurumami.com">
+                <div class="modal-body">
+                    <img src="https://www.dapurumami.com/web/assets/images/main-assets/logo.png">
+
+                    <h1 class="text-center" style="margin: 30px 0;">Berhasil</h1>
+                    <p class="text-center">Terimakasih, email kamu telah terverifikasi</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn dismissed">
+                        Login Ulang
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</div>
+
+
+<style>
+
+@media only screen and (max-width : 480px) {
+    #otp-change .modal-footer .btn {
+        padding: 8px 0 !important;
+    }
+
+    #otp-change .modal-footer  {
+        margin: 16px auto !important; 
+    }
+}
+
+
+#phoneNumber {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    padding: 2% 5%;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#otp-change .modal-footer  {
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    margin: 24px auto; 
+    max-width: 380px; 
+    padding: 0 16px;
+}
+
+
+#otp-change .modal-footer .btn {
+    width: 49% !important;
+    padding: 0 32px;
+    margin: 0 !important;
+}
+
+.btn-cancel {
+    border: 1px solid #d80028 !important;
+    background-color: #ffffff !important;
+    color: #d80028 !important;
+    font-weight: bold !important;
+    margin: 5% 0 !important;
+    border-radius: 40px !important;
+}
+
+
+.otp-input {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    background: #F4F4F4;
+    border: 1.35px solid #DFDFDF;
+    border-radius: 8px;
+}
+.otp-container {
+  display: flex;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* For Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+</style>
+
+<script type="text/javascript">
+
+
+    function resetOTP() {
+        $('#otp1').val('')
+        $('#otp2').val('')
+        $('#otp3').val('')
+        $('#otp4').val('')
+        $('#otp5').val('')
+        $('#otp6').val('')
+    }
+
+
+    function cancelProcess() {
+         $('#otp-alert').removeClass('d-none');
+        $('#otp-change').addClass('d-none');
+        $('#verify-alert').addClass('d-none');
+    }
+
+    $('#editPhone').on('click', function(){
+        $('#otp-alert').addClass('d-none');
+        $('#otp-change').removeClass('d-none');
+        $('#otp-change').removeClass('new_number');
+        $('#cancel-btn').removeClass('d-none');
+        $('#verify-alert').addClass('d-none');
+    })
+
+
+    $('#verificationOTP').on('submit', function(e) {
+        e.preventDefault();
+        
+        // Kirimkan request AJAX
+        $.ajax({
+            url: "https://www.dapurumami.com/logout", 
+            type: 'GET',
+            data: {
+                _token: 'hSyEDRfBmoxcB6MHSJAFEAkftt5PdPVHrVWsjzqV' 
+            },
+            success: function(response) {
+                window.location.href = '/login';
+            },
+            error: function(xhr) {
+                console.log(xhr.responseText); 
+            }
+        });
+    });
+
+
+    $('#verificationOTPOld').on('submit', function(e) {
+        e.preventDefault();
+
+        // Serialize the form data
+        var formData = $(this).serialize();
+
+
+        $.ajax({
+            type: 'POST',
+            url: 'https://www.dapurumami.com/check-number-only', // Replace with your actual endpoint URL
+            data: formData,
+            beforeSend: function() {
+                $('#loader').removeClass('d-none')
+            },
+            success: function (response) {
+               if (response.status == 'error') {
+                alert(response.message)
+               }
+
+               if(response.status == 'success') {
+                    $('#phoneHidden').val(response.data.phone)
+                    $('#dummy_token').html(response.data.token)
+                    $('#phoneMask').html(response.data.phone_mask)
+                    $('#redirect').val("https://www.dapurumami.com")
+
+                    $('#otp-alert').removeClass('d-none');
+                    $('#otp-change').addClass('d-none');
+                    $('#verify-alert').addClass('d-none');
+
+                    $('#countdown').html()
+
+                    startCount();
+               }
+
+               $('#loader').addClass('d-none')
+            },
+            error: function (xhr) {
+                // Handle error response
+                console.error(xhr.responseText); // Log the error for debugging
+                alert('An error occurred: ' + xhr.statusText); // Show error message
+            }
+        });
+    })
+
+
+    $('#changeNumber').on('submit', function(e){
+        e.preventDefault();
+
+        // Serialize the form data
+        var formData = $(this).serialize();
+
+        $.ajax({
+            type: 'POST',
+            url: 'https://www.dapurumami.com/check-number-only', // Replace with your actual endpoint URL
+            data: formData,
+            beforeSend: function() {
+                $('#loader').removeClass('d-none')
+            },
+            success: function (response) {
+               if (response.status == 'error') {
+                alert(response.message)
+               }
+
+               if(response.status == 'success') {
+                    $('#phoneHidden').val(response.data.phone)
+                    $('#dummy_token').html(response.data.token)
+                    $('#phoneMask').html(response.data.phone_mask)
+
+                    $('#otp-alert').removeClass('d-none');
+                    $('#otp-change').addClass('d-none');
+
+                    $('#countdown').html()
+
+                    resetOTP();
+
+                    startCount();
+               }
+
+               $('#loader').addClass('d-none')
+            },
+            error: function (xhr) {
+                // Handle error response
+                console.error(xhr.responseText); // Log the error for debugging
+                alert('An error occurred: ' + xhr.statusText); // Show error message
+            }
+        });
+
+    })
+
+
+    $('#submitOTP').on('submit', function(e){
+        e.preventDefault();
+
+        // Serialize the form data
+        var formData = $(this).serialize();
+
+        $.ajax({
+            type: 'POST',
+            url: 'https://www.dapurumami.com/validate-otp', // Replace with your actual endpoint URL
+            data: formData,
+            beforeSend: function() {
+                $('#loader').removeClass('d-none')
+            },
+            success: function (response) {
+               if (response.status == 'error') {
+                alert(response.message)
+               }
+
+
+               if(response.status == 'success') {
+                    $('#default-alert').removeClass('d-none')
+                    $('#otp-alert').addClass('d-none')
+
+
+                    alert_modal("Berhasil", response.message, 0, 'Tutup', '',response.data.redirect, '');
+
+               }
+
+               $('#loader').addClass('d-none')
+            },
+            error: function (xhr) {
+                // Handle error response
+                console.error(xhr.responseText); // Log the error for debugging
+                alert('An error occurred: ' + xhr.statusText); // Show error message
+            }
+        });
+    })
+
+    // Function to allow only digits
+    function isDigit(evt) {
+        var charCode = (evt.which) ? evt.which : evt.keyCode;
+        return (charCode >= 48 && charCode <= 57); // Only allow digits (0-9)
+    }
+
+    // Move to the next input when typing
+    function moveNext(currentInputIndex) {
+        const nextInput = document.getElementById(`otp${currentInputIndex + 1}`);
+        if (nextInput) {
+            nextInput.focus();
+        }
+    }
+
+    // Move to the previous input if backspace is pressed
+    function movePrevious(event, currentInputIndex) {
+        if (event.key === "Backspace") {
+            const prevInput = document.getElementById(`otp${currentInputIndex - 1}`);
+            if (prevInput) {
+                prevInput.focus();
+            }
+        }
+    }
+
+    // Paste event handler
+    document.getElementById('otp1').addEventListener('paste', function (e) {
+        const pastedData = e.clipboardData.getData('text');
+        
+        // Check if the pasted data is 6 digits long
+        if (pastedData.length === 6 && /^[0-9]+$/.test(pastedData)) {
+            for (let i = 0; i < 6; i++) {
+                const inputField = document.getElementById(`otp${i + 1}`);
+                inputField.value = pastedData[i];
+            }
+
+            // Optionally, focus the last field
+            document.getElementById('otp6').focus();
+        }
+
+        e.preventDefault();  // Prevent the default paste action
+    });
+
+
+    $('#text-resend').on('click', function() {
+
+
+        let phone = $('#phoneHidden').val();
+        let user_id = $('#user_id').val();
+
+
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: 'https://www.dapurumami.com/check-number-only',
+            data: {
+                phone : phone,
+                user_id: user_id,
+            },
+             beforeSend: function() {
+                $('#loader').removeClass('d-none')
+            },
+            headers: {
+                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            },
+            success: function(response) {
+                if (response.status == 'error') {
+                    alert(response.message)
+                }
+
+                if (response.status == 'success') {
+
+                    $('#dummy_token').html(response.data.token)
+
+                    $('#text-resend').addClass('d-none')
+                    $('#text-counter').removeClass('d-none')
+                    $('#countdown').html('02:00')
+                    $('#btnValidasi').removeAttr('disabled')
+
+                    startCount();
+                }
+
+                $('#loader').addClass('d-none')
+            }
+        })
+
+
+
+
+       
+
+    })
+
+    function alert_otp() {
+        $('#default-alert').addClass('d-none')
+        $('#verify-alert').addClass('d-none')
+        $('#otp-change').addClass('d-none');
+        $('#otp-alert').removeClass('d-none')
+        $("#globalModal").modal("show");
+        startCount();
+    }
+
+
+
+    function email_validation() {
+        $('#default-alert').addClass('d-none')
+        $('#otp-change').addClass('d-none');
+        $('#verify-alert').removeClass('d-none')
+        $('#otp-alert').addClass('d-none')
+        $("#globalModal").modal("show");
+    }
+
+    function input_new_number() {
+        $('#default-alert').addClass('d-none')
+        $('#otp-change').removeClass('d-none');
+        $('#otp-change').addClass('new_number');
+        $('#verify-alert').addClass('d-none')
+        $('#otp-alert').addClass('d-none')
+
+
+        // hide button
+        $('#cancel-btn').addClass('d-none');
+
+        $("#globalModal").modal("show");
+    }
+
+
+    let countdownTimer; // Declare countdownTimer in the global scope so it can be accessed to clear the interval
+
+    function startCount() {
+        let timeLeft = 120; // Set initial countdown time in seconds (2 minutes = 120 seconds)
+
+        const countdownElement = document.getElementById('countdown');
+
+        // Clear the existing timer if it exists
+        if (countdownTimer) {
+            clearInterval(countdownTimer);
+        }
+
+        countdownTimer = setInterval(function() {
+            let minutes = Math.floor(timeLeft / 60); // Calculate minutes
+            let seconds = timeLeft % 60; // Calculate remaining seconds
+
+            // Format time to always show 2 digits for seconds
+            seconds = seconds < 10 ? '0' + seconds : seconds;
+
+            countdownElement.innerHTML = minutes + ":" + seconds; // Update the countdown display
+
+            if (timeLeft <= 0) {
+                clearInterval(countdownTimer); // Stop the timer when it reaches 0
+                $('#text-resend').removeClass('d-none')
+                $('#text-counter').addClass('d-none')
+                $('#btnValidasi').attr('disabled', 'disabled')
+            }
+            timeLeft -= 1; // Decrease time left by 1 every second
+        }, 1000); // Update every second (1000 ms)
+    }
+
+
+
+    function alert_modal(title, description, autoclose_in_ms = 0, submit_btn_label = '', close_btn_label = '', submit_btn_onclick_script = '', close_btn_onclick_script = '') {
+
+
+        // tambahan
+        $('#default-alert').removeClass('d-none')
+        $('#verify-alert').addClass('d-none')
+        $('#otp-alert').addClass('d-none')
+
+        $("#globalModalTitle").html(title);
+        $("#globalModalDesc").html(description);
+        $("#globalModalSubmitBtn").html(submit_btn_label);
+
+        if (submit_btn_label == '') {
+            $("#globalModalSubmitBtn").hide();
+        } else {
+            $("#globalModalSubmitBtn").html(submit_btn_label);
+            $("#globalModalSubmitBtn").show();
+
+            if (submit_btn_onclick_script == '') {
+                submit_btn_onclick_script = encodeURI("$('#globalModal').modal('hide')");
+                document.getElementById('globalModalSubmitBtn').setAttribute("onclick", decodeURI(submit_btn_onclick_script));
+
+            } else {
+                document.getElementById('globalModalSubmitBtn').addEventListener('click', function() {
+                    window.location.href = submit_btn_onclick_script.replace('window.location.href=', '').replace(/['"]+/g, ''); // Replace with your desired URL
+                });
+            }
+        }
+
+        if (close_btn_label == '') {
+            $("#globalModalCloseBtn").hide();
+        } else {
+            $("#globalModalCloseBtn").html(close_btn_label);
+            $("#globalModalCloseBtn").show();
+
+            if (close_btn_onclick_script == '') {
+                close_btn_onclick_script = encodeURI("$('#globalModal').modal('hide')");
+            }
+            document.getElementById('globalModalCloseBtn').setAttribute("onclick", decodeURI(close_btn_onclick_script));
+        }
+
+        $("#globalModal").modal("show");
+
+        if (autoclose_in_ms > 0) {
+            setTimeout(() => {
+                close_alert_modal();
+            }, autoclose_in_ms);
+        }
+    }
+
+    function close_alert_modal() {
+        $('#globalModal').modal('hide');
+    }
+
+
+    function moveNext(currentField) {
+      const nextField = currentField + 1;
+      const input = document.getElementById(`otp${currentField}`);
+      if (input.value.length === 1 && nextField <= 6) {
+        document.getElementById(`otp${nextField}`).focus();
+      }
+    }
+
+    function movePrevious(event, currentField) {
+      const prevField = currentField - 1;
+      if (event.key === 'Backspace' && currentField > 1 && !event.target.value) {
+        document.getElementById(`otp${prevField}`).focus();
+      }
+    }
+</script>
+        
+    <div class="customCardBuyProduct">
+        <div class="buttonWrapper">
+            <button onclick="if (!window.__cfRLUnblockHandlers) return false; closePopupCustomCard()">
+              <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+        </div>
+        <div class="row" id="custom-card-buy-product"></div>
+    </div>
+
+    <script src="https://www.dapurumami.com/web/js/youtube.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" integrity="sha512-Ixzuzfxv1EqafeQlTCufWfaC6ful6WFqIz4G+dWvK0beHw0NVJwvCKSgafpy5gwNqKmgUfIBraVwkKI+Cz0SEQ==" crossorigin="anonymous" referrerpolicy="no-referrer" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.3.2/swiper-bundle.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        lightbox.option({
+            'wrapAround': true,
+            'resizeDuration': 500,
+            'maxWidth' : 1280,
+            'positionFromTop': 180,
+            'disableScrolling' : true
+        })
+    </script>
+    <script type="text/javascript">
+        // CALL MODAL STARS RATING
+        function modalStar() {
+            $("#modalRating").modal("show");
+        }
+
+        function generateStars(rating, rate) {
+        // Empty the current stars
+        $('#starContainer').empty();
+
+        // Add new stars based on the rating
+        for (let i = 1; i <= 5; i++) {
+            if (i <= rating) {
+                $('#starContainer').append('<span class="starModal"><i class="fas fa-star"></i></span>');
+            } else {
+                $('#starContainer').append('<span class="starModal"><i class="far fa-star"></i></span>');
+            }
+        }
+        $('#starContainer').append('<b class="text-black">' + rate + '</b>');
+    }
+
+
+
+        // STAR FUNCTION
+        // STARS RATING
+        let selectedRating = 5;
+
+        function rate(rating) {
+            selectedRating = rating;
+
+            // Change the color of the stars based on the selected rating
+            const stars = document.getElementsByClassName("starModalRating");
+            for (let i = 0; i < stars.length; i++) {
+                if (i < rating) {
+                    stars[i].innerHTML = '<i class="fas fa-star"></i>'; // Toggled star
+                } else {
+                    stars[i].innerHTML = '<i class="far fa-star"></i>'; // Non-toggled star
+                }
+            }
+        }
+
+        function send_rate() {
+            $.ajax({
+                type: 'POST',
+                url: "https://www.dapurumami.com/me/rate-recipe",
+                data: {
+                    id: "10248",
+                    rate: selectedRating
+                },
+                beforeSend: function() {
+
+                },
+                success: function(response) {
+                    if (response.status == 'true') {
+                        $('#modalRating').modal('hide');
+
+                        generateStars(response.data.stars, response.data.rate)
+
+
+                        // moenage
+                        Moengage.track_event("Recipe - Rating Recipe", {
+                            "current_page": window.location.href,
+                            "recipe_id" : "10248"
+                        });
+                        
+                        setTimeout(() => {
+                            alert_modal("Berhasil", response.message, 3000, 'Tutup');
+                        }, 200);
+                    } else if (response.status == 401) {
+                        window.location.replace(response.data);
+                    } else {
+                        alert_modal("Terjadi Kesalahan", response.message, 0, 'Tutup');
+                    }
+                },
+                error: function(data, textStatus, errorThrown) {
+                    console.log(data);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+                    // alert(textStatus + ': ' + errorThrown);
+
+                    $('#modalRating').modal('hide');
+
+                    setTimeout(() => {
+                        alert_modal("Terjadi Kesalahan", textStatus + ': ' + errorThrown, 0, 'Tutup');
+                    }, 200);
+                }
+            });
+        }
+
+        // PARAGRAPH FUNCTION
+        function toggleParagraph() {
+            const paragraph = document.querySelector(".paragraph");
+            const button = document.querySelector(".show-more-button");
+
+            paragraph.classList.toggle("expanded");
+
+            if (paragraph.classList.contains("expanded")) {
+                button.innerHTML = `Tampilkan lebih sedikit <i class="fa-solid fa-chevron-up"></i>`;
+            } else {
+                button.innerHTML = `Lihat selengkapnya <i class="fa-solid fa-chevron-down"></i>`;
+            }
+        }
+
+        function remove_step(ordinal, total_steps) {
+            $("#step-"+ordinal).remove();
+            total_steps = total_steps - 1;
+            $(".total-steps").html(total_steps);
+        }
+
+        
+            </script>
+
+    <script type="text/javascript">
+       window.onload = function() {
+           
+            Moengage.track_event("Recipe - View Recipe Detail", {
+                "current_page": window.location.href,
+                "recipe_id" : "10248"
+            });
+
+
+       }
+
+
+       function mo_event() {
+            Moengage.track_event("Recipe - Share Recipe", {
+                "current_page": window.location.href,
+                "recipe_id" : "10248"
+            });
+       }
+
+        jQuery(document).ready(function($){
+                
+
+                function swiperProduct() {
+
+                   var swpSwiper = new Swiper(".swp-product .swiper", {
+                        spaceBetween: 8,
+                        slidesPerView: 1,
+                        loop: false,
+                        centeredSlides: false,
+                        watchOverflow: true,
+                        breakpoints: {
+                            375: {
+                                spaceBetween: 16,
+                                slidesPerView: 2,
+                            },
+                            480: {
+                                spaceBetween: 16,
+                                slidesPerView: 2,
+                            },
+                            576: {
+                                spaceBetween: 16,
+                                slidesPerView: 3,
+                            },
+                            768: {
+                                spaceBetween: 16,
+                                slidesPerView: 2,
+                            },
+                            992: {
+                                spaceBetween: 16,
+                                slidesPerView: 3,
+                            },
+                            1600: {
+                                spaceBetween: 16,
+                                slidesPerView: 3,
+                            },
+                            pagination: {
+                                el: ".swp-product .swp-pagination",
+                                dynamicBullets: true,
+                                clickable: true,
+                            }
+                        },
+                    });
+                }
+
+                //pengecekan
+                function ceksw() {
+
+                    const theSwiper = document.querySelectorAll('.swp-carousel');
+
+                    $(theSwiper).each(function() {
+
+                        if($(this).find('.swp-pagination').hasClass('swiper-pagination-lock')) {
+
+                            $(this).find('.swiper').addClass('swp-off');
+                        }else {
+                            
+                            $(this).find('.swiper').removeClass('swp-off');
+                        }
+                    });
+                }
+
+                swiperProduct();
+                ceksw();
+
+                jQuery(window).on('resize', function () {
+
+                    ceksw();
+                });
+            });
+    </script>
+    
+    
+    
+        <script type="text/javascript">
+      // Set the options globally
+      // to make LazyLoad self-initialize
+      window.lazyLoadOptions = {
+        container: document.getElementById("scrollingPanel")
+      };
+      // Listen to the initialization event
+      // and get the instance of LazyLoad
+      window.addEventListener(
+        "LazyLoad::Initialized",
+        function (event) {
+          window.lazyLoadInstance = event.detail.instance;
+          // $('body').removeClass('loading-skeleton')
+
+          console.log(event, 'event lazyload')
+        },
+        false
+      );
+    </script>
+
+    <script async="" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@19.1.3/dist/lazyload.min.js" type="text/javascript"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91d44911798da198',t:'MTc0MTQ1NzM4NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" data-gtm-yt-inspected-10="true"></iframe>
+<script type="text/javascript" id="" charset="">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g+"?ref\x3dgtm2";d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","ptou8iloym");</script><div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><iframe allow="join-ad-interest-group" data-tagging-id="G-P3RBQ8L9VX" data-load-time="1741457390101" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-P3RBQ8L9VX&amp;gacid=1742351910.1741457390&amp;gtm=45je5362v9118537934z89203921461za200zb9203921461&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102791784~102825837&amp;z=205420709" style="display: none; visibility: hidden;" data-gtm-yt-inspected-10="true"></iframe><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" role="button" tabindex="0" aria-label="Previous image" href=""></a><a class="lb-next" role="button" tabindex="0" aria-label="Next image" href=""></a></div><div class="lb-loader"><a class="lb-cancel" role="button" tabindex="0"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close" role="button" tabindex="0"></a></div></div></div></div></body></html>

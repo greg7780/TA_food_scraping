@@ -8,6 +8,7 @@ import pandas as pd
 import time
 from bs4 import BeautifulSoup
 import json
+import re
 
 # mode = "scrape" 
 # mode = "extract" 
@@ -62,6 +63,10 @@ elif(mode == "extract"):
             f.write(link + "\n")
 
 elif(mode == "scrape2"):
+    protein_keywords = [
+        "ayam", "ikan", "sapi", "telur", "susu", "udang", "cumi", "kerang", "keju"
+    ]
+
     with open(path_to_file + "links.txt", "r", encoding="utf-8") as f:
         recipe_links = [line.strip() for line in f.readlines()]
 
@@ -93,14 +98,25 @@ elif(mode == "scrape2"):
 
         nutrition_values = {key: nutrition_data.get(key, "N/A") for key in nutrition_keys}
 
+        # Extract protein sources from ALL ingredients tables
+        protein_found = set()
+        tables = soup.find_all("table", class_="tableCustomized")
+        for table in tables:
+            rows = table.find_all("tr")
+            for row in rows:
+                row_text = row.get_text().lower()
+                for keyword in protein_keywords:
+                    if re.search(rf"\b{keyword}\b", row_text):
+                        protein_found.add(keyword)
+
+
         # Append structured data
         recipe_data.append({
             "RecipeName": title,
             **nutrition_values,
+            "ProteinName": list(protein_found),
             "url": recipe_link
         })
-
-        print(f"Scraped: {title}")
 
     driver.quit()
 

@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Instant Pot Lasagna,189.0,12.75,11.5,10.25,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/260065/instant-pot-lasagna/
+Easy Spinach Lasagna with White Sauce,54.67,2.22,3.44,3.78,0.33,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/11933/easy-spinach-lasagna-with-white-sauce/
+Kim's Lasagna,59.4,4.1,4.3,2.9,0.5,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/232337/kims-lasagna/
+Pasta Lasagna,128.8,8.0,11.8,5.4,1.0,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/22158/pasta-lasagna/
+Zucchini Lasagna With Beef and Sausage,48.25,3.62,2.88,2.62,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/229289/zucchini-lasagna-with-beef-and-sausage/
+Johnsonville® Italian Sausage Lasagna,148.17,8.67,11.83,7.17,1.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/219946/johnsonville-italian-sausage-lasagna/
+Lasagna Cupcakes,16.67,1.17,1.17,0.75,0.08,"['keju', 'sapi']",https://www.allrecipes.com/recipe/241564/lasagna-cupcakes/
+Bettie's Lasagna Roll Ups,37.92,2.58,3.5,1.58,0.42,['keju'],https://www.allrecipes.com/recipe/25075/lasagna-roll-ups/
+Leftover Pork Fried Rice,367.5,19.5,28.0,19.5,1.5,[],https://www.allrecipes.com/recipe/8535348/leftover-pork-fried-rice/
+Creamy Ham and Asparagus Fettuccine,125.67,3.5,7.5,9.33,0.5,['keju'],https://www.allrecipes.com/recipe/21452/ham-and-asparagus-fettuccine/
+Chicken Ramen Noodle Soup with Honey Sriracha Crackers,111.25,6.25,9.0,5.5,0.75,['ayam'],https://www.allrecipes.com/recipe/8459985/chicken-ramen-noodle-soup-with-honey-sriracha-crackers/
+Special Fried Rice,453.0,11.0,84.0,7.5,2.5,['ikan'],https://www.allrecipes.com/recipe/241560/special-fried-rice/
+Bibimbap (Korean Rice Bowl),142.25,8.75,15.75,4.75,1.0,['sapi'],https://www.allrecipes.com/recipe/228240/bibimbap-korean-rice-with-mixed-vegetables/
+Easy Fried Rice,19.0,0.5,2.38,0.88,0.12,[],https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/
+Turkey Salad,1.67,0.17,0.04,0.08,0.0,[],https://www.allrecipes.com/recipe/27005/turkey-salad/
+Quick and Easy Chicken Noodle Soup,27.0,2.17,2.0,1.0,0.33,"['ayam', 'telur']",https://www.allrecipes.com/recipe/26460/quick-and-easy-chicken-noodle-soup/
+Turkey Carcass Soup,11.08,0.33,2.33,0.08,0.42,[],https://www.allrecipes.com/recipe/218804/turkey-carcass-soup/
+Campbell's Tuna Noodle Casserole,N/A,N/A,N/A,N/A,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/151593/campbells-tuna-noodle-casserole/
+Best Chicken Salad,389.5,22.0,4.0,31.5,1.5,['ayam'],https://www.allrecipes.com/recipe/8499/basic-chicken-salad/
+Dad's Leftover Turkey Pot Pie,44.92,1.67,3.33,2.75,0.33,"['ayam', 'susu']",https://www.allrecipes.com/recipe/215447/dads-leftover-turkey-pot-pie/
+Bread and Butter Pudding,63.83,1.33,7.67,3.33,0.33,['susu'],https://www.allrecipes.com/recipe/279519/bread-and-butter-pudding/
+Mom's Fabulous Chicken Pot Pie with Biscuit Crust,51.5,2.5,3.75,2.88,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/216758/moms-fabulous-chicken-pot-pie-with-biscuit-crust/
+Leftover Ham -n- Potato Casserole,98.5,4.17,6.67,6.17,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/220961/leftover-ham-n-potato-casserole/
+King Ranch Chicken Casserole,59.88,4.0,3.12,3.5,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/236805/king-ranch-chicken-casserole/
+Leftover Turkey Fried Rice,46.17,3.17,4.33,1.67,0.17,[],https://www.allrecipes.com/recipe/281607/leftover-turkey-fried-rice/
+Quick and Easy Pancit,61.5,3.0,10.83,0.83,1.17,['ayam'],https://www.allrecipes.com/recipe/47015/quick-and-easy-pancit/
+Easy Turkey Tetrazzini,64.5,3.83,5.0,3.33,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/37784/easy-turkey-tetrazzini/
+Day-After-Thanksgiving Turkey Carcass Soup,37.0,1.2,6.4,0.7,0.4,['ayam'],https://www.allrecipes.com/recipe/130979/day-after-thanksgiving-turkey-carcass-soup/
+Chicken à la King,43.57,3.0,1.71,2.71,0.14,"['ayam', 'susu']",https://www.allrecipes.com/recipe/8564/chicken-a-la-king-i/
+Hearty Barley Turkey Soup,8.5,0.25,1.83,0.08,0.5,[],https://www.allrecipes.com/recipe/230904/hearty-barley-turkey-soup/
+Chicken Noodle Casserole,90.33,3.83,6.0,5.67,0.17,"['ayam', 'telur']",https://www.allrecipes.com/recipe/11864/chicken-noodle-casserole-i/
+Broccoli Chicken Divan,31.0,2.67,2.0,1.5,0.5,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/8854/broccoli-chicken-divan/
+Incredibly Easy Chicken and Noodles,84.0,4.5,9.17,3.33,0.17,"['ayam', 'telur']",https://www.allrecipes.com/recipe/17846/incredibly-easy-chicken-and-noodles/
+Ham and Beans,42.86,2.71,6.14,1.0,1.57,[],https://www.allrecipes.com/recipe/21403/ham-and-beans/
+My Crispy Mashed Potato Pancake,51.0,1.25,6.0,2.5,0.5,['telur'],https://www.allrecipes.com/recipe/222608/my-crispy-mashed-potato-pancake/
+Quick and Easy Chicken Spaghetti,62.67,4.33,6.5,2.17,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/26286/quick-and-easy-chicken-spaghetti/
+White Cheese Chicken Lasagna,30.75,2.0,1.92,1.75,0.17,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/8758/white-cheese-chicken-lasagna/
+Monte Cristo Sandwich,641.0,49.0,33.0,34.0,1.0,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/20803/monte-cristo-sandwich/
+Ham Bone and Green Split Pea Soup,25.88,2.25,2.88,0.62,0.88,['ayam'],https://www.allrecipes.com/recipe/262028/ham-bone-and-green-split-pea-soup/
+Chef John's Turkey Noodle Casserole,57.12,3.38,4.25,3.0,0.25,"['susu', 'telur', 'keju']",https://www.allrecipes.com/recipe/222238/chef-johns-turkey-noodle-casserole/
+Cobb Salad,87.5,5.33,1.67,6.67,0.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/14415/cobb-salad/
+Chicken and Stuffing Casserole,45.25,2.5,2.5,2.62,0.25,['ayam'],https://www.allrecipes.com/recipe/240220/rotisserie-chicken-and-stuffing-casserole/
+Quick Pork Fried Rice,63.5,2.67,8.17,2.17,0.33,[],https://www.allrecipes.com/recipe/228917/quick-pork-fried-rice/
+Turkey Wild Rice Soup,31.5,1.75,1.75,1.88,0.12,[],https://www.allrecipes.com/recipe/212664/turkey-wild-rice-soup-ii/
+Lemon Square Bars,8.67,0.08,1.29,0.38,0.0,[],https://www.allrecipes.com/recipe/25091/lemon-square-bars/
+Chef John's Lemon Bars,9.56,0.12,1.38,0.44,0.0,['telur'],https://www.allrecipes.com/recipe/232799/chef-johns-lemon-bars/
+The Best Lemon Bars,7.29,0.04,1.08,0.33,0.0,[],https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/
+Lemon Cream Cheese Bars,7.12,0.12,0.62,0.5,0.0,['keju'],https://www.allrecipes.com/recipe/237181/lemon-cream-cheese-bars/
+Lemon Pie Bars,4.25,0.06,0.56,0.22,0.0,[],https://www.allrecipes.com/recipe/11458/lemon-pie-bars/
+Lemon Curd Bars,10.17,0.08,1.42,0.46,0.04,[],https://www.allrecipes.com/recipe/233813/lemon-curd-bars/
+Lime Bars,4.25,0.06,0.67,0.17,0.0,[],https://www.allrecipes.com/recipe/223532/lime-bars/
+Best Lemon Squares,33.17,0.42,4.83,1.42,0.08,[],https://www.allrecipes.com/recipe/241432/best-lemon-squares/
+Bake Sale Lemon Bars,2.97,0.03,0.44,0.11,0.0,[],https://www.allrecipes.com/recipe/10756/bake-sale-lemon-bars/
+Graham Moist Lemon Bars,13.78,0.17,2.56,0.39,0.0,[],https://www.allrecipes.com/recipe/11001/graham-moist-lemon-bars/
+Lemon Cheesecake Bars,25.69,0.38,3.31,1.31,0.0,['keju'],https://www.allrecipes.com/recipe/265432/lemon-cheesecake-bars/
+Easy Lemon Bars,18.93,0.27,2.0,1.13,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/10921/easy-lemon-bars/
+Lemon Bars,8.31,0.12,1.5,0.25,0.0,[],https://www.allrecipes.com/recipe/9842/lemon-bars-i/
+Luscious Lemon Snaps,6.62,0.04,0.96,0.29,0.0,[],https://www.allrecipes.com/recipe/11605/luscious-lemon-snaps/
+Bake-Sale-Worthy Lemon Bars,14.5,0.19,2.12,0.62,0.0,[],https://www.allrecipes.com/recipe/273051/bake-sale-worthy-lemon-bars/
+Tart Lemon Triangles,16.08,0.25,2.5,0.58,0.0,[],https://www.allrecipes.com/recipe/20384/tart-lemon-triangles/
+Lemon Curd Bars with Coconut,3.05,0.03,0.4,0.15,0.03,[],https://www.allrecipes.com/recipe/11384/lemon-curd-bars-with-coconut/
+Blueberry-Lemon Crumb Bars,6.33,0.08,0.92,0.29,0.04,['telur'],https://www.allrecipes.com/recipe/25028/blueberry-lemon-crumb-bars/
+Lemon Oatmeal Bars,14.0,0.25,2.12,0.5,0.06,['susu'],https://www.allrecipes.com/recipe/282080/lemon-oatmeal-bars/
+Poppy Seed-Lemon Bars,12.06,0.19,1.94,0.44,0.0,[],https://www.allrecipes.com/recipe/278663/poppy-seed-lemon-bars/
+Blueberry Lemon Bars with Meringue Topping,9.71,0.17,1.71,0.29,0.04,['telur'],https://www.allrecipes.com/recipe/279159/blueberry-lemon-bars-with-meringue-topping/
+Luscious Lemon Triangles,2.23,0.02,0.33,0.08,0.0,[],https://www.allrecipes.com/recipe/240324/luscious-lemon-triangles/
+Lemon Bars with Coconut,8.96,0.12,1.29,0.42,0.04,[],https://www.allrecipes.com/recipe/282082/lemon-bars-with-coconut/
+Lemon Bar Peeps,72.62,1.0,10.12,3.25,0.12,[],https://www.allrecipes.com/recipe/241815/lemon-bar-peeps/
+Lemon Raspberry Crumb Bars,38.78,0.44,5.22,1.89,0.22,[],https://www.allrecipes.com/recipe/284775/lemon-raspberry-crumb-bars/
+Lemon Dream Bars,19.42,0.25,2.75,0.92,0.08,[],https://www.allrecipes.com/recipe/15111/lemon-dream-bars/
+Strawberry Lemon Bars,13.06,0.25,2.25,0.38,0.06,[],https://www.allrecipes.com/recipe/282079/strawberry-lemon-bars/
+Easy Lemon Cheesecake Bars,9.21,0.12,0.92,0.54,0.0,['keju'],https://www.allrecipes.com/recipe/282078/easy-lemon-cheesecake-bars/
+Perfect Lemon Squares,19.0,0.25,2.58,0.92,0.08,[],https://www.allrecipes.com/recipe/160093/perfect-lemon-squares/
+Lemon Squares III,3.03,0.03,0.5,0.11,0.0,[],https://www.allrecipes.com/recipe/26161/lemon-squares-iii/
+Chipotle Lemon Bars,19.62,0.25,2.94,0.81,0.06,[],https://www.allrecipes.com/recipe/110941/chipotle-lemon-bars/
+Lemon Squares I,10.12,0.12,1.21,0.54,0.04,[],https://www.allrecipes.com/recipe/9735/lemon-squares-i/
+Gluten Free Lemon Coconut Poppy Seed Bars,6.5,0.12,0.81,0.31,0.06,['telur'],https://www.allrecipes.com/recipe/241047/gluten-free-lemon-coconut-poppy-seed-bars/
+Best Homemade Lemonade Ever,14.5,0.0,3.8,N/A,0.0,[],https://www.allrecipes.com/recipe/32385/best-lemonade-ever/
+Old-Fashioned Pink Lemonade,12.58,0.0,3.33,N/A,0.0,[],https://www.allrecipes.com/recipe/20560/old-fashioned-pink-lemonade/
+Old-Fashioned Lemonade,25.17,0.17,7.5,0.0,0.83,[],https://www.allrecipes.com/recipe/20487/old-fashioned-lemonade/
+Brazilian Lemonade,38.0,0.25,9.0,0.25,0.25,['susu'],https://www.allrecipes.com/recipe/54083/brazilian-lemonade/
+State Fair Lemonade,30.5,0.17,8.83,0.0,0.83,[],https://www.allrecipes.com/recipe/281089/state-fair-lemonade/
+All Natural Strawberry Lemonade,7.25,0.0,1.92,N/A,0.0,[],https://www.allrecipes.com/recipe/233276/all-natural-strawberry-lemonade/
+Refreshing Cucumber Lemonade,35.25,0.75,11.5,0.25,2.0,[],https://www.allrecipes.com/recipe/197751/refreshing-cucumber-lemonade/
+Watermelon Lemonade,4.17,0.0,1.08,0.0,0.0,[],https://www.allrecipes.com/recipe/214907/watermelon-lemonade/
+Orangeade,21.12,0.0,5.38,0.0,0.0,[],https://www.allrecipes.com/recipe/228353/orangeade/
+Vintage Lemonade,67.25,0.5,19.25,0.0,1.5,[],https://www.allrecipes.com/recipe/20486/vintage-lemonade/
+Ginger Lemonade,6.6,0.0,1.8,N/A,0.05,[],https://www.allrecipes.com/recipe/18937/ginger-lemonade/
+Tito's Berry Lemonade,148.0,0.0,13.0,0.0,0.0,[],https://www.allrecipes.com/recipe/280030/titos-berry-lemonade/
+Lemonade,17.2,0.0,4.6,N/A,0.0,[],https://www.allrecipes.com/recipe/32355/lemonade/
+Homemade Blackberry Lemonade,50.0,0.25,13.25,0.0,0.5,[],https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/
+Easy Lemonade,6.75,0.0,1.88,N/A,0.0,[],https://www.allrecipes.com/recipe/20842/easy-lemonade/
+Malian Ginger Juice,3.69,0.0,0.94,0.0,0.0,[],https://www.allrecipes.com/recipe/229320/malian-ginger-juice/
+Never Bitter Lemonade,12.62,0.0,3.25,N/A,0.0,[],https://www.allrecipes.com/recipe/18954/never-bitter-lemonade/
+Easy Raspberry Lemonade,3.17,0.0,0.83,0.0,0.06,[],https://www.allrecipes.com/recipe/21604/easy-raspberry-lemonade/
+Icy Blender Lemonade,25.5,0.0,7.0,0.0,0.25,[],https://www.allrecipes.com/recipe/71341/icy-blender-lemonade/
+Radler,47.5,0.33,7.83,0.0,N/A,[],https://www.allrecipes.com/recipe/245790/radler/
+Watermelon and Strawberry Lemonade,19.0,0.12,4.88,0.0,0.12,[],https://www.allrecipes.com/recipe/143452/watermelon-and-strawberry-lemonade/
+Best Strawberry Lemonade Ever,25.17,0.0,6.67,0.0,0.17,[],https://www.allrecipes.com/recipe/237399/best-strawberry-lemonade-ever/
+Chia Fresca,24.0,1.0,5.0,1.0,1.0,[],https://www.allrecipes.com/recipe/234681/chia-fresca/
+Easy Strawberry Lemonade,8.9,0.0,2.3,0.0,0.1,[],https://www.allrecipes.com/recipe/32509/easy-strawberry-lemonade/
+Rhubarb Lemonade,18.0,0.08,4.67,0.0,0.17,[],https://www.allrecipes.com/recipe/214111/rhubarb-lemonade/
+Citrus Lemonade,8.92,0.08,2.5,0.0,0.33,[],https://www.allrecipes.com/recipe/174084/citrus-lemonade/
+Pineapple Lemonade,19.83,0.33,5.33,0.0,0.5,[],https://www.allrecipes.com/recipe/280584/pineapple-lemonade/
+Southern-Style Vanilla Lemonade,18.67,0.17,5.5,0.0,0.5,[],https://www.allrecipes.com/recipe/147010/southern-style-vanilla-lemonade/
+Hot Pink Lemonade,48.5,0.17,12.83,0.0,0.17,[],https://www.allrecipes.com/recipe/141961/hot-pink-lemonade/
+Peppermint Lemonade,7.0,0.0,1.81,0.0,0.0,[],https://www.allrecipes.com/recipe/162303/peppermint-lemonade/
+Bethy's Cucumber Basil Lemonade,13.75,0.0,3.62,N/A,0.0,[],https://www.allrecipes.com/recipe/238741/bethys-cucumber-basil-lemonade/
+Basil Lemonade,7.42,0.0,1.92,0.0,0.0,[],https://www.allrecipes.com/recipe/237597/basil-lemonade/
+Amy's Lavender Lemonade,21.17,0.33,6.83,0.17,1.17,[],https://www.allrecipes.com/recipe/63512/amys-lavender-lemonade/
+Mason Jar Lemonade,90.0,1.0,28.0,0.0,4.0,[],https://www.allrecipes.com/recipe/237904/mason-jar-lemonade/
+Lavender Lemonade with Hibiscus,16.62,0.0,4.38,N/A,0.0,[],https://www.allrecipes.com/recipe/222346/lavender-lemonade-with-hibiscus/
+Honey Lemonade,31.17,0.0,8.67,N/A,0.0,[],https://www.allrecipes.com/recipe/282122/honey-lemonade/
+Tasty Lemonade,34.25,0.5,11.0,0.25,2.0,[],https://www.allrecipes.com/recipe/52304/tasty-lemonade/
+Watermelon Pink Lemonade,76.0,0.0,20.0,N/A,0.0,[],https://www.allrecipes.com/recipe/258918/watermelon-pink-lemonade/
+Easy Brazilian Lemonade,67.67,0.67,16.0,0.67,0.33,['susu'],https://www.allrecipes.com/recipe/222344/easy-brazilian-lemonade/
+Watermelon Strawberry Mango Lemonade Smoothie,82.75,0.5,21.25,0.25,0.75,[],https://www.allrecipes.com/recipe/242179/watermelon-strawberry-mango-lemonade-smoothie/
+Rosemary-Infused Watermelon Lemonade,19.5,0.25,5.12,0.0,0.12,[],https://www.allrecipes.com/recipe/173552/rosemary-infused-watermelon-lemonade/
+Gingerade,32.5,N/A,8.33,N/A,N/A,[],https://www.allrecipes.com/recipe/24485/gingerade/
+Just-Right Pineapple Lemonade from Scratch,13.5,0.1,3.6,0.0,0.2,[],https://www.allrecipes.com/recipe/280583/just-right-pineapple-lemonade-from-scratch/
+Blueberry Lemonade,2.17,0.0,0.75,0.0,0.08,[],https://www.allrecipes.com/recipe/280530/blueberry-lemonade/
+Strawberry-Ginger-Mint Lemonade,6.5,0.12,1.75,0.0,0.12,[],https://www.allrecipes.com/recipe/278685/strawberry-ginger-mint-lemonade/
+Strawberry Acai Lemonade,29.0,0.5,8.0,0.5,1.0,[],https://www.allrecipes.com/recipe/8408210/strawberry-acai-lemonade/
+Refreshing Summer Cucumber Lemonade,25.17,0.0,6.67,0.0,0.0,[],https://www.allrecipes.com/recipe/222345/refreshing-summer-cucumber-lemonade/
+Pineapple Lemonade Spritzers,49.17,0.17,13.33,0.0,0.67,[],https://www.allrecipes.com/recipe/48935/pineapple-lemonade-spritzers/
+Refreshing Brazilian Lemonade,24.17,0.5,4.67,0.5,N/A,['susu'],https://www.allrecipes.com/recipe/254737/refreshing-brazilian-lemonade/
+Bourbon Lemonade,272.0,0.0,37.0,0.0,0.0,[],https://www.allrecipes.com/recipe/8407922/bourbon-lemonade/
+Watermelon-Raspberry Lemonade,20.0,0.0,5.25,0.0,0.25,[],https://www.allrecipes.com/recipe/254651/watermelon-raspberry-lemonade/
+Creamy Lemonade,1.67,0.0,0.67,N/A,0.0,['susu'],https://www.allrecipes.com/recipe/8413068/creamy-lemonade/
+Mango Lemonade,65.5,0.25,17.25,0.0,0.5,[],https://www.allrecipes.com/recipe/8402630/mango-lemonade/
+Peach Lemonade,11.11,0.0,3.0,N/A,0.0,[],https://www.allrecipes.com/recipe/8407917/peach-lemonade/
+Capirotada,11.29,0.29,1.58,0.46,0.04,['keju'],https://www.allrecipes.com/recipe/236937/mexican-capirotada/
+Spaghetti Aglio e Olio,188.75,5.75,21.75,8.75,1.0,['keju'],https://www.allrecipes.com/recipe/222000/spaghetti-aglio-e-olio/
+Spanakopita (Greek Spinach Pie),82.33,3.0,5.33,5.83,1.17,['keju'],https://www.allrecipes.com/recipe/18417/spanakopita-greek-spinach-pie/
+Spinach Quiche,102.17,3.83,4.0,8.0,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/16664/spinach-quiche/
+Louisiana Crawfish Boil,54.1,5.1,3.8,2.2,1.0,['udang'],https://www.allrecipes.com/recipe/140993/louisiana-crawfish-boil/
+Broiled Scallops,91.0,12.67,2.33,3.0,0.0,[],https://www.allrecipes.com/recipe/12798/broiled-scallops/
+Spaghetti Cacio e Pepe,201.75,8.0,22.0,9.0,1.0,['keju'],https://www.allrecipes.com/recipe/246628/spaghetti-cacio-e-pepe/
+Lemony Steamed Fish,23.67,5.0,0.33,0.17,0.0,[],https://www.allrecipes.com/recipe/12768/lemony-steamed-fish/
+Chef John's Salmon Loaf,90.5,7.25,2.0,5.75,0.25,[],https://www.allrecipes.com/recipe/279407/chef-johns-salmon-loaf/
+Potato and Egg Casserole,41.4,0.9,2.5,3.2,0.3,[],https://www.allrecipes.com/recipe/25912/potato-and-egg-casserole/
+Lemon Pepper Cod,59.0,7.75,0.75,3.0,0.25,[],https://www.allrecipes.com/recipe/12805/lemon-pepper-cod/
+Creamy Asparagus Pasta,30.88,1.0,5.5,0.62,0.5,[],https://www.allrecipes.com/recipe/25323/creamy-asparagus-pasta/
+Chef John's Salmon Cakes,76.25,7.75,3.75,3.75,0.25,[],https://www.allrecipes.com/recipe/237827/chef-johns-salmon-cakes/
+Spinach Cheese Pie,67.12,3.5,2.5,4.75,0.12,['keju'],https://www.allrecipes.com/recipe/16556/spinach-cheese-pie/
+Spinach and Cheese Stuffed Pasta Shells,117.17,5.5,15.83,3.5,1.67,['keju'],https://www.allrecipes.com/recipe/16663/spinach-and-cheese-stuffed-pasta-shells/
+Overnight Asparagus Mushroom Strata,43.62,2.62,3.12,2.38,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/213651/overnight-asparagus-mushroom-strata/
+Chef John's Pasta con le Sarde,177.25,7.0,18.0,8.25,1.25,[],https://www.allrecipes.com/recipe/241081/chef-johns-pasta-con-le-sarde/
+Sweet Matzo Brei,27.75,0.62,2.62,1.62,0.12,['susu'],https://www.allrecipes.com/recipe/246467/sweet-matzo-brei/
+Real New Orleans-Style BBQ Shrimp,143.5,7.38,1.25,12.12,0.12,['udang'],https://www.allrecipes.com/recipe/148765/real-new-orleans-style-bbq-shrimp/
+Chef John's Baked Eggs,560.0,21.0,39.0,36.0,4.0,['keju'],https://www.allrecipes.com/recipe/223363/chef-johns-baked-eggs/
+Potato Curry,99.0,2.75,16.25,2.75,2.25,[],https://www.allrecipes.com/recipe/81354/potato-curry/
+Mediterranean-Style Eggplant Pasta,141.75,5.5,17.0,6.0,2.5,['keju'],https://www.allrecipes.com/recipe/240956/mediterranean-style-eggplant-pasta/
+The Best Veggie Sandwich,117.5,4.0,9.25,7.5,1.5,['keju'],https://www.allrecipes.com/recipe/25325/the-best-veggie-sandwich/
+Potato Lasagna,160.5,6.5,24.75,4.25,2.75,['keju'],https://www.allrecipes.com/recipe/71521/potato-lasagna/
+Eggs Poached in Tomato Sauce,88.5,5.0,8.0,4.5,2.0,[],https://www.allrecipes.com/recipe/238054/eggs-poached-in-tomato-sauce/
+Jumbo Shrimp and Asparagus,17.83,1.5,1.33,0.83,0.5,['udang'],https://www.allrecipes.com/recipe/25859/jumbo-shrimp-and-asparagus/
+Roasted Veggie Pasta,152.33,5.67,22.33,5.0,2.0,['keju'],https://www.allrecipes.com/recipe/45644/roasted-veggie-pasta/
+Eggy Veggie Bake,43.75,4.0,2.0,2.5,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/83573/eggy-veggie-bake/
+Lemon Pepper Pasta Seafood,123.0,8.75,11.0,5.0,0.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/12873/lemon-pepper-pasta-seafood/
+"Asparagus, Snow Pea, and Radish Salad",17.5,0.5,1.5,1.17,0.5,[],https://www.allrecipes.com/recipe/246533/asparagus-snow-pea-and-radish-salad/
+Spinach Ziti,32.67,1.17,5.5,0.67,0.5,['keju'],https://www.allrecipes.com/recipe/11820/spinach-ziti/
+Blue Cheese and Asparagus Pizza,48.5,2.5,6.5,1.67,0.5,['keju'],https://www.allrecipes.com/recipe/213644/blue-cheese-and-asparagus-pizza/
+Autumn Lentil Soup,24.25,0.88,2.62,0.75,0.88,['ayam'],https://www.allrecipes.com/recipe/216465/autumn-lentil-soup/
+Lentil Soup,43.62,2.25,6.0,1.25,2.75,[],https://www.allrecipes.com/recipe/13978/lentil-soup/
+Moroccan Harira Soup,35.67,1.67,5.5,1.0,1.17,['ayam'],https://www.allrecipes.com/recipe/8479335/moroccan-harira-soup/
+Lentil Ham Soup,22.25,1.62,2.38,0.62,1.0,['ayam'],https://www.allrecipes.com/recipe/240996/lentil-ham-soup/
+Greek Lentil Soup (Fakes),89.25,4.0,10.0,4.0,4.75,[],https://www.allrecipes.com/recipe/137650/greek-lentil-soup-fakes/
+Red Lentil Soup,34.5,2.12,4.88,0.88,1.12,['ayam'],https://www.allrecipes.com/recipe/139262/lebanese-style-red-lentil-soup/
+Vegan Split Pea Soup,24.7,1.3,4.6,0.2,1.4,[],https://www.allrecipes.com/recipe/16217/vegan-split-pea-soup-i/
+Lentil and Sausage Soup,35.3,1.9,5.0,0.8,1.6,['ayam'],https://www.allrecipes.com/recipe/45426/lentil-and-sausage-soup/
+Turkish Red Lentil Soup with Mint,28.0,1.17,4.0,1.0,0.67,['ayam'],https://www.allrecipes.com/recipe/219817/turkish-red-lentil-soup-with-mint/
+Slow Cooker Lentil and Ham Soup,37.0,2.5,4.33,1.0,1.83,['ayam'],https://www.allrecipes.com/recipe/91605/slow-cooker-lentil-and-ham-soup/
+Beef and Lentil Soup,42.88,3.12,4.75,1.12,2.12,"['keju', 'sapi', 'ayam']",https://www.allrecipes.com/recipe/165843/beef-and-lentil-soup/
+"Sweet Potato, Carrot, Apple, and Red Lentil Soup",53.67,1.5,8.83,1.5,1.67,[],https://www.allrecipes.com/recipe/186378/sweet-potato-carrot-apple-and-red-lentil-soup/
+Instant Pot Lentil and Ham Soup,15.7,1.0,1.7,0.6,0.7,['ayam'],https://www.allrecipes.com/recipe/267261/instant-pot-lentil-and-ham-soup/
+Slow Cooker Mediterranean Lentil Stew,20.8,1.2,3.6,0.2,1.4,[],https://www.allrecipes.com/recipe/282532/slow-cooker-mediterranean-lentil-stew/
+Chef John's Black Lentil Soup,82.25,5.0,11.0,2.0,5.25,['ayam'],https://www.allrecipes.com/recipe/237318/chef-johns-black-lentil-soup/
+Moroccan Lentil Soup,54.83,3.0,9.5,0.67,3.0,[],https://www.allrecipes.com/recipe/12960/moroccan-lentil-soup/
+Instant Pot Lentil Soup,42.33,2.0,6.0,1.33,2.67,[],https://www.allrecipes.com/recipe/279055/instant-pot-lentil-soup/
+Lentil Soup with Lemon,87.75,3.75,9.5,4.0,4.0,['ayam'],https://www.allrecipes.com/recipe/160051/lentil-soup-with-lemon/
+Egyptian Lentil Soup,49.0,3.25,8.5,0.25,4.0,['ayam'],https://www.allrecipes.com/recipe/222661/egyptian-lentil-soup/
+Roasted Pepper and Lentil Soup,34.0,1.83,5.5,0.67,2.17,[],https://www.allrecipes.com/recipe/238125/roasted-pepper-and-lentil-soup/
+Adas bil Hamod (Lebanese Lentil Lemon Soup),30.38,2.12,5.0,0.38,2.38,[],https://www.allrecipes.com/recipe/163438/adas-bil-hamod-lebanese-lentil-lemon-soup/
+Slow Cooker Lentil Soup,25.9,1.8,2.7,0.9,1.2,[],https://www.allrecipes.com/recipe/277942/slow-cooker-lentil-soup/
+Spicy Lentil Soup,36.17,2.33,5.67,0.67,2.67,['ayam'],https://www.allrecipes.com/recipe/220391/spicy-lentil-soup/
+Split Pea and Ham Soup II,43.5,3.38,4.75,1.25,1.88,[],https://www.allrecipes.com/recipe/18108/split-pea-and-ham-soup-ii/
+Red Lentil and Yellow Split Pea Soup Made with a Pressure Cooker,17.0,1.2,2.9,0.1,0.7,['ayam'],https://www.allrecipes.com/recipe/218654/red-lentil-and-yellow-split-pea-soup-made-with-a-pressure-cooker/
+Instant Pot Lebanese Lentil Soup (Shorbat Adas),114.0,5.75,19.25,2.25,3.75,[],https://www.allrecipes.com/recipe/279214/instant-pot-lebanese-lentil-soup-shorbat-adas/
+Red Lentil Soup with Lemon Mint Yogurt,73.5,4.0,10.25,2.0,4.25,['ayam'],https://www.allrecipes.com/recipe/278763/red-lentil-soup-with-lemon-mint-yogurt/
+Turkish Red Lentil 'Bride' Soup,110.5,4.75,16.0,3.5,3.75,[],https://www.allrecipes.com/recipe/219818/turkish-red-lentil-bride-soup/
+Sopa de Lentejas (Andalucian Lentil Soup),48.0,2.5,6.17,1.67,1.67,[],https://www.allrecipes.com/recipe/170024/sopa-de-lentejas-andalucian-lentil-soup/
+German Lentil Soup,27.62,2.0,4.25,0.25,2.0,['ayam'],https://www.allrecipes.com/recipe/13148/german-lentil-soup/
+Lebanese Lemon Lentil Soup,26.8,1.2,3.8,0.8,1.4,[],https://www.allrecipes.com/recipe/223354/lebanese-lemon-lentil-soup/
+Apricot Lentil Soup,43.83,2.17,6.17,1.17,2.67,['ayam'],https://www.allrecipes.com/recipe/12979/apricot-lentil-soup/
+Leslie's Ham Lentil Soup,36.0,2.67,6.33,0.17,2.33,['ayam'],https://www.allrecipes.com/recipe/231408/leslies-ham-lentil-soup/
+Bryan's Spicy Red Lentil Soup,40.17,2.83,6.83,0.33,2.5,[],https://www.allrecipes.com/recipe/81062/bryans-spicy-red-lentil-soup/
+Lentil and Green Collard Soup,76.75,3.75,9.75,3.0,2.75,[],https://www.allrecipes.com/recipe/137450/lentil-and-green-collard-soup/
+Hungarian Lentil Soup,32.25,1.75,4.25,0.75,1.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/16016/hungarian-lentil-soup/
+Easy Lentil Soup,19.5,1.5,3.5,0.12,1.25,['ayam'],https://www.allrecipes.com/recipe/26434/lentil-soup-iii/
+"Barley, Lentil, and Mushroom Soup",33.12,1.75,4.12,1.12,1.25,['sapi'],https://www.allrecipes.com/recipe/150583/barley-lentil-and-mushroom-soup/
+Spicy Tomato and Lentil Soup,59.75,3.25,8.0,1.75,2.75,[],https://www.allrecipes.com/recipe/48553/spicy-tomato-and-lentil-soup/
+Vegan Red Lentil Soup,75.75,3.25,8.5,3.75,3.0,['susu'],https://www.allrecipes.com/recipe/70330/vegan-red-lentil-soup/
+Lentil and Buckwheat Soup,37.33,1.17,4.83,1.67,1.0,[],https://www.allrecipes.com/recipe/278290/lentil-and-buckwheat-soup/
+Moroccan Lentil Soup with Veggies,55.71,3.0,8.0,1.43,3.43,[],https://www.allrecipes.com/recipe/238522/moroccan-lentil-soup-with-veggies/
+Slow Cooker Chicken and Lentil Soup,47.25,3.62,5.12,1.38,1.25,['ayam'],https://www.allrecipes.com/recipe/283804/slow-cooker-chicken-and-lentil-soup/
+Moroccan Harira (Bean Soup),26.1,1.4,4.2,0.4,1.3,['sapi'],https://www.allrecipes.com/recipe/238523/moroccan-harira-bean-soup/
+Slow Cooker Lentil Soup with Bacon,32.5,2.25,4.62,0.62,2.25,[],https://www.allrecipes.com/recipe/277941/slow-cooker-lentil-soup-with-bacon/
+Italian Red Lentil and Brown Rice Soup,107.0,5.0,16.5,2.25,3.0,[],https://www.allrecipes.com/recipe/246565/italian-red-lentil-and-brown-rice-soup/
+Lentils with Chorizo,105.6,5.4,5.4,7.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/214387/lentils-with-chorizo/
+Indian Sweet Potato and Lentil Soup,90.25,4.25,16.0,1.25,5.25,[],https://www.allrecipes.com/recipe/222657/indian-sweet-potato-and-lentil-soup/
+Instant Pot Mexican Lentil Soup,21.62,1.38,3.25,0.38,1.25,['ayam'],https://www.allrecipes.com/recipe/275650/instant-pot-mexican-lentil-soup/
+Easy Spinach Lentil Soup,64.17,4.33,10.0,0.83,4.33,['ayam'],https://www.allrecipes.com/recipe/222640/easy-spinach-lentil-soup/
+Red Lentil and Swiss Chard Soup,30.0,1.88,4.88,0.38,2.12,[],https://www.allrecipes.com/recipe/246517/fragrant-red-lentil-and-rainbow-chard-soup/
+Instant Pot Lentil Chicken Noodle Soup,48.83,3.83,5.0,1.33,1.83,"['ayam', 'telur']",https://www.allrecipes.com/recipe/275655/instant-pot-lentil-chicken-noodle-soup/
+Vegan Butternut Squash and Lentil Stew in the Slow Cooker,54.17,3.0,9.67,0.67,2.33,[],https://www.allrecipes.com/recipe/269009/vegan-butternut-squash-and-lentil-stew-in-the-slow-cooker/
+Vegetarian Mushroom-Lentil Soup,76.0,4.25,10.5,1.75,4.25,[],https://www.allrecipes.com/recipe/269955/vegetarian-mushroom-lentil-soup/
+Vegan Turkish Red Lentil Soup,35.62,2.0,5.88,0.75,1.62,[],https://www.allrecipes.com/recipe/263998/vegan-turkish-red-lentil-soup/
+Hearty Italian Lentil Soup,40.5,2.62,4.25,1.5,0.88,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/126007/hearty-italian-lentil-soup/
+Curry Red Lentil Soup,100.0,5.25,13.75,3.25,5.5,['susu'],https://www.allrecipes.com/recipe/277047/curry-red-lentil-soup/
+Jana's Pressure Cooker Lentil Ham Soup,38.25,3.88,4.5,0.62,2.0,[],https://www.allrecipes.com/recipe/228383/janas-pressure-cooker-lentil-ham-soup/
+Black Lentil Veggie Soup,24.17,0.5,2.83,1.17,0.67,[],https://www.allrecipes.com/recipe/255610/black-lentil-veggie-soup/
+French Lentil Soup,23.62,1.12,3.25,0.75,1.38,['ayam'],https://www.allrecipes.com/recipe/285489/french-lentil-soup/
+Instant Pot® Lentil and Rice Soup,16.1,0.7,3.0,0.2,0.7,[],https://www.allrecipes.com/recipe/276745/instant-pot-lentil-and-rice-soup/
+Lentil Curry Soup,20.1,1.0,3.3,0.4,1.1,[],https://www.allrecipes.com/recipe/156875/lentil-curry-soup/
+"Hearty Cabbage, Beef, and Lentil Soup",54.67,4.33,5.33,1.67,2.33,['sapi'],https://www.allrecipes.com/recipe/278779/hearty-cabbage-beef-and-lentil-soup/
+Instant Pot Lebanese Lentil and Chard Soup,25.25,1.38,4.12,0.5,1.75,[],https://www.allrecipes.com/recipe/279215/instant-pot-lebanese-lentil-and-chard-soup/
+Lentil Soup with Goat Cheese and Arugula,36.88,1.75,4.75,1.12,1.38,['keju'],https://www.allrecipes.com/recipe/222693/lentil-soup-with-goat-cheese-and-arugula/
+Asian Lettuce Wraps,97.0,5.75,6.0,5.5,1.25,['sapi'],https://www.allrecipes.com/recipe/71722/asian-lettuce-wraps/
+Quick Asian Lettuce Wraps,209.0,11.5,24.0,7.75,2.0,[],https://www.allrecipes.com/recipe/34721/quick-asian-lettuce-wraps/
+Chef John's Chicken Lettuce Wraps,26.5,2.25,1.38,1.38,0.25,['ayam'],https://www.allrecipes.com/recipe/239788/chef-johns-chicken-lettuce-wraps/
+Chicken Lettuce Wraps,48.67,5.67,1.83,2.17,0.5,['ayam'],https://www.allrecipes.com/recipe/229786/chicken-lettuce-wraps/
+Tuna Lettuce Wraps,31.67,5.33,0.33,1.0,0.0,['keju'],https://www.allrecipes.com/recipe/278456/tuna-lettuce-wraps/
+Lettuce Leaf Tacos,137.5,8.75,3.5,9.75,0.75,"['keju', 'sapi', 'ayam']",https://www.allrecipes.com/recipe/232454/lettuce-leaf-tacos/
+"Easy ""Peking Duck"" Lettuce Cups",46.67,4.17,2.0,2.5,0.33,[],https://www.allrecipes.com/recipe/245029/easy-peking-duck-lettuce-cups/
+Easy Lettuce Wraps,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/65720/easy-lettuce-wraps/
+"One-Bite Thai ""Flavor Bomb"" Salad Wraps (Miang Kham)",28.12,1.12,3.0,1.5,0.5,"['ikan', 'ayam']",https://www.allrecipes.com/recipe/284874/one-bite-thai-flavor-bomb-salad-wraps-miang-kham/
+Asian-Inspired Chicken Lettuce Wraps,72.5,7.25,6.0,2.25,1.0,['ayam'],https://www.allrecipes.com/recipe/283426/asian-inspired-chicken-lettuce-wraps/
+Ground Turkey Lettuce Wraps,64.75,6.25,3.0,3.25,0.5,[],https://www.allrecipes.com/recipe/270054/ground-turkey-lettuce-wraps/
+Spicy Ground Beef Cabbage Wraps with Peanut Sauce,14.58,0.92,1.0,0.92,0.25,['sapi'],https://www.allrecipes.com/recipe/278394/spicy-ground-beef-cabbage-wraps-with-peanut-sauce/
+"Chicken, Avocado, and Bacon Lettuce Wrap",584.0,26.0,36.0,41.0,18.0,['ayam'],https://www.allrecipes.com/recipe/273782/chicken-avocado-and-bacon-lettuce-wrap/
+Vegan Lettuce Wraps,56.25,2.0,5.25,3.25,1.0,[],https://www.allrecipes.com/recipe/257224/vegan-lettuce-wraps/
+Turkey Lettuce Wraps with Shiitake Mushrooms,120.25,7.5,11.0,5.5,1.25,[],https://www.allrecipes.com/recipe/202709/turkey-lettuce-wraps-with-shiitake-mushrooms/
+Easy and Simple Vegetarian Lettuce Wraps,52.0,1.25,10.75,0.5,0.75,[],https://www.allrecipes.com/recipe/242270/easy-and-simple-vegetarian-lettuce-wraps/
+Shrimp Lettuce Wraps,71.75,6.25,2.5,4.25,1.0,"['keju', 'udang']",https://www.allrecipes.com/recipe/276085/shrimp-lettuce-wraps/
+Curried Chicken Lettuce Wraps,60.83,2.33,2.83,4.67,0.33,['ayam'],https://www.allrecipes.com/recipe/283430/curried-chicken-lettuce-wraps/
+Asian Roll Lettuce Wrap,92.25,7.25,10.75,2.5,1.5,[],https://www.allrecipes.com/recipe/32202/asian-roll-lettuce-wrap/
+Vegan Lettuce Wraps with Tofu,31.33,1.5,3.17,1.67,0.67,[],https://www.allrecipes.com/recipe/285062/vegan-lettuce-wraps-with-tofu/
+Minced Pork and Watermelon Lettuce Wraps,133.75,7.25,7.75,8.5,1.0,[],https://www.allrecipes.com/recipe/215585/minced-pork-and-watermelon-lettuce-wraps/
+Thai Lettuce Cups with Red Curry Potatoes,24.0,0.33,5.0,0.5,0.33,['ikan'],https://www.allrecipes.com/recipe/245451/thai-lettuce-cups-with-red-curry-potatoes/
+CAMPBELL'S® Thai Tacos,N/A,N/A,N/A,N/A,N/A,['ayam'],https://www.allrecipes.com/recipe/270100/campbells-thai-tacos/
+Amy's Lettuce Wraps,53.33,2.83,3.83,3.17,0.33,[],https://www.allrecipes.com/recipe/246280/amys-lettuce-wraps/
+Shrimp Scampi with Pasta,85.17,3.67,9.67,3.17,0.67,['udang'],https://www.allrecipes.com/recipe/229960/shrimp-scampi-with-pasta/
+Linguine with Clam Sauce,219.5,9.25,21.25,10.75,1.25,[],https://www.allrecipes.com/recipe/11951/linguine-with-clam-sauce/
+Pesto Cream Sauce,84.62,4.25,6.5,4.75,0.5,"['keju', 'susu', 'udang']",https://www.allrecipes.com/recipe/40186/pesto-cream-sauce/
+Creamy Pesto Shrimp,80.75,2.88,5.38,5.38,0.38,"['keju', 'udang']",https://www.allrecipes.com/recipe/11808/creamy-pesto-shrimp/
+Garlic Shrimp Linguine,35.88,2.25,5.25,0.62,0.25,"['keju', 'udang']",https://www.allrecipes.com/recipe/17048/garlic-shrimp-linguine/
+Linguine with White Clam Sauce,90.83,7.33,9.5,2.5,0.5,[],https://www.allrecipes.com/recipe/12029/linguine-with-white-clam-sauce-ii/
+Pasta Pancetta,79.5,2.5,8.33,4.17,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/92525/pasta-pancetta/
+Scrumptious Seafood Linguine,54.62,2.5,5.12,2.75,0.38,"['keju', 'udang']",https://www.allrecipes.com/recipe/23970/scrumptious-seafood-linguine/
+Pork Lo Mein,103.75,6.5,13.75,2.75,1.25,[],https://www.allrecipes.com/recipe/231523/pork-lo-mein/
+Creamy Chicken on Linguine,59.75,4.62,2.88,3.25,0.12,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/11904/creamy-chicken-on-linguine/
+Mussels and Pasta with Creamy Wine Sauce,708.0,25.0,45.0,44.0,4.0,[],https://www.allrecipes.com/recipe/280466/mussels-and-pasta-with-creamy-wine-sauce/
+Fra Diavolo Sauce With Pasta,41.88,2.38,5.75,1.12,0.38,['udang'],https://www.allrecipes.com/recipe/11789/fra-diavolo-sauce-with-pasta/
+Garlic-Herb Linguine,204.5,4.0,21.0,12.0,1.0,[],https://www.allrecipes.com/recipe/241491/garlic-herb-linguine/
+Zuppa Di Pesce Fra Di Avolo,77.5,7.2,8.1,1.7,0.7,['udang'],https://www.allrecipes.com/recipe/230551/zuppa-di-pesce-fra-di-avolo/
+Shrimp Linguine,64.62,4.12,5.38,3.12,0.25,"['keju', 'udang']",https://www.allrecipes.com/recipe/11671/shrimp-linguine/
+Amazing White Clam Sauce,206.25,12.25,14.5,11.25,0.75,['keju'],https://www.allrecipes.com/recipe/47234/amazing-white-clam-sauce/
+Creamy Cajun Chicken Pasta,554.5,21.5,27.0,41.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/12009/creamy-cajun-chicken-pasta/
+Oven Chicken and Linguini Recipe,65.44,4.22,4.67,3.33,0.44,"['keju', 'ayam']",https://www.allrecipes.com/recipe/240954/oven-chicken-and-linguini/
+Clam Sauce with Linguine,198.75,10.75,23.25,7.25,1.25,['keju'],https://www.allrecipes.com/recipe/47125/clam-sauce-with-linguine/
+Chicken and Broccoli Alfredo,N/A,N/A,N/A,N/A,N/A,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/151618/chicken-and-broccoli-alfredo/
+Absolutely Delicious Stuffed Calamari,169.83,11.0,7.0,11.0,0.33,"['keju', 'susu', 'udang']",https://www.allrecipes.com/recipe/63248/absolutely-delicious-stuffed-calamari/
+Amatriciana,132.25,5.5,24.5,2.0,1.5,['keju'],https://www.allrecipes.com/recipe/11704/amatriciana/
+Shrimp and Mushroom Linguini with Creamy Cheese Herb Sauce,150.25,5.75,11.0,9.5,0.75,"['keju', 'udang']",https://www.allrecipes.com/recipe/11798/shrimp-and-mushroom-linguini-with-creamy-cheese-herb-sauce/
+Shrimp Francese over Linguine,150.75,8.25,14.25,6.25,0.5,"['ayam', 'udang']",https://www.allrecipes.com/recipe/281450/shrimp-francese-over-linguine/
+Creamy Pasta Carbonara,49.38,2.25,5.25,2.25,0.25,['keju'],https://www.allrecipes.com/recipe/11770/pasta-carbonara-i/
+Onion Pasta,115.8,2.4,12.0,6.6,1.2,['ayam'],https://www.allrecipes.com/recipe/11868/onion-pasta/
+Calamari in a Creamy White Wine Sauce,615.0,19.5,52.0,33.5,2.5,"['keju', 'cumi']",https://www.allrecipes.com/recipe/132071/calamari-in-a-creamy-white-wine-sauce/
+Shrimp Lemon Pepper Linguini,121.0,8.0,12.0,4.5,1.0,"['ayam', 'udang']",https://www.allrecipes.com/recipe/40154/shrimp-lemon-pepper-linguini/
+Linguine and Clam Sauce,124.8,6.4,14.2,4.8,0.6,['keju'],https://www.allrecipes.com/recipe/19307/linguine-and-clam-sauce/
+Creamy Shrimp Scampi with Half-and-Half,587.5,29.5,53.5,28.5,2.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/268669/creamy-shrimp-scampi-with-half-and-half/
+Linguine with Clams,26.92,1.75,2.67,0.83,0.17,[],https://www.allrecipes.com/recipe/75453/linguine-with-clams/
+Scrumptious Shrimp Scampi Linguine,95.5,6.33,9.67,3.33,0.5,"['kerang', 'udang']",https://www.allrecipes.com/recipe/214600/scrumptious-shrimp-scampi-linguine/
+Shrimp and Feta Cheese Pasta,120.6,6.6,15.0,4.0,0.8,"['keju', 'udang']",https://www.allrecipes.com/recipe/21120/shrimp-and-feta-cheese-pasta/
+Lemon Shrimp Pasta,146.25,9.75,16.5,4.75,1.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/277134/lemon-shrimp-pasta/
+Zesty Italian Sausage Pasta,159.6,6.4,14.8,8.4,1.0,['ayam'],https://www.allrecipes.com/recipe/218856/zesty-italian-sausage-pasta/
+Scallop Scampi,45.12,2.62,5.5,1.12,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/17125/scallop-scampi/
+Broccoli Pasta Salad,45.83,1.67,5.33,2.17,0.5,['keju'],https://www.allrecipes.com/recipe/228015/broccoli-pasta-salad/
+Amazing Shrimp and Langostino Lobster Linguine,74.88,4.75,6.38,3.25,0.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/235556/amazing-shrimp-and-langostino-lobster-linguine/
+Linguine Pasta with Shrimp and Tomatoes,86.67,4.5,10.33,2.67,0.67,['udang'],https://www.allrecipes.com/recipe/139510/linguine-pasta-with-shrimp-and-tomatoes/
+Linguini with Bacon and Scallops,80.83,4.17,11.0,2.0,0.67,[],https://www.allrecipes.com/recipe/258281/linguini-with-bacon-and-scallops/
+Easy Smoked Salmon Pasta,288.5,10.0,43.5,9.0,2.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/133846/easy-smoked-salmon-pasta/
+Easy Linguine with White Clam Sauce,91.4,6.2,14.0,1.2,0.6,['kerang'],https://www.allrecipes.com/recipe/12000/linguine-with-white-clam-sauce-i/
+Chicken Primavera Alfredo,162.33,4.5,10.33,11.83,0.67,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/231825/chicken-primavera-alfredo/
+Fra Diavolo Sauce with Linguine,45.5,2.75,6.38,1.12,0.5,['udang'],https://www.allrecipes.com/recipe/233751/fra-diavolo-sauce-with-linguine/
+Clam Linguine,115.25,5.0,7.25,7.5,0.75,['keju'],https://www.allrecipes.com/recipe/17124/clam-linguine/
+Chickpea Pasta with Spinach,153.25,5.75,26.0,3.0,2.75,['keju'],https://www.allrecipes.com/recipe/235353/pasta-with-spinach-and-chickpeas/
+Pasta with Fennel and Onions,60.12,1.75,7.12,2.5,1.0,['keju'],https://www.allrecipes.com/recipe/229117/pasta-with-fennel-and-onions/
+Instant Pot Creamy Pasta with Chicken Thighs and Mushrooms,107.67,5.83,8.0,6.0,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/284186/instant-pot-creamy-pasta-with-chicken-thighs-and-mushrooms/
+Chicken Lemon Linguine,50.0,2.5,6.12,1.75,0.25,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/240952/chicken-lemon-linguine/
+Linguine with Broccoli and Red Peppers,65.5,2.17,10.17,1.83,1.0,['keju'],https://www.allrecipes.com/recipe/11779/linguini-with-broccoli-and-red-peppers/
+Mediterranean Pasta,156.25,11.25,12.75,6.75,1.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/23709/mediterranean-pasta/
+Creamy Linguini for Two,496.0,13.5,43.0,31.0,2.0,['keju'],https://www.allrecipes.com/recipe/19340/creamy-linguini-for-two/
+Chicken Mushroom Linguine,91.67,7.5,8.17,3.17,0.5,['ayam'],https://www.allrecipes.com/recipe/71291/chicken-mushroom-linguine/
+Lemon Pasta Sauce,82.4,1.6,6.6,5.6,0.4,['sapi'],https://www.allrecipes.com/recipe/11855/lemon-pasta-sauce/
+Frutti Di Mare,85.5,6.5,9.5,1.88,0.88,"['keju', 'kerang', 'udang']",https://www.allrecipes.com/recipe/282922/frutti-di-mare/
+Linguine with Seafood and Sundried Tomatoes,66.25,3.38,5.62,3.38,0.25,"['kerang', 'udang']",https://www.allrecipes.com/recipe/11814/linguine-with-seafood-and-sundried-tomatoes/
+Linguine with Peppers and Sausage,109.5,4.5,12.75,3.5,1.0,['keju'],https://www.allrecipes.com/recipe/11675/linguine-with-peppers-and-sausage/
+Cherry Tomato Pasta,57.83,3.0,8.17,1.67,1.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/283929/roasted-cherry-tomato-pasta/
+Spence's Pesto Chicken Pasta,128.0,6.5,13.5,5.75,1.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/217912/spences-pesto-chicken-pasta/
+Pasta Primavera with Lemon Caper Sauce,148.5,5.0,14.75,8.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/238329/pasta-primavera-with-lemon-caper-sauce/
+Seafood Linguine,52.25,3.5,6.5,1.38,0.38,"['susu', 'udang']",https://www.allrecipes.com/recipe/12025/seafood-linguine/
+Cold Sesame Noodles with Spicy Peanut Sauce,60.83,1.83,7.67,2.83,0.5,[],https://www.allrecipes.com/recipe/283588/cold-sesame-noodles-with-spicy-peanut-sauce/
+Easy Cremini Mushroom Pasta,117.0,2.75,12.0,6.75,1.0,['keju'],https://www.allrecipes.com/recipe/283888/easy-cremini-mushroom-pasta/
+Blackened Salmon Pasta,128.33,6.5,11.17,6.67,0.83,['keju'],https://www.allrecipes.com/recipe/285422/blackened-salmon-pasta/
+Jamie's Sweet and Easy Corn on the Cob,15.67,0.5,3.67,0.17,0.33,[],https://www.allrecipes.com/recipe/222352/jamies-sweet-and-easy-corn-on-the-cob/
+Sarah's Homemade Applesauce,30.25,0.0,8.0,0.0,1.0,[],https://www.allrecipes.com/recipe/51301/sarahs-applesauce/
+Homemade Crispy Hash Browns,45.75,1.25,6.5,1.75,0.75,['telur'],https://www.allrecipes.com/recipe/57783/emilys-famous-hash-browns/
+Vietnamese Fresh Spring Rolls,10.25,0.38,2.0,0.12,0.12,"['ikan', 'udang']",https://www.allrecipes.com/recipe/24239/vietnamese-fresh-spring-rolls/
+Easy Roasted Broccoli,15.75,0.75,1.75,1.0,0.75,[],https://www.allrecipes.com/recipe/240438/easy-roasted-broccoli/
+Greek Pulled Pork,18.25,2.62,0.5,0.62,0.12,[],https://www.allrecipes.com/recipe/231085/greek-pulled-pork/
+Whitney and Ashley's Flawless Roasted Vegetables,14.83,0.5,2.0,0.83,0.67,[],https://www.allrecipes.com/recipe/232200/whitney-and-ashleys-flawless-roasted-vegetables/
+Pork Normandy,34.0,3.5,1.5,1.33,0.17,['ayam'],https://www.allrecipes.com/recipe/88234/pork-normandy/
+Picante Chicken,87.5,14.5,4.5,1.0,1.0,['ayam'],https://www.allrecipes.com/recipe/8989/picante-chicken/
+Cabbage Success,26.33,0.67,2.83,1.5,0.83,['susu'],https://www.allrecipes.com/recipe/35754/cabbage-success/
+Easy Homestyle Green Beans,15.5,1.0,1.25,0.75,0.5,['ayam'],https://www.allrecipes.com/recipe/77426/easy-homestyle-green-beans/
+Beef Kelaguen,26.25,3.12,0.75,1.25,0.12,['sapi'],https://www.allrecipes.com/recipe/130443/beef-kelaguen/
+Portuguese Pork with Red Peppers,26.5,3.0,0.88,1.0,0.25,[],https://www.allrecipes.com/recipe/50054/portuguese-pork-with-red-peppers/
+Creamy Creamed Cabbage,29.83,1.67,2.33,1.67,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/31644/creamy-creamed-cabbage/
+Grilled Asparagus,13.75,0.75,1.25,1.0,0.5,[],https://www.allrecipes.com/recipe/17445/grilled-asparagus/
+Southern Fried Cabbage,31.5,0.83,2.33,2.33,0.67,[],https://www.allrecipes.com/recipe/73833/southern-fried-cabbage/
+Roasted New Red Potatoes,22.38,0.38,3.38,0.88,0.38,[],https://www.allrecipes.com/recipe/76954/roasted-new-red-potatoes/
+Black Beans and Rice,23.33,1.0,4.5,0.17,1.0,[],https://www.allrecipes.com/recipe/15559/black-beans-and-rice/
+Simply Steamed Asparagus,8.0,0.75,1.0,0.25,0.5,[],https://www.allrecipes.com/recipe/55196/simply-steamed-asparagus/
+Easy Baked Tilapia,43.0,6.25,1.75,1.0,0.75,[],https://www.allrecipes.com/recipe/70163/easy-baked-tilapia/
+Fish in Foil,106.5,12.0,4.0,5.5,1.5,[],https://www.allrecipes.com/recipe/21306/fish-in-foil/
+Three Bean Salad,7.0,0.12,1.0,0.31,0.12,[],https://www.allrecipes.com/recipe/13637/three-bean-salad/
+Pesto Pasta with Chicken,41.0,2.12,5.38,1.25,0.38,['ayam'],https://www.allrecipes.com/recipe/46982/pesto-pasta-with-chicken/
+Blackened Chicken,67.5,12.5,0.5,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/8571/blackened-chicken/
+Acorn Squash,94.5,1.0,18.0,3.0,1.5,[],https://www.allrecipes.com/recipe/16796/acorn-squash/
+Easy Garlic Kale,21.75,1.0,2.75,1.0,0.5,[],https://www.allrecipes.com/recipe/241074/easy-garlic-kale/
+Homemade Crispy Seasoned French Fries,24.12,0.5,4.75,0.38,0.38,[],https://www.allrecipes.com/recipe/50223/homemade-crispy-seasoned-french-fries/
+Roasted Onions,6.75,0.12,0.75,0.38,0.12,[],https://www.allrecipes.com/recipe/77009/roasted-onions/
+Easy Slow Cooker Meatballs,231.25,10.25,18.25,13.25,2.75,"['sapi', 'telur']",https://www.allrecipes.com/recipe/57981/easy-slow-cooker-meatballs/
+Rolo Pretzel Turtles,4.1,0.1,0.7,0.1,0.05,[],https://www.allrecipes.com/recipe/96749/pretzel-turtles/
+Japanese Tamago Egg,10.5,0.67,0.5,0.67,N/A,[],https://www.allrecipes.com/recipe/221923/japanese-tamago-egg/
+Grandma's Harvard Beets,30.83,0.17,5.67,1.0,0.33,[],https://www.allrecipes.com/recipe/92773/grandmas-harvard-beets/
+Sautéed Asparagus,25.5,0.75,1.25,2.25,0.5,[],https://www.allrecipes.com/recipe/92845/sauteed-garlic-asparagus/
+Roasted Asparagus with Parmesan,11.5,1.0,1.25,0.5,0.5,['keju'],https://www.allrecipes.com/recipe/220195/roasted-asparagus-with-parmesan/
+Baked Honey Mustard Chicken,38.67,4.33,4.17,0.67,0.17,['ayam'],https://www.allrecipes.com/recipe/8847/baked-honey-mustard-chicken/
+Homemade Black Bean Veggie Burgers,49.5,2.75,8.25,0.75,2.5,['telur'],https://www.allrecipes.com/recipe/85452/homemade-black-bean-veggie-burgers/
+Slow Cooker Turkey Breast,22.75,5.0,0.17,0.17,0.0,[],https://www.allrecipes.com/recipe/92528/slow-cooker-turkey-breast/
+Chinese Garlic Green Beans,9.17,0.33,1.33,0.33,0.5,[],https://www.allrecipes.com/recipe/158854/chinese-buffet-green-beans/
+Miso and Soy Chilean Sea Bass,71.75,6.25,7.0,1.0,0.25,[],https://www.allrecipes.com/recipe/190094/miso-and-soy-chilean-sea-bass/
+Easy Baked Ham Steaks,101.0,8.5,12.5,2.0,0.5,[],https://www.allrecipes.com/recipe/231061/easy-baked-ham-steaks/
+Puerto Rican Tostones (Fried Plantains),68.0,0.5,14.5,1.5,1.0,[],https://www.allrecipes.com/recipe/16768/puerto-rican-tostones-fried-plantains/
+Pan Fried Brussels Sprouts,21.75,1.0,3.0,1.0,1.25,[],https://www.allrecipes.com/recipe/216805/pan-fried-brussels-sprouts/
+Roasted Garlic Lemon Broccoli,8.17,0.5,1.17,0.33,0.5,[],https://www.allrecipes.com/recipe/144346/roasted-garlic-lemon-broccoli/
+Smoked Fish Dip,1.56,0.25,0.06,0.0,N/A,[],https://www.allrecipes.com/recipe/45291/smoked-fish-dip/
+Cabbage Steaks,15.33,0.5,2.17,0.83,0.67,[],https://www.allrecipes.com/recipe/238097/cabbage-steaks/
+Wonton Soup,32.5,2.17,3.5,1.0,0.17,"['ayam', 'udang']",https://www.allrecipes.com/recipe/13199/wonton-soup/
+Red Lentil Curry,24.0,1.5,4.12,0.38,1.38,[],https://www.allrecipes.com/recipe/16641/red-lentil-curry/
+Perfect Hard-Boiled Eggs,9.0,0.75,0.0,0.62,N/A,[],https://www.allrecipes.com/recipe/213737/kens-perfect-hard-boiled-egg-and-i-mean-perfect/
+"Slow Cooker Green Beans, Ham and Potatoes",20.0,1.0,2.1,0.9,0.5,['ayam'],https://www.allrecipes.com/recipe/21417/slow-cooker-green-beans-ham-and-potatoes/
+Tomato and Garlic Pasta,65.0,2.5,10.5,1.75,1.25,['keju'],https://www.allrecipes.com/recipe/11691/tomato-and-garlic-pasta/
+Cheesy Ramen Noodles,163.0,8.0,8.0,11.0,0.0,['keju'],https://www.allrecipes.com/recipe/139184/cheesy-ramen-noodles/
+Baked Beans from Scratch,12.2,0.5,2.6,0.0,0.5,[],https://www.allrecipes.com/recipe/165249/baked-beans-from-scratch/
+Easy Baked Beans,17.6,0.6,3.2,0.4,0.4,[],https://www.allrecipes.com/recipe/21655/simple-baked-beans/
+Pan Fried Green Beans,22.8,0.6,2.0,1.6,1.0,[],https://www.allrecipes.com/recipe/23724/pan-fried-green-beans/
+Emily's Marinated Venison Steaks,84.5,11.5,6.0,1.5,0.5,[],https://www.allrecipes.com/recipe/231419/emilys-marinated-venison-steaks/
+Parchment Baked Salmon,87.5,12.5,3.0,3.5,1.5,[],https://www.allrecipes.com/recipe/229032/parchment-baked-salmon/
+Homemade Horseradish,1.2,0.0,0.3,N/A,N/A,[],https://www.allrecipes.com/recipe/17435/homemade-horseradish/
+Delicious Baked Apples,24.5,0.17,6.17,0.17,1.0,[],https://www.allrecipes.com/recipe/228683/delicious-cinnamon-baked-apples/
+Muesli,11.75,0.38,2.0,0.38,0.31,[],https://www.allrecipes.com/recipe/14009/muesli/
+Pork Chops for the Slow Cooker,24.33,2.67,1.83,0.67,0.0,[],https://www.allrecipes.com/recipe/25150/pork-chops-for-the-slow-cooker/
+Mango Salsa,2.62,0.0,0.62,0.0,0.12,[],https://www.allrecipes.com/recipe/48032/mango-salsa/
+Ginger Veggie Stir Fry,19.83,0.33,1.33,1.5,0.33,[],https://www.allrecipes.com/recipe/24712/ginger-veggie-stir-fry/
+Chicken and Red Wine Sauce,17.83,1.83,1.58,0.33,0.0,['ayam'],https://www.allrecipes.com/recipe/19125/chicken-and-red-wine-sauce/
+Italian Peas,17.67,0.67,2.0,0.83,0.67,['ayam'],https://www.allrecipes.com/recipe/90209/italian-peas/
+Lemon Garlic Tilapia,35.5,5.75,0.25,1.0,0.0,[],https://www.allrecipes.com/recipe/89261/lemon-garlic-tilapia/
+Lemon-Orange Orange Roughy,35.0,4.75,2.0,1.0,0.5,[],https://www.allrecipes.com/recipe/40061/lemon-orange-orange-roughy/
+Jamie's Sweet and Easy Corn on the Cob,15.67,0.5,3.67,0.17,0.33,[],https://www.allrecipes.com/recipe/222352/jamies-sweet-and-easy-corn-on-the-cob/
+Sarah's Homemade Applesauce,30.25,0.0,8.0,0.0,1.0,[],https://www.allrecipes.com/recipe/51301/sarahs-applesauce/
+Best Spanish Rice,57.2,1.2,10.2,1.2,0.4,['ayam'],https://www.allrecipes.com/recipe/33385/best-spanish-rice/
+Apple Pie Filling,3.23,0.0,0.82,0.0,0.03,[],https://www.allrecipes.com/recipe/12681/apple-pie-filling/
+Black Beans and Rice,23.33,1.0,4.5,0.17,1.0,[],https://www.allrecipes.com/recipe/15559/black-beans-and-rice/
+Oven Roasted Potatoes,72.25,1.25,13.25,1.75,1.0,[],https://www.allrecipes.com/recipe/20963/oven-roasted-potatoes/
+Indian Style Basmati Rice,36.0,0.67,6.5,0.83,0.17,[],https://www.allrecipes.com/recipe/72349/indian-style-basmati-rice/
+Pesto Pasta with Chicken,41.0,2.12,5.38,1.25,0.38,['ayam'],https://www.allrecipes.com/recipe/46982/pesto-pasta-with-chicken/
+Crisp Pickled Green Beans,0.17,0.02,0.04,N/A,0.02,[],https://www.allrecipes.com/recipe/62594/crisp-pickled-green-beans/
+Air Fryer Baked Potatoes,172.0,4.0,32.5,3.5,4.0,[],https://www.allrecipes.com/recipe/265979/air-fryer-baked-potatoes/
+Slow Cooker Pulled Pork,41.88,2.62,6.12,0.62,0.25,[],https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
+Easy Sweet Potato Casserole,38.5,0.4,9.1,0.1,0.9,[],https://www.allrecipes.com/recipe/229692/easy-sweet-potato-casserole/
+Mongolian Beef and Spring Onions,97.75,4.5,13.75,3.0,0.75,['sapi'],https://www.allrecipes.com/recipe/201849/mongolian-beef-and-spring-onions/
+Homemade Crispy Seasoned French Fries,24.12,0.5,4.75,0.38,0.38,[],https://www.allrecipes.com/recipe/50223/homemade-crispy-seasoned-french-fries/
+Roast Potatoes,56.75,1.0,9.0,1.75,0.75,[],https://www.allrecipes.com/recipe/18324/roast-potatoes/
+Baked Sweet Potatoes,45.25,0.75,7.0,1.75,1.0,[],https://www.allrecipes.com/recipe/18249/baked-sweet-potatoes/
+Brazilian Grilled Pineapple,42.5,0.17,11.0,0.0,0.67,[],https://www.allrecipes.com/recipe/235932/brazilian-grilled-pineapple/
+Canned Apple Pie Filling,1.73,0.0,0.45,0.0,0.02,[],https://www.allrecipes.com/recipe/15942/canned-apple-pie-filling/
+Hard Candy,3.44,N/A,0.89,N/A,N/A,[],https://www.allrecipes.com/recipe/35842/hard-candy/
+Fideo,72.0,2.25,11.75,2.0,0.75,[],https://www.allrecipes.com/recipe/74749/fideo/
+Fresh Homemade Salsa,0.92,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/230878/fresh-homemade-salsa/
+Sweet Zucchini Relish,0.42,0.0,0.11,N/A,0.0,[],https://www.allrecipes.com/recipe/172346/sweet-zucchini-relish/
+Instant Pot Pinto Beans (No Soaking),29.5,1.88,4.88,0.38,1.12,['ayam'],https://www.allrecipes.com/recipe/275053/instant-pot-pinto-beans-no-soaking/
+Easy Red Beans and Rice,36.12,2.0,5.25,0.75,1.0,[],https://www.allrecipes.com/recipe/34419/easy-red-beans-and-rice/
+Miso and Soy Chilean Sea Bass,71.75,6.25,7.0,1.0,0.25,[],https://www.allrecipes.com/recipe/190094/miso-and-soy-chilean-sea-bass/
+Tomatillo Salsa Verde,3.0,0.12,0.62,0.12,0.12,[],https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/
+Easy Baked Ham Steaks,101.0,8.5,12.5,2.0,0.5,[],https://www.allrecipes.com/recipe/231061/easy-baked-ham-steaks/
+Puerto Rican Tostones (Fried Plantains),68.0,0.5,14.5,1.5,1.0,[],https://www.allrecipes.com/recipe/16768/puerto-rican-tostones-fried-plantains/
+Instant Pot Mexican Rice,56.25,1.25,10.25,1.0,0.25,['ayam'],https://www.allrecipes.com/recipe/263330/instant-pot-mexican-rice/
+Candied Lemon Peel,7.2,0.0,1.93,0.0,0.07,[],https://www.allrecipes.com/recipe/56693/candied-lemon-peel/
+Homemade Lady Fingers,0.52,0.02,0.1,0.0,0.0,[],https://www.allrecipes.com/recipe/10434/ladyfingers/
+Air Fryer Roasted Bananas,107.0,1.0,27.0,1.0,3.0,[],https://www.allrecipes.com/recipe/272347/air-fryer-roasted-bananas/
+Vegan Chocolate Cake,34.38,0.38,5.62,1.25,0.12,[],https://www.allrecipes.com/recipe/16779/vegan-chocolate-cake/
+Smoked Fish Dip,1.56,0.25,0.06,0.0,N/A,[],https://www.allrecipes.com/recipe/45291/smoked-fish-dip/
+"Heather's Cilantro, Black Bean, and Corn Salsa",0.42,0.01,0.07,0.01,0.01,[],https://www.allrecipes.com/recipe/143315/heathers-cilantro-black-bean-and-corn-salsa/
+Slow Cooker Chicken Tacos,8.88,1.38,0.25,0.12,N/A,['ayam'],https://www.allrecipes.com/recipe/242342/fiesta-slow-cooker-shredded-chicken-tacos/
+Falafel with Canned Chickpeas,11.17,0.42,1.83,0.25,0.25,[],https://www.allrecipes.com/recipe/274884/falafel-with-canned-chickpeas/
+Snow Ice Cream,16.5,0.25,3.5,0.12,N/A,['susu'],https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/
+Baked Beans from Scratch,12.2,0.5,2.6,0.0,0.5,[],https://www.allrecipes.com/recipe/165249/baked-beans-from-scratch/
+Air Fryer Fingerling Potatoes,30.0,0.5,5.0,1.0,0.75,[],https://www.allrecipes.com/recipe/277321/air-fryer-fingerling-potatoes/
+Homemade Sushi,19.0,0.5,3.25,0.5,0.25,[],https://www.allrecipes.com/recipe/24228/sushi-roll/
+Easy Baked Beans,17.6,0.6,3.2,0.4,0.4,[],https://www.allrecipes.com/recipe/21655/simple-baked-beans/
+Slow Cooker Homemade Beans,24.67,1.0,4.75,0.25,1.08,[],https://www.allrecipes.com/recipe/58389/slow-cooker-homemade-beans/
+Delicious Baked Apples,24.5,0.17,6.17,0.17,1.0,[],https://www.allrecipes.com/recipe/228683/delicious-cinnamon-baked-apples/
+Pure Maple Candy,6.28,0.06,1.33,0.11,0.0,[],https://www.allrecipes.com/recipe/142723/pure-maple-candy/
+Macarons (French Macaroons),5.75,0.19,1.12,0.06,N/A,['telur'],https://www.allrecipes.com/recipe/223234/macaron-french-macaroon/
+Mexican Rice and Beans,87.0,2.5,14.75,2.25,1.75,[],https://www.allrecipes.com/recipe/279440/mexican-rice-and-beans/
+Mango Salsa,2.62,0.0,0.62,0.0,0.12,[],https://www.allrecipes.com/recipe/48032/mango-salsa/
+Mushroom Rice,53.0,1.25,10.5,0.75,0.25,['ayam'],https://www.allrecipes.com/recipe/45784/mushroom-rice/
+Oven Roasted Red Potatoes and Asparagus,24.83,0.67,4.0,0.83,0.67,[],https://www.allrecipes.com/recipe/60924/oven-roasted-red-potatoes-and-asparagus/
+Quinoa and Black Beans,15.3,0.8,2.8,0.2,0.8,[],https://www.allrecipes.com/recipe/49552/quinoa-and-black-beans/
+Navajo Fry Bread,18.61,0.22,1.28,1.39,0.06,['susu'],https://www.allrecipes.com/recipe/17053/navajo-fry-bread-ii/
+Microwave Corn on the Cob in the Husk,77.0,3.0,17.0,1.0,2.0,[],https://www.allrecipes.com/recipe/238842/microwave-corn-on-the-cob-in-the-husk/
+Cuban-Style Yuca,44.67,1.0,7.17,1.5,0.33,[],https://www.allrecipes.com/recipe/150114/cuban-style-yuca/
+Onigiri (Japanese Rice Balls),186.0,3.5,39.75,0.75,1.5,['ikan'],https://www.allrecipes.com/recipe/140422/onigiri-japanese-rice-balls/
+Homemade Stewed Tomatoes,0.88,0.06,0.19,0.0,0.06,[],https://www.allrecipes.com/recipe/21145/homemade-stewed-tomatoes/
+Vegan Black Bean Burgers,66.0,3.0,13.0,0.25,2.75,[],https://www.allrecipes.com/recipe/222247/vegan-black-bean-burgers/
+Baked Banana Chips,53.0,0.5,13.5,0.0,1.5,[],https://www.allrecipes.com/recipe/261342/baked-banana-chips/
+Apple Chips,4.0,0.0,1.17,N/A,0.17,[],https://www.allrecipes.com/recipe/233281/apple-chips/
+Easy Pasta Fagioli,84.5,3.25,15.25,1.25,2.25,['ayam'],https://www.allrecipes.com/recipe/23842/easy-pasta-fagioli/
+Cornmeal Mush,10.0,0.25,2.12,0.0,0.12,[],https://www.allrecipes.com/recipe/19583/cornmeal-mush/
+Easy Pressure Cooker Potatoes,28.0,0.75,6.38,0.0,0.5,[],https://www.allrecipes.com/recipe/261107/easy-pressure-cooker-potatoes/
+Slow Cooker Spicy Black-Eyed Peas,19.9,1.4,3.0,0.3,0.6,['ayam'],https://www.allrecipes.com/recipe/142892/slow-cooker-spicy-black-eyed-peas/
+Clean Banana Oat Cookies,4.58,0.17,0.83,0.08,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/254832/clean-banana-oat-cookies/
+Indian Spiced Onions,7.0,0.25,1.75,0.0,0.25,[],https://www.allrecipes.com/recipe/84965/indian-spiced-onions/
+Mashed Sweet Potatoes with Marshmallows,23.75,0.25,5.62,0.0,0.38,[],https://www.allrecipes.com/recipe/229691/mashed-sweet-potatoes-with-marshmallows/
+Frozen Vegetable Stir-Fry,14.67,0.67,2.33,0.5,0.5,[],https://www.allrecipes.com/recipe/222658/frozen-vegetable-stir-fry/
+Jamie's Sweet and Easy Corn on the Cob,15.67,0.5,3.67,0.17,0.33,[],https://www.allrecipes.com/recipe/222352/jamies-sweet-and-easy-corn-on-the-cob/
+Sarah's Homemade Applesauce,30.25,0.0,8.0,0.0,1.0,[],https://www.allrecipes.com/recipe/51301/sarahs-applesauce/
+Vietnamese Fresh Spring Rolls,10.25,0.38,2.0,0.12,0.12,"['ikan', 'udang']",https://www.allrecipes.com/recipe/24239/vietnamese-fresh-spring-rolls/
+Perfect Summer Fruit Salad,27.4,0.4,7.0,0.1,0.9,[],https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/
+Split Pea Soup,51.67,3.33,9.67,0.17,3.67,[],https://www.allrecipes.com/recipe/13384/split-pea-soup/
+Gnocchi,78.5,2.5,16.0,0.5,1.0,['telur'],https://www.allrecipes.com/recipe/18465/gnocchi-i/
+Cabbage Fat-Burning Soup,6.0,0.27,1.4,0.07,0.4,['sapi'],https://www.allrecipes.com/recipe/13116/cabbage-fat-burning-soup/
+Apple Pie Filling,3.23,0.0,0.82,0.0,0.03,[],https://www.allrecipes.com/recipe/12681/apple-pie-filling/
+Black Beans and Rice,23.33,1.0,4.5,0.17,1.0,[],https://www.allrecipes.com/recipe/15559/black-beans-and-rice/
+The Best Fresh Tomato Salsa,0.15,0.0,0.03,0.0,0.0,[],https://www.allrecipes.com/recipe/214893/the-best-fresh-tomato-salsa/
+Easy Sweet Potato Casserole,38.5,0.4,9.1,0.1,0.9,[],https://www.allrecipes.com/recipe/229692/easy-sweet-potato-casserole/
+Dry Onion Soup Mix,8.5,0.5,1.25,0.25,0.0,['sapi'],https://www.allrecipes.com/recipe/217155/dry-onion-soup-mix/
+Slow Cooker Barbeque Chicken,91.0,5.75,15.0,0.75,0.25,['ayam'],https://www.allrecipes.com/recipe/235111/slow-cooker-barbeque-chicken/
+Rolo Pretzel Turtles,4.1,0.1,0.7,0.1,0.05,[],https://www.allrecipes.com/recipe/96749/pretzel-turtles/
+Brazilian Grilled Pineapple,42.5,0.17,11.0,0.0,0.67,[],https://www.allrecipes.com/recipe/235932/brazilian-grilled-pineapple/
+Canned Apple Pie Filling,1.73,0.0,0.45,0.0,0.02,[],https://www.allrecipes.com/recipe/15942/canned-apple-pie-filling/
+Hard Candy,3.44,N/A,0.89,N/A,N/A,[],https://www.allrecipes.com/recipe/35842/hard-candy/
+Fresh Homemade Salsa,0.92,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/230878/fresh-homemade-salsa/
+Sweet Zucchini Relish,0.42,0.0,0.11,N/A,0.0,[],https://www.allrecipes.com/recipe/172346/sweet-zucchini-relish/
+Instant Pot Pinto Beans (No Soaking),29.5,1.88,4.88,0.38,1.12,['ayam'],https://www.allrecipes.com/recipe/275053/instant-pot-pinto-beans-no-soaking/
+Old Bay-Seasoned Steamed Shrimp,22.0,4.75,N/A,0.25,N/A,['udang'],https://www.allrecipes.com/recipe/279463/old-bay-seasoned-steamed-shrimp/
+Slow Cooker Turkey Breast,22.75,5.0,0.17,0.17,0.0,[],https://www.allrecipes.com/recipe/92528/slow-cooker-turkey-breast/
+Quick and Easy Vegetable Soup,19.33,0.67,4.0,0.17,0.83,['ayam'],https://www.allrecipes.com/recipe/13338/quick-and-easy-vegetable-soup/
+Tomatillo Salsa Verde,3.0,0.12,0.62,0.12,0.12,[],https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/
+Candied Lemon Peel,7.2,0.0,1.93,0.0,0.07,[],https://www.allrecipes.com/recipe/56693/candied-lemon-peel/
+Homemade Lady Fingers,0.52,0.02,0.1,0.0,0.0,[],https://www.allrecipes.com/recipe/10434/ladyfingers/
+Air Fryer Roasted Bananas,107.0,1.0,27.0,1.0,3.0,[],https://www.allrecipes.com/recipe/272347/air-fryer-roasted-bananas/
+Smoked Fish Dip,1.56,0.25,0.06,0.0,N/A,[],https://www.allrecipes.com/recipe/45291/smoked-fish-dip/
+Easy Chinese Corn Soup,30.25,1.25,6.0,0.5,0.5,"['ayam', 'telur']",https://www.allrecipes.com/recipe/29704/easy-chinese-corn-soup/
+"Heather's Cilantro, Black Bean, and Corn Salsa",0.42,0.01,0.07,0.01,0.01,[],https://www.allrecipes.com/recipe/143315/heathers-cilantro-black-bean-and-corn-salsa/
+Red Lentil Curry,24.0,1.5,4.12,0.38,1.38,[],https://www.allrecipes.com/recipe/16641/red-lentil-curry/
+Maryland Crab Soup,16.5,1.8,2.2,0.1,0.5,['sapi'],https://www.allrecipes.com/recipe/13437/maryland-crab-soup/
+Slow Cooker Chicken Tacos,8.88,1.38,0.25,0.12,N/A,['ayam'],https://www.allrecipes.com/recipe/242342/fiesta-slow-cooker-shredded-chicken-tacos/
+Instant Pot Beef Bone Broth,2.62,0.12,0.62,0.0,0.12,['sapi'],https://www.allrecipes.com/recipe/269284/instant-pot-beef-bone-broth/
+Snow Ice Cream,16.5,0.25,3.5,0.12,N/A,['susu'],https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/
+Baked Beans from Scratch,12.2,0.5,2.6,0.0,0.5,[],https://www.allrecipes.com/recipe/165249/baked-beans-from-scratch/
+Grandma's Slow Cooker Vegetarian Chili,32.5,1.5,6.62,0.25,1.62,[],https://www.allrecipes.com/recipe/14021/grandmas-slow-cooker-vegetarian-chili/
+Homemade Horseradish,1.2,0.0,0.3,N/A,N/A,[],https://www.allrecipes.com/recipe/17435/homemade-horseradish/
+Delicious Baked Apples,24.5,0.17,6.17,0.17,1.0,[],https://www.allrecipes.com/recipe/228683/delicious-cinnamon-baked-apples/
+Pure Maple Candy,6.28,0.06,1.33,0.11,0.0,[],https://www.allrecipes.com/recipe/142723/pure-maple-candy/
+Macarons (French Macaroons),5.75,0.19,1.12,0.06,N/A,['telur'],https://www.allrecipes.com/recipe/223234/macaron-french-macaroon/
+Mango Salsa,2.62,0.0,0.62,0.0,0.12,[],https://www.allrecipes.com/recipe/48032/mango-salsa/
+Canadian Yellow Split Pea Soup with Ham,14.33,1.0,2.67,0.0,0.08,[],https://www.allrecipes.com/recipe/234017/canadian-yellow-split-pea-soup-with-ham/
+Classic Turkey and Rice Soup,14.38,0.38,2.75,0.25,0.25,[],https://www.allrecipes.com/recipe/235307/classic-turkey-and-rice-soup/
+Quinoa and Black Beans,15.3,0.8,2.8,0.2,0.8,[],https://www.allrecipes.com/recipe/49552/quinoa-and-black-beans/
+Baked BBQ Chicken Tenders,43.75,6.0,3.0,0.75,0.0,['ayam'],https://www.allrecipes.com/recipe/272660/baked-bbq-chicken-tenders/
+Microwave Corn on the Cob in the Husk,77.0,3.0,17.0,1.0,2.0,[],https://www.allrecipes.com/recipe/238842/microwave-corn-on-the-cob-in-the-husk/
+Homemade Stewed Tomatoes,0.88,0.06,0.19,0.0,0.06,[],https://www.allrecipes.com/recipe/21145/homemade-stewed-tomatoes/
+Vegan Black Bean Burgers,66.0,3.0,13.0,0.25,2.75,[],https://www.allrecipes.com/recipe/222247/vegan-black-bean-burgers/
+Baked Banana Chips,53.0,0.5,13.5,0.0,1.5,[],https://www.allrecipes.com/recipe/261342/baked-banana-chips/
+Apple Chips,4.0,0.0,1.17,N/A,0.17,[],https://www.allrecipes.com/recipe/233281/apple-chips/

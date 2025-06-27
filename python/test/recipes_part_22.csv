@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Instant Pot Polenta,94.0,3.5,8.0,5.5,0.75,['keju'],https://www.allrecipes.com/recipe/275647/instant-pot-polenta/
+Southern Cheese Grits,27.75,1.12,2.25,1.62,0.0,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/277283/southern-cheese-grits/
+Grilled Polenta Bites with Black Bean Salsa,15.5,0.62,2.38,0.5,0.62,[],https://www.allrecipes.com/recipe/280714/grilled-polenta-bites-with-black-bean-salsa/
+Vegan Polenta,49.0,1.17,6.0,2.17,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/268859/vegan-polenta/
+Polenta Taragna with Taleggio and Radicchio,166.25,6.0,18.25,8.0,2.0,['keju'],https://www.allrecipes.com/recipe/281224/polenta-taragna-with-taleggio-and-radicchio/
+Creamy Southern Shrimp and Cheese Grits,42.5,3.33,1.17,2.67,0.17,"['keju', 'udang']",https://www.allrecipes.com/recipe/220904/creamy-southern-shrimp-and-cheese-grits/
+Creamy Polenta with Roasted Corn and Fresh Sage,94.5,3.0,11.5,4.25,0.75,"['keju', 'susu']",https://www.allrecipes.com/recipe/24718/creamy-polenta-with-roasted-corn-and-fresh-sage/
+Robin's Cheesy Chipotle Grits,12.33,0.58,1.25,0.58,0.08,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/169702/robins-cheesy-chipotle-grits/
+Stuffed Tomatoes with Grits and Ricotta,15.38,0.88,1.88,0.62,0.25,['keju'],https://www.allrecipes.com/recipe/186558/stuffed-tomatoes-with-grits-and-ricotta/
+Air Fryer Polenta Pizza Bites,15.0,0.5,2.0,0.5,0.17,['keju'],https://www.allrecipes.com/recipe/286258/air-fryer-polenta-pizza-bites/
+Instant Pot Cream Cheese Grits,88.0,3.0,7.33,5.0,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/277914/instant-pot-cream-cheese-grits/
+Baked Polenta with Sausage,91.0,4.17,8.0,4.0,0.83,"['keju', 'susu']",https://www.allrecipes.com/recipe/276486/baked-polenta-with-sausage/
+Calzagatti (Pan-Fried Polenta and Beans),27.25,0.62,2.62,1.62,0.5,[],https://www.allrecipes.com/recipe/276701/calzagatti-pan-fried-polenta-and-beans/
+"Pan-fried Polenta with Corn, Kale and Goat Cheese",345.0,12.0,44.5,15.5,5.0,['keju'],https://www.allrecipes.com/recipe/14034/pan-fried-polenta-with-corn-kale-and-goat-cheese/
+Vegan Polenta with Ragu,178.75,11.0,19.25,6.25,5.75,['keju'],https://www.allrecipes.com/recipe/268860/vegan-polenta-with-ragu/
+Air-Fried Cajun Polenta Fries,104.5,1.5,9.5,7.0,0.5,[],https://www.allrecipes.com/recipe/278667/air-fried-cajun-polenta-fries/
+TV's Grits Casserole,50.75,1.62,2.75,3.75,0.12,['keju'],https://www.allrecipes.com/recipe/205678/tvs-grits-casserole/
+Shrimp Wrapped with Prosciutto,100.67,2.17,3.5,8.67,0.67,"['keju', 'udang']",https://www.allrecipes.com/recipe/18160/shrimp-wrapped-with-prosciutto/
+Kettle Corn,41.8,0.4,5.0,2.4,0.6,[],https://www.allrecipes.com/recipe/20808/kettle-corn/
+Microwave Popcorn,45.67,1.33,8.33,1.0,1.67,[],https://www.allrecipes.com/recipe/87305/microwave-popcorn/
+Coconut Oil Popcorn,106.5,1.5,9.5,7.5,2.0,[],https://www.allrecipes.com/recipe/241449/coconut-oil-popcorn/
+Instant Pot Popcorn,37.75,0.75,4.75,2.0,1.0,[],https://www.allrecipes.com/recipe/277794/instant-pot-popcorn/
+Cajun-Spiced Popcorn,5.35,0.05,0.25,0.45,0.05,[],https://www.allrecipes.com/recipe/149548/cajun-spiced-popcorn/
+Movie Star Popcorn,37.4,0.6,3.0,2.8,0.6,[],https://www.allrecipes.com/recipe/150711/movie-star-popcorn/
+Truffle Lovers' Popcorn,47.25,1.0,3.75,3.25,0.75,['keju'],https://www.allrecipes.com/recipe/216733/truffle-lovers-popcorn/
+Daddy's Popcorn,71.25,0.75,4.75,5.75,1.0,[],https://www.allrecipes.com/recipe/73032/daddys-popcorn/
+Bacon Popcorn,21.6,0.6,1.1,1.7,0.2,['keju'],https://www.allrecipes.com/recipe/159505/bacon-popcorn/
+Homemade Chili Seasoning Popcorn,38.75,0.75,4.75,2.0,1.0,[],https://www.allrecipes.com/recipe/232668/homemade-chili-seasoning-popcorn/
+Italian Popcorn with Parmesan,37.83,1.17,1.83,3.0,0.33,['keju'],https://www.allrecipes.com/recipe/244649/italian-popcorn-with-parmesan/
+Protein Popcorn,35.5,0.8,4.5,1.8,0.4,[],https://www.allrecipes.com/recipe/186153/protein-popcorn/
+Kool-Aid® Popcorn,12.75,0.05,1.95,0.6,0.05,[],https://www.allrecipes.com/recipe/231996/kool-aid-popcorn/
+Spicy-Sweet Buffalo Popcorn,26.25,0.12,4.0,1.25,0.12,[],https://www.allrecipes.com/recipe/261199/spicy-sweet-buffalo-popcorn/
+Gourmet Microwave Popcorn,57.0,1.5,9.5,2.0,2.0,[],https://www.allrecipes.com/recipe/215052/gourmet-microwave-popcorn/
+Cinnamon Heart Popcorn,15.12,0.06,1.88,0.88,0.0,[],https://www.allrecipes.com/recipe/216730/cinnamon-heart-popcorn/
+Confetti Puffed Corn,76.57,1.14,7.43,6.14,0.71,[],https://www.allrecipes.com/recipe/282918/confetti-puffed-corn/
+Skillet-Popped Lentils with Parsley,15.0,0.5,1.0,1.5,0.5,[],https://www.allrecipes.com/recipe/258959/skillet-popped-lentils-with-parsley/
+Sesame Parmesan Popcorn,15.75,0.25,0.75,1.38,0.12,['keju'],https://www.allrecipes.com/recipe/255222/sesame-parmesan-popcorn/
+Butter Popcorn With Sumac,142.0,2.0,12.67,9.67,2.67,[],https://www.allrecipes.com/recipe/254239/butter-popcorn-with-sumac/
+Chinese Popcorn Snack Mix,61.0,2.17,10.83,1.25,2.17,[],https://www.allrecipes.com/recipe/284073/chinese-popcorn-snack-mix/
+Popcorn Nachos,8.12,0.12,0.31,0.75,0.06,['keju'],https://www.allrecipes.com/recipe/25535/popcorn-nachos/
+Chili Taco Popcorn,127.33,3.5,20.83,3.83,4.0,[],https://www.allrecipes.com/recipe/176497/chili-taco-popcorn/
+Curried Microwave Popcorn,189.0,6.0,38.0,3.0,8.0,[],https://www.allrecipes.com/recipe/235544/curried-microwave-popcorn/
+Pop Mix,32.17,0.5,2.5,2.33,0.33,['keju'],https://www.allrecipes.com/recipe/261090/pop-mix/
+Classic Caramel Corn,49.38,2.12,6.5,2.62,0.25,[],https://www.allrecipes.com/recipe/173309/classic-caramel-corn/
+Caramel Popcorn,12.65,0.05,1.65,0.7,0.05,[],https://www.allrecipes.com/recipe/24952/caramel-popcorn/
+Puffed Caramel Corn,78.88,0.75,7.75,5.25,0.25,[],https://www.allrecipes.com/recipe/259226/puffed-caramel-corn/
+Microwave Caramel Popcorn,10.81,0.06,1.5,0.56,0.06,[],https://www.allrecipes.com/recipe/73761/microwave-caramel-popcorn/
+Clone of a Cracker Jack,31.73,0.36,3.36,2.0,0.18,[],https://www.allrecipes.com/recipe/237265/clone-of-a-cracker-jack/
+Caramel Chocolate Corn,4.59,0.06,0.47,0.28,0.03,['susu'],https://www.allrecipes.com/recipe/23367/caramel-chocolate-corn/
+Sticky Popcorn,70.6,0.4,9.2,3.8,0.4,[],https://www.allrecipes.com/recipe/239892/sticky-popcorn/
+Peanut Butter Popcorn Balls,15.56,0.31,2.19,0.69,0.19,[],https://www.allrecipes.com/recipe/234943/peanut-butter-popcorn-balls/
+Soft Caramel Corn,3.98,0.03,0.62,0.17,0.03,['susu'],https://www.allrecipes.com/recipe/55537/soft-caramel-corn/
+Caramel Popcorn with Marshmallow,70.25,0.38,9.38,3.75,0.38,[],https://www.allrecipes.com/recipe/218331/caramel-popcorn-with-marshmallow/
+Chocolate-Covered Caramel Corn Recipe,34.0,0.5,3.44,2.31,0.31,[],https://www.allrecipes.com/recipe/259225/chocolate-covered-caramel-corn/
+Cashew Caramel Corn,11.5,0.12,1.29,0.71,0.04,[],https://www.allrecipes.com/recipe/229143/cashew-caramel-corn/
+Caramel Corn I,13.88,0.24,1.6,0.8,0.2,[],https://www.allrecipes.com/recipe/9386/caramel-corn-i/
+DB's Caramel Popcorn Bacon Mix,207.83,4.0,22.5,12.17,1.17,[],https://www.allrecipes.com/recipe/230429/dbs-caramel-popcorn-bacon-mix/
+Vegan Caramel Popcorn,20.94,0.12,3.62,0.75,0.12,['susu'],https://www.allrecipes.com/recipe/266756/vegan-caramel-popcorn/
+Chocolaty Caramel-Nut Popcorn,275.75,3.0,33.25,16.0,2.75,[],https://www.allrecipes.com/recipe/147094/chocolaty-caramel-nut-popcorn/
+Grandma's Caramel Popcorn Balls,17.0,0.15,2.15,0.95,0.05,['susu'],https://www.allrecipes.com/recipe/255506/grandmas-caramel-popcorn-balls/
+Chocolate Almond Popcorn,9.32,0.12,1.04,0.56,0.12,[],https://www.allrecipes.com/recipe/215517/chocolate-almond-popcorn/
+Easy Caramel Popcorn Balls,25.0,0.25,4.17,0.92,0.17,['susu'],https://www.allrecipes.com/recipe/255505/easy-caramel-popcorn-balls/
+Maple and Honey Caramel Corn,12.4,0.05,1.55,0.7,0.05,[],https://www.allrecipes.com/recipe/274959/maple-and-honey-caramel-corn/
+Crunchy Baked Caramel Corn,43.9,0.2,6.3,2.2,0.2,[],https://www.allrecipes.com/recipe/259224/crunchy-baked-caramel-corn/
+Reindeer Poop Popcorn,98.62,0.62,12.12,5.75,0.5,[],https://www.allrecipes.com/recipe/237919/reindeer-poop-popcorn/
+Pop's Molasses Popcorn Balls and Taffy,26.0,0.0,5.58,0.5,0.0,[],https://www.allrecipes.com/recipe/261200/pops-molasses-popcorn-balls-and-taffy/
+Caramel Corn IV,37.5,0.38,5.62,1.62,0.5,[],https://www.allrecipes.com/recipe/9457/caramel-corn-iv/
+Lovely Lisa's Sweet and Salty Caramel Popcorn,8.31,0.06,1.22,0.41,0.03,[],https://www.allrecipes.com/recipe/236287/lovely-lisas-sweet-and-salty-caramel-popcorn/
+Caramel Corn II,24.3,0.3,4.8,0.6,0.3,[],https://www.allrecipes.com/recipe/9392/caramel-corn-ii/
+Chocolate Popcorn,11.62,0.19,1.19,0.75,0.12,[],https://www.allrecipes.com/recipe/160595/chocolate-popcorn/
+White Chocolate Popcorn,6.58,0.08,0.67,0.42,0.04,[],https://www.allrecipes.com/recipe/245687/white-chocolate-popcorn/
+Stovetop Dark Chocolate Popcorn,7.83,0.08,1.0,0.42,0.08,[],https://www.allrecipes.com/recipe/245689/stovetop-dark-chocolate-popcorn/
+Dark Chocolate Popcorn,8.62,0.06,1.06,0.5,0.06,[],https://www.allrecipes.com/recipe/245690/dark-chocolate-popcorn/
+Easter Popcorn,37.57,1.0,6.29,1.07,1.14,[],https://www.allrecipes.com/recipe/273004/easter-popcorn/
+Delicious Popcorn Crunch,23.2,0.13,3.0,1.27,0.2,['susu'],https://www.allrecipes.com/recipe/235665/delicious-popcorn-crunch/
+Marshmallow Popcorn Balls,29.62,0.25,4.38,1.38,0.25,[],https://www.allrecipes.com/recipe/19154/marshmallow-popcorn-balls/
+Best Ever Popcorn Balls,8.25,0.05,1.55,0.25,0.05,[],https://www.allrecipes.com/recipe/20519/best-ever-popcorn-balls/
+Grandpa's Popcorn Balls,45.8,0.2,7.5,1.9,0.2,[],https://www.allrecipes.com/recipe/15817/grandpas-popcorn-balls/
+Festive JELL-O Popcorn Balls,7.94,0.12,1.5,0.19,0.06,[],https://www.allrecipes.com/recipe/239973/festive-jell-o-popcorn-balls/
+Favorite Popcorn Balls,19.36,0.29,3.79,0.43,0.29,[],https://www.allrecipes.com/recipe/15668/favorite-popcorn-balls/
+Halloween Popcorn Pumpkins,27.33,0.33,3.75,1.25,0.08,[],https://www.allrecipes.com/recipe/127501/halloween-popcorn-pumpkins/
+Quick and Easy Yorkshire Pudding,6.92,0.25,0.75,0.33,0.0,['susu'],https://www.allrecipes.com/recipe/22539/quick-and-easy-yorkshire-pudding/
+Popovers,20.0,1.0,3.0,0.5,0.17,['susu'],https://www.allrecipes.com/recipe/7238/popovers/
+Sky-High Yorkshire Pudding,13.33,0.5,1.5,0.58,0.08,['susu'],https://www.allrecipes.com/recipe/95339/sky-high-yorkshire-pudding/
+Traditional Yorkshire Pudding,8.58,0.83,0.67,0.25,0.0,"['sapi', 'susu']",https://www.allrecipes.com/recipe/276147/traditional-yorkshire-pudding/
+Traditional Popovers,30.5,1.17,3.0,1.5,0.17,['susu'],https://www.allrecipes.com/recipe/24581/traditional-popovers/
+Grandma's Yorkshire Pudding,79.17,1.0,3.0,7.0,0.17,"['sapi', 'susu']",https://www.allrecipes.com/recipe/70230/grandmas-yorkshire-pudding/
+Simple Yorkshire Pudding,11.25,0.5,1.62,0.25,0.0,['susu'],https://www.allrecipes.com/recipe/240795/simple-yorkshire-pudding/
+Blueberry Popovers,43.0,1.17,6.0,1.67,0.17,['susu'],https://www.allrecipes.com/recipe/231149/blueberry-popovers/
+Classic Yorkshire Pudding,13.12,0.75,1.62,0.38,0.0,"['sapi', 'susu']",https://www.allrecipes.com/recipe/21389/classic-yorkshire-pudding/
+Blender Yorkshire Pudding,20.5,1.5,2.33,0.5,0.0,"['sapi', 'susu']",https://www.allrecipes.com/recipe/230167/blender-yorkshire-pudding/
+Chef John's Popovers,18.67,0.83,2.33,0.67,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/228641/chef-johns-popovers/
+Hi-Rise Easy Yorkshire Pudding,27.83,1.17,2.83,1.33,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/240794/hi-rise-easy-yorkshire-pudding/
+Easy and Delicious Crusty Popovers,8.08,0.33,0.75,0.42,0.0,['susu'],https://www.allrecipes.com/recipe/229318/easy-and-delicious-crusty-popovers/
+Blue Cheese Popovers,12.14,0.43,1.14,0.64,0.07,"['keju', 'susu']",https://www.allrecipes.com/recipe/282660/blue-cheese-popovers/
+Laura's Famous Aebleskiver,82.5,3.75,13.5,1.25,0.5,[],https://www.allrecipes.com/recipe/204241/lauras-famous-aebleskiver/
+Easy Yorkshire Pudding,23.33,1.0,3.0,0.83,0.17,['susu'],https://www.allrecipes.com/recipe/240801/easy-yorkshire-pudding/
+Spring Herb Popovers,11.0,0.42,1.08,0.5,0.0,['susu'],https://www.allrecipes.com/recipe/247006/spring-herb-popovers/
+Fancy Pear Popovers,33.5,1.17,3.83,1.67,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/258972/fancy-pear-popovers/
+Pumpkin Popovers,25.5,1.0,3.5,0.83,0.17,['susu'],https://www.allrecipes.com/recipe/239217/pumpkin-popovers/
+Yorkshire Pudding,19.62,1.5,2.38,0.38,0.12,"['sapi', 'susu']",https://www.allrecipes.com/recipe/9239/yorkshire-pudding/
+Smoky Grilled Pork Chops,63.5,6.25,1.25,3.5,0.25,[],https://www.allrecipes.com/recipe/218068/smoky-grilled-pork-chops/
+Best Grilled Pork Chops,63.33,6.83,0.33,3.67,0.0,[],https://www.allrecipes.com/recipe/223405/best-grilled-pork-chops/
+Doritos Pork Chops,101.5,10.5,2.83,5.17,0.17,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/8376875/doritos-pork-chops/
+Pork Schnitzel,149.75,9.0,8.75,9.75,0.0,['susu'],https://www.allrecipes.com/recipe/8532147/pork-schnitzel/
+Pan-Fried Pork Chops,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/8495583/pan-fried-pork-chops/
+World's Best Honey Garlic Pork Chops,48.33,5.0,2.33,2.17,0.0,[],https://www.allrecipes.com/recipe/235158/worlds-best-honey-garlic-pork-chops/
+Best Pork Chop Marinade,378.0,31.0,15.0,21.0,0.5,[],https://www.allrecipes.com/recipe/234059/best-pork-chop-marinade/
+Easy Air Fryer Pork Chops,76.25,8.75,0.5,4.25,0.0,['keju'],https://www.allrecipes.com/recipe/275576/easy-air-fryer-pork-chops/
+Mushroom Pork Chops,52.5,6.0,2.5,2.25,0.25,[],https://www.allrecipes.com/recipe/14746/mushroom-pork-chops/
+Pork Steaks,58.83,4.5,0.67,4.17,0.17,[],https://www.allrecipes.com/recipe/70463/pork-steaks/
+Italian Breaded Pork Chops,108.25,6.25,8.75,5.25,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/31064/italian-breaded-pork-chops/
+Fried Pork Chops,51.75,3.75,3.0,2.75,0.0,[],https://www.allrecipes.com/recipe/55593/fried-pork-chop/
+Sous Vide Maple Chipotle BBQ Pork Chops,168.0,13.75,7.75,9.0,0.25,[],https://www.allrecipes.com/recipe/8526866/sous-vide-maple-chipotle-bbq-pork-chops/
+Chef John's Smothered Pork Chops,92.5,7.0,2.0,6.25,0.25,['ayam'],https://www.allrecipes.com/recipe/234803/chef-johns-smothered-pork-chops/
+Pork Chop and Potato Casserole,141.0,6.6,7.6,9.4,0.8,"['keju', 'susu']",https://www.allrecipes.com/recipe/18803/pork-chop-and-potato-casserole/
+Oven-Fried Pork Chops,105.5,8.0,9.75,3.5,0.5,"['susu', 'telur']",https://www.allrecipes.com/recipe/24681/oven-fried-pork-chops/
+Marinated Baked Pork Chops,27.67,2.5,1.17,1.5,N/A,[],https://www.allrecipes.com/recipe/44742/marinated-baked-pork-chops/
+Stuffed Pork Chops,103.5,4.25,4.75,7.5,0.25,['ayam'],https://www.allrecipes.com/recipe/21140/stuffed-pork-chops-i/
+Pork Sinigang,60.0,6.75,3.0,2.25,0.75,[],https://www.allrecipes.com/recipe/204958/pork-sinigang/
+German Pork Chops and Sauerkraut,45.38,3.62,4.88,1.25,0.5,[],https://www.allrecipes.com/recipe/216330/german-pork-chops-and-sauerkraut/
+Grilled Pork Loin Chops,214.5,20.0,24.5,4.0,0.5,[],https://www.allrecipes.com/recipe/218075/grilled-pork-loin-chops/
+Breaded Baked Pork Chops,75.17,5.5,5.17,3.5,0.33,[],https://www.allrecipes.com/recipe/277231/breaded-baked-pork-chops/
+Simple Pork Chops,81.25,6.0,0.25,6.25,0.0,['keju'],https://www.allrecipes.com/recipe/139299/simple-time-pork-chops/
+Easy Baked BBQ Pork Chops,31.5,2.5,3.83,0.83,0.17,[],https://www.allrecipes.com/recipe/241372/easy-baked-bbq-pork-chops/
+Pork Chops in Garlic Mushroom Sauce,24.88,2.0,0.38,1.62,0.0,['sapi'],https://www.allrecipes.com/recipe/269592/pork-chops-in-garlic-mushroom-sauce/
+Pork Chops for the Slow Cooker,24.33,2.67,1.83,0.67,0.0,[],https://www.allrecipes.com/recipe/25150/pork-chops-for-the-slow-cooker/
+Applesauce Pork Chops,193.0,10.5,21.5,7.5,2.0,[],https://www.allrecipes.com/recipe/229254/applesauce-pork-chops/
+Breaded Air Fryer Pork Chops,81.75,8.75,2.5,3.75,0.25,['keju'],https://www.allrecipes.com/recipe/275553/breaded-air-fryer-pork-chops/
+Baked Pork Chops with Cream of Mushroom Soup,104.75,11.0,3.5,5.0,0.0,['sapi'],https://www.allrecipes.com/recipe/277019/baked-pork-chops-with-cream-of-mushroom-soup/
+Easy Pork Chops for the Slow Cooker,23.7,2.5,1.0,1.0,0.1,[],https://www.allrecipes.com/recipe/237411/easy-pork-chops-for-the-slow-cooker/
+Pork Rub Rubbed and Baked Pork Chops,48.67,7.0,1.33,1.67,0.33,[],https://www.allrecipes.com/recipe/241609/pork-rub-rubbed-and-baked-pork-chops/
+Baked Stuffed Pork Chops,118.75,6.0,12.5,5.25,0.75,['telur'],https://www.allrecipes.com/recipe/21859/stuffed-pork-chops-ii/
+Gravy Baked Pork Chops,58.5,5.75,1.75,3.0,N/A,['susu'],https://www.allrecipes.com/recipe/17546/gravy-baked-pork-chops/
+Honey Mustard Pork Chops,71.75,5.5,4.5,3.5,0.0,[],https://www.allrecipes.com/recipe/223296/honey-mustard-pork-chops/
+Easy Baked Pork Chops,76.17,5.0,6.0,3.33,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/16348/baked-pork-chops-i/
+Asian Marinated Pork Chops,74.67,9.5,4.0,2.17,0.17,[],https://www.allrecipes.com/recipe/218072/asian-marinated-pork-chops/
+Slow Cooker BBQ Pork Chops,90.67,3.83,5.0,6.0,0.17,[],https://www.allrecipes.com/recipe/18397/slow-cooker-bbq-pork-chops/
+Pork Chop Soup,19.62,1.25,2.62,0.5,0.38,['ayam'],https://www.allrecipes.com/recipe/213144/pork-chop-soup/
+Perfect Simple Roasted Pork Chops,42.25,6.0,0.25,1.75,0.25,[],https://www.allrecipes.com/recipe/266162/perfect-simple-roasted-pork-chops/
+Parmesan Crusted Pork Chops,123.0,15.5,0.5,6.5,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/247066/parmesan-crusted-pork-chops/
+Air Fryer Tonkatsu,79.75,5.75,10.25,2.75,0.0,[],https://www.allrecipes.com/recipe/278809/air-fryer-tonkatsu/
+Broiled Pork Chops,30.5,4.0,1.67,0.83,0.0,[],https://www.allrecipes.com/recipe/15089/broiled-pork-chops/
+Best Baked Pork Chops,87.5,10.5,3.5,3.25,0.25,[],https://www.allrecipes.com/recipe/273131/easy-baked-pork-chops/
+Chinese Pork Chops,30.5,3.33,1.83,1.0,0.0,[],https://www.allrecipes.com/recipe/72007/chinese-pork-chops/
+Southern Smothered Pork Chops in Brown Gravy,89.75,7.5,3.5,5.0,0.5,['sapi'],https://www.allrecipes.com/recipe/277208/southern-smothered-pork-chops-in-brown-gravy/
+Oven-Baked Stuffed Pork Chops,76.5,6.17,1.17,5.17,0.0,[],https://www.allrecipes.com/recipe/239506/oven-baked-stuffed-pork-chops/
+Creamy Herbed Pork Chops,150.25,10.0,2.75,11.0,0.25,"['sapi', 'susu']",https://www.allrecipes.com/recipe/235432/creamy-herbed-pork-chops/
+Frozen Pork Chops in the Instant Pot,66.5,4.5,2.75,4.25,0.5,[],https://www.allrecipes.com/recipe/277522/frozen-pork-chops-in-the-instant-pot/
+Oven-Baked Baby Back Ribs,122.0,4.75,13.0,5.75,0.5,[],https://www.allrecipes.com/recipe/220987/baked-bbq-baby-back-ribs/
+Prize-Winning Baby Back Ribs,151.83,8.0,3.5,11.83,0.17,[],https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/
+Slow Cooker Baby Back Ribs,83.5,4.0,5.33,5.0,0.17,[],https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/
+Dry Rub for Ribs,3.38,0.0,0.88,0.0,0.12,[],https://www.allrecipes.com/recipe/14556/dry-rub-for-ribs/
+BBQ Country-Style Ribs,125.0,9.2,7.8,6.2,0.4,[],https://www.allrecipes.com/recipe/23221/bbq-country-style-ribs/
+Baby Back Ribs,259.5,12.0,13.0,17.75,0.25,[],https://www.allrecipes.com/recipe/16091/baby-back-ribs/
+Tender Pork Spare Ribs,117.88,7.25,4.62,7.62,0.12,[],https://www.allrecipes.com/recipe/216985/tender-pork-spare-ribs/
+Southern Grilled BBQ Ribs,64.88,3.12,3.12,4.5,0.0,[],https://www.allrecipes.com/recipe/16429/southern-grilled-barbecued-ribs/
+Simple BBQ Ribs,110.25,8.25,6.25,5.5,0.25,[],https://www.allrecipes.com/recipe/16448/simple-bbq-ribs/
+Grilled Country-Style Ribs,96.17,6.5,1.33,6.67,0.17,[],https://www.allrecipes.com/recipe/234339/grilled-country-style-ribs/
+Chinese Spareribs,251.5,15.0,11.5,15.5,0.5,[],https://www.allrecipes.com/recipe/77408/chinese-spareribs/
+Boiled & Baked Ribs,116.5,6.25,6.0,7.75,0.25,[],https://www.allrecipes.com/recipe/220280/boiled-baked-ribs/
+Oven-Baked Barbecue Rib Tips,41.0,2.33,2.0,2.5,0.0,[],https://www.allrecipes.com/recipe/275141/oven-baked-barbecue-rib-tips/
+Instant Pot Baby Back Ribs,83.75,5.0,3.25,5.75,0.5,['sapi'],https://www.allrecipes.com/recipe/262225/instant-pot-baby-back-ribs/
+Barbecue Ribs,63.0,3.75,2.88,3.75,0.0,[],https://www.allrecipes.com/recipe/22469/barbecue-ribs/
+Air Fryer BBQ Baby Back Ribs,153.75,9.25,4.0,11.0,0.25,[],https://www.allrecipes.com/recipe/275255/air-fryer-bbq-baby-back-ribs/
+Best Stovetop BBQ Ribs,61.5,5.25,2.75,3.25,0.25,[],https://www.allrecipes.com/recipe/69780/best-stovetop-bbq-ribs/
+Instant Pot Ribs from Frozen,77.25,4.5,2.0,5.5,0.0,[],https://www.allrecipes.com/recipe/279624/instant-pot-ribs-from-frozen/
+Honey Garlic Ribs,59.62,3.75,2.75,3.75,0.0,[],https://www.allrecipes.com/recipe/17949/honey-garlic-ribs/
+Fall-off-the-Bone Instant Pot Ribs,51.88,2.38,4.12,2.88,0.25,[],https://www.allrecipes.com/recipe/262470/fall-off-the-bone-30-minute-instant-pot-ribs/
+Simple Country Ribs,220.5,9.0,23.5,9.5,0.5,[],https://www.allrecipes.com/recipe/25432/simple-country-ribs/
+Easy St. Louis-Style Pork Ribs on Gas Grill,60.88,3.62,2.88,3.75,0.0,[],https://www.allrecipes.com/recipe/258727/easy-st-louis-style-pork-ribs-on-gas-grill/
+Oven-Baked BBQ Ribs,124.67,6.17,4.83,9.0,0.17,[],https://www.allrecipes.com/recipe/24849/oven-baked-bbq-ribs/
+Slow Cooker Pork Rib Tips,113.25,3.75,13.75,4.75,0.5,[],https://www.allrecipes.com/recipe/274865/slow-cooker-pork-rib-tips/
+Sweet Smoked Pork Ribs,82.7,4.9,2.3,5.9,0.2,[],https://www.allrecipes.com/recipe/172967/sweet-smoked-pork-ribs/
+Quick Baby Back Ribs,116.25,6.0,6.0,7.5,0.25,[],https://www.allrecipes.com/recipe/76057/quick-baby-back-ribs/
+"Mom's ""Sweet 'n Sours"" Pork Ribs",167.25,8.0,14.75,8.5,0.25,[],https://www.allrecipes.com/recipe/60155/moms-sweet-n-sours-pork-ribs/
+Not-Your-Everyday Smoked Pork Spare Ribs,154.5,9.83,5.5,10.17,0.5,[],https://www.allrecipes.com/recipe/85634/not-your-every-day-smoked-pork-spare-ribs/
+Salt and Pepper Spare Ribs,50.0,3.62,0.12,3.75,0.0,[],https://www.allrecipes.com/recipe/280667/salt-and-pepper-spare-ribs/
+Slow Cooker Potluck Spare Ribs,43.67,2.5,2.83,2.5,0.0,[],https://www.allrecipes.com/recipe/231768/slow-cooker-potluck-spareribs/
+Slow Cooker Ribs,110.83,10.0,3.5,6.0,0.0,[],https://www.allrecipes.com/recipe/216773/slow-cooker-ribs/
+Traditional Rub for St. Louis Ribs,274.5,14.25,6.0,21.25,0.5,[],https://www.allrecipes.com/recipe/242372/traditional-rub-for-st-louis-ribs/
+Mom's Stovetop Pork Ribs,76.83,5.67,1.83,5.33,0.5,[],https://www.allrecipes.com/recipe/75811/moms-stovetop-pork-ribs/
+Barbequed Ribs,73.5,5.5,2.38,4.75,0.12,[],https://www.allrecipes.com/recipe/19856/barbequed-ribs/
+Scott Hibb's Amazing Whisky Grilled Baby Back Ribs,257.25,12.5,13.25,17.0,0.5,[],https://www.allrecipes.com/recipe/35753/scott-hibbs-amazing-whisky-grilled-baby-back-ribs/
+Filipino Ribs,64.42,3.25,1.58,4.92,0.08,[],https://www.allrecipes.com/recipe/14756/filipino-ribs/
+Oven-Roasted Ribs,158.5,12.0,9.0,8.0,0.25,[],https://www.allrecipes.com/recipe/234522/oven-roasted-ribs/
+Air Fryer Baby Back Ribs,111.25,4.5,6.75,7.25,0.25,[],https://www.allrecipes.com/recipe/275250/air-fryer-baby-back-ribs/
+Greek Ribs,78.83,4.17,1.0,6.5,0.0,[],https://www.allrecipes.com/recipe/258000/greek-ribs/
+BBQ Pork for Sandwiches,29.58,2.5,1.25,1.5,0.0,['sapi'],https://www.allrecipes.com/recipe/21174/bbq-pork-for-sandwiches/
+Slow-Cooker Barbecue Ribs,62.12,3.25,4.12,3.75,0.12,[],https://www.allrecipes.com/recipe/22230/slow-cooker-barbecue-ribs/
+BBQ Country-Style Pork Ribs - Sous Vide,69.5,3.75,3.75,4.25,0.0,[],https://www.allrecipes.com/recipe/260585/bbq-country-style-pork-ribs-sous-vide/
+Texas Pork Ribs,51.25,2.75,4.42,2.58,0.17,[],https://www.allrecipes.com/recipe/16913/texas-pork-ribs/
+Instant Pot BBQ Rib Tips,124.25,7.25,6.0,7.5,0.25,[],https://www.allrecipes.com/recipe/275243/instant-pot-bbq-rib-tips/
+Chef John's Copycat McRib Sandwich,240.75,11.25,20.25,13.0,1.5,[],https://www.allrecipes.com/recipe/274040/chef-johns-copycat-mcrib-sandwich/
+Maple Glazed Ribs,80.83,4.0,5.17,5.0,0.0,[],https://www.allrecipes.com/recipe/14503/maple-glazed-ribs/
+Drunken Ribs,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/47105/drunken-ribs/
+Asian Style Country Ribs,108.83,8.0,2.33,7.33,0.17,[],https://www.allrecipes.com/recipe/191199/asian-style-country-ribs/
+Chinese Five Spice Spare Ribs,427.5,29.5,5.5,31.5,0.0,[],https://www.allrecipes.com/recipe/204890/chinese-five-spice-spare-ribs/
+Italian Country Style Ribs,99.67,7.83,3.5,5.83,0.67,[],https://www.allrecipes.com/recipe/14718/italian-country-style-ribs/
+Slow Cooker Spare Ribs,120.75,7.75,4.75,7.75,0.25,[],https://www.allrecipes.com/recipe/24538/slow-cooker-spare-ribs/
+Chinese Braised Spare Ribs,61.0,3.75,1.0,4.75,0.25,[],https://www.allrecipes.com/recipe/64450/chinese-braised-spare-ribs/
+Pineapple Sticky Ribs,93.0,4.33,8.33,5.0,0.17,[],https://www.allrecipes.com/recipe/255220/pineapple-sticky-ribs/
+Bourbon-BBQ Glazed Baby Back Ribs,109.25,4.75,7.75,5.75,0.25,[],https://www.allrecipes.com/recipe/247440/bourbon-bbq-glazed-baby-back-ribs/
+Stuffed Ribs,233.75,13.5,9.5,15.25,0.5,['ayam'],https://www.allrecipes.com/recipe/34530/stuffed-ribs/
+Spicy Chinese Barbeque Riblets,193.5,7.5,22.5,8.0,1.0,[],https://www.allrecipes.com/recipe/213749/spicy-chinese-barbeque-riblets/
+"Baby Back Ribs, Smoked to Perfection",141.67,9.25,0.33,11.25,0.08,[],https://www.allrecipes.com/recipe/264048/baby-back-ribs-smoked-to-perfection/
+Sunday Afternoon Slow-Cooked Spare Ribs,40.38,2.38,1.75,2.62,0.12,['sapi'],https://www.allrecipes.com/recipe/213202/sunday-afternoon-slow-cooked-spare-ribs/
+Slow-Cooker Teriyaki Ribs,126.75,8.25,2.25,9.25,0.0,[],https://www.allrecipes.com/recipe/264148/slow-cooker-teriyaki-ribs/
+Japanese-Style Braised Pork Ribs,116.5,5.17,10.17,5.67,0.17,[],https://www.allrecipes.com/recipe/278869/japanese-style-braised-pork-ribs/
+Slow-Smoked Pork Spareribs,54.88,3.69,0.94,3.81,0.12,[],https://www.allrecipes.com/recipe/173108/slow-smoked-pork-spareribs/
+Simple Spare Ribs,73.75,7.0,1.25,4.5,0.0,['ayam'],https://www.allrecipes.com/recipe/71463/simple-spare-ribs/
+BBQ Ribs on the Grill,101.75,7.25,0.75,7.5,0.0,[],https://www.allrecipes.com/recipe/241889/bbq-ribs-on-the-grill/
+Slow Cooker Texas Pulled Pork,66.0,4.0,5.75,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+Bob's Smoked Pulled Pork,22.1,1.2,0.75,1.6,0.05,[],https://www.allrecipes.com/recipe/236104/bobs-pulled-pork-on-a-smoker/
+Pork Steaks,58.83,4.5,0.67,4.17,0.17,[],https://www.allrecipes.com/recipe/70463/pork-steaks/
+"Daddy Eddie's Roast Pork (Pernil), Puerto Rican-Style",44.38,4.0,0.25,3.0,0.12,[],https://www.allrecipes.com/recipe/254168/daddy-eddies-roast-pork-pernil-puerto-rican-style/
+Boudin Balls,25.08,1.17,2.75,1.0,0.17,['ayam'],https://www.allrecipes.com/recipe/240805/boudin-balls/
+Pork Carnitas,20.83,1.33,0.17,1.58,0.0,['ayam'],https://www.allrecipes.com/recipe/219048/pork-carnitas/
+Home-Cured Holiday Ham,30.25,2.44,1.38,1.62,N/A,[],https://www.allrecipes.com/recipe/245724/home-cured-holiday-ham/
+Slow Cooker Carnitas,22.3,2.2,0.1,1.4,0.0,['ayam'],https://www.allrecipes.com/recipe/139603/slow-cooker-carnitas/
+Mile High Green Chile,21.75,1.0,1.12,1.5,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/218772/mile-high-green-chili/
+Slow Cooker Carolina BBQ,29.3,2.8,0.4,1.7,0.0,[],https://www.allrecipes.com/recipe/148544/slow-cooker-carolina-bbq/
+Chef John's Irish Pork Stew,66.83,3.33,5.5,3.17,0.83,['ayam'],https://www.allrecipes.com/recipe/236988/chef-johns-irish-pork-stew/
+Bigos (Hunter's Stew),35.6,2.0,1.5,2.4,0.4,['sapi'],https://www.allrecipes.com/recipe/138131/bigos-hunters-stew/
+Mexican Chorizo,19.38,1.75,0.38,1.25,0.12,[],https://www.allrecipes.com/recipe/214089/mexican-chorizo/
+Pozole Rojo (Mexican Pork and Hominy Stew),51.0,3.75,4.38,2.12,1.12,[],https://www.allrecipes.com/recipe/257061/pozole-rojo-mexican-pork-and-hominy-stew/
+Cajun Boudin,10.44,0.61,1.11,0.39,0.06,[],https://www.allrecipes.com/recipe/173206/cajun-boudin/
+Slow Cooker Chile Verde,33.12,2.88,1.5,1.5,0.12,[],https://www.allrecipes.com/recipe/81969/slow-cooker-chile-verde/
+Slow Cooker Beer Pulled Pork,13.06,0.94,0.56,0.75,0.0,[],https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/
+Easy Mexican Pork Burritos,83.2,4.4,7.1,3.9,0.6,['keju'],https://www.allrecipes.com/recipe/229057/easy-mexican-pork-burritos/
+Asado de Puerco (Mexican Pork Stew),29.67,2.33,1.33,1.67,0.5,['ayam'],https://www.allrecipes.com/recipe/280443/asado-de-puerco-mexican-pork-stew/
+Slow-Smoked Pulled Pork (Boston Butt),116.67,5.0,3.5,9.0,0.17,[],https://www.allrecipes.com/recipe/254510/slow-smoked-pulled-pork-boston-butt/
+Crispy Pork Carnitas,52.83,4.33,0.33,3.83,0.0,[],https://www.allrecipes.com/recipe/239786/crispy-pork-carnitas/
+Slow Cooker Pulled Pork Barbeque,30.17,2.5,1.17,1.67,0.08,[],https://www.allrecipes.com/recipe/236422/slow-cooker-pulled-pork-barbeque/
+Instant Pot Red Posole,32.88,2.25,1.62,1.88,0.38,['ayam'],https://www.allrecipes.com/recipe/268882/instant-pot-red-posole/
+Instant Pot Tacos al Pastor,35.92,1.83,4.5,1.17,0.42,[],https://www.allrecipes.com/recipe/270608/instant-pot-tacos-al-pastor/
+"Dirty, Dirty Rice",59.33,2.5,9.17,1.17,0.5,['ayam'],https://www.allrecipes.com/recipe/276821/dirty-dirty-rice/
+Cuban-Style Roast Pork,33.12,3.62,0.25,1.88,0.0,[],https://www.allrecipes.com/recipe/241452/cuban-style-roast-pork/
+Traditional Kentucky Burgoo,30.08,1.83,1.75,1.75,0.25,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/221096/traditional-kentucky-burgoo/
+BBQ Pulled Pork Pizza,43.17,2.17,6.5,1.0,0.33,[],https://www.allrecipes.com/recipe/219890/bbq-pulled-pork-pizza/
+Irish Boiled Ham Dinner,125.5,6.33,10.67,6.83,2.33,[],https://www.allrecipes.com/recipe/162534/classic-irish-boiled-dinner/
+St. Louis Pork Steaks,103.4,8.0,0.2,7.2,N/A,[],https://www.allrecipes.com/recipe/73669/st-louis-pork-steaks/
+Pork Chili Verde (Green Pork Chili),64.12,4.0,3.5,3.88,0.5,['ayam'],https://www.allrecipes.com/recipe/245359/pork-chili-verde-green-pork-chili/
+Chinese Barbeque Pork (Char Siu),85.5,4.33,8.17,3.67,0.17,[],https://www.allrecipes.com/recipe/258494/chinese-barbeque-pork-char-siu/
+Easy Oven Pulled Pork,48.4,2.9,0.2,4.0,0.0,[],https://www.allrecipes.com/recipe/285153/easy-oven-pulled-pork/
+Carne con Chile,153.5,12.25,6.5,9.0,1.5,[],https://www.allrecipes.com/recipe/217165/carne-con-chile/
+Wine and Garlic Pork (Portuguese Vina Dosh),36.38,2.25,0.75,2.5,0.12,[],https://www.allrecipes.com/recipe/223185/wine-and-garlic-pork-portuguese-vina-dosh/
+Instant Pot Pork Stew,24.75,2.0,1.12,1.0,0.25,['sapi'],https://www.allrecipes.com/recipe/280428/instant-pot-pork-stew/
+Chef John's Pulled Pork BBQ,28.67,1.42,2.83,1.25,0.08,[],https://www.allrecipes.com/recipe/235566/chef-johns-pulled-pork-bbq/
+Slow Cooker Apple Cider Braised Pork,48.62,3.0,1.75,3.25,0.0,[],https://www.allrecipes.com/recipe/230568/slow-cooker-apple-cider-braised-pork/
+Slow Cooker Pulled Pork with Orange Juice,47.62,3.62,0.5,3.38,0.0,[],https://www.allrecipes.com/recipe/234697/slow-cooker-pulled-pork-with-orange-juice/
+Instant Pot® Pulled Pork,19.75,1.0,1.12,1.31,0.06,['ayam'],https://www.allrecipes.com/recipe/274650/instant-pot-pulled-pork/
+Pork Stew in Green Salsa (Guisado de Puerco con Tomatillos),57.67,5.33,3.0,2.67,0.5,[],https://www.allrecipes.com/recipe/211541/pork-stew-in-green-salsa-guisado-de-puerco-con-tomatillos/
+Barbecued Pork Skewers,32.75,2.75,1.0,1.88,0.0,[],https://www.allrecipes.com/recipe/281030/barbecued-pork-skewers/
+Pork Agrodolce,16.58,1.17,0.58,1.08,0.0,[],https://www.allrecipes.com/recipe/270676/pork-agrodolce/
+Sweet and Savory Slow Cooker Pulled Pork,48.5,2.9,4.6,1.9,0.2,[],https://www.allrecipes.com/recipe/213262/sweet-and-savory-slow-cooker-pulled-pork/
+Homestyle Kalua Pork with Cabbage in a Slow Cooker,50.2,3.0,0.5,4.1,0.2,[],https://www.allrecipes.com/recipe/222403/homestyle-kalua-pork-with-cabbage-in-a-slow-cooker/
+Cider-Braised Pork Shoulder,174.0,9.0,4.25,11.75,0.25,[],https://www.allrecipes.com/recipe/260735/cider-braised-pork-shoulder/
+Easy North Carolina Barbeque,44.9,2.3,0.4,3.8,0.1,[],https://www.allrecipes.com/recipe/143172/easy-north-carolina-barbeque/
+Chef John's Paper Pork Shoulder,116.0,9.0,0.83,8.33,0.17,[],https://www.allrecipes.com/recipe/255280/chef-johns-paper-pork-shoulder/
+Tamales de Puerco (Red Pork Tamales),22.93,0.67,2.0,1.33,0.2,[],https://www.allrecipes.com/recipe/261633/tamales-de-puerco-red-pork-tamales/
+Easy Slow Cooker Apple Pork Roast,37.64,3.21,1.36,2.07,0.14,[],https://www.allrecipes.com/recipe/213270/easy-slow-cooker-apple-pork-roast/
+Home-style Tacos al Pastor (Chile and Pineapple Pork Tacos),N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/215235/home-style-tacos-al-pastor-chile-and-pineapple-pork-tacos/
+Chef John's Breakfast Sausage Patties,26.67,2.33,0.17,1.83,0.17,[],https://www.allrecipes.com/recipe/235183/chef-johns-breakfast-sausage-patties/
+Hog's Head Cheese,3.96,0.29,0.08,0.29,0.04,[],https://www.allrecipes.com/recipe/53275/hogs-head-cheese/
+Braised Pork Ragu,43.83,3.17,1.67,2.33,0.33,['ayam'],https://www.allrecipes.com/recipe/213799/braised-pork-ragu/
+Big V's Slow-Cooker Pulled Pork,70.33,4.83,3.33,3.83,0.17,[],https://www.allrecipes.com/recipe/235170/big-vs-slow-cooker-pulled-pork/
+Dan's Fallin' Apart Pork Pot Roast with Cracked Pepper Gravy,73.29,4.14,5.0,4.14,0.71,[],https://www.allrecipes.com/recipe/215784/dans-fallin-apart-pork-pot-roast-with-cracked-pepper-gravy/
+Instant Pot® Chile Verde,59.5,4.0,0.83,4.33,0.17,['ayam'],https://www.allrecipes.com/recipe/277645/instant-pot-chile-verde/
+"Pork, Sauerkraut and Dumplings",99.17,5.0,8.0,4.67,1.0,['susu'],https://www.allrecipes.com/recipe/228629/pork-sauerkraut-and-dumplings/
+Slow Cooker Root Beer Pulled Pork,34.5,1.9,0.4,2.8,N/A,[],https://www.allrecipes.com/recipe/241143/slow-cooker-root-beer-pulled-pork/
+Pork Stir Fry,31.33,3.0,2.17,1.33,0.5,[],https://www.allrecipes.com/recipe/241091/pork-stir-fry/
+Sheet Pan Balsamic Pork Tenderloin with Rainbow Vegetables,38.25,3.88,2.38,1.5,0.5,[],https://www.allrecipes.com/recipe/8544430/sheet-balsamic-pork-tenderloin-with-rainbow-vegetables/
+Air Fryer Pork Tenderloin with Sweet Potatoes,78.67,6.83,6.67,2.67,0.67,[],https://www.allrecipes.com/recipe/8529787/air-fryer-pork-tenderloin-with-sweet-potatoes/
+Pork Tenderloin with Peaches,25.0,3.25,1.12,0.75,0.12,"['ikan', 'ayam']",https://www.allrecipes.com/recipe/8420615/pork-tenderloin-with-peaches/
+Grilled Pork Tenderloin,23.12,3.0,1.5,0.5,0.0,[],https://www.allrecipes.com/recipe/14726/grilled-pork-tenderloin/
+Amazing Pork Tenderloin in the Slow Cooker,30.0,4.17,1.0,0.67,0.17,[],https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/
+Balsamic Braised Pork Tenderloins with Fresh Figs,38.38,4.5,2.25,1.25,0.25,['ayam'],https://www.allrecipes.com/recipe/8465712/balsamic-braised-pork-tenderloins-with-fresh-figs/
+Easy Marinated Pork Tenderloin,52.17,6.83,0.17,2.5,0.0,[],https://www.allrecipes.com/recipe/176359/easy-marinated-pork-tenderloin/
+Slow Cooker Pulled Pork,41.88,2.62,6.12,0.62,0.25,[],https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
+Char Siu (Chinese BBQ Pork),120.75,11.0,13.5,2.25,0.25,[],https://www.allrecipes.com/recipe/232681/char-siu-chinese-bbq-pork/
+Crispy Pork Cutlets,187.0,16.75,17.75,7.25,0.5,['susu'],https://www.allrecipes.com/recipe/228045/crispy-pork-cutlets/
+Slow Cooker Pork and Sauerkraut,89.5,5.5,9.0,3.75,2.0,[],https://www.allrecipes.com/recipe/228630/slow-cooker-pork-and-sauerkraut/
+Asian Pork Tenderloin,96.25,9.25,4.0,5.0,0.25,[],https://www.allrecipes.com/recipe/83117/asian-pork-tenderloin/
+Stuffed Pork Tenderloin,59.2,6.4,0.8,3.2,0.2,[],https://www.allrecipes.com/recipe/230213/stuffed-pork-tenderloin/
+Roasted Pork Bánh Mì (Vietnamese Sandwich),1263.0,54.0,91.0,76.0,7.0,[],https://www.allrecipes.com/recipe/246028/roasted-pork-banh-mi-vietnamese-sandwich/
+Slow-Cooked Pork Tenderloin,45.12,4.5,1.38,2.25,0.0,[],https://www.allrecipes.com/recipe/275193/slow-cooked-pork-tenderloin/
+Pork Tenderloin with Apples and Onions,52.17,6.0,2.17,2.17,0.33,['ayam'],https://www.allrecipes.com/recipe/275977/pork-tenderloin-with-apples-and-onions/
+Slow Cooker Teriyaki Pork Tenderloin,22.12,2.38,1.25,0.75,0.12,['ayam'],https://www.allrecipes.com/recipe/165025/slow-cooker-teriyaki-pork-tenderloin/
+Tuscan Pork Tenderloin,10.56,1.88,0.06,0.31,0.0,[],https://www.allrecipes.com/recipe/269652/tuscan-pork-tenderloin/
+Traditional Indiana Breaded Tenderloin Sandwich,119.5,7.5,14.0,3.75,1.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/213440/traditional-indiana-breaded-tenderloin-sandwich/
+Pork Lo Mein,103.75,6.5,13.75,2.75,1.25,[],https://www.allrecipes.com/recipe/231523/pork-lo-mein/
+Honey-Glazed Pork Tenderloin,35.0,3.0,3.17,1.17,0.0,[],https://www.allrecipes.com/recipe/62825/honey-glazed-pork-tenderloin/
+Bacon-Wrapped Pork Medallions,35.12,4.25,0.12,1.88,0.0,[],https://www.allrecipes.com/recipe/209691/bacon-wrapped-pork-medallions/
+Souvlaki,15.75,2.0,0.33,0.67,0.08,[],https://www.allrecipes.com/recipe/14713/souvlaki/
+Pork Medallions with Balsamic Vinegar and Capers,41.5,4.5,1.0,2.0,0.0,['ayam'],https://www.allrecipes.com/recipe/169749/pork-medallions-with-balsamic-vinegar-and-capers/
+Easy and Elegant Pork Tenderloin,72.83,4.83,4.5,4.0,0.17,[],https://www.allrecipes.com/recipe/22224/easy-and-elegant-pork-tenderloin/
+Breaded Pork Tenderloin,42.0,5.5,1.17,1.5,0.17,['susu'],https://www.allrecipes.com/recipe/14739/breaded-pork-tenderloin/
+Instant Pot® Pork Tenderloin,20.62,2.5,0.62,0.88,0.0,[],https://www.allrecipes.com/recipe/269977/instant-pot-pork-tenderloin/
+Italian Pork Tenderloin,89.0,7.25,0.75,6.25,0.25,['ayam'],https://www.allrecipes.com/recipe/71555/italian-pork-tenderloin/
+Apricot Pork Tenderloin,73.33,4.0,10.5,1.83,0.0,[],https://www.allrecipes.com/recipe/201010/apricot-pork-tenderloin/
+Southern Pork Tenderloin,90.0,6.0,9.75,4.5,0.0,[],https://www.allrecipes.com/recipe/229427/southern-pork-tenderloin/
+Brown Sugar and Balsamic Glazed Pork Tenderloin,28.5,3.38,2.0,0.75,0.0,[],https://www.allrecipes.com/recipe/275191/brown-sugar-and-balsamic-glazed-pork-tenderloin/
+Air Fryer Mustard-Crusted Pork Tenderloin with Potatoes and Green Beans,71.5,6.25,7.75,1.75,1.0,[],https://www.allrecipes.com/recipe/278038/air-fryer-mustard-crusted-pork-tenderloin-with-potatoes-and-green-beans/
+Sweet and Sour Pork Tenderloin,74.25,6.5,5.75,2.75,0.25,[],https://www.allrecipes.com/recipe/222342/sweet-and-sour-pork-tenderloin/
+Marinated Grilled Pork Tenderloin,78.25,8.0,7.0,2.0,0.0,[],https://www.allrecipes.com/recipe/228266/marinated-grilled-pork-tenderloin/
+Spicy Pork Curry,108.75,6.0,3.0,8.5,0.75,"['ayam', 'susu']",https://www.allrecipes.com/recipe/234659/spicy-pork-curry/
+Stuffed and Rolled Pork Tenderloin,71.0,6.0,3.75,3.5,0.5,['telur'],https://www.allrecipes.com/recipe/239233/stuffed-and-rolled-pork-tenderloin/
+Cheese-Stuffed Pork Tenderloin,116.33,10.67,9.33,4.0,0.67,['keju'],https://www.allrecipes.com/recipe/230214/cheese-stuffed-pork-tenderloin/
+Orange Marinated Pork Tenderloin,47.5,7.0,2.25,1.0,0.25,[],https://www.allrecipes.com/recipe/58941/orange-marinated-pork-tenderloin/
+Slow Cooker Pork Tenderloin and Potatoes,51.33,4.67,6.67,0.67,0.83,['ayam'],https://www.allrecipes.com/recipe/276778/slow-cooker-pork-tenderloin-and-potatoes/
+Garlic Pork Tenderloin with Mushroom Gravy,64.0,4.33,1.67,4.5,0.33,['ayam'],https://www.allrecipes.com/recipe/233480/garlic-pork-tenderloin-with-mushroom-gravy/
+Grilled Pork Tenderloin with Balsamic Honey Glaze,31.38,3.88,0.5,1.5,0.12,[],https://www.allrecipes.com/recipe/272655/grilled-pork-tenderloin-with-balsamic-honey-glaze/
+Pork Chop Suey,32.33,2.67,2.33,1.33,0.33,['ayam'],https://www.allrecipes.com/recipe/22331/pork-chop-suey/
+Maple-Garlic Marinated Pork Tenderloin,48.0,4.0,6.17,0.83,N/A,[],https://www.allrecipes.com/recipe/51997/maple-garlic-marinated-pork-tenderloin/
+Pork Tenderloin Diablo,78.33,8.0,0.67,4.67,0.0,['ayam'],https://www.allrecipes.com/recipe/222187/pork-tenderloin-diablo/
+Authentic Tacos al Pastor,20.4,1.7,2.3,0.6,0.3,[],https://www.allrecipes.com/recipe/257538/authentic-tacos-al-pastor/
+Pork Tenderloin,22.0,2.4,1.8,0.4,0.0,[],https://www.allrecipes.com/recipe/16415/pork-tenderloin/
+Roasted Pork Tenderloin,33.17,4.17,2.83,0.67,0.67,[],https://www.allrecipes.com/recipe/25148/roasted-pork-tenderloin/
+Bacon Wrapped Stuffed Pork Tenderloin,82.5,6.0,3.5,5.0,0.25,[],https://www.allrecipes.com/recipe/230600/bacon-wrapped-stuffed-pork-tenderloin/
+Pork Saltimbocca,276.0,24.5,2.5,15.0,0.0,['ayam'],https://www.allrecipes.com/recipe/261610/pork-saltimbocca/
+Burgundy Pork Tenderloin,100.0,12.0,2.0,2.25,0.25,[],https://www.allrecipes.com/recipe/16362/burgundy-pork-tenderloin/
+Marinated Pork Tenderloin,69.5,6.75,4.25,2.75,0.25,[],https://www.allrecipes.com/recipe/14495/marinated-pork-tenderloin/
+Instant Pot Dr Pepper Pulled Pork,156.75,6.25,26.5,2.75,0.75,[],https://www.allrecipes.com/recipe/268514/instant-pot-dr-pepper-pulled-pork/
+Rosemary Pork Roast,49.83,7.83,0.17,1.83,0.17,[],https://www.allrecipes.com/recipe/16449/rosemary-pork-roast/
+Parsley and Parmesan Crusted Pork Tenderloin,63.0,7.75,3.5,1.75,0.25,['keju'],https://www.allrecipes.com/recipe/220214/parsley-and-parmesan-crusted-pork-tenderloin/
+Pork Tenderloin with Dijon Marsala Sauce,77.17,5.5,2.0,4.33,0.0,[],https://www.allrecipes.com/recipe/57002/pork-tenderloin-with-dijon-marsala-sauce/
+Pepper Jelly Pork,40.25,4.5,4.0,0.75,0.25,[],https://www.allrecipes.com/recipe/238401/pepper-jelly-pork/
+Prosciutto-Wrapped Pork Tenderloin with Crispy Sage,73.5,6.5,0.25,5.0,N/A,[],https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/
+Roasted Pork Tenderloin with Fresh Plum Sauce,185.0,18.5,11.5,7.5,1.0,[],https://www.allrecipes.com/recipe/239147/roasted-pork-tenderloin-with-fresh-plum-sauce/
+Chicken Pot Pie Casserole,53.38,2.5,4.5,2.75,0.38,"['ayam', 'susu']",https://www.allrecipes.com/recipe/8521866/chicken-pot-pie-casserole/
+Chicken Pot Pie,51.5,2.25,3.75,3.0,0.38,"['ayam', 'susu']",https://www.allrecipes.com/recipe/26317/chicken-pot-pie-ix/
+Easy Chicken Pot Pie,77.17,3.17,6.67,4.17,0.5,"['ayam', 'susu']",https://www.allrecipes.com/recipe/8618/easy-chicken-pot-pie/
+Dad's Leftover Turkey Pot Pie,44.92,1.67,3.33,2.75,0.33,"['ayam', 'susu']",https://www.allrecipes.com/recipe/215447/dads-leftover-turkey-pot-pie/
+Mom's Fabulous Chicken Pot Pie with Biscuit Crust,51.5,2.5,3.75,2.88,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/216758/moms-fabulous-chicken-pot-pie-with-biscuit-crust/
+Seafood Pot Pie,156.67,8.0,9.83,9.17,0.83,"['ikan', 'telur', 'udang']",https://www.allrecipes.com/recipe/8465302/seafood-pot-pie/
+Healthier Chicken Pot Pie,39.75,1.88,3.38,2.0,0.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/222131/healthier-chicken-pot-pie-ix/
+Veggie Pot Pie,78.17,1.33,9.0,4.17,1.17,[],https://www.allrecipes.com/recipe/16765/veggie-pot-pie/
+Beef Pot Pie,87.83,3.33,9.67,4.0,0.67,['sapi'],https://www.allrecipes.com/recipe/22851/beef-pot-pie-iii/
+Puff Pastry Chicken Pot Pie,77.5,1.88,5.0,5.62,0.38,"['ayam', 'susu']",https://www.allrecipes.com/recipe/270617/puff-pastry-chicken-pot-pie/
+Chicken and Biscuit Casserole,75.17,5.67,8.0,2.17,0.5,"['ayam', 'susu']",https://www.allrecipes.com/recipe/8700/chicken-and-biscuit-casserole/
+Rotisserie Chicken Pot Pie,59.0,2.75,4.25,3.5,0.5,"['ayam', 'susu']",https://www.allrecipes.com/recipe/272462/rotisserie-chicken-pot-pie/
+Mom's Chicken Pot Pie,87.62,2.12,8.25,5.12,0.5,"['ayam', 'susu']",https://www.allrecipes.com/recipe/234974/moms-chicken-pot-pie/
+Chicken Pot Pie with Crescent Rolls,71.0,5.0,5.12,3.25,0.38,"['ayam', 'susu']",https://www.allrecipes.com/recipe/285301/chicken-pot-pie-with-crescent-rolls/
+Campbell's Kitchen Easy Chicken Pot Pie,N/A,N/A,N/A,N/A,N/A,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/151597/campbells-kitchen-easy-chicken-pot-pie/
+Turkey Pot Pie,60.12,1.75,5.62,3.38,0.62,"['ayam', 'susu']",https://www.allrecipes.com/recipe/9230/turkey-pot-pie/
+Easy Vegetable Pot Pie,63.33,1.0,6.83,3.5,0.67,"['telur', 'susu']",https://www.allrecipes.com/recipe/13884/easy-vegetable-pot-pie/
+Reuben Crescent Bake,164.5,9.25,8.0,10.5,0.25,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/216980/reuben-crescent-bake/
+"Beef, Mushroom, and Guinness Pie",53.0,4.83,1.67,2.67,0.17,"['sapi', 'telur']",https://www.allrecipes.com/recipe/216928/beef-mushroom-and-guinness-pie/
+To-Die-For Chicken Pot Pie,113.0,4.17,10.83,6.33,1.33,"['susu', 'ayam', 'telur']",https://www.allrecipes.com/recipe/219491/to-die-for-chicken-pot-pie/
+4-Ingredient Chicken Pot Pie,52.38,3.12,4.75,2.38,0.62,['ayam'],https://www.allrecipes.com/recipe/12281/chicken-pot-pie-i/
+Gram's Chicken Pot Pie,133.0,6.83,6.67,8.67,0.5,['ayam'],https://www.allrecipes.com/recipe/8809/grams-chicken-pot-pie/
+Grandma Carlson's Turkey Pot Pie,62.75,2.0,5.0,4.0,0.38,['ayam'],https://www.allrecipes.com/recipe/215445/grandma-carlsons-turkey-pot-pie/
+Homemade Chicken Pot Pie,50.25,1.5,3.88,3.25,0.38,"['ayam', 'susu']",https://www.allrecipes.com/recipe/275753/homemade-chicken-pot-pie/
+Chicken Pot Pie III,43.25,1.62,4.0,2.38,0.5,['ayam'],https://www.allrecipes.com/recipe/12659/chicken-pot-pie-iii/
+Pheasant Pot Pie,87.38,2.75,6.75,5.5,0.75,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/240764/pheasant-pot-pie/
+Fast and Easy Turkey Pot Pie,90.17,4.0,7.33,5.0,0.83,"['keju', 'ayam']",https://www.allrecipes.com/recipe/215442/fast-and-easy-turkey-pot-pie/
+Easy Weeknight Tuna Pot Pie,33.25,1.75,2.38,1.75,0.25,['keju'],https://www.allrecipes.com/recipe/79601/easy-weeknight-tuna-pot-pie/
+Cornbread Chicken Pot Pie,135.25,6.75,14.75,5.75,1.5,"['keju', 'ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/213319/cornbread-chicken-pot-pie/
+Old Fashioned Chicken Pot Pie,117.0,7.17,6.5,6.67,1.0,"['ayam', 'susu']",https://www.allrecipes.com/recipe/24093/old-fashioned-chicken-pot-pie/
+Homemade Turkey Pot Pie,60.25,1.75,5.75,3.38,0.62,"['ayam', 'susu']",https://www.allrecipes.com/recipe/13567/turkey-pot-pie-i/
+Left-Over Turkey Pot Pie,56.5,2.75,4.5,3.12,0.5,['susu'],https://www.allrecipes.com/recipe/131686/left-over-turkey-pot-pie/
+Best Homemade Chicken Pot Pie,67.75,3.12,4.0,4.38,0.38,['ayam'],https://www.allrecipes.com/recipe/8343156/best-homemade-chicken-pot-pie/
+Hearty Chicken Pot Pie,232.5,16.75,18.0,10.0,2.0,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/8808/chicken-pot-pie-ii/
+Cheesy Chicken Pot Pie,46.25,1.88,3.25,2.88,0.38,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/12690/cheesy-chicken-pot-pie/
+Steak and Irish Stout Pie,74.62,3.75,4.0,4.75,0.38,[],https://www.allrecipes.com/recipe/220515/steak-and-irish-stout-pie/
+Venison Pot Pie,66.5,2.75,7.75,2.62,0.88,"['susu', 'sapi', 'telur']",https://www.allrecipes.com/recipe/278598/venison-pot-pie/
+Low-Fat Chicken Pot Pie,38.25,1.62,4.25,1.62,0.5,['ayam'],https://www.allrecipes.com/recipe/12620/low-fat-chicken-pot-pie/
+Pot Pie with Leftover Pot Roast and Vegetables,62.12,2.38,3.88,4.12,0.38,['sapi'],https://www.allrecipes.com/recipe/284814/pot-pie-with-leftover-pot-roast-and-vegetables/
+Individual Turkey Pot Pies,248.5,8.5,17.5,16.0,1.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/255646/individual-turkey-pot-pies/
+Chicken Pot Pie,77.88,2.38,5.25,5.25,0.38,['ayam'],https://www.allrecipes.com/recipe/26318/chicken-pot-pie-viii/
+"Meat Pie, Southern Version",53.0,2.2,3.1,3.5,0.2,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/216874/meat-pie-southern-version/
+Speedy Chili Pot Pie,51.0,2.67,7.0,1.33,0.67,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/217121/speedy-chili-pot-pie/
+Chicken Pot Pies with Puff Pastry,237.0,8.75,14.0,16.25,1.0,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/53926/chicken-pot-pies-with-puff-pastry/
+Lew's Famous Lobster Pot Pie,97.83,4.33,7.83,5.5,0.83,"['ayam', 'susu', 'udang']",https://www.allrecipes.com/recipe/220119/lews-famous-lobster-pot-pie/
+Simple Classic Chicken Pot Pie,40.0,2.0,2.42,2.5,0.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/113131/simple-classic-chicken-potpie/
+Chicken Biscuit Pie,123.0,5.8,11.4,6.0,0.8,"['ayam', 'susu']",https://www.allrecipes.com/recipe/12651/chicken-biscuit-pie/
+Cheater Pot Pie,32.88,1.25,3.38,1.62,0.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/18370/cheater-pot-pie/
+Steak and Potato Pie,51.75,2.0,5.5,2.12,0.38,['sapi'],https://www.allrecipes.com/recipe/216877/steak-and-potato-pie/
+Indian Samosa Pie,40.5,1.17,6.67,1.17,0.83,['susu'],https://www.allrecipes.com/recipe/237072/indian-samosa-pie/
+Make-Ahead Chicken Pot Pie,29.81,1.0,2.31,1.88,0.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/282175/make-ahead-chicken-pot-pie/
+Mini Lobster Pot Pies,512.5,14.0,34.0,36.0,1.5,"['kerang', 'telur']",https://www.allrecipes.com/recipe/8319857/mini-lobster-pot-pies/
+Easy Hand-Held Chicken Pot Pies,17.94,0.94,1.81,0.75,0.06,['ayam'],https://www.allrecipes.com/recipe/262493/easy-hand-held-chicken-pot-pies/
+Crust for Veggie Pot Pie,33.12,0.38,3.0,2.12,0.12,[],https://www.allrecipes.com/recipe/15998/crust-for-veggie-pot-pie/
+Easy Pot Pie with Biscuits,120.0,6.75,11.25,5.25,0.75,['ayam'],https://www.allrecipes.com/recipe/276222/easy-pot-pie-with-biscuits/
+Turkey Tamale Pie,56.88,3.75,5.12,2.25,0.5,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/269275/turkey-tamale-pie/
+Tofu Vegetable Pot Pie,30.75,0.62,2.5,2.12,0.25,['susu'],https://www.allrecipes.com/recipe/228486/tofu-vegetable-pot-pie/
+Upside-Down Pizza Pot Pie,157.5,7.0,10.0,9.5,0.75,['keju'],https://www.allrecipes.com/recipe/232373/upside-down-pizza-pot-pie/
+Cajun Chicken Pot Pie,109.17,4.0,8.33,6.67,0.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/218141/cajun-chicken-pot-pie/
+Slow Cooker Pot Roast,67.5,5.75,2.25,3.88,0.38,[],https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/
+Mississippi Pot Roast,69.12,3.62,0.38,5.75,0.0,[],https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/
+Easy Pressure Cooker Pot Roast,56.25,3.12,4.75,2.75,0.62,['sapi'],https://www.allrecipes.com/recipe/220869/easy-pressure-cooker-pot-roast/
+Easiest Pot Roast Ever,87.67,5.33,7.0,4.17,1.0,['sapi'],https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/
+Stove Top Pot Roast,101.33,5.5,8.67,5.0,1.5,['sapi'],https://www.allrecipes.com/recipe/131931/stove-top-pot-roast/
+Awesome Slow Cooker Pot Roast,35.5,3.83,0.42,2.0,0.0,[],https://www.allrecipes.com/recipe/16066/awesome-slow-cooker-pot-roast/
+Simple Beef Pot Roast,84.5,5.33,1.0,6.5,0.33,['sapi'],https://www.allrecipes.com/recipe/219173/simple-beef-pot-roast/
+Pot Roast,127.0,7.75,10.25,6.0,1.5,['sapi'],https://www.allrecipes.com/recipe/232756/pot-roast/
+Oven Pot Roast,31.25,2.25,0.67,2.0,0.0,[],https://www.allrecipes.com/recipe/25206/oven-pot-roast/
+Beef Pot Roast,68.88,4.88,0.25,5.25,0.0,[],https://www.allrecipes.com/recipe/14621/beef-pot-roast/
+Slow Cooker Beef Pot Roast,97.25,6.88,1.0,7.12,0.25,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/220125/slow-cooker-beef-pot-roast/
+Oven Bag Pot Roast,44.25,3.38,1.62,2.62,0.12,['sapi'],https://www.allrecipes.com/recipe/239046/oven-bag-pot-roast/
+Mississippi Roast (Slow Cooker Pepperoncini Pot Roast),89.5,6.17,1.0,6.5,0.0,['sapi'],https://www.allrecipes.com/recipe/246721/mississippi-roast-slow-cooker-pepperoncini-pot-roast/
+Easy Slow Cooker Pot Roast,64.17,4.0,3.5,3.67,0.5,['sapi'],https://www.allrecipes.com/recipe/218547/slow-cooker-pot-roast/
+Instant Pot Pot Roast,19.42,1.25,0.92,1.17,0.17,['sapi'],https://www.allrecipes.com/recipe/268516/instant-pot-pot-roast/
+Garlic Top Sirloin Pot Roast,47.25,4.0,3.25,2.0,0.5,['sapi'],https://www.allrecipes.com/recipe/22681/garlic-top-sirloin-pot-roast/
+Instant Pot Pot Roast with Potatoes and Carrots,40.38,3.25,2.38,2.0,0.38,['sapi'],https://www.allrecipes.com/recipe/267624/instant-pot-pot-roast-with-potatoes-and-carrots/
+Awesome Red Wine Pot Roast,20.25,1.17,0.83,1.25,0.17,['sapi'],https://www.allrecipes.com/recipe/162091/awesome-red-wine-pot-roast/
+Slow Cooker Au Jus Pot Roast,48.25,3.38,0.38,3.62,0.12,['sapi'],https://www.allrecipes.com/recipe/229957/slow-cooker-au-jus-pot-roast/
+Perfect Pressure Cooker Pot Roast,73.83,4.67,1.83,5.17,0.17,['sapi'],https://www.allrecipes.com/recipe/66404/perfect-pressure-cooker-pot-roast/
+Pot Roast in Foil,48.62,4.38,0.38,3.12,0.0,[],https://www.allrecipes.com/recipe/16593/pot-roast-in-foil/
+Jen's Pressure Cooker Pot Roast,116.67,8.0,11.83,4.17,1.5,['sapi'],https://www.allrecipes.com/recipe/220860/jens-pressure-cooker-pot-roast/
+Cola Pot Roast II,53.0,4.88,1.62,2.88,0.12,['sapi'],https://www.allrecipes.com/recipe/14618/cola-pot-roast-ii/
+Paula's Dutch Oven Pot Roast,51.25,2.12,2.62,3.38,0.38,['sapi'],https://www.allrecipes.com/recipe/281196/paulas-dutch-oven-pot-roast/
+Slow Cooker Creamy Pot Roast,33.6,3.3,1.1,1.7,0.2,['sapi'],https://www.allrecipes.com/recipe/241726/slow-cooker-creamy-pot-roast/
+Grandma's Best Pot Roast,39.5,5.67,0.67,1.5,0.17,[],https://www.allrecipes.com/recipe/283628/grandmas-best-pot-roast/
+Healthier Marie's Easy Slow Cooker Pot Roast,43.75,3.38,3.12,2.0,0.5,['sapi'],https://www.allrecipes.com/recipe/222080/healthier-maries-easy-slow-cooker-pot-roast/
+Boliche (Cuban Pot Roast),73.25,4.88,3.88,4.12,0.38,['sapi'],https://www.allrecipes.com/recipe/207840/boliche-cuban-pot-roast/
+Slow Cooker Pot Roast with Malbec (Red Wine),58.33,3.83,1.5,3.5,0.17,['sapi'],https://www.allrecipes.com/recipe/241263/slow-cooker-pot-roast-with-malbec-red-wine/
+Mother's Pot Roast,110.4,9.0,2.0,7.4,0.4,[],https://www.allrecipes.com/recipe/14648/mothers-pot-roast/
+My Favorite Pot Roast,62.25,3.75,3.88,3.5,0.5,['sapi'],https://www.allrecipes.com/recipe/230980/my-favorite-pot-roast/
+Stovetop Yankee Pot Roast,38.8,2.8,1.0,2.4,0.2,['sapi'],https://www.allrecipes.com/recipe/104763/stovetop-yankee-pot-roast/
+Pot Pie with Leftover Pot Roast and Vegetables,62.12,2.38,3.88,4.12,0.38,['sapi'],https://www.allrecipes.com/recipe/284814/pot-pie-with-leftover-pot-roast-and-vegetables/
+Asian Pot Roast in an Instant Pot,56.17,3.33,1.67,4.0,0.33,['sapi'],https://www.allrecipes.com/recipe/263513/asian-pot-roast-in-an-instant-pot/
+Stove Pot Roast With Mashed Potatoes,85.25,3.88,7.88,4.38,0.75,"['sapi', 'susu']",https://www.allrecipes.com/recipe/229955/stove-pot-roast-with-mashed-potatoes/
+"Pot Roast, Vegetables, and Beer",94.67,5.67,6.5,4.83,1.0,['sapi'],https://www.allrecipes.com/recipe/184667/pot-roast-vegetables-and-beer/
+Healthier (but still awesome) Awesome Slow Cooker Pot Roast,25.42,2.0,1.25,1.33,0.25,[],https://www.allrecipes.com/recipe/219438/healthier-but-still-awesome-awesome-slow-cooker-pot-roast/
+Instant Pot Yankee Pot Roast,18.0,1.07,0.71,1.14,0.07,['sapi'],https://www.allrecipes.com/recipe/269030/instant-pot-yankee-pot-roast/
+Irish Stout Beer Pot Roast,157.25,9.5,9.25,9.0,1.25,['sapi'],https://www.allrecipes.com/recipe/216228/irish-stout-beer-pot-roast/
+Mexican Pot Roast,17.75,1.75,0.42,0.92,0.08,['sapi'],https://www.allrecipes.com/recipe/229053/mexican-pot-roast/
+Awesome Slow Cooker Pot Roast Plus Extras Recipe,25.12,3.56,0.62,0.81,0.06,[],https://www.allrecipes.com/recipe/236872/awesome-slow-cooker-pot-roast-plus-extras/
+Apple-Flavored Pot Roast,132.0,7.0,8.5,7.67,0.67,['sapi'],https://www.allrecipes.com/recipe/98056/apple-flavored-pot-roast/
+Instant Pot 'Pot Roast',46.5,2.88,2.38,2.62,0.38,['sapi'],https://www.allrecipes.com/recipe/269923/instant-pot-pot-roast/
+Red Pot Roast,81.38,4.38,7.88,3.62,0.62,[],https://www.allrecipes.com/recipe/53096/red-pot-roast/
+Baja Pot Roast,15.69,0.88,0.75,0.94,0.12,['sapi'],https://www.allrecipes.com/recipe/270632/baja-pot-roast/
+Cranberry Pot Roast,58.7,3.3,3.4,3.5,0.2,['sapi'],https://www.allrecipes.com/recipe/81456/cranberry-pot-roast/
+Autumn Pot Roast II,56.75,3.38,0.88,4.0,0.12,['sapi'],https://www.allrecipes.com/recipe/152181/autumn-pot-roast-ii/
+Pot Roast in Beer,64.5,5.67,1.33,3.67,0.17,[],https://www.allrecipes.com/recipe/14637/pot-roast-in-beer/
+Instant Pot® Cranberry-Thyme Pot Roast,35.2,2.0,2.2,2.1,0.3,['sapi'],https://www.allrecipes.com/recipe/275518/instant-pot-cranberry-thyme-pot-roast/
+Apple Cider Pepper Pot Roast (Pressure Cooker Recipe),37.5,2.25,0.62,2.75,0.12,['sapi'],https://www.allrecipes.com/recipe/245859/apple-cider-pepper-pot-roast-pressure-cooker-recipe/
+Autumn Pot Roast,32.38,2.25,3.25,1.25,0.62,['sapi'],https://www.allrecipes.com/recipe/231538/autumn-pot-roast/
+Pot Roast Caribe,99.17,5.5,6.67,5.67,1.17,['sapi'],https://www.allrecipes.com/recipe/100728/pot-roast-caribe/
+Cranberry Pot Roast by Michelle,69.0,3.75,3.0,4.5,0.25,['sapi'],https://www.allrecipes.com/recipe/212835/cranberry-pot-roast-by-michelle/
+Pot Roast with Vegetables,94.5,6.0,5.0,5.5,0.83,['sapi'],https://www.allrecipes.com/recipe/229953/pot-roast-with-vegetables/
+Old-Fashioned Potato Cakes,63.75,1.75,11.25,1.25,0.75,['telur'],https://www.allrecipes.com/recipe/223597/old-fashioned-potato-cakes/
+Potato Pancakes,47.17,1.17,7.83,1.33,1.0,['telur'],https://www.allrecipes.com/recipe/14089/potato-pancakes-i/
+My Crispy Mashed Potato Pancake,51.0,1.25,6.0,2.5,0.5,['telur'],https://www.allrecipes.com/recipe/222608/my-crispy-mashed-potato-pancake/
+German Potato Pancakes,47.17,1.17,6.83,1.83,0.83,[],https://www.allrecipes.com/recipe/33118/german-potato-pancakes/
+Irish Boxty,37.83,0.83,4.83,1.67,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/161679/irish-boxty/
+Potato Latkes,33.17,0.83,3.67,1.83,0.33,['telur'],https://www.allrecipes.com/recipe/16073/potato-latkes-i/
+Instant Potato Pancakes,33.75,0.75,2.0,2.75,0.25,['telur'],https://www.allrecipes.com/recipe/220323/instant-potato-pancakes/
+Easy Leftover Potato Pancakes,50.8,1.4,4.8,3.0,0.4,"['keju', 'telur']",https://www.allrecipes.com/recipe/18028/potato-pancakes-ii/
+Air Fryer Latkes,19.4,0.6,3.8,1.4,0.4,['telur'],https://www.allrecipes.com/recipe/277453/air-fryer-latkes/
+Leftover Mashed Potato Pancakes,186.5,4.5,23.5,8.5,2.0,['telur'],https://www.allrecipes.com/recipe/262978/leftover-mashed-potato-pancakes/
+Panko Crusted Mashed Potato Cakes,20.5,0.5,2.75,0.88,0.12,[],https://www.allrecipes.com/recipe/216977/panko-crusted-mashed-potato-cakes/
+Cheesy Potato Pancakes,71.17,2.5,7.17,3.67,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/220614/cheesy-potato-pancakes/
+Easy Potato Pancakes,58.2,1.6,8.6,2.0,1.0,[],https://www.allrecipes.com/recipe/21487/easy-potato-pancakes/
+Mom's Potato Latkes,92.75,1.5,5.5,7.5,0.75,[],https://www.allrecipes.com/recipe/235052/moms-potato-latkes/
+Baked Potato Latkes,43.8,1.0,5.2,2.2,0.4,[],https://www.allrecipes.com/recipe/236019/baked-potato-latkes/
+Foolproof Potato Latkes,57.8,1.4,7.4,2.6,1.0,[],https://www.allrecipes.com/recipe/212816/foolproof-potato-latkes/
+Bramboracky (Czech Savory Potato Pancakes),175.67,5.0,31.33,3.67,4.0,['susu'],https://www.allrecipes.com/recipe/212824/bramboracky-czech-savory-potato-pancakes/
+Corned Beef Potato Pancakes,65.0,4.0,7.25,2.25,1.0,"['sapi', 'telur']",https://www.allrecipes.com/recipe/72190/corned-beef-potato-pancakes/
+Potato Latkes from Simply Potatoes,19.0,0.67,4.0,0.0,0.5,['telur'],https://www.allrecipes.com/recipe/230706/potato-latkes-from-simply-potatoes/
+Chef John's Classic Potato Pancakes,78.75,2.25,13.0,2.0,1.5,[],https://www.allrecipes.com/recipe/238261/chef-johns-classic-potato-pancakes/
+Crispy Potato Pancakes,44.67,1.17,5.83,2.0,0.67,[],https://www.allrecipes.com/recipe/228234/crispy-potato-pancakes/
+Loaded Mashed Potato Cakes,25.38,0.88,2.0,1.5,0.12,"['keju', 'telur']",https://www.allrecipes.com/recipe/229264/loaded-mashed-potato-cakes/
+Roesti,31.0,0.5,5.17,1.0,0.5,['susu'],https://www.allrecipes.com/recipe/149259/roesti/
+Bacon Potato Pancakes,42.83,1.33,5.0,2.0,0.5,[],https://www.allrecipes.com/recipe/220613/bacon-potato-pancakes/
+Dad's Potato Pancakes,13.13,0.33,2.6,0.13,0.13,[],https://www.allrecipes.com/recipe/21304/potato-pancakes/
+Delicious Stuffed Potato Pancakes,64.83,3.0,9.67,1.67,1.17,"['sapi', 'telur']",https://www.allrecipes.com/recipe/206817/delicious-stuffed-potato-pancakes/
+Vegetable and Feta Latkes,37.5,1.33,2.83,2.5,0.33,['keju'],https://www.allrecipes.com/recipe/16120/vegetable-and-feta-latkes/
+Anne's Potato Pancakes,18.2,0.6,3.1,0.5,0.4,[],https://www.allrecipes.com/recipe/85431/annes-potato-pancakes/
+Sausage-Stuffed Potato Pancakes,40.33,1.33,3.83,2.17,0.5,['telur'],https://www.allrecipes.com/recipe/284273/sausage-stuffed-potato-pancakes/
+Kay Dee's Recipe for Potato Latkes,14.67,0.33,1.5,0.83,0.17,[],https://www.allrecipes.com/recipe/212383/kay-dees-recipe-for-potato-latkes/
+Reibekuchen (German Potato Pancakes),39.9,1.0,7.8,0.7,1.0,['telur'],https://www.allrecipes.com/recipe/284424/reibekuchen-german-potato-pancakes/
+Boxty,41.5,1.17,7.33,0.83,0.5,[],https://www.allrecipes.com/recipe/111190/boxty/
+Cajun Potato Latkes,18.83,0.67,2.17,0.83,0.33,[],https://www.allrecipes.com/recipe/212382/cajun-potato-latkes/
+Potato Leek Latkes,36.8,2.0,4.0,1.6,0.8,['keju'],https://www.allrecipes.com/recipe/256185/potato-leek-latkes/
+Chorizo Latkes,9.11,0.44,0.44,0.61,0.06,['sapi'],https://www.allrecipes.com/recipe/246879/chorizo-latkes/
+Scallion Mashed Potato Pancakes,14.4,0.3,1.3,0.9,0.1,[],https://www.allrecipes.com/recipe/282131/scallion-mashed-potato-pancakes/
+Easy Air Fryer Latkes,39.25,1.75,6.5,0.75,0.75,[],https://www.allrecipes.com/recipe/284820/easy-air-fryer-latkes/
+"Bacon Potato Cakes with Ham Steak, Egg, and Sliced Avocado",198.5,10.5,9.25,15.0,1.5,['keju'],https://www.allrecipes.com/recipe/262704/bacon-potato-cakes-with-ham-steak-egg-and-sliced-avocado/
+Backyard Skillet Smashed Potatoes and Onions,64.5,1.25,11.25,1.75,1.5,[],https://www.allrecipes.com/recipe/274315/backyard-skillet-smashed-potatoes-and-onions/
+Family Latkes,9.5,0.33,1.42,0.33,0.17,[],https://www.allrecipes.com/recipe/282521/family-latkes/
+Kicked-Up Potato Pancakes,91.25,5.5,8.75,3.75,1.0,['keju'],https://www.allrecipes.com/recipe/220616/kicked-up-potato-pancakes/
+Apple-Potato Latkes,41.0,0.75,5.0,2.0,0.5,['telur'],https://www.allrecipes.com/recipe/255070/apple-potato-latkes/
+"Potato Latkes with Caramelized Pears, Goat Cheese, and Sherry Vinegar Drizzle",54.83,2.17,5.0,3.0,0.5,['keju'],https://www.allrecipes.com/recipe/235268/potato-latkes-with-caramelized-pears-goat-cheese-and-sherry-vinegar-drizzle/
+Rainbow Potato Pancakes with Harissa and Eggs,121.25,4.5,15.5,4.75,1.25,[],https://www.allrecipes.com/recipe/278061/rainbow-potato-pancakes-with-harissa-and-eggs/
+Old-Fashioned Potato Salad,25.75,0.75,3.88,1.0,0.5,[],https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/
+Authentic German Potato Salad,45.75,1.25,8.0,1.0,0.5,[],https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/
+Light and Easy Greek Potato Salad,13.12,0.12,1.25,0.88,0.12,[],https://www.allrecipes.com/recipe/223380/light-and-easy-greek-potato-salad/
+Authentic Russian Salad 'Olivye',26.1,0.8,3.1,1.2,0.5,[],https://www.allrecipes.com/recipe/234949/authentic-russian-salad-olivye/
+Red-Skinned Potato Salad,35.83,0.83,1.33,3.08,0.08,[],https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/
+Hot German Potato Salad,17.08,0.33,2.75,0.58,0.25,[],https://www.allrecipes.com/recipe/18085/hot-german-potato-salad-iii/
+BBQ Potato Salad,33.17,0.58,3.25,2.08,0.33,[],https://www.allrecipes.com/recipe/143446/barbeque-potato-salad/
+Southern Potato Salad,115.0,2.75,11.25,6.75,1.25,[],https://www.allrecipes.com/recipe/16727/southern-potato-salad/
+All-American Loaded Baked Potato Salad,72.33,2.17,5.83,4.5,0.67,['keju'],https://www.allrecipes.com/recipe/254568/all-american-loaded-baked-potato-salad/
+Potato Salad,16.95,0.2,1.0,1.4,0.1,[],https://www.allrecipes.com/recipe/232864/potato-salad/
+World's Best Potato Salad,92.5,1.83,4.5,7.67,0.17,['susu'],https://www.allrecipes.com/recipe/86662/worlds-best-potato-salad/
+Red Potato Salad,13.58,0.42,2.08,0.42,0.17,[],https://www.allrecipes.com/recipe/87373/red-potato-salad/
+Warm Dijon Potato Salad,19.38,0.38,3.0,0.75,0.38,['keju'],https://www.allrecipes.com/recipe/228116/warm-dijon-potato-salad/

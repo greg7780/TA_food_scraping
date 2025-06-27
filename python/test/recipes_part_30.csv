@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Espinacas con Garbanzos (Spinach with Garbanzo Beans),42.25,1.75,6.5,1.25,1.5,[],https://www.allrecipes.com/recipe/161535/espinacas-con-garbanzos-spinach-with-garbanzo-beans/
+Chorizo Stuffed Poblano Peppers,119.25,6.0,3.0,9.25,0.5,['keju'],https://www.allrecipes.com/recipe/229885/chorizo-stuffed-poblano-peppers/
+Deep-Fried Camembert and Cranberry Sauce,22.58,0.92,2.42,1.08,0.08,"['keju', 'susu']",https://www.allrecipes.com/recipe/257482/deep-fried-camembert-and-cranberry-sauce/
+Tofu and Rice Stuffed Peppers,138.5,7.25,14.0,6.25,2.0,['keju'],https://www.allrecipes.com/recipe/88207/tofu-and-rice-stuffed-peppers/
+Quince Paste,5.31,0.0,1.38,0.0,0.03,[],https://www.allrecipes.com/recipe/157011/quince-paste/
+Juicy and Spicy Ceviche,33.17,4.17,1.83,1.17,0.67,"['udang', 'cumi']",https://www.allrecipes.com/recipe/170833/juicy-and-spicy-ceviche/
+Blue Cheese and Pear Tartlets,4.0,0.13,0.33,0.27,0.0,['keju'],https://www.allrecipes.com/recipe/66969/blue-cheese-and-pear-tartlets/
+Antipasto on a Stick,18.88,1.0,0.12,1.62,N/A,['keju'],https://www.allrecipes.com/recipe/238906/antipasto-on-a-stick/
+Captain Duarte's Salt Cod Cakes,66.0,9.0,5.33,0.83,0.67,['ikan'],https://www.allrecipes.com/recipe/212778/captain-duartes-salt-cod-cakes/
+Avocado and Tuna Tapas,73.5,6.0,2.75,4.5,1.75,[],https://www.allrecipes.com/recipe/139620/avocado-and-tuna-tapas/
+Scallop and Prosciutto Bites,20.12,2.12,0.38,1.0,N/A,[],https://www.allrecipes.com/recipe/80706/scallop-and-prosciutto-bites/
+Chilean-Style Sopaipillas,23.83,0.42,3.0,1.17,0.17,[],https://www.allrecipes.com/recipe/145272/chilean-style-sopaipillas/
+Seviche,25.22,0.89,1.78,1.67,0.11,[],https://www.allrecipes.com/recipe/25873/seviche/
+Sun-Dried Tomato Tapenade,25.0,0.5,1.12,2.25,0.25,['keju'],https://www.allrecipes.com/recipe/233053/sundried-tomato-tapenade/
+Chickpeas and Chorizo,68.5,3.17,6.17,3.5,1.5,[],https://www.allrecipes.com/recipe/239571/chickpeas-and-chorizo/
+Mini Ham And Cheese Rolls,6.04,0.25,0.42,0.38,0.04,['keju'],https://www.allrecipes.com/recipe/15018/mini-ham-and-cheese-rolls/
+Deep-Fried Sous Vide Egg Yolks,26.83,1.5,2.17,1.33,0.17,[],https://www.allrecipes.com/recipe/260587/deep-fried-sous-vide-egg-yolks/
+Tortilla Española,85.0,3.5,9.25,4.0,1.25,[],https://www.allrecipes.com/recipe/213226/tortilla-espanola/
+City Ceviche,6.92,0.58,0.42,0.33,0.17,['udang'],https://www.allrecipes.com/recipe/223259/city-ceviche/
+Empanadas Fritas de Queso,42.88,1.88,4.88,1.75,0.12,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/134319/empanadas-fritas-de-queso/
+Shrimpcargot,67.67,3.67,0.67,5.67,0.0,"['keju', 'udang']",https://www.allrecipes.com/recipe/165535/shrimpcargot/
+Crispy Tuna Croquettes,46.25,1.25,3.0,3.62,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/254436/crispy-tuna-croquettes/
+Arroz Tapado (Rice-On-Top),85.0,3.83,10.5,3.0,0.67,"['sapi', 'telur']",https://www.allrecipes.com/recipe/216814/arroz-tapado-rice-on-top/
+Basque Salad,50.0,0.33,1.83,4.67,0.33,[],https://www.allrecipes.com/recipe/63250/basque-salad/
+Cheese and Bacon Jalapeno Rellenos,2.72,0.11,0.11,0.22,0.0,['keju'],https://www.allrecipes.com/recipe/217200/cheese-and-bacon-jalapeno-rellenos/
+Yuca Frita,303.5,4.0,32.5,18.5,2.0,[],https://www.allrecipes.com/recipe/140459/yuca-frita/
+Portabella Nirvana,113.75,2.75,5.25,9.5,0.25,['keju'],https://www.allrecipes.com/recipe/39432/portabella-nirvana/
+Huevos Endiablados,23.17,2.0,0.33,1.5,0.0,[],https://www.allrecipes.com/recipe/228955/huevos-endiablados/
+Artichoke Bites I,14.67,0.67,0.42,1.17,0.0,['keju'],https://www.allrecipes.com/recipe/20459/artichoke-bites-i/
+Roasted Oranges with Thyme,39.75,0.5,8.5,1.0,1.25,[],https://www.allrecipes.com/recipe/275139/roasted-oranges-with-thyme/
+Linguine with Cajun-Spiced Shrimp and Corn,84.67,4.0,10.0,3.33,0.5,['udang'],https://www.allrecipes.com/recipe/149119/linguine-with-cajun-spiced-shrimp-and-corn/
+Little Broccoli Bites,6.8,0.3,0.5,0.4,0.05,"['keju', 'susu']",https://www.allrecipes.com/recipe/77861/little-broccoli-bites/
+"Gambas Pil Pil (Prawns, Chilean Style)",46.33,3.17,0.67,3.17,0.17,['udang'],https://www.allrecipes.com/recipe/134330/gambas-pil-pil-prawns-chilean-style/
+Sausage-Stuffed Piquillo Peppers,10.67,0.42,0.58,0.75,0.08,"['keju', 'telur']",https://www.allrecipes.com/recipe/237724/sausage-stuffed-piquillo-peppers/
+Citrus Ceviche,110.0,7.5,4.25,7.25,2.0,[],https://www.allrecipes.com/recipe/12796/citrus-ceviche/
+Poor Man's Ceviche,21.0,1.6,3.8,0.2,0.2,[],https://www.allrecipes.com/recipe/237575/poor-mans-ceviche/
+Titaina,32.25,2.5,2.0,1.5,0.5,[],https://www.allrecipes.com/recipe/78508/titaina/
+Gorgonzola Stuffed Mini Potatoes,90.6,2.0,13.0,3.6,1.6,['keju'],https://www.allrecipes.com/recipe/219209/gorgonzola-stuffed-mini-potatoes/
+Crab Swiss Bites,11.4,0.4,0.2,1.0,0.0,['keju'],https://www.allrecipes.com/recipe/25509/crab-swiss-bites/
+Hoy Lai Pad Nam Prik Pow (Clams with Chili Paste and Basil),53.0,5.17,2.67,2.33,0.17,['ikan'],https://www.allrecipes.com/recipe/246041/hoy-lai-pad-nam-prik-pow-clams-with-chili-paste-and-basil/
+Bacon Stuffed Avocados,41.62,0.75,1.75,3.75,0.88,[],https://www.allrecipes.com/recipe/230757/bacon-stuffed-avocados/
+Valencian Savory Empanadas,10.33,0.42,1.08,0.5,0.08,[],https://www.allrecipes.com/recipe/73261/valencian-savory-empanadas/
+Pipirrana (Spanish Potato Salad),62.83,2.83,7.0,2.67,1.0,[],https://www.allrecipes.com/recipe/56624/pipirrana-spanish-potato-salad/
+Mango Ceviche,13.33,0.17,3.33,0.0,0.5,[],https://www.allrecipes.com/recipe/236492/mango-ceviche/
+Prosciutto e Melone on a Stick,13.38,0.5,1.62,0.62,0.12,[],https://www.allrecipes.com/recipe/238909/prosciutto-e-melone-on-a-stick/
+Clams and Chourico,108.75,3.25,5.75,7.75,0.75,['kerang'],https://www.allrecipes.com/recipe/78165/clams-and-chourico/
+Artichoke Bites II,8.56,0.62,0.25,0.56,0.06,['keju'],https://www.allrecipes.com/recipe/25538/artichoke-bites-ii/
+Mini Sweet Potato Samosas,42.25,1.25,7.75,0.75,0.5,['susu'],https://www.allrecipes.com/recipe/135900/mini-sweet-potato-samosas/
+Artichoke Bites III,2.38,0.12,0.08,0.17,0.04,['keju'],https://www.allrecipes.com/recipe/34926/artichoke-bites-iii/
+Tater Tot Hotdish,111.0,3.67,8.67,7.5,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/8538705/tater-tot-hotdish/
+Chicageaux Spicy Smokehouse Tots,160.17,6.5,13.0,10.17,1.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8539817/chicageaux-spicy-smokehouse-tots/
+Cowboy Casserole,91.25,4.75,5.5,5.75,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/8527282/cowboy-casserole/
+Tater Tot Casserole,86.25,4.75,4.25,6.0,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/222037/tater-tots-r-casserole/
+Tater Tot Taco Casserole,59.62,3.12,4.75,3.38,0.75,"['keju', 'sapi']",https://www.allrecipes.com/recipe/218573/tater-tot-taco-casserole/
+Easy Tater Tot Casserole,58.62,3.0,2.88,4.0,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/241939/easy-tater-tot-casserole/
+Tater Tots Casserole,55.0,2.38,4.25,3.5,0.38,"['keju', 'sapi', 'susu']",https://www.allrecipes.com/recipe/237677/tater-tots-casserole/
+Vegetarian Tater Tot Casserole,119.67,2.0,9.33,8.83,0.67,['keju'],https://www.allrecipes.com/recipe/17437/tater-tot-casserole-ii/
+Tater Tot Hot Dish II,124.0,4.17,10.0,8.0,0.67,['sapi'],https://www.allrecipes.com/recipe/23069/tater-tot-hot-dish-ii/
+Yummy Tater Tot Casserole,40.58,0.67,2.58,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/177229/yummy-tater-tot-casserole/
+Cheeseburger Tater Tot Casserole,38.75,2.0,2.0,2.67,0.17,"['keju', 'sapi']",https://www.allrecipes.com/recipe/279271/cheeseburger-casserole-with-tater-tots/
+Quick and Easy Tater Tot Casserole,84.83,3.67,7.83,5.0,0.67,"['sapi', 'susu']",https://www.allrecipes.com/recipe/24520/quick-and-easy-tater-tot-casserole/
+Green Bean Tater Tot Casserole,101.0,4.25,10.25,5.5,1.0,"['sapi', 'susu']",https://www.allrecipes.com/recipe/26668/tater-tot-casserole-iii/
+Creamy Tater Tot Casserole,88.38,1.75,5.62,7.0,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/21027/creamy-tater-tot-casserole/
+Sausage Tater Tot Breakfast Casserole,47.5,1.6,2.6,3.6,0.2,"['keju', 'susu']",https://www.allrecipes.com/recipe/23912/tater-tot-casserole-i/
+Savory Tater Tot Casserole,81.86,3.43,6.86,5.0,1.0,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/14638/savory-tater-tot-casserole/
+Fiesta Tater Tot Casserole,62.5,2.75,5.25,3.75,0.5,"['keju', 'sapi', 'susu']",https://www.allrecipes.com/recipe/229210/fiesta-tater-tot-casserole/
+"Cheesy Bacon, Ham, and Swiss Tater Tots Poutine",95.0,4.0,7.75,6.0,0.75,['keju'],https://www.allrecipes.com/recipe/282689/cheesy-bacon-ham-and-swiss-tater-tots-poutine/
+Tater Tot Taco Casserole with Queso,51.0,2.0,3.25,3.38,0.38,"['keju', 'sapi']",https://www.allrecipes.com/recipe/228119/tater-tot-taco-casserole-with-queso/
+Tater Tot Casserole with Green Beans,120.83,5.17,7.5,8.5,0.67,['sapi'],https://www.allrecipes.com/recipe/20059/tater-tot-casserole-iv/
+Flavorful Tater Tot Casserole,64.38,2.5,4.62,4.5,0.62,['keju'],https://www.allrecipes.com/recipe/237605/flavorful-tater-tot-casserole/
+Vegetarian Sloppy Joes,64.0,3.0,6.17,3.33,0.33,[],https://www.allrecipes.com/recipe/163867/vegetarian-sloppy-joes/
+Vegetarian Enchilada Casserole,46.88,2.12,3.12,3.0,0.75,['keju'],https://www.allrecipes.com/recipe/13928/enchilada-casserole/
+Tempeh Gyros,96.25,6.25,13.5,2.75,1.75,[],https://www.allrecipes.com/recipe/260141/tempeh-gyros/
+Tempeh Tacos,49.75,2.75,2.75,3.25,0.25,[],https://www.allrecipes.com/recipe/235349/tempeh-tacos/
+Barbeque Tempeh Sandwiches,93.75,3.75,13.75,3.0,0.75,[],https://www.allrecipes.com/recipe/46960/barbeque-tempeh-sandwiches/
+North African Couscous with Tempeh,162.5,6.25,22.5,5.5,2.5,[],https://www.allrecipes.com/recipe/256676/north-african-couscous-with-tempeh/
+Tempeh Fajitas,51.75,3.25,3.25,3.25,0.75,[],https://www.allrecipes.com/recipe/25910/tempeh-fajitas/
+Smokey Vegetarian Cuban Black Bean Soup,44.5,2.25,6.0,1.25,1.38,[],https://www.allrecipes.com/recipe/237345/smokey-vegetarian-cuban-black-bean-soup/
+Tempeh Mock Tuna Salad,16.0,0.75,1.0,1.12,0.12,[],https://www.allrecipes.com/recipe/141768/tempeh-mock-tuna-salad/
+Vegan Banh Mi,284.0,13.5,27.0,14.5,1.0,[],https://www.allrecipes.com/recipe/268914/vegan-banh-mi/
+Buffalo Tempeh Sliders,16.0,0.83,2.11,0.5,0.06,['keju'],https://www.allrecipes.com/recipe/245757/buffalo-tempeh-sliders/
+Scooter's Vegan Tempeh Chili,71.17,3.83,12.0,1.5,3.17,[],https://www.allrecipes.com/recipe/260142/scooters-vegan-tempeh-chili/
+Buffalo Tempeh Tenders,113.75,4.25,10.0,7.0,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/268331/buffalo-tempeh-tenders/
+Tempeh Kabobs with Moroccan Couscous,205.0,6.75,27.5,8.75,3.5,[],https://www.allrecipes.com/recipe/64376/tempeh-kabobs-with-moroccan-couscous/
+Sweet and Spicy Tempeh with Long Beans,442.5,29.0,56.0,14.0,7.0,[],https://www.allrecipes.com/recipe/277401/sweet-and-spicy-tempeh-with-long-beans/
+Crunchy Curried Kale,110.0,4.25,9.0,7.25,2.75,[],https://www.allrecipes.com/recipe/237344/crunchy-curried-kale/
+Tempeh-Bean Stuffed Peppers,280.0,16.0,25.5,13.0,6.5,['keju'],https://www.allrecipes.com/recipe/260144/tempeh-bean-stuffed-peppers/
+Tofu Scramble Wraps,127.0,6.25,15.25,5.25,3.25,[],https://www.allrecipes.com/recipe/269055/tofu-scramble-wraps/
+Tempeh Ratatouille,108.25,6.5,12.0,4.5,2.75,['keju'],https://www.allrecipes.com/recipe/42138/tempeh-ratatouille/
+Indonesian Ratatouille with Tempeh,200.5,11.0,21.5,9.5,6.0,['susu'],https://www.allrecipes.com/recipe/268330/indonesian-ratatouille-with-tempeh/
+Vegan Fajitas with Tempeh,57.75,2.75,3.5,4.0,0.25,[],https://www.allrecipes.com/recipe/268562/vegan-fajitas-with-tempeh/
+Easy Turkey Tetrazzini,64.5,3.83,5.0,3.33,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/37784/easy-turkey-tetrazzini/
+Easy Chicken Tetrazzini,42.75,3.62,2.88,1.75,0.12,"['keju', 'ayam']",https://www.allrecipes.com/recipe/11780/easy-chicken-tetrazzini/
+Leftover Turkey Tetrazzini,70.62,4.75,6.5,2.75,0.25,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/40545/turkey-tetrazzini-ii/
+Ham Tetrazzini,89.5,3.75,9.75,4.0,0.5,['keju'],https://www.allrecipes.com/recipe/11894/ham-tetrazzini/
+Chicken Tetrazzini for a Crowd,13.95,1.05,1.05,0.6,0.05,"['keju', 'ayam']",https://www.allrecipes.com/recipe/15036/chicken-tetrazzini-for-a-crowd/
+Chicken Tetrazzini IV,182.5,8.25,13.25,10.75,0.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/17646/chicken-tetrazzini-iv/
+Chicken Tetrazzini,93.5,6.5,6.5,4.5,0.17,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/231036/chicken-tetrazzini/
+Slow Cooker Chicken Tetrazzini,62.33,4.33,1.33,4.33,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/107700/slow-cooker-chicken-tetrazzini/
+Chicken or Turkey Tetrazzini Deluxe,41.08,2.42,3.25,2.08,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/25139/chicken-or-turkey-tetrazzini-deluxe/
+Baked Turkey Tetrazzini,91.33,6.0,6.33,4.67,0.5,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/240568/baked-turkey-tetrazzini/
+Classic Chicken Tetrazzini,41.38,2.75,3.5,1.75,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8697/classic-chicken-tetrazzini/
+Turkey Tetrazzini a la Stouffer's,76.17,3.5,5.67,4.5,0.33,['ayam'],https://www.allrecipes.com/recipe/232097/turkey-tetrazzini-a-la-stouffers/
+Chicken Tetrazzini I,165.2,7.6,10.2,10.6,0.8,"['keju', 'ayam']",https://www.allrecipes.com/recipe/11722/chicken-tetrazzini-i/
+Artichoke Tetrazzini,108.75,4.25,13.25,4.75,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/11720/artichoke-tetrazzini/
+Chicken Tetrazzini II,88.67,4.5,7.5,4.5,0.33,"['keju', 'ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/11851/chicken-tetrazzini-ii/
+Turkey Tetrazzini,100.67,6.5,8.67,4.33,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/9340/turkey-tetrazzini/
+Instant Pot Salsa Chicken,150.0,23.0,7.0,2.5,0.5,['ayam'],https://www.allrecipes.com/recipe/260193/instant-pot-salsa-chicken/
+Spinach Quiche with Chicken,44.0,1.5,1.62,3.5,0.12,"['keju', 'ayam']",https://www.allrecipes.com/recipe/228592/spinach-quiche-with-chicken/
+Mexican Layered Dip,19.5,0.7,1.3,1.3,0.4,['keju'],https://www.allrecipes.com/recipe/15340/mexican-layered-dip/
+Seven Layer Tex Mex Dip,18.42,0.67,0.92,1.42,0.25,['keju'],https://www.allrecipes.com/recipe/23591/seven-layer-tex-mex-dip/
+Calabacita con Puerco (Pork with Squash),43.5,1.88,7.75,1.0,1.38,['ayam'],https://www.allrecipes.com/recipe/213466/calabacita-con-puerco-pork-with-squash/
+Keto Tex-Mex Ground Beef Casserole,74.5,5.5,1.5,5.17,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/276216/keto-tex-mex-ground-beef-casserole/
+Tex-Mex Turkey Soup,114.0,7.67,9.83,5.17,1.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/154784/tex-mex-turkey-soup/
+Taco Bake I,51.62,3.25,1.88,3.38,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/14651/taco-bake-i/
+Vegetarian Mexican Lasagna,34.25,1.58,3.33,1.75,0.67,"['keju', 'telur']",https://www.allrecipes.com/recipe/278588/vegetarian-mexican-lasagna/
+Spicy Southwestern Slaw,33.67,0.17,1.33,3.17,0.33,[],https://www.allrecipes.com/recipe/20390/spicy-southwestern-slaw/
+Sopa de Mariscos (Seafood Soup),27.8,3.3,1.6,1.0,0.4,"['ayam', 'udang']",https://www.allrecipes.com/recipe/272207/sopa-de-mariscos-seafood-soup/
+Tomato Salsa without Onions,0.29,0.0,0.08,0.0,0.04,[],https://www.allrecipes.com/recipe/24247/tomato-salsa-without-onions/
+Chili Lime Chicken,37.62,3.0,0.38,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/273685/chili-lime-chicken/
+Tex-Mex Enchiladas,186.6,7.0,13.8,11.8,2.0,['keju'],https://www.allrecipes.com/recipe/216898/tex-mex-enchiladas/
+Easy Enchilada Casserole,64.0,3.67,5.22,3.22,0.44,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8969/easy-enchilada-casserole/
+Buffalo Chicken Chili,30.1,2.8,3.0,0.9,0.9,['ayam'],https://www.allrecipes.com/recipe/186699/buffalo-chicken-chili/
+Burrito Casserole,37.83,1.75,2.83,2.17,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/269476/burrito-casserole/
+Mild Cheesy Chicken Enchiladas,65.0,3.62,4.0,3.88,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/15604/mild-cheesy-chicken-enchiladas/
+Easy King Ranch Chicken Casserole,46.88,3.5,3.5,2.12,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8721/king-ranch-chicken-casserole-iii/
+Tex-Mex Beef and Cheese Enchiladas,132.33,7.83,6.67,8.17,1.17,"['keju', 'sapi']",https://www.allrecipes.com/recipe/71436/tex-mex-beef-and-cheese-enchiladas/
+Tex-Mex Chicken Casserole,60.0,3.0,3.88,3.75,0.25,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/233686/tex-mex-chicken-casserole/
+Tex-Mex Burger with Cajun Mayo,178.5,9.5,7.25,12.25,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/75290/tex-mex-burger-with-cajun-mayo/
+Spicy Tex-Mex Salad,54.2,1.1,5.3,3.3,0.7,['keju'],https://www.allrecipes.com/recipe/14270/spicy-tex-mex-salad/
+Brown Spanish Rice,26.0,0.67,5.33,0.17,0.5,['ayam'],https://www.allrecipes.com/recipe/222050/brown-spanish-rice/
+Sizzling Steak Fajitas,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/215236/sizzling-steak-fajitas/
+Tex Mex Stir Fry,83.25,8.0,3.25,4.0,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/213474/tex-mex-stir-fry/
+Authentic Fire-Roasted Tex-Mex Salsa,1.75,0.12,0.38,0.0,0.12,[],https://www.allrecipes.com/recipe/274556/authentic-fire-roasted-tex-mex-salsa/
+Mexican Lasagna Lite,78.0,6.67,8.33,2.0,1.33,['keju'],https://www.allrecipes.com/recipe/222011/mexican-lasagna-lite/
+Tex-Mex Air Fryer Hash Browns,46.5,1.0,8.5,1.0,1.25,[],https://www.allrecipes.com/recipe/266403/tex-mex-air-fryer-hash-browns/
+Mediterranean Bean Salad,82.25,3.0,11.75,3.0,3.25,[],https://www.allrecipes.com/recipe/72230/mediterranean-bean-salad/
+Mexican Black Bean and Turkey Wraps,100.75,7.75,11.25,2.75,2.5,[],https://www.allrecipes.com/recipe/261947/mexican-black-bean-and-turkey-wraps/
+Green Chile Chicken Casserole,52.5,4.12,3.38,2.5,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/280499/green-chile-chicken-casserole/
+No Ordinary Meatloaf,49.0,3.25,3.75,2.38,0.25,['sapi'],https://www.allrecipes.com/recipe/106245/no-ordinary-meatloaf/
+Cheesy Pork Taco Rice,64.0,3.5,6.5,2.67,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/260852/cheesy-pork-taco-rice/
+Easy Tex-Mex Chicken Tacos,32.75,1.58,4.08,1.17,0.42,"['keju', 'ayam']",https://www.allrecipes.com/recipe/242344/easy-tex-mex-chicken-tacos/
+Tex-Mex Beef Bowl with Avocado Cilantro Dressing,394.5,15.5,36.5,23.0,11.5,['keju'],https://www.allrecipes.com/recipe/256742/tex-mex-beef-bowl-with-avocado-cilantro-dressing/
+Tex-Mex Pantry Casserole,102.75,5.25,10.75,4.5,1.75,"['keju', 'sapi', 'ayam']",https://www.allrecipes.com/recipe/280375/tex-mex-pantry-casserole/
+Easy Chili Cavatappi,65.83,3.83,7.5,2.33,1.33,['sapi'],https://www.allrecipes.com/recipe/233315/easy-chili-cavatappi/
+Tex Mex Meatloaf,177.75,9.75,2.5,14.25,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16331/tex-mex-meatloaf/
+Lite Brocamole,1.88,0.06,0.19,0.12,0.06,[],https://www.allrecipes.com/recipe/13972/lite-brocamole/
+Tex-Mex Tuna Salad,43.83,2.5,4.17,2.0,0.5,[],https://www.allrecipes.com/recipe/16435/tex-mex-tuna-salad/
+Tex-Mex Sheet Cake,29.93,0.47,3.87,1.53,0.2,['susu'],https://www.allrecipes.com/recipe/22388/tex-mex-sheet-cake/
+Instant Pot Vegan Tex-Mex Bowls,134.8,6.0,22.2,3.0,4.2,['keju'],https://www.allrecipes.com/recipe/278302/instant-pot-vegan-tex-mex-bowls/
+Corn and Roasted Red Pepper Salad,58.5,1.5,13.75,1.5,1.25,[],https://www.allrecipes.com/recipe/236452/corn-and-roasted-red-pepper-salad/
+Air Fryer Turkey Fajitas,61.75,8.0,3.75,1.75,1.0,[],https://www.allrecipes.com/recipe/277997/air-fryer-turkey-fajitas/
+Mexican Style Dip,19.92,1.08,0.42,1.5,0.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16967/mexican-style-dip/
+Tex Mex Potato Soup,36.5,1.33,3.0,2.17,0.5,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/12953/tex-mex-potato-soup/
+Air Fryer Tofu Milanesa,122.0,9.0,9.5,5.5,0.5,[],https://www.allrecipes.com/recipe/280717/air-fryer-tofu-milanesa/
+Andouille and Poblano Quesadillas,149.5,5.5,12.0,9.0,1.0,['keju'],https://www.allrecipes.com/recipe/128811/andouille-and-poblano-quesadillas/
+Monster Sour Cream Enchiladas,162.5,9.33,7.83,10.67,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8946/monster-sour-cream-enchiladas/
+Mark's Surprise Meatloaf,32.62,2.12,1.62,1.88,0.12,"['sapi', 'telur']",https://www.allrecipes.com/recipe/241735/marks-surprise-meatloaf/
+Tex-Mex Grilled Flank Steak,17.12,1.75,0.25,0.88,N/A,[],https://www.allrecipes.com/recipe/273923/tex-mex-grilled-flank-steak/
+Grandma's Cornbread Dressing,31.25,0.62,4.75,1.12,0.12,['ayam'],https://www.allrecipes.com/recipe/19547/grandmas-corn-bread-dressing/
+Juicy Thanksgiving Turkey,55.6,6.9,0.4,2.4,0.1,['ayam'],https://www.allrecipes.com/recipe/166160/juicy-thanksgiving-turkey/
+Basic Mashed Potatoes,64.25,1.5,11.0,1.75,1.0,['susu'],https://www.allrecipes.com/recipe/24771/basic-mashed-potatoes/
+Green Beans Almondine,38.0,1.0,2.75,3.0,1.0,[],https://www.allrecipes.com/recipe/275305/green-beans-almondine/
+Thanksgiving Tradition Oyster Dressing,51.75,1.5,4.12,3.25,0.25,[],https://www.allrecipes.com/recipe/235239/thanksgiving-tradition-oyster-dressing/
+Turkey Giblet Gravy,40.5,0.88,0.75,3.75,0.0,['telur'],https://www.allrecipes.com/recipe/229958/turkey-giblet-gravy/
+Best Green Bean Casserole,53.67,1.17,3.33,3.83,0.33,['keju'],https://www.allrecipes.com/recipe/18379/best-green-bean-casserole/
+Perfect Pumpkin Pie,47.38,0.75,3.88,1.75,0.38,['susu'],https://www.allrecipes.com/recipe/23439/perfect-pumpkin-pie/
+Honey Cornbread,44.75,0.62,5.25,2.5,0.12,[],https://www.allrecipes.com/recipe/24517/honey-cornbread/
+Old-Fashioned Scalloped Corn,21.2,0.4,2.7,1.1,0.2,[],https://www.allrecipes.com/recipe/9166/old-fashioned-scalloped-corn/
+Yummy Sweet Potato Casserole,18.83,0.25,2.5,0.92,0.17,['susu'],https://www.allrecipes.com/recipe/21261/yummy-sweet-potato-casserole/
+Butter Flaky Pie Crust,21.62,0.25,1.88,1.5,0.12,[],https://www.allrecipes.com/recipe/24094/butter-flaky-pie-crust/
+A Simply Perfect Roast Turkey,34.5,4.17,0.62,1.58,0.04,[],https://www.allrecipes.com/recipe/56348/a-simply-perfect-roast-turkey/
+Apple Pie by Grandma Ople,46.62,0.25,6.5,2.38,0.38,[],https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
+Fresh Cranberry Sauce,3.62,0.0,0.94,N/A,0.06,[],https://www.allrecipes.com/recipe/239960/fresh-cranberry-sauce/
+Quick Brussels and Bacon,31.5,1.0,1.83,2.33,0.5,[],https://www.allrecipes.com/recipe/150818/quick-brussels-and-bacon/
+Cornish Game Hens with Rice Stuffing,99.25,4.0,2.75,8.0,0.25,['ayam'],https://www.allrecipes.com/recipe/58831/cornish-game-hens-with-rice-stuffing/
+Spatchcocked Butter-Roasted Lemon and Herb Turkey with Gravy,64.92,6.67,0.75,3.67,0.17,['ayam'],https://www.allrecipes.com/recipe/8454378/spatchcocked-butter-roasted-lemon-and-herb-turkey-with-gravy/
+Grandma's Corn Pudding,34.62,1.0,5.0,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/15985/grandmas-corn-pudding/
+Holiday-Only Mashed Potatoes,33.9,0.4,4.2,1.8,0.4,[],https://www.allrecipes.com/recipe/40550/holiday-only-mashed-potatoes/
+Bacon-Garlic Green Beans,15.75,0.25,0.75,1.42,0.33,[],https://www.allrecipes.com/recipe/241728/bacon-garlic-green-beans/
+Moist and Savory Stuffing,9.5,0.21,1.43,0.36,0.14,['ayam'],https://www.allrecipes.com/recipe/8469209/moist-and-savory-stuffing/
+Thanksgiving Sweet Potatoes,71.33,0.67,11.67,2.5,0.5,[],https://www.allrecipes.com/recipe/13729/thanksgiving-sweet-potatoes/
+Awesome and Easy Creamy Corn Casserole,48.88,0.88,5.38,2.88,0.5,[],https://www.allrecipes.com/recipe/18906/awesome-and-easy-creamy-corn-casserole/
+How to Cook a Turkey,14.79,1.92,0.08,0.71,0.0,[],https://www.allrecipes.com/recipe/222332/how-to-cook-a-turkey/
+Make-Ahead Turkey Gravy,1.84,0.16,0.09,0.09,0.0,['ayam'],https://www.allrecipes.com/recipe/76604/make-ahead-turkey-gravy/
+Easy Beginner's Turkey with Stuffing,69.58,7.92,1.33,3.33,0.08,[],https://www.allrecipes.com/recipe/23037/easy-beginners-turkey-with-stuffing/
+Sweet Potato Casserole with Marshmallows,33.38,0.25,7.5,0.38,0.38,[],https://www.allrecipes.com/recipe/13478/sweet-potato-casserole-ii/
+Turkey Brine,0.2,0.0,0.07,0.0,0.0,[],https://www.allrecipes.com/recipe/54614/turkey-brine/
+Homemade Mac and Cheese,211.25,9.25,16.25,12.0,0.75,"['keju', 'susu']",https://www.allrecipes.com/recipe/11679/homemade-mac-and-cheese/
+Golden Sweet Cornbread,15.75,0.25,2.33,0.58,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/17891/golden-sweet-cornbread/
+Creamy au Gratin Potatoes,124.75,5.0,12.25,6.25,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/
+Candied Yams,47.0,0.33,8.5,1.33,0.33,[],https://www.allrecipes.com/recipe/26482/candied-yams/
+The Best Banana Pudding,16.45,0.2,2.85,0.5,0.15,['susu'],https://www.allrecipes.com/recipe/22749/the-best-banana-pudding/
+Easy Cranberry Orange Relish,9.5,0.0,2.5,0.0,0.25,[],https://www.allrecipes.com/recipe/229740/easy-cranberry-orange-relish/
+Simple Roasted Butternut Squash,44.25,0.75,7.5,1.75,1.25,[],https://www.allrecipes.com/recipe/229733/simple-roasted-butternut-squash/
+Sweet Potato Pie,48.62,0.62,6.0,2.62,0.38,['susu'],https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/
+Butternut Squash Soup,63.75,2.25,9.0,2.25,1.25,['ayam'],https://www.allrecipes.com/recipe/77981/butternut-squash-soup-ii/
+Double-Layer Pumpkin Cheesecake,51.88,0.88,4.38,3.5,0.12,['keju'],https://www.allrecipes.com/recipe/13477/double-layer-pumpkin-cheesecake/
+Chef John's Roast Turkey and Gravy,58.88,4.31,0.31,4.38,0.06,[],https://www.allrecipes.com/recipe/219079/chef-johns-roast-turkey-and-gravy/
+Birds' Nest Cookies,25.39,0.17,2.5,1.72,0.11,[],https://www.allrecipes.com/recipe/10834/birds-nests-iv/
+Thumbprint Cookies,4.0,0.04,0.5,0.21,0.0,['telur'],https://www.allrecipes.com/recipe/9618/thumbprint-cookies-i/
+Raspberry Thumbprint Cookies,2.89,0.03,0.39,0.14,0.0,['susu'],https://www.allrecipes.com/recipe/10222/raspberry-and-almond-shortbread-thumbprints/
+Rosenmunnar,2.61,0.03,0.31,0.14,0.0,[],https://www.allrecipes.com/recipe/9745/rosenmunnar/
+Chocolate Thumbprint Cookies,5.62,0.08,0.62,0.33,0.04,['telur'],https://www.allrecipes.com/recipe/8508153/chocolate-thumbprint-cookies/
+Pecan Pie Cookies,7.71,0.08,0.92,0.42,0.04,['telur'],https://www.allrecipes.com/recipe/212863/pecan-pie-cookies/
+Jam Filled Butter Cookies,2.28,0.03,0.31,0.11,0.0,['telur'],https://www.allrecipes.com/recipe/25100/jam-filled-butter-cookies/
+Perfect Thumbprint Cookies,6.95,0.05,1.15,0.25,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/269703/perfect-thumbprint-cookies/
+Apricot Cream Cheese Thumbprints,1.07,0.01,0.14,0.05,0.0,['keju'],https://www.allrecipes.com/recipe/10201/apricot-cream-cheese-thumbprints/
+Polvorones from Puerto Rico,2.28,0.02,0.36,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/284371/polvorones-from-puerto-rico/
+Lemon Curd Thumbprint Cookies,8.12,0.08,0.88,0.5,0.04,[],https://www.allrecipes.com/recipe/282592/lemon-curd-thumbprint-cookies/
+Swedish Hallongrottor Cookies (Raspberry Caves),13.25,0.12,1.62,0.75,0.0,[],https://www.allrecipes.com/recipe/273688/swedish-hallongrottor-cookies-raspberry-caves/
+Salted Caramel Chocolate Pecan Cookies,3.67,0.04,0.44,0.21,0.02,[],https://www.allrecipes.com/recipe/260908/salted-caramel-chocolate-pecan-cookies/
+Jam Thumbprints,5.25,0.08,0.5,0.33,0.04,['telur'],https://www.allrecipes.com/recipe/10702/jam-thumbprints/
+Pecan Raspberry Thumbprint Cookies,2.12,0.02,0.21,0.15,0.02,[],https://www.allrecipes.com/recipe/229783/raspberry-thumbprint-cookies/
+German Chocolate Thumbprint Cookies,1.75,0.02,0.2,0.1,0.0,"['telur', 'susu']",https://www.allrecipes.com/recipe/24432/german-chocolate-thumbprint-cookies/
+Raspberry Almond Kiss Cookies,3.36,0.03,0.56,0.11,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/26221/raspberry-almond-kiss-cookies/
+Peanut Butter and Jelly Thumbprint Cookies,4.4,0.07,0.6,0.2,0.03,['telur'],https://www.allrecipes.com/recipe/230171/peanut-butter-and-jelly-thumbprint-cookies/
+Almond Cookies (Dim Sum Variety),7.21,0.08,0.75,0.46,0.0,['telur'],https://www.allrecipes.com/recipe/148481/almond-cookies-dim-sum-variety/
+Eggnog Thumbprints,1.6,0.02,0.21,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/10790/eggnog-thumbprints/
+Salted Caramel Coconut Macaroons,6.71,0.08,1.04,0.25,0.08,['susu'],https://www.allrecipes.com/recipe/282109/salted-caramel-coconut-macaroons/
+Austrian Jam Cookies,2.44,0.03,0.36,0.11,0.0,['telur'],https://www.allrecipes.com/recipe/11550/austrian-jam-cookies/
+White Chocolate Raspberry Thumbprint Cookies,8.21,0.08,0.96,0.46,0.0,['telur'],https://www.allrecipes.com/recipe/230170/white-chocolate-raspberry-thumbprint-cookies/
+Peanut Butter and Jelly Thumbprint Shortbread Cookies,3.33,0.06,0.36,0.19,0.0,[],https://www.allrecipes.com/recipe/185951/peanut-butter-and-jelly-thumbprint-shortbread-cookies/
+White Chocolate Thumbprint Cookies,1.62,0.01,0.18,0.1,0.0,[],https://www.allrecipes.com/recipe/230463/white-chocolate-thumbprint-cookies/
+Coconut Raspberry Cookies,16.65,0.15,2.2,0.8,0.05,[],https://www.allrecipes.com/recipe/202098/coconut-raspberry-cookies/
+Raspberry Molasses Crinkles,1.85,0.02,0.29,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/165711/raspberry-molasses-crinkles/
+Ghirardelli Chocolate-Peanut Butter Thumbprint Cookies,0.84,0.01,0.1,0.05,0.0,[],https://www.allrecipes.com/recipe/268619/ghirardelli-chocolate-peanut-butter-thumbprint-cookies/
+Thumbprint Cookies III,6.31,0.08,0.58,0.42,0.03,[],https://www.allrecipes.com/recipe/10712/thumbprint-cookies-iii/
+Kiss Cookies,3.8,0.07,0.3,0.27,0.03,"['susu', 'telur']",https://www.allrecipes.com/recipe/23752/kiss-cookies/
+Lavender-Lemon Curd Thumbprint Cookies,6.54,0.08,0.79,0.33,0.0,['telur'],https://www.allrecipes.com/recipe/284987/lavender-lemon-curd-thumbprint-cookies/
+White Chocolate-Orange-Pistachio Thumbprint Cookies,4.5,0.06,0.47,0.28,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/269393/white-chocolate-orange-pistachio-thumbprint-cookies/
+Buried Cherry Cookies,6.29,0.08,1.0,0.25,0.04,"['susu', 'telur']",https://www.allrecipes.com/recipe/185885/buried-cherry-cookies/
+Chocolate Thumbprints I,25.58,0.33,2.75,1.58,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/10154/chocolate-thumbprints-i/
+Italian Cream Cake Cookies,15.1,0.2,1.25,1.1,0.05,['keju'],https://www.allrecipes.com/recipe/278830/italian-cream-cake-cookies/
+Pecan Filled Cookies,3.27,0.03,0.43,0.17,0.0,['telur'],https://www.allrecipes.com/recipe/25761/pecan-filled-cookies/
+Pumpkin Thumbprint Cookies,2.69,0.06,0.42,0.11,0.06,[],https://www.allrecipes.com/recipe/276531/pumpkin-thumbprint-cookies/
+Swedish Jam Cookies,25.5,0.33,3.5,1.25,0.08,['telur'],https://www.allrecipes.com/recipe/15039/swedish-jam-cookies/
+Sonya Henie,10.83,0.17,1.08,0.67,0.0,['telur'],https://www.allrecipes.com/recipe/11527/sonya-henie/
+Chocolate Thumbprints II,8.96,0.12,1.04,0.5,0.04,['susu'],https://www.allrecipes.com/recipe/11640/chocolate-thumbprints-ii/
+Krusczyki,28.0,0.5,2.56,1.78,0.11,['telur'],https://www.allrecipes.com/recipe/11484/krusczyki/
+Cinnamon Crinkles,6.67,0.08,0.79,0.38,0.0,[],https://www.allrecipes.com/recipe/246733/cinnamon-crinkles/
+Lemon Delights,1.63,0.03,0.13,0.12,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/241054/lemon-delights/
+Lime Creams,1.44,0.03,0.22,0.06,0.0,['telur'],https://www.allrecipes.com/recipe/216557/lime-creams/
+Wreath Cookies,7.83,0.12,0.71,0.54,0.04,['telur'],https://www.allrecipes.com/recipe/25819/wreath-cookies/
+Easy Cheesecake Cookies,7.05,0.1,0.9,0.35,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/285873/easy-cheesecake-cookies/
+Pistachio Thumbprint (Kinda Sorta) Cookies,17.0,0.25,1.67,1.08,0.08,['telur'],https://www.allrecipes.com/recipe/281918/pistachio-thumbprint-kinda-sorta-cookies/
+Jubilees,9.94,0.11,1.67,0.33,0.06,[],https://www.allrecipes.com/recipe/9696/jubilees/
+Naughty Chocolate and Peanut Butter Chip Cookies,4.56,0.08,0.53,0.25,0.03,[],https://www.allrecipes.com/recipe/26179/naughty-chocolate-and-peanut-butter-chip-cookies/
+Ginger Apple Cups,9.05,0.1,1.35,0.35,0.05,['telur'],https://www.allrecipes.com/recipe/240272/ginger-apple-cups/
+Tiramisu,33.5,0.67,2.0,2.58,0.0,"['susu', 'telur', 'keju']",https://www.allrecipes.com/recipe/21412/tiramisu-ii/
+Tiramisu Cake,38.75,0.33,3.83,2.42,0.08,"['keju', 'telur']",https://www.allrecipes.com/recipe/25639/tiramisu-layer-cake/
+Tiramoussa Semifreddo – Frozen Italian Coffee Dessert,17.3,0.3,1.1,1.3,N/A,[],https://www.allrecipes.com/recipe/8503963/tiramoussa-semifreddo-frozen-italian-coffee-dessert/
+Classic Tiramisu,47.33,0.83,5.0,2.67,0.08,"['keju', 'telur']",https://www.allrecipes.com/recipe/8490/classic-tiramisu/
+Easy Tiramisu,67.67,1.5,6.0,4.33,0.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/23143/easy-tiramisu/
+Authentic Tiramisu,27.0,0.67,2.17,1.83,0.08,['keju'],https://www.allrecipes.com/recipe/239639/authentic-tiramisu/
+Easy Ricotta Tiramisu,40.6,0.9,4.7,1.9,0.0,['keju'],https://www.allrecipes.com/recipe/259889/easy-ricotta-tiramisu/
+Chef John's Tiramisu,387.0,9.5,28.5,26.0,1.0,['keju'],https://www.allrecipes.com/recipe/236604/chef-johns-tiramisu/
+Baileys Tiramisu,65.0,0.88,4.88,4.25,0.12,[],https://www.allrecipes.com/recipe/261829/baileys-tiramisu/
+Coffee and Donuts Tiramisu,20.75,0.17,2.08,1.33,0.08,['susu'],https://www.allrecipes.com/recipe/284833/coffee-and-donuts-tiramisu/
+Sopranos Style Tiramisu,34.08,0.5,2.75,2.42,0.08,['keju'],https://www.allrecipes.com/recipe/235867/sopranos-style-tiramisu/
+Tiramisu Poke Cake,47.0,0.75,5.17,2.5,0.08,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/258224/tiramisu-poke-cake/
+Tiramisu al Marsala,126.5,3.0,11.67,6.83,0.33,['keju'],https://www.allrecipes.com/recipe/246812/tiramisu-al-marsala/
+Tiramisu Toffee Dessert,36.17,0.33,3.58,2.33,0.08,['keju'],https://www.allrecipes.com/recipe/9505/tiramisu-toffee-dessert/
+Tiramisu Chocolate Mousse,95.25,1.0,5.75,7.75,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/221264/tiramisu-chocolate-mousse/
+Strawberry Tiramisu Without Eggs Recipe,35.5,0.6,2.7,2.6,0.2,['keju'],https://www.allrecipes.com/recipe/263620/strawberry-tiramisu-without-eggs/
+Michelle's Tiramisu Cake,33.5,0.5,2.75,2.25,0.08,['keju'],https://www.allrecipes.com/recipe/20337/tiramisu-cake/
+Chocolate and Orange Tiramisu,36.08,0.5,2.08,2.92,0.08,['keju'],https://www.allrecipes.com/recipe/241691/chocolate-and-orange-tiramisu/
+Emily's Famous Tiramisu,46.5,0.5,5.83,2.25,0.08,['keju'],https://www.allrecipes.com/recipe/27136/emilys-famous-tiramisu/
+Strawberry Tiramisu Trifle,108.25,3.25,11.5,5.75,0.5,['keju'],https://www.allrecipes.com/recipe/228437/strawberry-tiramisu-trifle/
+5 Ingredient Tiramisu,27.94,0.38,2.88,1.69,0.0,['keju'],https://www.allrecipes.com/recipe/234987/5-ingredient-tiramisu/
+Ice Cream Tiramisu Cake,42.08,0.67,5.25,1.92,0.0,[],https://www.allrecipes.com/recipe/24688/ice-cream-tiramisu-cake/
+Classic Italian Tiramisu,75.12,2.0,5.88,4.88,0.12,['keju'],https://www.allrecipes.com/recipe/279896/classic-italian-tiramisu/
+Italian Tiramisu,124.67,2.83,10.33,8.0,0.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/22635/italian-tiramisu/
+Raspberry Tiramisu,172.17,3.0,21.5,8.5,1.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/53760/raspberry-tiramisu/
+Tiramisu Cake Balls,6.46,0.08,0.67,0.38,N/A,['keju'],https://www.allrecipes.com/recipe/234004/tiramisu-cake-balls/
+Raspberry Tiramisu Trifle,28.62,0.75,2.12,2.0,0.38,['keju'],https://www.allrecipes.com/recipe/259382/raspberry-tiramisu-trifle/
+No-Bake Tiramisu Cheesecake,38.92,0.67,4.0,2.33,0.08,"['keju', 'susu']",https://www.allrecipes.com/recipe/223401/no-bake-tiramisu-cheesecake/
+Frozen Tiramisu,35.36,0.64,2.71,2.36,0.07,['keju'],https://www.allrecipes.com/recipe/77003/frozen-tiramisu/
+Green Tea (Matcha) Tiramisu,96.33,1.17,4.83,8.33,0.17,['keju'],https://www.allrecipes.com/recipe/242235/green-tea-matcha-tiramisu/
+Tiramisu I,35.25,0.83,2.5,2.42,0.17,['keju'],https://www.allrecipes.com/recipe/20333/tiramisu-i/
+Tropical Tiramisu,80.5,1.0,10.83,4.0,0.33,['keju'],https://www.allrecipes.com/recipe/17305/tropical-tiramisu/
+Kahlua® Oreo® Tiramisu,62.9,0.8,4.6,4.5,0.2,"['keju', 'telur']",https://www.allrecipes.com/recipe/254734/kahlua-oreo-tiramisu/
+Pumpkin-Coffee Tiramisu,121.5,1.5,9.0,8.83,0.33,['keju'],https://www.allrecipes.com/recipe/275662/pumpkin-coffee-tiramisu/
+Twinkie® Tiramisu,507.5,6.0,40.0,32.0,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/214193/twinkie-tiramisu/
+Tiramisu Toast,236.0,5.5,18.0,15.0,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/8458788/tiramisu-toast/
+"Red, White, and Blue-Misu",32.0,0.5,2.5,2.33,0.25,['keju'],https://www.allrecipes.com/recipe/133756/red-white-and-blue-misu/
+Tiramisu Ice Pops,32.5,0.5,2.0,2.33,0.0,['keju'],https://www.allrecipes.com/recipe/254476/tiramisu-ice-pops/
+Rich Tiramisu,119.4,3.0,11.6,6.6,0.2,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/15505/rich-tiramisu/
+Tiramisu All'estate Semplice,45.17,0.67,5.0,2.5,0.0,['keju'],https://www.allrecipes.com/recipe/259266/tiramisu-allestate-semplice/
+Best Toffee Ever - Super Easy,7.06,0.06,0.62,0.53,0.03,[],https://www.allrecipes.com/recipe/73412/best-toffee-ever-super-easy/
+Saltine Cracker Toffee,4.29,0.03,0.43,0.29,0.03,[],https://www.allrecipes.com/recipe/11376/saltine-toffee-cookies/
+Best Honeycomb Toffee Candy,8.88,N/A,2.38,N/A,N/A,[],https://www.allrecipes.com/recipe/268587/honeycomb-toffee/
+English Toffee,13.88,0.06,1.44,1.0,0.06,[],https://www.allrecipes.com/recipe/27026/english-toffee/
+Terrific Toffee Bars,1.9,0.02,0.21,0.1,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/222745/terrific-toffee-bars/
+Melt In Your Mouth Toffee,3.19,0.02,0.29,0.23,0.02,[],https://www.allrecipes.com/recipe/15921/melt-in-your-mouth-toffee/
+Beijinho de Coco (Coconut Little Kiss),15.2,0.3,2.4,0.5,0.1,['susu'],https://www.allrecipes.com/recipe/130689/beijinho-de-coco-coconut-little-kiss/
+Almond Roca,10.5,0.08,0.79,0.83,0.04,[],https://www.allrecipes.com/recipe/235869/almond-roca/
+Sri Lankan Milk Toffee,4.4,0.04,0.76,0.16,0.0,['susu'],https://www.allrecipes.com/recipe/257376/sri-lankan-milk-toffee/
+Caramel Graham Crackers,1.58,0.02,0.12,0.12,0.0,[],https://www.allrecipes.com/recipe/229377/caramel-graham-crackers/
+Butter Pecan Fudge,0.92,0.0,0.11,0.05,0.0,[],https://www.allrecipes.com/recipe/245454/butter-pecan-fudge/
+Easy Toffee,9.44,0.12,1.04,0.6,0.08,[],https://www.allrecipes.com/recipe/19045/easy-toffee/
+Easy Cashew Sea Salt Toffee,44.5,0.38,4.88,2.88,0.0,['susu'],https://www.allrecipes.com/recipe/239405/easy-cashew-sea-salt-toffee/
+Amazing Passover Chocolate Toffee Matzo,6.87,0.07,0.8,0.43,0.03,[],https://www.allrecipes.com/recipe/213680/amazing-passover-chocolate-toffee-matzo/
+Matzoh Candy,4.47,0.03,0.53,0.27,0.0,[],https://www.allrecipes.com/recipe/213683/matzoh-candy/
+Knack,0.9,0.0,0.15,0.04,0.0,[],https://www.allrecipes.com/recipe/235824/knack/
+Chef John's Miso Soup,20.0,1.75,2.75,0.25,0.25,[],https://www.allrecipes.com/recipe/8533278/chef-johns-miso-soup/
+Tofu Salad,36.25,2.0,2.5,2.25,0.75,[],https://www.allrecipes.com/recipe/83576/tofu-salad/
+Perfect Grilled Tofu,36.67,2.0,0.83,3.0,0.17,[],https://www.allrecipes.com/recipe/244272/perfect-grilled-tofu/
+Baked Tofu,41.5,2.5,3.0,2.5,0.25,[],https://www.allrecipes.com/recipe/241709/baked-tofu/
+Tofu Burgers,25.17,1.83,0.67,1.83,0.33,"['keju', 'telur']",https://www.allrecipes.com/recipe/18415/tofu-burgers/
+Panang Curry with Tofu and Vegetables,191.25,5.25,22.75,9.75,2.0,"['ikan', 'susu']",https://www.allrecipes.com/recipe/246123/panang-curry-with-tofu-and-vegetables/
+Vegetarian Pho (Vietnamese Noodle Soup),80.5,2.83,13.0,2.17,0.83,[],https://www.allrecipes.com/recipe/245936/vegetarian-pho-vietnamese-noodle-soup/
+Tofu Stir-Fry with Peanut Sauce (Vegan),110.25,4.25,9.75,6.5,1.25,['susu'],https://www.allrecipes.com/recipe/246227/tofu-stir-fry-with-peanut-sauce-vegan/
+Tofu Parmigiana,89.25,6.5,4.75,5.5,1.0,['keju'],https://www.allrecipes.com/recipe/13896/tofu-parmigiana/
+Air Fryer Tofu,30.5,2.25,0.75,2.25,0.25,[],https://www.allrecipes.com/recipe/278192/air-fryer-tofu/
+Thai Curry Tofu,70.5,2.5,2.0,6.5,0.5,['susu'],https://www.allrecipes.com/recipe/73737/thai-curry-tofu/
+Ultimate Tofu Breakfast Burrito Bowls,193.0,7.33,19.0,13.33,5.33,[],https://www.allrecipes.com/recipe/256021/ultimate-tofu-breakfast-burrito-bowls/
+Tofu Turkey I,47.0,2.7,2.2,3.2,0.3,[],https://www.allrecipes.com/recipe/14113/tofu-turkey-i/
+Authentic Pad Thai Noodles,99.25,3.25,10.0,5.75,1.25,['telur'],https://www.allrecipes.com/recipe/220134/authentic-pad-thai-noodles/
+Tofu Lasagna,46.29,3.43,3.71,2.14,0.43,"['keju', 'susu']",https://www.allrecipes.com/recipe/25345/tofu-lasagna/
+Crispy Fried Tofu,40.25,1.75,0.5,3.75,0.0,[],https://www.allrecipes.com/recipe/245295/crispy-fried-tofu/
+Tofu Cheesecake,46.38,1.0,5.75,2.25,0.12,[],https://www.allrecipes.com/recipe/200254/tofu-cheesecake/
+Egg-Fried Tofu,170.0,12.5,7.0,11.5,1.5,['telur'],https://www.allrecipes.com/recipe/246937/egg-fried-tofu/
+Italian Tofu Meatballs,84.75,4.0,4.75,5.75,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/246927/italian-tofu-meatballs/
+Korean Tofu and Vegetable Soup,72.25,6.5,6.25,3.0,2.25,['sapi'],https://www.allrecipes.com/recipe/55528/korean-tofu-and-vegetable-soup/
+Yellow Squash and Tofu Stir Fry,77.67,4.0,9.33,3.33,1.0,[],https://www.allrecipes.com/recipe/241083/yellow-squash-and-tofu-stir-fry/
+Vegan Lasagna I,63.88,4.12,8.75,2.0,1.38,[],https://www.allrecipes.com/recipe/14069/vegan-lasagna-i/
+Simple Pan-Fried Tofu,32.5,1.75,0.75,2.75,0.25,[],https://www.allrecipes.com/recipe/246936/simple-pan-fried-tofu/
+Tofu and Rice Stuffed Peppers,138.5,7.25,14.0,6.25,2.0,['keju'],https://www.allrecipes.com/recipe/88207/tofu-and-rice-stuffed-peppers/
+Coconut Curry Tofu,38.67,2.83,2.83,2.17,0.83,['susu'],https://www.allrecipes.com/recipe/45688/coconut-curry-tofu/
+Air Fryer Bang Bang Tofu,172.0,3.25,11.25,14.25,0.5,[],https://www.allrecipes.com/recipe/280759/air-fryer-bang-bang-tofu/
+Baked Tofu Bites,42.0,3.25,3.25,2.25,0.25,[],https://www.allrecipes.com/recipe/86313/baked-tofu-bites/
+Cilantro Lime Grilled Tofu,46.25,4.0,1.75,3.0,0.75,[],https://www.allrecipes.com/recipe/218450/cilantro-lime-grilled-tofu/
+Pan-Fried Tofu,62.0,6.0,2.25,3.75,1.5,[],https://www.allrecipes.com/recipe/262361/pan-fried-tofu/
+Tofu Quiche with Broccoli,56.17,3.0,4.33,3.33,0.83,"['keju', 'susu']",https://www.allrecipes.com/recipe/25320/tofu-quiche-with-broccoli/
+"Breaded, Fried, Softly Spiced Tofu",71.25,4.0,4.75,4.5,0.75,[],https://www.allrecipes.com/recipe/88768/breaded-fried-softly-spiced-tofu/
+Air Fryer Vegan Buffalo Tofu Bites,1.75,0.1,0.3,0.05,0.0,['susu'],https://www.allrecipes.com/recipe/275939/air-fryer-vegan-buffalo-tofu-bites/
+Protein-Packed Vegetarian Fried Rice,36.17,1.67,4.67,1.17,0.33,[],https://www.allrecipes.com/recipe/246345/protein-packed-vegetarian-fried-rice/
+Crispy Tofu Bites,111.67,4.33,12.67,5.0,0.67,[],https://www.allrecipes.com/recipe/258576/crispy-tofu-bites/
+Grilled Tofu Skewers with Sriracha Sauce,150.5,8.5,9.5,10.0,2.5,[],https://www.allrecipes.com/recipe/218604/grilled-tofu-skewers-with-sriracha-sauce/
+Chocolate-Banana Tofu Pudding,31.0,1.5,5.25,1.0,0.75,['susu'],https://www.allrecipes.com/recipe/174343/chocolate-banana-tofu-pudding/
+Japanese Tofu Salad,68.0,4.5,2.75,4.75,1.0,[],https://www.allrecipes.com/recipe/100546/japanese-tofu-salad/
+Baked Tofu Slices,17.5,1.17,0.5,1.33,0.17,[],https://www.allrecipes.com/recipe/241804/baked-tofu-slices/
+Maple Glazed Tofu,203.5,5.5,32.0,7.0,0.5,[],https://www.allrecipes.com/recipe/195238/maple-glazed-tofu/
+Tofu Pumpkin Pie,28.75,0.62,4.38,1.12,0.38,[],https://www.allrecipes.com/recipe/216554/tofu-pumpkin-pie/
+Tofu Sandwich Spread,92.5,4.75,1.75,8.0,0.75,[],https://www.allrecipes.com/recipe/29991/tofu-sandwich-spread/
+Eggless Tofu Spinach Quiche,48.0,2.17,3.17,3.17,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/24710/eggless-tofu-spinach-quiche/
+Vegetable and Tofu Stir-fry,53.75,3.5,6.0,2.25,1.5,[],https://www.allrecipes.com/recipe/48123/vegetable-and-tofu-stir-fry/
+Amazing Simple Thai Tofu,71.25,5.0,2.75,5.25,1.0,[],https://www.allrecipes.com/recipe/58097/amazing-simple-thai-tofu/
+Vegetarian Nori Rolls,57.8,1.6,10.8,1.0,0.8,[],https://www.allrecipes.com/recipe/25316/vegetarian-nori-rolls/
+Tofu and Veggies in Peanut Sauce,110.75,7.25,6.0,7.5,1.75,[],https://www.allrecipes.com/recipe/25312/tofu-and-veggies-in-peanut-sauce/
+Mock Chicken,31.0,3.25,1.0,1.75,0.5,[],https://www.allrecipes.com/recipe/18062/mock-chicken/
+Easy Tofu and Watercress Salad,22.67,2.33,1.67,1.0,0.33,[],https://www.allrecipes.com/recipe/284315/easy-tofu-and-watercress-salad/
+Garlic Ginger Tofu,27.0,2.25,0.75,1.88,0.38,[],https://www.allrecipes.com/recipe/73748/garlic-ginger-tofu/
+Spicy Baked Tofu,22.0,1.75,1.5,1.0,0.25,[],https://www.allrecipes.com/recipe/241806/spicy-baked-tofu/
+Vegan Breaded Tofu,20.83,0.83,1.0,1.67,0.0,[],https://www.allrecipes.com/recipe/231473/vegan-breaded-tofu/
+Pesto Tofu Pasta,43.88,2.25,3.5,2.5,0.38,"['keju', 'susu']",https://www.allrecipes.com/recipe/44039/pesto-tofu-pasta/
+Tofu Tacos,34.75,1.38,2.5,2.25,0.62,['keju'],https://www.allrecipes.com/recipe/14045/tofu-tacos-i/
+Scrambled Tofu,47.5,3.0,2.5,3.0,0.5,['keju'],https://www.allrecipes.com/recipe/39711/scrambled-tofu/
+Tofu Ricotta,13.88,0.62,0.25,1.25,0.0,[],https://www.allrecipes.com/recipe/229285/tofu-ricotta/
+General Tso's Tofu,74.5,2.5,6.5,4.75,0.25,[],https://www.allrecipes.com/recipe/280843/general-tsos-tofu/
+Easy Air Fryer Tofu,27.5,2.75,1.0,1.75,0.25,[],https://www.allrecipes.com/recipe/286345/easy-air-fryer-tofu/
+Triple Chocolate Tofu Brownies,19.5,0.33,2.83,0.92,0.17,[],https://www.allrecipes.com/recipe/215016/triple-chocolate-tofu-brownies/
+Tomato Mozzarella Salad,33.17,1.67,1.0,2.5,0.17,['keju'],https://www.allrecipes.com/recipe/222659/tomato-mozzarella-salad/
+Panzanella Salad,41.88,1.12,2.75,3.0,0.25,[],https://www.allrecipes.com/recipe/104982/panzanella-salad/
+Greek Horiatiki Salad,58.25,1.75,3.5,4.5,1.0,['keju'],https://www.allrecipes.com/recipe/278767/greek-horiatiki-salad/
+Caprese Salad with Balsamic Reduction,145.0,5.5,8.75,9.75,0.5,['keju'],https://www.allrecipes.com/recipe/228126/caprese-salad-with-balsamic-reduction/
+Cucumber Tomato Salad,26.0,0.33,3.0,1.67,0.5,[],https://www.allrecipes.com/recipe/237984/marinated-cucumber-onion-and-tomato-salad/
+"Tomato, Basil, and Feta Salad",35.0,0.5,1.75,3.0,0.5,['keju'],https://www.allrecipes.com/recipe/65300/tomato-basil-and-feta-salad/
+Easy Greek Salad,31.17,0.83,1.33,2.67,0.33,['keju'],https://www.allrecipes.com/recipe/14341/good-for-you-greek-salad/
+Cherry Tomato Salad,56.83,0.83,2.17,5.33,0.5,[],https://www.allrecipes.com/recipe/14180/cherry-tomato-salad/
+Tomato Cucumber Salad,11.5,0.5,2.5,0.0,0.5,[],https://www.allrecipes.com/recipe/14157/tomato-cucumber-salad/
+Israeli Salad Recipe,54.4,0.8,3.6,4.4,0.8,[],https://www.allrecipes.com/recipe/208878/israeli-salad/
+Chickpea Salad with Red Onion and Tomato,92.5,3.75,12.25,3.5,3.5,[],https://www.allrecipes.com/recipe/14238/chickpea-salad-with-red-onion-and-tomato/
+Shoepeg Corn Salad,25.12,0.25,2.25,1.62,0.12,[],https://www.allrecipes.com/recipe/237951/shoepeg-corn-salad/
+Vinagrete (Brazilian Tomato Slaw),11.62,0.12,0.88,0.88,0.25,[],https://www.allrecipes.com/recipe/255368/vinagrete-brazilian-tomato-slaw/
+Tomato Cucumber Onion Salad,66.5,0.25,1.75,6.75,0.25,[],https://www.allrecipes.com/recipe/223397/tomato-cucumber-onion-salad/
+10-Minute Tomato Basil Salad,157.0,2.0,8.0,14.0,2.0,[],https://www.allrecipes.com/recipe/229822/10-minute-tomato-basil-salad/
+Salsa Salad,33.0,0.67,3.0,2.33,1.67,[],https://www.allrecipes.com/recipe/218645/salsa-salad/
+Sun-Dried Tomato Basil Orzo,31.88,1.25,4.88,0.88,0.25,['keju'],https://www.allrecipes.com/recipe/142242/sun-dried-tomato-basil-orzo/
+Tomato and Bocconcini Salad,43.17,0.83,1.67,3.83,0.33,['keju'],https://www.allrecipes.com/recipe/216464/tomato-and-bocconcini-salad/
+Israeli Tomato and Cucumber Salad,34.67,0.33,1.83,3.0,0.33,[],https://www.allrecipes.com/recipe/242304/israeli-tomato-and-cucumber-salad/
+Creamy Cucumber Tomato Salad,17.0,0.5,1.75,1.0,0.5,[],https://www.allrecipes.com/recipe/231002/creamy-cucumber-tomato-salad/
+Bruschetta Salad,87.5,3.75,3.0,7.0,0.5,['keju'],https://www.allrecipes.com/recipe/242506/bruschetta-salad/
+Tomato Cucumber Salad with Mint,14.67,0.33,1.83,0.83,0.33,[],https://www.allrecipes.com/recipe/86808/tomato-cucumber-salad-with-mint/
+Cool Summer Cucumber and Tomato Toss,21.0,0.25,1.25,1.75,0.25,[],https://www.allrecipes.com/recipe/218603/cool-summer-cucumber-and-tomato-toss/
+Cilantro Tomato Corn Salad,43.5,0.75,4.0,3.0,0.75,[],https://www.allrecipes.com/recipe/70285/cilantro-tomato-corn-salad/
+Cucumber and Tomato Salad with Mayo,35.5,0.5,2.5,2.75,0.5,[],https://www.allrecipes.com/recipe/60635/tomato-cucumber-salad-ii/
+Sliced Tomatoes with Fresh Herb Dressing,11.88,0.25,0.62,1.0,0.12,['keju'],https://www.allrecipes.com/recipe/146074/sliced-tomatoes-with-fresh-herb-dressing/
+"Cucumber, Tomato, and Red Onion Salad",6.83,0.33,1.67,0.0,0.33,[],https://www.allrecipes.com/recipe/188601/cucumber-tomato-and-red-onion-salad/
+Stacked Tomato and Burrata Salad,329.0,10.0,6.0,27.0,2.0,['keju'],https://www.allrecipes.com/recipe/238919/stacked-tomato-and-burrata-salad/
+Bocconcini Salad,112.25,6.5,1.5,9.0,0.25,[],https://www.allrecipes.com/recipe/16960/bocconcini-salad/
+Orzo and Tomato Salad with Feta Cheese,54.83,1.83,4.67,3.33,0.33,['keju'],https://www.allrecipes.com/recipe/21132/orzo-and-tomato-salad-with-feta-cheese/
+Tomato and Pepper Salad,5.33,0.17,1.17,0.0,0.17,[],https://www.allrecipes.com/recipe/87068/tomato-and-pepper-salad/
+Fresh Tomato Salad,5.57,0.29,1.29,0.0,0.29,[],https://www.allrecipes.com/recipe/14406/fresh-tomato-salad/
+Cucumber Tomato Salad with Sweet Lime Vinaigrette,17.0,0.75,2.25,0.75,0.5,[],https://www.allrecipes.com/recipe/205651/thai-cucumber-tomato-salad/
+Insalata Caprese,51.5,3.0,1.0,4.0,0.17,['keju'],https://www.allrecipes.com/recipe/16526/insalata-caprese-ii/
+Watermelon and Tomato Salad,186.5,5.5,11.5,14.0,1.0,['keju'],https://www.allrecipes.com/recipe/214966/watermelon-and-tomato-salad/
+Marinated Cherry Tomato Salad,13.43,0.14,0.71,1.14,0.14,[],https://www.allrecipes.com/recipe/14151/marinated-cherry-tomato-salad/
+"Penne, Tomato, and Mozzarella Salad",67.5,3.0,8.0,2.83,0.67,['keju'],https://www.allrecipes.com/recipe/11790/penne-tomato-and-mozzarella-salad/
+Baked Caprese Crostini,15.53,0.73,1.27,0.8,0.07,['keju'],https://www.allrecipes.com/recipe/228127/baked-caprese-salad/
+"Cilantro, Avocado, Tomato, and Feta Salad",19.5,0.6,1.6,1.5,0.9,['keju'],https://www.allrecipes.com/recipe/145920/cilantro-avocado-tomato-and-feta-salad/
+Avocado and Tomato Salad,59.5,0.67,3.33,5.33,1.83,[],https://www.allrecipes.com/recipe/51539/avocado-and-tomato-salad/
+Cherry Tomato Caprese Salad,47.25,3.5,1.25,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/228509/caprese-salad/
+"Corn, Sweet Onion, and Tomato Salad",14.75,0.5,3.5,0.12,0.5,[],https://www.allrecipes.com/recipe/38409/corn-sweet-onion-and-tomato-salad/
+Warm Caprese Zoodles,71.0,3.5,4.0,4.75,1.0,[],https://www.allrecipes.com/recipe/281589/warm-caprese-zoodles/
+"Edamame, Corn, and Black Bean Salad",31.62,1.62,4.12,1.25,1.12,[],https://www.allrecipes.com/recipe/110061/healthy-garden-salad/
+Cottage Cheese Salad,34.5,3.75,2.0,1.25,0.25,['keju'],https://www.allrecipes.com/recipe/73490/cottage-cheese-salad/
+Whole Wheat Rotini Pasta Salad,58.67,1.83,8.67,2.0,1.0,['keju'],https://www.allrecipes.com/recipe/220624/whole-wheat-rotini-pasta-salad/
+Easy Cherry Tomato Corn Salad,23.0,0.5,3.0,1.17,0.33,[],https://www.allrecipes.com/recipe/234759/easy-cherry-tomato-corn-salad/
+Heirloom Tomato Salad,41.0,0.5,2.0,3.5,0.75,[],https://www.allrecipes.com/recipe/219045/heirloom-tomato-salad-with-rosemary/
+Cucumber Caprese Salad,23.5,1.67,1.17,1.33,0.17,['keju'],https://www.allrecipes.com/recipe/266390/cucumber-caprese-salad/
+Puerto Rican Gazpacho Salad,45.5,4.33,1.5,2.5,0.83,['ikan'],https://www.allrecipes.com/recipe/242122/puerto-rican-gazpacho-salad/
+Corn Tomato Salad,20.12,0.38,2.12,1.25,0.38,[],https://www.allrecipes.com/recipe/75311/corn-tomato-salad/
+Cucumber Watermelon Salad,30.0,0.5,3.75,1.75,0.5,[],https://www.allrecipes.com/recipe/273962/cucumber-watermelon-salad/
+Cucumber and Tomato Salad,24.5,1.0,2.25,1.5,0.5,[],https://www.allrecipes.com/recipe/14176/cucumber-and-tomato-salad/
+"Creamy Cucumber, Radish, and Tomato Salad",59.75,0.5,2.25,5.75,0.5,['keju'],https://www.allrecipes.com/recipe/286318/creamy-cucumber-radish-and-tomato-salad/
+"Tomato, Cucumber and Red Onion Salad with Mint",18.33,0.33,2.0,1.17,0.33,[],https://www.allrecipes.com/recipe/25156/tomato-cucumber-and-red-onion-salad-with-mint/
+"Cabbage, Tomato and Onion Salad",25.25,0.75,4.0,1.0,1.0,[],https://www.allrecipes.com/recipe/25175/cabbage-tomato-and-onion-salad/
+Eggplant Tomato Salad,44.5,0.75,7.25,2.0,2.0,[],https://www.allrecipes.com/recipe/266095/eggplant-tomato-salad/
+Corn Salad with Lime Vinaigrette,19.25,0.25,1.88,1.38,0.5,[],https://www.allrecipes.com/recipe/238061/corn-salad-with-lime-vinaigrette/
+"Bell Pepper, Tomato, and Feta Salad",55.5,1.25,2.5,4.75,0.75,['keju'],https://www.allrecipes.com/recipe/276473/bell-pepper-tomato-and-feta-salad/
+Creamy Tortellini Soup with Spinach and Boursin,159.8,6.6,14.2,7.8,2.4,"['keju', 'susu']",https://www.allrecipes.com/recipe/8529780/creamy-tortellini-soup-with-spinach-and-boursin/
+Creamy Gochujang Tortellini,132.0,5.2,12.2,7.2,0.6,['keju'],https://www.allrecipes.com/recipe/8522526/creamy-gochujang-tortellini/
+Creamy Tortellini Soup,99.4,3.8,7.6,6.4,0.8,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8472753/creamy-tortellini-soup/
+One Pot Tortellini Bake,130.5,5.5,9.5,7.67,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/8468509/one-pot-tortellini-bake/
+Sauce Rosee,57.33,0.83,3.0,4.5,0.17,"['keju', 'ayam']",https://www.allrecipes.com/recipe/17166/sauce-rosee/
+Creamy Vegetarian Tortellini Soup,109.0,4.0,10.5,5.75,1.0,['keju'],https://www.allrecipes.com/recipe/8502497/creamy-vegetarian-tortellini-soup/
+Spinach Tomato Tortellini,36.5,1.38,4.0,1.75,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/76129/spinach-tomato-tortellini/
+Spinach Tortellini Soup,56.0,3.0,8.25,1.5,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/16332/spinach-tortellini-soup/
+Tortellini Salad,51.88,2.12,3.75,3.25,0.38,['keju'],https://www.allrecipes.com/recipe/206441/tortellini-salad/
+Creamy Chicken Tortellini Soup,132.25,7.0,10.0,7.25,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/229992/creamy-chicken-tortellini-soup/
+Italian Sausage Tortellini Bake,49.75,2.62,4.12,2.5,0.5,['keju'],https://www.allrecipes.com/recipe/232058/italian-sausage-tortellini-bake/
+Broccoli and Tortellini Salad,26.83,0.75,3.25,1.33,0.33,['keju'],https://www.allrecipes.com/recipe/14153/broccoli-and-tortellini-salad/
+Italian Sausage Tortellini,132.0,5.17,7.5,8.83,0.83,['keju'],https://www.allrecipes.com/recipe/273255/italian-sausage-tortellini/
+Easy Chicken Pasta Alfredo,114.5,5.0,6.33,7.83,0.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/233424/easy-chicken-pasta-alfredo/
+Italian Sausage Tortellini Soup,41.5,2.0,4.67,1.5,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16797/italian-sausage-tortellini-soup/
+Chicken Soup with Chicken Thighs,28.12,2.25,2.88,0.88,0.5,"['ayam', 'telur']",https://www.allrecipes.com/recipe/26384/chicken-soup-ii/
+Cheesy Italian Tortellini,78.0,4.5,5.83,4.0,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/34942/cheesy-italian-tortellini/
+Creamy Spinach Tortellini,139.5,5.75,10.75,8.75,1.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/84057/creamy-spinach-tortellini/
+Tortellini in Chicken Broth,51.0,2.75,6.75,1.5,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/236577/tortellini-in-chicken-broth/
+Tia and David's Deep-Fried Tortellini,69.83,2.17,6.83,3.83,0.33,['keju'],https://www.allrecipes.com/recipe/85736/tia-and-davids-deep-fried-tortellini/
+Smoked Sausage and Tortellini Skillet,101.17,4.67,8.17,5.5,1.0,['keju'],https://www.allrecipes.com/recipe/245920/smoked-sausage-and-tortellini-skillet/
+Easy Tortellini Salad,50.83,1.67,7.33,1.67,0.67,['keju'],https://www.allrecipes.com/recipe/220203/easy-tortellini-salad/
+Chicken and Tortellini Pesto Skillet,105.67,7.33,6.33,5.83,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/273840/chicken-and-tortellini-pesto-skillet/
+Garlic Shrimp with Three Cheese Tortellini,454.0,18.5,46.0,21.5,2.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/238294/garlic-shrimp-with-three-cheese-tortellini/
+Tortellini Carbonara,116.6,5.4,6.8,7.8,0.8,['keju'],https://www.allrecipes.com/recipe/18006/tortellini-carbonara/
+Pesto Tortellini Salad,63.83,1.83,4.33,4.5,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/41490/tortellini-pesto-salad/
+Cheese Tortellini Salad,80.12,3.5,6.5,4.62,0.62,['keju'],https://www.allrecipes.com/recipe/238516/cheese-tortellini-salad/
+"Easy, Cheesy Tortellini Bake",118.5,5.0,10.5,6.67,1.17,['keju'],https://www.allrecipes.com/recipe/132801/easy-cheesy-tortellini-bake/
+Tortellini Skewers,17.33,0.75,2.08,0.75,0.17,[],https://www.allrecipes.com/recipe/247347/tortellini-skewers/
+Smoked Sausage and Tortellini Soup,72.0,2.83,5.17,4.33,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/245922/smoked-sausage-and-tortellini-soup/
+Easy Crab Tortellini,162.75,7.0,10.25,11.0,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/281919/easy-crab-tortellini/
+Tortellini Soup,32.7,1.6,3.8,1.3,0.4,"['keju', 'ayam']",https://www.allrecipes.com/recipe/241063/authentic-tortellini-soup/
+Spinach and Tortellini Salad,94.25,3.25,8.25,5.75,1.25,['keju'],https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/
+Hearty Tortellini Soup,24.0,1.1,1.5,1.5,0.2,['sapi'],https://www.allrecipes.com/recipe/13082/tortellini-soup-i/
+Steak and Mushroom Tortellini Alfredo,43.1,2.1,2.8,2.7,0.2,['keju'],https://www.allrecipes.com/recipe/277460/steak-and-mushroom-tortellini-alfredo/
+Tortellini Bacon Broccoli Salad,34.9,1.4,3.4,1.8,0.3,['keju'],https://www.allrecipes.com/recipe/213230/tortellini-bacon-broccoli-salad/
+Tortellini Primavera,138.2,4.6,13.0,7.8,1.0,['keju'],https://www.allrecipes.com/recipe/233862/tortellini-primavera/
+Tortellini Minestrone Soup,51.88,2.62,4.38,2.5,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/233756/tortellini-minestrone-soup/
+Baked Chicken Tortellini Alfredo,67.88,3.75,4.12,4.0,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/273272/baked-chicken-tortellini-alfredo/
+Ali's Greek Tortellini Salad,60.75,2.5,4.5,3.75,0.38,['keju'],https://www.allrecipes.com/recipe/73594/alis-greek-tortellini-salad/
+Pasta Fazoolander,69.5,3.5,8.75,2.5,1.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/222205/pasta-fazoolander/
+Tortellini Alfredo with Grilled Chicken Breasts,93.33,5.17,4.83,6.0,0.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/276733/tortellini-alfredo-with-grilled-chicken-breasts/
+Creamy Mushroom Tortellini Alfredo,233.5,8.0,19.75,14.25,1.5,['keju'],https://www.allrecipes.com/recipe/283664/creamy-mushroom-tortellini-alfredo/
+Instant Pot Chicken Tortellini Soup,101.67,7.67,10.33,3.33,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282089/instant-pot-chicken-tortellini-soup/
+Tortellini with Sausage and Peppers,77.17,3.5,8.67,3.33,1.0,[],https://www.allrecipes.com/recipe/273256/tortellini-with-sausage-and-peppers/
+Hearty Chicken Vegetable Soup I,2.0,0.17,0.15,0.07,0.03,"['ayam', 'telur']",https://www.allrecipes.com/recipe/13229/hearty-chicken-vegetable-soup-i/
+Tortellini alla Fini,87.38,3.62,4.25,6.38,0.38,['keju'],https://www.allrecipes.com/recipe/273841/tortellini-alla-fini/
+Tortellini Salad with Tomatoes and Peas,45.2,1.9,5.5,2.0,0.5,['keju'],https://www.allrecipes.com/recipe/267400/tortellini-salad-with-tomatoes-and-peas/
+Roasted Red Pepper Soup,30.62,1.38,4.62,0.75,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/37673/roasted-red-pepper-soup/
+Simple Tortellini Soup,31.12,1.5,4.62,0.75,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/231763/simple-tortellini-soup/
+Mushroom Tortellini Alfredo,279.0,8.5,16.75,20.5,1.0,['keju'],https://www.allrecipes.com/recipe/277449/mushroom-tortellini-alfredo/
+Tasty Tortellinis,20.83,0.5,1.33,1.5,0.08,['keju'],https://www.allrecipes.com/recipe/11783/tasty-tortellinis/
+Vegetarian Slow Cooker Meal,66.33,2.67,6.83,3.33,0.67,['keju'],https://www.allrecipes.com/recipe/233550/vegetarian-slow-cooker-meal/
+Absolutely Fabulous Portobello Mushroom Tortellini,117.5,4.5,10.5,6.25,0.75,['keju'],https://www.allrecipes.com/recipe/17130/absolutely-fabulous-portobello-mushroom-tortellini/
+Cheese Tortellini in Curried Coconut Milk,112.75,3.0,9.75,7.5,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/234100/cheese-tortellini-in-curried-coconut-milk/
+"Garlicky Tortellini Soup With Sausage, Tomatoes, and Spinach",46.38,2.5,4.25,2.25,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/273253/garlicky-tortellini-soup-with-sausage-tomatoes-and-spinach/
+Easy Tortellini Soup,27.25,1.12,4.12,0.75,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/25670/easy-tortellini-soup/
+Tortellini Chowder,40.25,1.12,4.88,2.0,0.38,['keju'],https://www.allrecipes.com/recipe/24413/tortellini-chowder/
+Mimi's Tortellini Soup,92.67,3.83,5.33,6.33,0.67,['keju'],https://www.allrecipes.com/recipe/18206/tortellini-soup-ii/
+Alfajor Cake,63.25,1.12,9.5,2.38,0.12,['susu'],https://www.allrecipes.com/recipe/8463224/alfajor-cake/
+Black Forest Cake,55.17,0.67,7.25,2.83,0.25,['susu'],https://www.allrecipes.com/recipe/8095/black-forest-cake-i/
+Galette des Rois,14.31,0.19,1.25,0.94,0.06,['telur'],https://www.allrecipes.com/recipe/80734/galette-des-rois/
+Dobos Torte,44.25,0.83,8.58,0.75,0.08,"['susu', 'telur']",https://www.allrecipes.com/recipe/7650/dobos-torte/
+Doberge Cake,57.31,0.69,7.81,2.81,0.25,['susu'],https://www.allrecipes.com/recipe/231087/doberge-cake/
+Fourteen Layer Chocolate Cake,51.79,0.71,7.07,2.43,0.14,['susu'],https://www.allrecipes.com/recipe/16480/fourteen-layer-chocolate-cake/
+Passover Chocolate Torte,25.58,0.58,2.17,1.83,0.25,[],https://www.allrecipes.com/recipe/16291/passover-chocolate-torte/
+Strawberry Torte,42.83,0.75,4.67,2.42,0.08,['keju'],https://www.allrecipes.com/recipe/7409/strawberry-torte/
+Apple Bavarian Torte,23.75,0.33,2.83,1.33,0.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/9543/apple-bavarian-torte/
+Sacher Torte,39.17,0.58,5.25,1.92,0.17,[],https://www.allrecipes.com/recipe/110312/sacher-torte/
+French Chocolate Cake,24.5,0.42,2.0,1.75,0.17,[],https://www.allrecipes.com/recipe/8098/french-chocolate-cake/
+Streamline Hungarian Torte,8.34,0.12,1.03,0.44,0.03,['telur'],https://www.allrecipes.com/recipe/142127/streamline-hungarian-torte/
+Sybil's Old Fashioned Lemon Layer Cake,54.42,0.75,8.83,1.92,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/216892/sybils-old-fashioned-lemon-layer-cake/
+Käsesahnetorte (German Yogurt Mousse Cake),53.33,1.0,8.58,1.67,0.17,[],https://www.allrecipes.com/recipe/283834/kasesahnetorte-german-yogurt-mousse-cake/
+No Bake Lime Mousse Torte,55.75,0.67,3.83,4.33,0.0,['keju'],https://www.allrecipes.com/recipe/54684/no-bake-lime-mousse-torte/
+Pumpkin Torte II,40.25,0.75,4.42,2.33,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/19546/pumpkin-torte-ii/
+Hungarian Chestnut Cake,44.17,0.58,3.83,2.83,0.25,[],https://www.allrecipes.com/recipe/8202/hungarian-chestnut-cake/
+Black Forest Cake II,57.75,0.5,7.42,2.83,0.25,[],https://www.allrecipes.com/recipe/8444/black-forest-cake-ii/
+Brownie Torte,32.58,0.42,3.75,2.0,0.25,[],https://www.allrecipes.com/recipe/7278/brownie-torte/

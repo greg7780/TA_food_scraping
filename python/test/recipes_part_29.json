@@ -1,0 +1,5823 @@
+[
+    {
+        "RecipeName": "Bacon Wrapped Stuffed Mushrooms",
+        "Calories": 6.15,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.1,
+        "Total Fat": 0.55,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/54795/bacon-wrapped-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Andie's Stuffed Mushrooms",
+        "Calories": 31.7,
+        "Protein": 1.8,
+        "Total Carbohydrate": 1.2,
+        "Total Fat": 2.2,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23593/andies-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "The Best Stuffed Mushrooms",
+        "Calories": 27.0,
+        "Protein": 1.17,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 2.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/169625/the-best-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Sausage Stuffed Mushrooms II",
+        "Calories": 17.8,
+        "Protein": 0.5,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 1.7,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24886/sausage-stuffed-mushrooms-ii/"
+    },
+    {
+        "RecipeName": "Artichoke Stuffed Mushrooms",
+        "Calories": 13.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 1.08,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/175989/artichoke-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Sausage-Stuffed Portobello Mushrooms",
+        "Calories": 16.83,
+        "Protein": 0.92,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216395/stuffed-portobello-mushrooms/"
+    },
+    {
+        "RecipeName": "Jalapeno Popper Mushrooms",
+        "Calories": 37.75,
+        "Protein": 1.5,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/218787/jalapeno-popper-mushrooms/"
+    },
+    {
+        "RecipeName": "Spinach Stuffed Mushrooms",
+        "Calories": 1.4,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.07,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/214927/spinach-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Crab and Lobster Stuffed Mushrooms",
+        "Calories": 38.75,
+        "Protein": 2.75,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/47179/crab-and-lobster-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Perfect Crab-Stuffed Mushrooms",
+        "Calories": 54.83,
+        "Protein": 2.5,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229826/perfect-crab-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Giant Stuffed Mushrooms",
+        "Calories": 49.5,
+        "Protein": 1.75,
+        "Total Carbohydrate": 7.25,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14025/giant-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Beef-Stuffed Mushrooms",
+        "Calories": 8.92,
+        "Protein": 0.33,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/13654/stuffed-mushrooms-iv/"
+    },
+    {
+        "RecipeName": "Pesto-Stuffed Grilled Portobellos",
+        "Calories": 94.0,
+        "Protein": 5.0,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 6.67,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/238585/pesto-stuffed-grilled-portobellos/"
+    },
+    {
+        "RecipeName": "Blue Bacon Stuffed Mushrooms",
+        "Calories": 116.0,
+        "Protein": 5.0,
+        "Total Carbohydrate": 4.33,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/137428/blue-bacon-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Gary's Stuffed Mushrooms",
+        "Calories": 34.42,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 3.17,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24174/garys-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Savory Crab Stuffed Mushrooms",
+        "Calories": 22.0,
+        "Protein": 1.25,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25497/savory-crab-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Chicken-Stuffed Mushrooms",
+        "Calories": 38.0,
+        "Protein": 1.17,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239038/chicken-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Stuffed Portobello Mushroom Caps",
+        "Calories": 13.83,
+        "Protein": 1.0,
+        "Total Carbohydrate": 1.58,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228153/stuffed-portobello-mushroom-caps/"
+    },
+    {
+        "RecipeName": "Stuffed Mushrooms with Spinach",
+        "Calories": 13.58,
+        "Protein": 0.33,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25498/stuffed-mushrooms-with-spinach/"
+    },
+    {
+        "RecipeName": "Stuffed Morel Mushrooms",
+        "Calories": 20.62,
+        "Protein": 1.0,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/246301/stuffed-morel-mushrooms/"
+    },
+    {
+        "RecipeName": "Dinah's Stuffed Mushrooms",
+        "Calories": 38.3,
+        "Protein": 1.6,
+        "Total Carbohydrate": 1.1,
+        "Total Fat": 3.1,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24582/dinahs-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Shrimp Stuffed Mushrooms",
+        "Calories": 19.1,
+        "Protein": 1.3,
+        "Total Carbohydrate": 0.8,
+        "Total Fat": 1.3,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25487/shrimp-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Stuffed Mushrooms with Sour Cream",
+        "Calories": 1.79,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/260627/stuffed-mushrooms-with-sour-cream/"
+    },
+    {
+        "RecipeName": "Amazing Shrimp Stuffed Mushrooms",
+        "Calories": 10.3,
+        "Protein": 0.7,
+        "Total Carbohydrate": 0.3,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/184032/amazing-shrimp-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Tuna-Stuffed Mushrooms",
+        "Calories": 6.9,
+        "Protein": 0.6,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 0.4,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/202436/tuna-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Sausage Stuffed Mushrooms",
+        "Calories": 1.25,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.04,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220080/sausage-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Shrimpcargot",
+        "Calories": 67.67,
+        "Protein": 3.67,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 5.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/165535/shrimpcargot/"
+    },
+    {
+        "RecipeName": "Grilled Portobello Mushrooms with Mashed Cannellini Beans and Harissa Sauce",
+        "Calories": 78.0,
+        "Protein": 4.25,
+        "Total Carbohydrate": 11.25,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 3.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/256728/grilled-portobello-mushrooms-with-mashed-cannellini-beans-and-harissa-sauce/"
+    },
+    {
+        "RecipeName": "Stuffed Portobello Mushrooms with Egg and Pesto",
+        "Calories": 54.5,
+        "Protein": 2.5,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285571/stuffed-portobello-mushrooms-with-egg-and-pesto/"
+    },
+    {
+        "RecipeName": "Buffalo Chicken Stuffed Mushrooms (Low-Carb)",
+        "Calories": 16.5,
+        "Protein": 0.9,
+        "Total Carbohydrate": 0.3,
+        "Total Fat": 1.3,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239615/buffalo-chicken-stuffed-mushrooms-low-carb/"
+    },
+    {
+        "RecipeName": "Sausage-Stuffed Mushrooms",
+        "Calories": 14.1,
+        "Protein": 0.9,
+        "Total Carbohydrate": 0.8,
+        "Total Fat": 0.9,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230826/sausage-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Grilled Mushrooms Stuffed with Basil and Blue Cheese Butter",
+        "Calories": 33.0,
+        "Protein": 1.0,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/258663/grilled-mushrooms-stuffed-with-basil-and-blue-cheese-butter/"
+    },
+    {
+        "RecipeName": "Chinese Style Stuffed Mushrooms",
+        "Calories": 35.5,
+        "Protein": 3.0,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/38762/chinese-style-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Portabella Nirvana",
+        "Calories": 113.75,
+        "Protein": 2.75,
+        "Total Carbohydrate": 5.25,
+        "Total Fat": 9.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/39432/portabella-nirvana/"
+    },
+    {
+        "RecipeName": "Chicken, Artichoke, and Spinach-Stuffed Portobellos",
+        "Calories": 190.5,
+        "Protein": 15.25,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 12.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256642/chicken-artichoke-and-spinach-stuffed-portobellos/"
+    },
+    {
+        "RecipeName": "Sausage Stuffed Mushrooms I",
+        "Calories": 60.0,
+        "Protein": 1.5,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22642/sausage-stuffed-mushrooms-i/"
+    },
+    {
+        "RecipeName": "Happy Hour Mushrooms",
+        "Calories": 16.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 0.6,
+        "Total Fat": 1.3,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256151/happy-hour-mushrooms/"
+    },
+    {
+        "RecipeName": "Spinach Stuffed Portobello Mushrooms with Avocado",
+        "Calories": 134.75,
+        "Protein": 3.5,
+        "Total Carbohydrate": 8.5,
+        "Total Fat": 11.0,
+        "Dietary Fiber": 5.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220815/spinach-stuffed-portobello-mushrooms-with-avocado/"
+    },
+    {
+        "RecipeName": "Stuffed Mushrooms II",
+        "Calories": 20.0,
+        "Protein": 0.9,
+        "Total Carbohydrate": 1.8,
+        "Total Fat": 1.1,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/15571/stuffed-mushrooms-ii/"
+    },
+    {
+        "RecipeName": "Cheesy Mashed Potato Stuffed Mushrooms",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231887/cheesy-mashed-potato-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Vegan Stuffed Mushrooms",
+        "Calories": 7.42,
+        "Protein": 0.33,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 0.58,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/268508/vegan-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Bacon Stuffed Mushrooms",
+        "Calories": 43.0,
+        "Protein": 1.83,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230108/bacon-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Stuffed Mushrooms III",
+        "Calories": 65.25,
+        "Protein": 4.0,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16909/stuffed-mushrooms-iii/"
+    },
+    {
+        "RecipeName": "Easy Vegetarian Stuffed Mushrooms",
+        "Calories": 24.8,
+        "Protein": 0.4,
+        "Total Carbohydrate": 1.4,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285654/easy-vegetarian-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Stuffed Portobello Mushrooms with Spinach and Feta",
+        "Calories": 62.0,
+        "Protein": 4.5,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 2.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/286282/stuffed-portobello-mushrooms-with-spinach-and-feta/"
+    },
+    {
+        "RecipeName": "Clam-Stuffed Portobello Mushrooms",
+        "Calories": 12.8,
+        "Protein": 0.8,
+        "Total Carbohydrate": 0.9,
+        "Total Fat": 0.8,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285575/clam-stuffed-portobello-mushrooms/"
+    },
+    {
+        "RecipeName": "Crab Stuffed Mushrooms II",
+        "Calories": 2.6,
+        "Protein": 0.15,
+        "Total Carbohydrate": 0.1,
+        "Total Fat": 0.2,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/20717/crab-stuffed-mushrooms-ii/"
+    },
+    {
+        "RecipeName": "Easy Feta-Stuffed Mushrooms",
+        "Calories": 23.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/286281/easy-feta-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Spicy Shrimp-Stuffed Mushrooms",
+        "Calories": 7.19,
+        "Protein": 0.31,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.56,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268054/spicy-shrimp-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Seafood Stuffed Mushrooms",
+        "Calories": 3.75,
+        "Protein": 0.17,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 0.29,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14825/seafood-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Megan's Marvelous Mushrooms",
+        "Calories": 5.2,
+        "Protein": 0.3,
+        "Total Carbohydrate": 0.3,
+        "Total Fat": 0.3,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230231/megans-marvelous-mushrooms/"
+    },
+    {
+        "RecipeName": "Creole Crab-Stuffed Mushrooms",
+        "Calories": 5.58,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 0.46,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284854/creole-crab-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Cheddar Pecan Stuffed Mushrooms",
+        "Calories": 8.8,
+        "Protein": 0.27,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 0.8,
+        "Dietary Fiber": 0.07,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230017/cheddar-pecan-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Pizza-Stuffed Mushrooms",
+        "Calories": 17.42,
+        "Protein": 0.83,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 1.42,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/286286/pizza-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Italian Stuffed Cubanelle Peppers",
+        "Calories": 37.0,
+        "Protein": 2.75,
+        "Total Carbohydrate": 2.12,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256619/italian-stuffed-cubanelle-peppers/"
+    },
+    {
+        "RecipeName": "Unstuffed Pepper Skillet",
+        "Calories": 128.25,
+        "Protein": 8.0,
+        "Total Carbohydrate": 16.0,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8538585/unstuffed-pepper-skillet/"
+    },
+    {
+        "RecipeName": "Stuffed Peppers",
+        "Calories": 41.33,
+        "Protein": 2.67,
+        "Total Carbohydrate": 4.33,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16330/stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Green Peppers",
+        "Calories": 77.17,
+        "Protein": 4.5,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/17991/stuffed-green-peppers-i/"
+    },
+    {
+        "RecipeName": "Chef John's Stuffed Peppers",
+        "Calories": 47.12,
+        "Protein": 2.5,
+        "Total Carbohydrate": 4.38,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222002/chef-johns-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Baked Stuffed Peppers",
+        "Calories": 113.5,
+        "Protein": 7.5,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228806/baked-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Beef and Rice Stuffed Bell Peppers",
+        "Calories": 62.67,
+        "Protein": 5.0,
+        "Total Carbohydrate": 4.33,
+        "Total Fat": 2.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/236359/beef-and-rice-stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Vegetarian Mexican Inspired Stuffed Peppers",
+        "Calories": 127.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 3.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231514/vegetarian-mexican-inspired-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Healthier Stuffed Peppers",
+        "Calories": 48.5,
+        "Protein": 3.33,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/219447/healthier-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Peppers with Turkey and Vegetables",
+        "Calories": 69.75,
+        "Protein": 6.25,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/79805/stuffed-peppers-with-turkey-and-vegetables/"
+    },
+    {
+        "RecipeName": "Stuffed Peppers My Way",
+        "Calories": 192.5,
+        "Protein": 5.5,
+        "Total Carbohydrate": 26.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 2.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21190/stuffed-peppers-my-way/"
+    },
+    {
+        "RecipeName": "Homestyle Stuffed Peppers",
+        "Calories": 139.25,
+        "Protein": 10.75,
+        "Total Carbohydrate": 9.75,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220003/homestyle-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Bell Peppers",
+        "Calories": 133.0,
+        "Protein": 14.25,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/13886/stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Quick and Easy Stuffed Peppers",
+        "Calories": 44.75,
+        "Protein": 2.25,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14044/quick-and-easy-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Slow Cooker Stuffed Peppers",
+        "Calories": 38.83,
+        "Protein": 2.67,
+        "Total Carbohydrate": 3.17,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/236881/slow-cooker-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Meaty Stuffed Pepper Casserole",
+        "Calories": 64.0,
+        "Protein": 3.5,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 3.88,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231565/meaty-stuffed-pepper-casserole/"
+    },
+    {
+        "RecipeName": "Italian-Style Stuffed Peppers",
+        "Calories": 159.5,
+        "Protein": 12.0,
+        "Total Carbohydrate": 9.25,
+        "Total Fat": 8.25,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/238614/italian-style-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Mexican Peppers",
+        "Calories": 53.67,
+        "Protein": 3.5,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 3.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216899/stuffed-mexican-peppers/"
+    },
+    {
+        "RecipeName": "N'Awlins Stuffed Bell Peppers",
+        "Calories": 41.5,
+        "Protein": 2.42,
+        "Total Carbohydrate": 3.33,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/43640/nawlins-stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Cajun Style Stuffed Peppers",
+        "Calories": 51.17,
+        "Protein": 2.83,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "ayam",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/38215/cajun-style-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Sausage and Rice Stuffed Peppers",
+        "Calories": 212.83,
+        "Protein": 7.33,
+        "Total Carbohydrate": 25.83,
+        "Total Fat": 8.83,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23517/sausage-and-rice-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Peppers Stuffed with Cream Cheese and Sausage",
+        "Calories": 40.12,
+        "Protein": 1.88,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282473/peppers-stuffed-with-cream-cheese-and-sausage/"
+    },
+    {
+        "RecipeName": "Simple and Easy Stuffed Peppers",
+        "Calories": 52.0,
+        "Protein": 3.83,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/105016/simple-and-easy-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Red Peppers",
+        "Calories": 84.0,
+        "Protein": 4.0,
+        "Total Carbohydrate": 12.33,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229617/stuffed-red-peppers/"
+    },
+    {
+        "RecipeName": "Chorizo Stuffed Bell Peppers",
+        "Calories": 93.17,
+        "Protein": 4.67,
+        "Total Carbohydrate": 5.67,
+        "Total Fat": 5.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/87137/chorizo-stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Classic Beef Stuffed Peppers",
+        "Calories": 99.17,
+        "Protein": 5.83,
+        "Total Carbohydrate": 8.83,
+        "Total Fat": 4.33,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229124/classic-beef-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Bolognese Stuffed Bell Peppers",
+        "Calories": 51.67,
+        "Protein": 2.33,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/77194/bolognese-stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Low Carb Turkey-Stuffed Peppers",
+        "Calories": 115.75,
+        "Protein": 9.0,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 6.75,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276832/low-carb-turkey-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Quinoa Stuffed Peppers",
+        "Calories": 41.83,
+        "Protein": 1.83,
+        "Total Carbohydrate": 5.33,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223211/quinoa-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Ali's Stuffed Green Peppers",
+        "Calories": 58.0,
+        "Protein": 3.0,
+        "Total Carbohydrate": 7.83,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229260/stuffed-green-peppers/"
+    },
+    {
+        "RecipeName": "Tofu and Rice Stuffed Peppers",
+        "Calories": 138.5,
+        "Protein": 7.25,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/88207/tofu-and-rice-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Beef and Mushroom Stuffed Peppers",
+        "Calories": 200.0,
+        "Protein": 12.33,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 14.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25882/beef-and-mushroom-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Amanda's Stuffed Peppers",
+        "Calories": 152.0,
+        "Protein": 10.0,
+        "Total Carbohydrate": 11.5,
+        "Total Fat": 7.25,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/140653/amandas-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Kelsey's Favorite Stuffed Green Peppers",
+        "Calories": 77.5,
+        "Protein": 5.83,
+        "Total Carbohydrate": 5.83,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26615/kelseys-favorite-stuffed-green-peppers/"
+    },
+    {
+        "RecipeName": "Saucy Stuffed Peppers",
+        "Calories": 58.38,
+        "Protein": 3.0,
+        "Total Carbohydrate": 6.62,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25195/saucy-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Black Bean Stuffed Peppers",
+        "Calories": 38.33,
+        "Protein": 1.83,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229886/black-bean-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Easy Stuffed Green Peppers",
+        "Calories": 69.0,
+        "Protein": 4.5,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 2.83,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23432/stuffed-green-peppers-ii/"
+    },
+    {
+        "RecipeName": "Impossible Stuffed Peppers",
+        "Calories": 64.67,
+        "Protein": 1.5,
+        "Total Carbohydrate": 8.67,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 1.83,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/282235/impossible-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Di's Stuffed Green Peppers",
+        "Calories": 52.83,
+        "Protein": 3.33,
+        "Total Carbohydrate": 4.17,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235323/dis-stuffed-green-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Jack-O'-Lantern Bell Peppers",
+        "Calories": 44.33,
+        "Protein": 3.17,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/180596/stuffed-jack-o-lantern-bell-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Bell Peppers with Beef and Cabbage",
+        "Calories": 22.0,
+        "Protein": 1.58,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.42,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282636/stuffed-bell-peppers-with-beef-and-cabbage/"
+    },
+    {
+        "RecipeName": "Greek Stuffed Tomatoes and Peppers (Yemista)",
+        "Calories": 29.0,
+        "Protein": 1.08,
+        "Total Carbohydrate": 2.42,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/233236/greek-stuffed-tomatoes-and-peppers-yemista/"
+    },
+    {
+        "RecipeName": "Stuffed Orange Peppers",
+        "Calories": 49.17,
+        "Protein": 3.83,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235320/stuffed-orange-peppers/"
+    },
+    {
+        "RecipeName": "Stuffed Peppers Italian Style",
+        "Calories": 30.75,
+        "Protein": 1.0,
+        "Total Carbohydrate": 4.38,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/32001/stuffed-peppers-italian-style/"
+    },
+    {
+        "RecipeName": "Turkey-Stuffed Peppers",
+        "Calories": 130.0,
+        "Protein": 9.25,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 7.75,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/233445/turkey-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Greek-Style Stuffed Peppers",
+        "Calories": 44.38,
+        "Protein": 1.88,
+        "Total Carbohydrate": 3.62,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/88084/greek-style-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Jack-o'-Lantern Stuffed Peppers",
+        "Calories": 153.25,
+        "Protein": 7.25,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 11.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8284459/jack-o-lantern-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Yummy Stuffed Peppers",
+        "Calories": 45.75,
+        "Protein": 2.38,
+        "Total Carbohydrate": 2.88,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/241937/yummy-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Orzo and Chicken Stuffed Peppers",
+        "Calories": 49.0,
+        "Protein": 2.67,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223203/orzo-and-chicken-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Cheesy Sausage-Stuffed Mini Peppers",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285084/cheesy-sausage-stuffed-mini-peppers/"
+    },
+    {
+        "RecipeName": "Peppers Stuffed with Chicken and Rice",
+        "Calories": 204.5,
+        "Protein": 21.0,
+        "Total Carbohydrate": 20.0,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 2.5,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282482/peppers-stuffed-with-chicken-and-rice/"
+    },
+    {
+        "RecipeName": "Mexican Stuffed Peppers",
+        "Calories": 143.67,
+        "Protein": 5.17,
+        "Total Carbohydrate": 13.33,
+        "Total Fat": 7.83,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/232790/mexican-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Bison and Brown Rice Stuffed Peppers",
+        "Calories": 29.67,
+        "Protein": 2.83,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236628/bison-and-brown-rice-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Breakfast Stuffed Bell Peppers",
+        "Calories": 164.5,
+        "Protein": 9.25,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 12.25,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282206/breakfast-stuffed-bell-peppers/"
+    },
+    {
+        "RecipeName": "Ellen's Vegan Stuffed Peppers",
+        "Calories": 43.0,
+        "Protein": 1.25,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261725/ellens-vegan-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Peppers Stuffed with Grilled Chicken and Rice",
+        "Calories": 91.75,
+        "Protein": 6.25,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282479/peppers-stuffed-with-grilled-chicken-and-rice/"
+    },
+    {
+        "RecipeName": "Vegetarian Stuffed Green Peppers",
+        "Calories": 193.0,
+        "Protein": 10.75,
+        "Total Carbohydrate": 19.25,
+        "Total Fat": 8.25,
+        "Dietary Fiber": 3.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21293/vegetarian-stuffed-green-peppers/"
+    },
+    {
+        "RecipeName": "My Favorite Stuffed Green Peppers",
+        "Calories": 84.0,
+        "Protein": 5.67,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231272/my-favorite-stuffed-green-peppers/"
+    },
+    {
+        "RecipeName": "Sausage Alfredo Stuffed Peppers",
+        "Calories": 147.33,
+        "Protein": 6.33,
+        "Total Carbohydrate": 2.67,
+        "Total Fat": 12.5,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223213/sausage-alfredo-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Laurie's Stuffed Peppers",
+        "Calories": 61.25,
+        "Protein": 2.58,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/79754/lauries-stuffed-peppers/"
+    },
+    {
+        "RecipeName": "Cream Cheese Cut-Outs II",
+        "Calories": 1.25,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 0.06,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26133/cream-cheese-cut-outs-ii/"
+    },
+    {
+        "RecipeName": "Colored Sugar",
+        "Calories": 12.09,
+        "Protein": "N/A",
+        "Total Carbohydrate": 3.12,
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24421/colored-sugar/"
+    },
+    {
+        "RecipeName": "Sugar Cookie Glaze",
+        "Calories": 0.92,
+        "Protein": "N/A",
+        "Total Carbohydrate": 0.25,
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11082/sugar-cookie-glaze/"
+    },
+    {
+        "RecipeName": "Chewy Sugar Cookies",
+        "Calories": 5.73,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.8,
+        "Total Fat": 0.27,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/22850/chewy-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sandy's Super Sugar Cookies",
+        "Calories": 12.96,
+        "Protein": 0.17,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239670/sandys-super-sugar-cookies/"
+    },
+    {
+        "RecipeName": "The Best Rolled Sugar Cookies",
+        "Calories": 1.83,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sugar Cookies with Buttercream Frosting",
+        "Calories": 1.87,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.27,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9440/sugar-cookies-with-buttercream-frosting/"
+    },
+    {
+        "RecipeName": "Thick Cut-Outs",
+        "Calories": 2.06,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.29,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24462/thick-cut-outs/"
+    },
+    {
+        "RecipeName": "Soft Sugar Cookies",
+        "Calories": 9.42,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.21,
+        "Total Fat": 0.46,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15295/soft-sugar-cookies-iv/"
+    },
+    {
+        "RecipeName": "Easy Sugar Cookies",
+        "Calories": 1.79,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/9870/easy-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Grandma's Old Fashioned Tea Cakes",
+        "Calories": 7.83,
+        "Protein": 0.08,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25766/grandmas-old-fashioned-tea-cakes/"
+    },
+    {
+        "RecipeName": "Perfect Vegan Sugar Cookies",
+        "Calories": 2.37,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.37,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261803/perfect-vegan-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Best Soft Christmas Cookies",
+        "Calories": 2.02,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.29,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10110/soft-christmas-cookies/"
+    },
+    {
+        "RecipeName": "Soft Sugar Cookies V",
+        "Calories": 2.15,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.29,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25130/soft-sugar-cookies-v/"
+    },
+    {
+        "RecipeName": "Cream Cheese Sugar Cookies",
+        "Calories": 0.74,
+        "Protein": 0.01,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.04,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11116/cream-cheese-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Cookie Mold Sugar Cookies",
+        "Calories": 1.71,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.21,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11172/cookie-mold-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Butter Cookies with Buttercream Frosting",
+        "Calories": 1.82,
+        "Protein": 0.01,
+        "Total Carbohydrate": 0.28,
+        "Total Fat": 0.07,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230230/old-fashioned-butter-cookies-with-butter-frosting/"
+    },
+    {
+        "RecipeName": "Cinnamon Sugar Cookies",
+        "Calories": 0.75,
+        "Protein": 0.0,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 0.03,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14987/cinnamon-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sugar-Free \"Sugar\" Cookies with Sugar-Free \"Sugar\" Icing",
+        "Calories": 3.42,
+        "Protein": 0.04,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 0.21,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/257834/sugar-free-sugar-cookies-with-sugar-free-sugar-icing/"
+    },
+    {
+        "RecipeName": "Sugar Cookie Cutouts",
+        "Calories": 3.75,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15149/sugar-cookie-cutouts/"
+    },
+    {
+        "RecipeName": "Sour Cream Sugar Cookies I",
+        "Calories": 9.37,
+        "Protein": 0.13,
+        "Total Carbohydrate": 1.43,
+        "Total Fat": 0.37,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/10360/sour-cream-sugar-cookies-i/"
+    },
+    {
+        "RecipeName": "Mary's Sugar Cookies",
+        "Calories": 4.2,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.53,
+        "Total Fat": 0.2,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23750/marys-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Michelle's Soft Sugar Cookies",
+        "Calories": 1.28,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.18,
+        "Total Fat": 0.05,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11267/michelles-soft-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Cracked Sugar Cookies I",
+        "Calories": 6.79,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/9864/cracked-sugar-cookies-i/"
+    },
+    {
+        "RecipeName": "Snickerdoodles I",
+        "Calories": 3.47,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.47,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11624/snickerdoodles-i/"
+    },
+    {
+        "RecipeName": "Amish Sugar Cakes",
+        "Calories": 6.2,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.9,
+        "Total Fat": 0.27,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/20967/amish-sugar-cakes/"
+    },
+    {
+        "RecipeName": "Chef John's Pumpkin Spice Snickerdoodles",
+        "Calories": 8.0,
+        "Protein": 0.11,
+        "Total Carbohydrate": 1.22,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255935/chef-johns-pumpkin-spice-snickerdoodles/"
+    },
+    {
+        "RecipeName": "Grandma Minnie's Old Fashioned Sugar Cookies",
+        "Calories": 0.65,
+        "Protein": 0.01,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.04,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/19145/grandma-minnies-old-fashioned-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Fresh Strawberry Cookies",
+        "Calories": 7.96,
+        "Protein": 0.08,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235942/chewy-strawberry-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Old Time Soft Sugar Cookies",
+        "Calories": 4.79,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.71,
+        "Total Fat": 0.21,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11055/old-time-soft-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Powdered Sugar Cookies I",
+        "Calories": 2.96,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.19,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10364/powdered-sugar-cookies-i/"
+    },
+    {
+        "RecipeName": "Blue Ribbon Sugar Cookies",
+        "Calories": 2.94,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.35,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24464/blue-ribbon-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Mexican Sugar Cookies",
+        "Calories": 62.92,
+        "Protein": 0.67,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10420/mexican-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Mrs. Fields Sugar Cookies",
+        "Calories": 9.22,
+        "Protein": 0.11,
+        "Total Carbohydrate": 1.22,
+        "Total Fat": 0.44,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/10407/mrs-fields-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sweet Sourdough Cookies",
+        "Calories": 19.67,
+        "Protein": 0.33,
+        "Total Carbohydrate": 3.08,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11443/sweet-sourdough-cookies/"
+    },
+    {
+        "RecipeName": "Biscochitos Traditional Cookies",
+        "Calories": 1.56,
+        "Protein": 0.01,
+        "Total Carbohydrate": 0.18,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/88027/biscochitos-traditional-cookies/"
+    },
+    {
+        "RecipeName": "The Best Lavender Sugar Cookies Ever",
+        "Calories": 18.67,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231318/the-best-lavender-sugar-cookies-ever/"
+    },
+    {
+        "RecipeName": "Melted Snowman Cookies",
+        "Calories": 12.83,
+        "Protein": 0.08,
+        "Total Carbohydrate": 2.92,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235468/melted-snowman-cookies/"
+    },
+    {
+        "RecipeName": "Soft Frosted Sugar Cookies",
+        "Calories": 4.61,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 0.19,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229804/soft-frosted-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Ultimate Sugar Cookies",
+        "Calories": 2.02,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.27,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10840/ultimate-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Pumpkin Spice Soft Sugar Cookies",
+        "Calories": 2.58,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.35,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235925/pumpkin-spice-soft-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Amazing Sugar Cookies",
+        "Calories": 1.88,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.27,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223424/amazing-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sweet as Sugar Cookies",
+        "Calories": 5.1,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.63,
+        "Total Fat": 0.23,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/76273/sweet-as-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Basic Sugar Cookies - Tried and True Since 1960",
+        "Calories": 1.69,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.21,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230295/basic-sugar-cookies-tried-and-true-since-1960/"
+    },
+    {
+        "RecipeName": "Lipardo's Puto Seco",
+        "Calories": 13.92,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.08,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/62585/lipardos-puto-seco/"
+    },
+    {
+        "RecipeName": "Delilah's Frosted Cut-Out Sugar Cookies",
+        "Calories": 3.69,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.58,
+        "Total Fat": 0.14,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25065/delilahs-frosted-cut-out-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Buttermilk Cookies",
+        "Calories": 4.36,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.61,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/17843/buttermilk-cookies/"
+    },
+    {
+        "RecipeName": "Dead Bones (L'Ossa Morte)",
+        "Calories": 3.5,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.77,
+        "Total Fat": 0.03,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/175588/dead-bones-lossa-morte/"
+    },
+    {
+        "RecipeName": "Anise Seed Borrachio Cookies",
+        "Calories": 3.08,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.19,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/72087/anise-seed-borrachio-cookies/"
+    },
+    {
+        "RecipeName": "Healthier Easy Sugar Cookies",
+        "Calories": 1.46,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.04,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222091/healthier-easy-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Mailäenderli (Swiss Butter Cookies)",
+        "Calories": 2.1,
+        "Protein": 0.04,
+        "Total Carbohydrate": 0.26,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/149270/mailaenderli/"
+    },
+    {
+        "RecipeName": "Giant Heart-Shaped Pan Cookie",
+        "Calories": 82.33,
+        "Protein": 0.83,
+        "Total Carbohydrate": 11.0,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/259583/giant-heart-shaped-pan-cookie/"
+    },
+    {
+        "RecipeName": "Easy Breeze Sugar Cookies",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268603/easy-breeze-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Swedish Cookies (Brunscrackers)",
+        "Calories": 23.92,
+        "Protein": 0.17,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/41233/swedish-cookies-brunscrackers/"
+    },
+    {
+        "RecipeName": "Banana Pudding Sugar Cookies",
+        "Calories": 3.77,
+        "Protein": 0.07,
+        "Total Carbohydrate": 0.53,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11159/banana-pudding-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Homemade Fortune Cookies",
+        "Calories": 4.7,
+        "Protein": 0.1,
+        "Total Carbohydrate": 0.8,
+        "Total Fat": 0.1,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275116/homemade-fortune-cookies/"
+    },
+    {
+        "RecipeName": "Pink Icing Cookies",
+        "Calories": 10.21,
+        "Protein": 0.17,
+        "Total Carbohydrate": 1.54,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11660/pink-icing-cookies/"
+    },
+    {
+        "RecipeName": "Sugar Cookies with Honey",
+        "Calories": 2.42,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.42,
+        "Total Fat": 0.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/273219/sugar-cookies-with-honey/"
+    },
+    {
+        "RecipeName": "Grandma's Drop Sugar Cookies",
+        "Calories": 2.83,
+        "Protein": 0.02,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/244647/grandmas-drop-sugar-cookies/"
+    },
+    {
+        "RecipeName": "Sugar Cookie Bars",
+        "Calories": 29.5,
+        "Protein": 0.33,
+        "Total Carbohydrate": 4.61,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/232350/sugar-cookie-bars/"
+    },
+    {
+        "RecipeName": "Sugar Cookies IX",
+        "Calories": 14.89,
+        "Protein": 0.17,
+        "Total Carbohydrate": 2.17,
+        "Total Fat": 0.61,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10746/sugar-cookies-ix/"
+    },
+    {
+        "RecipeName": "Grandma Tibbitts Sugar Cookies",
+        "Calories": 9.5,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.38,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25067/grandma-tibbitts-sugar-cookies/"
+    },
+    {
+        "RecipeName": "4-Ingredient Keto Peanut Butter Cookies",
+        "Calories": 11.08,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 0.92,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261181/4-ingredient-keto-peanut-butter-cookies/"
+    },
+    {
+        "RecipeName": "Best Pennsylvania Dutch Chicken Corn Soup",
+        "Calories": 36.42,
+        "Protein": 3.17,
+        "Total Carbohydrate": 2.58,
+        "Total Fat": 1.58,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26365/best-pennsylvania-dutch-chicken-corn-soup/"
+    },
+    {
+        "RecipeName": "No Bake Sugar Free Strawberry Cheesecake",
+        "Calories": 52.0,
+        "Protein": 1.0,
+        "Total Carbohydrate": 4.17,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215589/no-bake-sugar-free-strawberry-cheesecake/"
+    },
+    {
+        "RecipeName": "No-Sugar Apple Pie",
+        "Calories": 38.38,
+        "Protein": 0.25,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 1.38,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15697/no-sugar-apple-pie/"
+    },
+    {
+        "RecipeName": "Slow Cooker Ham and Beans",
+        "Calories": 39.75,
+        "Protein": 2.25,
+        "Total Carbohydrate": 6.25,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/157825/slow-cooker-ham-and-beans/"
+    },
+    {
+        "RecipeName": "Sugar-Free Peanut Butter Cookies",
+        "Calories": 5.75,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.21,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/158403/sugar-free-peanut-butter-cookies/"
+    },
+    {
+        "RecipeName": "Sugar-Free Cake",
+        "Calories": 30.25,
+        "Protein": 0.5,
+        "Total Carbohydrate": 3.42,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/7419/sugar-free-cake/"
+    },
+    {
+        "RecipeName": "Low-Carb Almond Cinnamon Butter Cookies",
+        "Calories": 16.33,
+        "Protein": 0.42,
+        "Total Carbohydrate": 1.08,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261182/low-carb-almond-cinnamon-butter-cookies/"
+    },
+    {
+        "RecipeName": "Air Fryer Pakoras",
+        "Calories": 10.12,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/270817/air-fryer-pakoras/"
+    },
+    {
+        "RecipeName": "Brazilian White Rice",
+        "Calories": 25.12,
+        "Protein": 0.38,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/144308/brazilian-white-rice/"
+    },
+    {
+        "RecipeName": "Low-Sugar Strawberry Jam",
+        "Calories": 0.5,
+        "Protein": 0.0,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": "N/A",
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/217924/low-sugar-no-sugar-strawberry-jam/"
+    },
+    {
+        "RecipeName": "Crunchy Sugar-Free Granola",
+        "Calories": 55.33,
+        "Protein": 2.0,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261939/crunchy-sugar-free-granola/"
+    },
+    {
+        "RecipeName": "Basic Marinara for the Instant Pot",
+        "Calories": 19.17,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/263334/basic-marinara-for-the-instant-pot/"
+    },
+    {
+        "RecipeName": "Best Pie Crust",
+        "Calories": 25.12,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/12492/pie-crust-iv/"
+    },
+    {
+        "RecipeName": "Strawberry Fluff",
+        "Calories": 26.22,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.67,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.11,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16034/strawberry-fluff/"
+    },
+    {
+        "RecipeName": "Reduced Fat French Toast",
+        "Calories": 12.83,
+        "Protein": 0.83,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21206/reduced-fat-french-toast/"
+    },
+    {
+        "RecipeName": "Bread Machine Sugar-Free Bread",
+        "Calories": 7.33,
+        "Protein": 0.27,
+        "Total Carbohydrate": 1.4,
+        "Total Fat": 0.07,
+        "Dietary Fiber": 0.13,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16708/bread-machine-sugar-free-bread/"
+    },
+    {
+        "RecipeName": "Sugar-Free Date Cookies",
+        "Calories": 4.61,
+        "Protein": 0.11,
+        "Total Carbohydrate": 0.78,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275260/sugar-free-date-cookies/"
+    },
+    {
+        "RecipeName": "No Bake Sugar Free Cheese Cake",
+        "Calories": 22.89,
+        "Protein": 0.67,
+        "Total Carbohydrate": 1.89,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.11,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/19073/no-bake-sugar-free-cheese-cake/"
+    },
+    {
+        "RecipeName": "Espinacas con Garbanzos (Spinach with Garbanzo Beans)",
+        "Calories": 42.25,
+        "Protein": 1.75,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/161535/espinacas-con-garbanzos-spinach-with-garbanzo-beans/"
+    },
+    {
+        "RecipeName": "Sugar Free Blueberry Coffee Cake",
+        "Calories": 30.25,
+        "Protein": 0.58,
+        "Total Carbohydrate": 3.08,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/74837/sugar-free-blueberry-coffee-cake/"
+    },
+    {
+        "RecipeName": "Sugar Free Brownies",
+        "Calories": 2.96,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 0.24,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25113/sugar-free-brownies/"
+    },
+    {
+        "RecipeName": "Instant Millionaire Pie for Diabetics",
+        "Calories": 44.62,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/17590/instant-millionaire-pie-for-diabetics/"
+    },
+    {
+        "RecipeName": "Lime Pear Gelatin Salad",
+        "Calories": 20.83,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/156739/lime-pear-gelatin-salad/"
+    },
+    {
+        "RecipeName": "Chocolate-y Iced Mocha",
+        "Calories": 105.0,
+        "Protein": 5.0,
+        "Total Carbohydrate": 17.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/233013/chocolate-y-iced-mocha/"
+    },
+    {
+        "RecipeName": "Sugar-Free Frosting",
+        "Calories": 11.25,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.92,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/17580/sugar-free-frosting/"
+    },
+    {
+        "RecipeName": "Smoked Turkey",
+        "Calories": 24.83,
+        "Protein": 3.33,
+        "Total Carbohydrate": "N/A",
+        "Total Fat": 1.17,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/35500/smoked-turkey/"
+    },
+    {
+        "RecipeName": "Cottage Cheese Fluff",
+        "Calories": 30.5,
+        "Protein": 2.67,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.67,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/87198/cottage-cheese-fluff/"
+    },
+    {
+        "RecipeName": "Pork and Chicken Adobo",
+        "Calories": 137.75,
+        "Protein": 12.25,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 9.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/76455/pork-and-chicken-adobo/"
+    },
+    {
+        "RecipeName": "No-Sugar Pumpkin Pie",
+        "Calories": 18.25,
+        "Protein": 0.62,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/15403/sugarless-pumpkin-pie-ii/"
+    },
+    {
+        "RecipeName": "White Wine Chicken Soup",
+        "Calories": 21.0,
+        "Protein": 1.1,
+        "Total Carbohydrate": 2.6,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23857/white-wine-chicken-soup/"
+    },
+    {
+        "RecipeName": "Chicken and Dumplings IV",
+        "Calories": 60.33,
+        "Protein": 5.33,
+        "Total Carbohydrate": 5.67,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26374/chicken-and-dumplings-iv/"
+    },
+    {
+        "RecipeName": "Pam's Sugar Free Chocolate Pie",
+        "Calories": 17.75,
+        "Protein": 0.12,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/12431/pams-sugar-free-chocolate-pie/"
+    },
+    {
+        "RecipeName": "Spiced Air-Fried Chickpeas",
+        "Calories": 31.0,
+        "Protein": 1.25,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/264820/spiced-air-fried-chickpeas/"
+    },
+    {
+        "RecipeName": "100% Fruit \"Cake\"",
+        "Calories": 29.12,
+        "Protein": 0.62,
+        "Total Carbohydrate": 7.38,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/218890/100-fruit-cake/"
+    },
+    {
+        "RecipeName": "Spiced Tea Mix",
+        "Calories": 19.33,
+        "Protein": 0.17,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9458/spiced-tea-mix/"
+    },
+    {
+        "RecipeName": "Smoked Chicken Thighs",
+        "Calories": 24.12,
+        "Protein": 2.38,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/273871/smoked-chicken-thighs/"
+    },
+    {
+        "RecipeName": "Konbu Dashi",
+        "Calories": 0.25,
+        "Protein": "N/A",
+        "Total Carbohydrate": 0.0,
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/132030/konbu-dashi/"
+    },
+    {
+        "RecipeName": "Dietetic Banana Nut Muffins",
+        "Calories": 6.42,
+        "Protein": 0.25,
+        "Total Carbohydrate": 1.42,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/33290/dietetic-banana-nut-muffins/"
+    },
+    {
+        "RecipeName": "Almond Butter",
+        "Calories": 3.56,
+        "Protein": 0.12,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 0.31,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/145449/almond-butter/"
+    },
+    {
+        "RecipeName": "Black Olive Spread",
+        "Calories": 8.0,
+        "Protein": 0.12,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/75618/black-olive-spread/"
+    },
+    {
+        "RecipeName": "Slow Cooker Cider Applesauce (No Sugar Added)",
+        "Calories": 4.75,
+        "Protein": 0.0,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228653/slow-cooker-cider-applesauce-no-sugar-added/"
+    },
+    {
+        "RecipeName": "Grandma's Secret Pie Crust",
+        "Calories": 14.44,
+        "Protein": 0.19,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 1.06,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12558/grandmas-secret-pie-crust/"
+    },
+    {
+        "RecipeName": "Perfect Pita Chips",
+        "Calories": 16.25,
+        "Protein": 0.38,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/146022/perfect-pita-chips/"
+    },
+    {
+        "RecipeName": "Chocolate Chip Cookies for Special Diets",
+        "Calories": 1.25,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.06,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11594/chocolate-chip-cookies-for-special-diets/"
+    },
+    {
+        "RecipeName": "Delicious Turkey Glaze",
+        "Calories": 915.0,
+        "Protein": 1.0,
+        "Total Carbohydrate": 100.0,
+        "Total Fat": 61.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/13738/delicious-turkey-glaze/"
+    },
+    {
+        "RecipeName": "Skinny Cosmopolitan",
+        "Calories": 112.0,
+        "Protein": 0.0,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": "N/A",
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228001/skinny-cosmopolitan/"
+    },
+    {
+        "RecipeName": "Gummy Candy",
+        "Calories": 1.25,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/163124/gummy-candy/"
+    },
+    {
+        "RecipeName": "Chewy Keto Chocolate Cookies",
+        "Calories": 11.53,
+        "Protein": 0.33,
+        "Total Carbohydrate": 0.87,
+        "Total Fat": 1.07,
+        "Dietary Fiber": 0.13,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261183/chewy-keto-chocolate-cookies/"
+    },
+    {
+        "RecipeName": "Ginny's Cauliflower and Pea Salad",
+        "Calories": 8.92,
+        "Protein": 0.67,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/84012/ginnys-cauliflower-and-pea-salad/"
+    },
+    {
+        "RecipeName": "Sugar-Free BBQ Sauce",
+        "Calories": 0.85,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 0.03,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/218895/sugar-free-bbq-sauce/"
+    },
+    {
+        "RecipeName": "Keto Crackers",
+        "Calories": 0.28,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.0,
+        "Total Fat": 0.03,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/265673/keto-crackers/"
+    },
+    {
+        "RecipeName": "Scott's Sweet Potato and Butternut Squash Mashers",
+        "Calories": 18.12,
+        "Protein": 0.38,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/201130/scotts-sweet-potato-and-butternut-squash-mashers/"
+    },
+    {
+        "RecipeName": "No Sugar Added Cookies",
+        "Calories": 80.5,
+        "Protein": 1.33,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 5.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/11349/no-sugar-added-cookies/"
+    },
+    {
+        "RecipeName": "Quick and Easy Grilled Cheese",
+        "Calories": 471.0,
+        "Protein": 18.0,
+        "Total Carbohydrate": 27.0,
+        "Total Fat": 32.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/145967/quick-and-easy-grilled-cheese/"
+    },
+    {
+        "RecipeName": "Hot Mocha",
+        "Calories": 59.0,
+        "Protein": 6.0,
+        "Total Carbohydrate": 11.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228004/hot-mocha/"
+    },
+    {
+        "RecipeName": "Jicama Appetizer",
+        "Calories": 19.25,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 2.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/132280/jicama-appetizer/"
+    },
+    {
+        "RecipeName": "Sugar-Free Hot Chocolate Mix",
+        "Calories": 18.11,
+        "Protein": 1.33,
+        "Total Carbohydrate": 2.56,
+        "Total Fat": 0.44,
+        "Dietary Fiber": 0.22,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277753/sugar-free-hot-chocolate-mix/"
+    },
+    {
+        "RecipeName": "Sweet Dijon Salad Dressing",
+        "Calories": 3.83,
+        "Protein": "N/A",
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.42,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/71400/sweet-dijon-salad-dressing/"
+    },
+    {
+        "RecipeName": "Multigrain Pancakes",
+        "Calories": 30.0,
+        "Protein": 1.5,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/87475/multigrain-pancakes/"
+    },
+    {
+        "RecipeName": "Chicken Corn Chowder",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26378/chicken-corn-chowder/"
+    },
+    {
+        "RecipeName": "Sugar-Free Peach and Banana Cobbler",
+        "Calories": 20.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215588/sugar-free-peach-and-banana-cobbler/"
+    },
+    {
+        "RecipeName": "Simple Coffee Drink",
+        "Calories": 124.0,
+        "Protein": 8.0,
+        "Total Carbohydrate": 12.0,
+        "Total Fat": 5.0,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220310/simple-coffee-drink/"
+    },
+    {
+        "RecipeName": "Homemade Sushi",
+        "Calories": 19.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24228/sushi-roll/"
+    },
+    {
+        "RecipeName": "Cream Cheese and Crab Sushi Rolls",
+        "Calories": 222.0,
+        "Protein": 5.5,
+        "Total Carbohydrate": 40.0,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/169856/cream-cheese-and-crab-sushi-rolls/"
+    },
+    {
+        "RecipeName": "Cucumber and Avocado Sushi",
+        "Calories": 28.5,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/99204/cucumber-and-avocado-sushi/"
+    },
+    {
+        "RecipeName": "Spicy Tuna Rolls",
+        "Calories": 86.0,
+        "Protein": 4.25,
+        "Total Carbohydrate": 9.75,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/279434/spicy-tuna-rolls/"
+    },
+    {
+        "RecipeName": "Spicy Tuna Sushi Roll",
+        "Calories": 86.5,
+        "Protein": 3.5,
+        "Total Carbohydrate": 11.75,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/190943/spicy-tuna-sushi-roll/"
+    },
+    {
+        "RecipeName": "California Roll Sushi",
+        "Calories": 29.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/189477/california-roll-sushi/"
+    },
+    {
+        "RecipeName": "Vegetarian Sushi",
+        "Calories": 96.25,
+        "Protein": 2.0,
+        "Total Carbohydrate": 17.5,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/221920/vegetarian-sushi/"
+    },
+    {
+        "RecipeName": "Perfect Sushi Rice",
+        "Calories": 7.47,
+        "Protein": 0.13,
+        "Total Carbohydrate": 1.6,
+        "Total Fat": 0.07,
+        "Dietary Fiber": 0.07,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/"
+    },
+    {
+        "RecipeName": "Homemade Sushi Rolls",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8536667/homemade-sushi-rolls/"
+    },
+    {
+        "RecipeName": "Spicy Yellowtail Sushi Roll",
+        "Calories": 135.5,
+        "Protein": 3.75,
+        "Total Carbohydrate": 22.25,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "ikan"
+        ],
+        "url": "https://www.allrecipes.com/recipe/283035/spicy-yellowtail-sushi-roll/"
+    },
+    {
+        "RecipeName": "Buffalo Chicken Sushi Roll",
+        "Calories": 130.5,
+        "Protein": 3.75,
+        "Total Carbohydrate": 13.75,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239021/buffalo-chicken-sushi-roll/"
+    },
+    {
+        "RecipeName": "Spicy Sushi Roll",
+        "Calories": 113.67,
+        "Protein": 3.33,
+        "Total Carbohydrate": 13.67,
+        "Total Fat": 5.33,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241197/spicy-sushi-roll/"
+    },
+    {
+        "RecipeName": "Mom's Sushi Rice",
+        "Calories": 18.1,
+        "Protein": 0.3,
+        "Total Carbohydrate": 4.1,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/137596/moms-sushi-rice/"
+    },
+    {
+        "RecipeName": "California Sushi Roll",
+        "Calories": 1.54,
+        "Protein": 0.04,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": "N/A",
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/271058/california-sushi-roll/"
+    },
+    {
+        "RecipeName": "Dragon Roll",
+        "Calories": 547.5,
+        "Protein": 33.5,
+        "Total Carbohydrate": 47.0,
+        "Total Fat": 25.0,
+        "Dietary Fiber": 4.5,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/257768/dragon-roll/"
+    },
+    {
+        "RecipeName": "Instant Pot Sushi Rice",
+        "Calories": 24.33,
+        "Protein": 0.33,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278798/instant-pot-sushi-rice/"
+    },
+    {
+        "RecipeName": "Kimbop (Korean Sushi)",
+        "Calories": 88.25,
+        "Protein": 3.0,
+        "Total Carbohydrate": 10.25,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/143496/kimbop-korean-sushi/"
+    },
+    {
+        "RecipeName": "Grilled Bacon Sushi Roll",
+        "Calories": 165.0,
+        "Protein": 5.25,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 12.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/259213/grilled-bacon-sushi-roll/"
+    },
+    {
+        "RecipeName": "Deep-Fried California Roll Rice Balls",
+        "Calories": 154.2,
+        "Protein": 4.0,
+        "Total Carbohydrate": 18.6,
+        "Total Fat": 7.2,
+        "Dietary Fiber": 1.2,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/283897/deep-fried-california-roll-rice-balls/"
+    },
+    {
+        "RecipeName": "Mexican Sushi",
+        "Calories": 55.33,
+        "Protein": 1.5,
+        "Total Carbohydrate": 6.83,
+        "Total Fat": 2.67,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235848/mexican-sushi/"
+    },
+    {
+        "RecipeName": "Basic California Roll",
+        "Calories": 88.0,
+        "Protein": 2.0,
+        "Total Carbohydrate": 8.5,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "ikan"
+        ],
+        "url": "https://www.allrecipes.com/recipe/279559/basic-california-roll/"
+    },
+    {
+        "RecipeName": "Spicy Crunchy Salmon Roll with Avocado",
+        "Calories": 99.2,
+        "Protein": 2.8,
+        "Total Carbohydrate": 10.2,
+        "Total Fat": 5.6,
+        "Dietary Fiber": 0.8,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/286030/spicy-crunchy-salmon-roll-with-avocado/"
+    },
+    {
+        "RecipeName": "Easy California Roll Sushi Salad",
+        "Calories": 122.75,
+        "Protein": 3.25,
+        "Total Carbohydrate": 22.5,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277025/easy-california-roll-sushi-salad/"
+    },
+    {
+        "RecipeName": "The Best Ever Vegan Sushi",
+        "Calories": 49.83,
+        "Protein": 1.5,
+        "Total Carbohydrate": 6.17,
+        "Total Fat": 2.33,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261714/the-best-ever-vegan-sushi/"
+    },
+    {
+        "RecipeName": "Crispy Rice Sushi Bites (Copycat Nobu Recipe)",
+        "Calories": 19.83,
+        "Protein": 0.83,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8403781/crispy-rice-sushi-bites-copycat-nobu-recipe/"
+    },
+    {
+        "RecipeName": "Chirashi Bowl",
+        "Calories": 53.12,
+        "Protein": 3.88,
+        "Total Carbohydrate": 6.75,
+        "Total Fat": 1.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/271060/chirashi-bowl/"
+    },
+    {
+        "RecipeName": "Korean Sushi",
+        "Calories": 82.0,
+        "Protein": 3.83,
+        "Total Carbohydrate": 9.67,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23954/korean-sushi/"
+    },
+    {
+        "RecipeName": "Nigiri Sushi",
+        "Calories": 138.75,
+        "Protein": 8.75,
+        "Total Carbohydrate": 19.25,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228952/nigiri-sushi/"
+    },
+    {
+        "RecipeName": "Ahi Sushi Cups",
+        "Calories": 52.0,
+        "Protein": 3.67,
+        "Total Carbohydrate": 5.67,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284546/ahi-sushi-cups/"
+    },
+    {
+        "RecipeName": "Sushi Burritos",
+        "Calories": 262.5,
+        "Protein": 5.0,
+        "Total Carbohydrate": 33.0,
+        "Total Fat": 13.0,
+        "Dietary Fiber": 3.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282834/sushi-burritos/"
+    },
+    {
+        "RecipeName": "Sushi Party",
+        "Calories": 43.0,
+        "Protein": 1.08,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/234351/sushi-party/"
+    },
+    {
+        "RecipeName": "Spicy Salmon Maki",
+        "Calories": 126.5,
+        "Protein": 4.25,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/285859/spicy-salmon-maki/"
+    },
+    {
+        "RecipeName": "Low-Carb Cauliflower Rice Sushi Rolls",
+        "Calories": 135.67,
+        "Protein": 7.33,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 10.0,
+        "Dietary Fiber": 3.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277688/low-carb-cauliflower-rice-sushi-rolls/"
+    },
+    {
+        "RecipeName": "Chakin Sushi",
+        "Calories": 36.33,
+        "Protein": 1.17,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/139030/chakin-sushi/"
+    },
+    {
+        "RecipeName": "Sushi Cake",
+        "Calories": 22.25,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.81,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/283496/sushi-cake/"
+    },
+    {
+        "RecipeName": "Mini Cucumber Sushi Rolls",
+        "Calories": 3.83,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/221925/mini-cucumber-sushi-rolls/"
+    },
+    {
+        "RecipeName": "Deconstructed California Roll Sushi",
+        "Calories": 98.0,
+        "Protein": 2.25,
+        "Total Carbohydrate": 13.75,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/283521/deconstructed-california-roll-sushi/"
+    },
+    {
+        "RecipeName": "How to Make Japanese Rice Balls (Onigiri)",
+        "Calories": 168.5,
+        "Protein": 8.0,
+        "Total Carbohydrate": 30.0,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/285117/how-to-make-japanese-rice-balls-onigiri/"
+    },
+    {
+        "RecipeName": "Turkey Roll Sushi",
+        "Calories": 56.25,
+        "Protein": 3.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/237716/turkey-roll-sushi/"
+    },
+    {
+        "RecipeName": "Homemade Salmon Sushi Rolls",
+        "Calories": 36.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/281297/homemade-sushi-rolls/"
+    },
+    {
+        "RecipeName": "How to Make Rice Balls (Onigiri)",
+        "Calories": 120.0,
+        "Protein": 2.5,
+        "Total Carbohydrate": 26.5,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/285116/how-to-make-rice-balls-onigiri/"
+    },
+    {
+        "RecipeName": "Sarah's Special Sushi",
+        "Calories": 393.5,
+        "Protein": 10.5,
+        "Total Carbohydrate": 51.5,
+        "Total Fat": 16.5,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/195910/sarahs-special-sushi/"
+    },
+    {
+        "RecipeName": "Quick Vegan Sushi",
+        "Calories": 292.0,
+        "Protein": 7.0,
+        "Total Carbohydrate": 63.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 7.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277023/quick-vegan-sushi/"
+    },
+    {
+        "RecipeName": "Grandma's Sweet Potato Pie",
+        "Calories": 62.5,
+        "Protein": 0.75,
+        "Total Carbohydrate": 9.0,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/259756/grandmas-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie",
+        "Calories": 48.62,
+        "Protein": 0.62,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie from Eagle Brand",
+        "Calories": 57.62,
+        "Protein": 0.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/63971/sweet-potato-pie-from-eagle-brand/"
+    },
+    {
+        "RecipeName": "World's Best Sweet Potato Pie",
+        "Calories": 12.54,
+        "Protein": 0.21,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 0.71,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240205/worlds-best-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Old-Fashioned Sweet Potato Pie",
+        "Calories": 31.5,
+        "Protein": 0.88,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/19557/old-fashioned-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pecan Pie",
+        "Calories": 64.88,
+        "Protein": 0.75,
+        "Total Carbohydrate": 7.62,
+        "Total Fat": 3.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/12446/sweet-potato-pecan-pie/"
+    },
+    {
+        "RecipeName": "Easy Sweet Potato Pie",
+        "Calories": 40.75,
+        "Protein": 0.88,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12190/easy-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie II",
+        "Calories": 56.12,
+        "Protein": 0.75,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/19556/sweet-potato-pie-ii/"
+    },
+    {
+        "RecipeName": "Sweetest Southern Sweet Potato Pie",
+        "Calories": 66.25,
+        "Protein": 0.75,
+        "Total Carbohydrate": 10.0,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228449/sweetest-southern-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie VII",
+        "Calories": 38.75,
+        "Protein": 0.62,
+        "Total Carbohydrate": 5.88,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/17106/sweet-potato-pie-vii/"
+    },
+    {
+        "RecipeName": "Mom's Sweet Potato Pie",
+        "Calories": 16.06,
+        "Protein": 0.19,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 0.69,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/237908/moms-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Mini Sweet Potato Pies",
+        "Calories": 2.88,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.42,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/76821/mini-sweet-potato-pies/"
+    },
+    {
+        "RecipeName": "Southern Sweet Potato Pie",
+        "Calories": 23.19,
+        "Protein": 0.31,
+        "Total Carbohydrate": 3.38,
+        "Total Fat": 0.94,
+        "Dietary Fiber": 0.19,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22522/sweet-potato-pie-ix/"
+    },
+    {
+        "RecipeName": "Mimi's Southern Sweet Potato Pie",
+        "Calories": 19.25,
+        "Protein": 0.19,
+        "Total Carbohydrate": 2.69,
+        "Total Fat": 0.94,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277869/southern-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie IV",
+        "Calories": 65.38,
+        "Protein": 1.12,
+        "Total Carbohydrate": 7.12,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12493/sweet-potato-pie-iv/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie with Pecans",
+        "Calories": 96.5,
+        "Protein": 1.12,
+        "Total Carbohydrate": 8.38,
+        "Total Fat": 6.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/13803/sweet-potato-pie-with-pecans/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie with Evaporated Milk",
+        "Calories": 97.75,
+        "Protein": 1.62,
+        "Total Carbohydrate": 10.62,
+        "Total Fat": 5.62,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23754/sweet-potato-pie-with-evaporated-milk/"
+    },
+    {
+        "RecipeName": "Grandaddy's Sweet Potato Meringue Pie",
+        "Calories": 62.5,
+        "Protein": 1.0,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/214758/grandaddys-sweet-potato-meringue-pie/"
+    },
+    {
+        "RecipeName": "Healthier Sweet Potato Pie",
+        "Calories": 39.5,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 2.38,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222124/healthier-sweet-potato-pie-i/"
+    },
+    {
+        "RecipeName": "Sweet Potato Butternut Squash Pie",
+        "Calories": 49.88,
+        "Protein": 0.88,
+        "Total Carbohydrate": 8.12,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/149702/sweet-potato-butternut-squash-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato Pie with Marshmallow Meringue Topping",
+        "Calories": 63.5,
+        "Protein": 0.75,
+        "Total Carbohydrate": 9.12,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/150836/sweet-potato-pie-with-marshmallow-meringue-topping/"
+    },
+    {
+        "RecipeName": "Goldilocks Sweet Potato Pie",
+        "Calories": 49.75,
+        "Protein": 0.62,
+        "Total Carbohydrate": 6.25,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/234167/goldilocks-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Haupia and Purple Sweet Potato Pie",
+        "Calories": 25.31,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.31,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/257081/haupia-and-purple-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Sweet Potato and Carrot Pie",
+        "Calories": 27.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/146042/sweet-potato-and-carrot-pie/"
+    },
+    {
+        "RecipeName": "Sarah Contona's Sweet Potato Pie",
+        "Calories": 69.75,
+        "Protein": 0.88,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/29906/sarah-contonas-sweet-potato-pie/"
+    },
+    {
+        "RecipeName": "Mini Sweet Potato Pumpkin Pies",
+        "Calories": 86.33,
+        "Protein": 0.83,
+        "Total Carbohydrate": 11.5,
+        "Total Fat": 4.33,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230037/mini-sweet-potato-pumpkin-pies/"
+    },
+    {
+        "RecipeName": "Delicious Sweet Potato Pie Recipe",
+        "Calories": 40.88,
+        "Protein": 0.62,
+        "Total Carbohydrate": 6.38,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/259755/delicious-sweet-potato-pie-recipe/"
+    },
+    {
+        "RecipeName": "Sweet Potato Cheesecake Pie",
+        "Calories": 54.6,
+        "Protein": 0.8,
+        "Total Carbohydrate": 4.3,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256450/sweet-potato-cheesecake-pie/"
+    },
+    {
+        "RecipeName": "Easy Swiss Steak",
+        "Calories": 43.67,
+        "Protein": 4.83,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229345/my-mothers-swiss-steak/"
+    },
+    {
+        "RecipeName": "Instant Pot Swiss Steak",
+        "Calories": 84.25,
+        "Protein": 7.0,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/276108/instant-pot-swiss-steak/"
+    },
+    {
+        "RecipeName": "Slow Cooker Swiss Steak",
+        "Calories": 41.0,
+        "Protein": 2.83,
+        "Total Carbohydrate": 3.17,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/49591/slow-cooker-swiss-steak/"
+    },
+    {
+        "RecipeName": "Easy and Quick Swiss Steak",
+        "Calories": 43.62,
+        "Protein": 2.75,
+        "Total Carbohydrate": 6.12,
+        "Total Fat": 1.12,
+        "Dietary Fiber": 0.88,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/74352/easy-and-quick-swiss-steak/"
+    },
+    {
+        "RecipeName": "Swiss Steak",
+        "Calories": 64.5,
+        "Protein": 5.33,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229988/swiss-steak/"
+    },
+    {
+        "RecipeName": "My Mom's Swiss Steak",
+        "Calories": 76.75,
+        "Protein": 5.5,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/73089/my-moms-swiss-steak/"
+    },
+    {
+        "RecipeName": "Grandma's Slow Cooker Swiss Steak",
+        "Calories": 61.33,
+        "Protein": 5.0,
+        "Total Carbohydrate": 2.67,
+        "Total Fat": 3.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230773/grandmas-slow-cooker-swiss-steak/"
+    },
+    {
+        "RecipeName": "Granny's Swiss Steak",
+        "Calories": 103.25,
+        "Protein": 4.75,
+        "Total Carbohydrate": 10.5,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/42090/grannys-swiss-steak/"
+    },
+    {
+        "RecipeName": "Taco Salad",
+        "Calories": 105.75,
+        "Protein": 3.25,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 7.12,
+        "Dietary Fiber": 0.88,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14253/taco-salad-i/"
+    },
+    {
+        "RecipeName": "Doritos® Taco Salad",
+        "Calories": 84.83,
+        "Protein": 4.17,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 4.83,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/283687/doritos-taco-salad/"
+    },
+    {
+        "RecipeName": "Taco Salad III",
+        "Calories": 118.12,
+        "Protein": 3.38,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 7.62,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16848/taco-salad-iii/"
+    },
+    {
+        "RecipeName": "Taco Salad with Lime Vinegar Dressing",
+        "Calories": 138.5,
+        "Protein": 7.75,
+        "Total Carbohydrate": 13.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 3.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/241982/taco-salad-with-lime-vinegar-dressing/"
+    },
+    {
+        "RecipeName": "Chicken Fiesta Salad",
+        "Calories": 77.75,
+        "Protein": 5.75,
+        "Total Carbohydrate": 10.5,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 2.75,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/"
+    },
+    {
+        "RecipeName": "Low-Carb \"Tacos\"",
+        "Calories": 130.25,
+        "Protein": 8.75,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 8.75,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239831/low-carb-tacos/"
+    },
+    {
+        "RecipeName": "Chicken Taco Salad",
+        "Calories": 117.5,
+        "Protein": 8.75,
+        "Total Carbohydrate": 11.0,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 4.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223029/grilled-chicken-taco-salad/"
+    },
+    {
+        "RecipeName": "Easy Black Bean Taco Salad",
+        "Calories": 259.75,
+        "Protein": 11.75,
+        "Total Carbohydrate": 21.0,
+        "Total Fat": 14.75,
+        "Dietary Fiber": 3.75,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/221919/easy-black-bean-taco-salad/"
+    },
+    {
+        "RecipeName": "Sue's Taco Salad",
+        "Calories": 104.33,
+        "Protein": 4.67,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 7.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18071/sues-taco-salad/"
+    },
+    {
+        "RecipeName": "Easy Doritos Taco Salad",
+        "Calories": 31.73,
+        "Protein": 0.8,
+        "Total Carbohydrate": 1.73,
+        "Total Fat": 2.4,
+        "Dietary Fiber": 0.13,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223008/easy-dorito-taco-salad/"
+    },
+    {
+        "RecipeName": "Beef Taco Salad",
+        "Calories": 77.83,
+        "Protein": 4.17,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16138/taco-salad-ii/"
+    },
+    {
+        "RecipeName": "Spicy Dorito Taco Salad",
+        "Calories": 56.1,
+        "Protein": 1.8,
+        "Total Carbohydrate": 3.4,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/"
+    },
+    {
+        "RecipeName": "Easy Keto Taco Salad Bowl for 2",
+        "Calories": 274.0,
+        "Protein": 11.5,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 22.5,
+        "Dietary Fiber": 4.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/264429/easy-keto-taco-salad-bowl-for-2/"
+    },
+    {
+        "RecipeName": "Quick Taco Salad",
+        "Calories": 79.75,
+        "Protein": 3.75,
+        "Total Carbohydrate": 4.62,
+        "Total Fat": 5.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/221915/quick-taco-salad/"
+    },
+    {
+        "RecipeName": "Broccoli Slaw with Spicy Dressing",
+        "Calories": 35.75,
+        "Protein": 0.25,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261575/broccoli-slaw-with-spicy-dressing/"
+    },
+    {
+        "RecipeName": "Grilled Chicken Fajita Salad",
+        "Calories": 70.75,
+        "Protein": 6.75,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256627/grilled-chicken-fajita-salad/"
+    },
+    {
+        "RecipeName": "Italian Taco Salad",
+        "Calories": 101.67,
+        "Protein": 5.5,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 7.83,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24362/italian-taco-salad/"
+    },
+    {
+        "RecipeName": "Taco Pasta Salad with French Dressing",
+        "Calories": 43.58,
+        "Protein": 1.5,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 2.83,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/272283/taco-pasta-salad-with-french-dressing/"
+    },
+    {
+        "RecipeName": "Grandma's Easy Turkey Taco Salad",
+        "Calories": 92.17,
+        "Protein": 3.33,
+        "Total Carbohydrate": 8.17,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/60015/grandmas-easy-turkey-taco-salad/"
+    },
+    {
+        "RecipeName": "Turkey Taco Salad",
+        "Calories": 28.58,
+        "Protein": 1.42,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 0.92,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14470/turkey-taco-salad/"
+    },
+    {
+        "RecipeName": "Quick Turkey Taco Salad",
+        "Calories": 270.5,
+        "Protein": 18.0,
+        "Total Carbohydrate": 20.0,
+        "Total Fat": 13.5,
+        "Dietary Fiber": 3.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/232245/quick-turkey-taco-salad/"
+    },
+    {
+        "RecipeName": "Taco Bean Salad",
+        "Calories": 82.17,
+        "Protein": 2.33,
+        "Total Carbohydrate": 3.58,
+        "Total Fat": 6.67,
+        "Dietary Fiber": 1.08,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228250/taco-bean-salad/"
+    },
+    {
+        "RecipeName": "Low-Fat Taco Salad",
+        "Calories": 343.5,
+        "Protein": 40.0,
+        "Total Carbohydrate": 24.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 5.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/238102/low-fat-taco-salad/"
+    },
+    {
+        "RecipeName": "Mom's Hot Mexican Salad",
+        "Calories": 77.12,
+        "Protein": 4.12,
+        "Total Carbohydrate": 6.25,
+        "Total Fat": 4.12,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14300/moms-hot-mexican-salad/"
+    },
+    {
+        "RecipeName": "Dana's Taco Salad",
+        "Calories": 146.0,
+        "Protein": 6.5,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 7.75,
+        "Dietary Fiber": 5.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/143263/danas-taco-salad/"
+    },
+    {
+        "RecipeName": "Healthier Taco Salad",
+        "Calories": 59.88,
+        "Protein": 4.12,
+        "Total Carbohydrate": 6.38,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/266001/healthier-taco-salad/"
+    },
+    {
+        "RecipeName": "Fish Taco Salad",
+        "Calories": 406.5,
+        "Protein": 16.5,
+        "Total Carbohydrate": 24.5,
+        "Total Fat": 28.5,
+        "Dietary Fiber": 5.5,
+        "ProteinName": [
+            "keju",
+            "ikan"
+        ],
+        "url": "https://www.allrecipes.com/recipe/272599/fish-taco-salad/"
+    },
+    {
+        "RecipeName": "Vegetarian Taco Salad",
+        "Calories": 96.57,
+        "Protein": 4.57,
+        "Total Carbohydrate": 11.57,
+        "Total Fat": 3.71,
+        "Dietary Fiber": 2.71,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16814/taco-salad/"
+    },
+    {
+        "RecipeName": "Rio Grande Especial",
+        "Calories": 106.0,
+        "Protein": 6.75,
+        "Total Carbohydrate": 12.5,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231110/rio-grande-especial/"
+    },
+    {
+        "RecipeName": "Beef Birria Queso Tacos with Consommé",
+        "Calories": 84.25,
+        "Protein": 4.25,
+        "Total Carbohydrate": 6.75,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282114/beef-birria-queso-tacos-with-consome/"
+    },
+    {
+        "RecipeName": "Phenomenal Pork Tacos",
+        "Calories": 65.33,
+        "Protein": 2.5,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 2.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/269743/poblano-and-ground-pork-tacos/"
+    },
+    {
+        "RecipeName": "Shrimp Tacos with Cilantro-Lime Crema",
+        "Calories": 7.35,
+        "Protein": 0.5,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 0.3,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/280916/shrimp-tacos-with-cilantro-lime-crema/"
+    },
+    {
+        "RecipeName": "Barbacoa Tacos",
+        "Calories": 128.5,
+        "Protein": 7.17,
+        "Total Carbohydrate": 4.17,
+        "Total Fat": 9.33,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8497570/barbacoa-tacos/"
+    },
+    {
+        "RecipeName": "Traditional Mexican Street Tacos",
+        "Calories": 348.5,
+        "Protein": 32.0,
+        "Total Carbohydrate": 22.0,
+        "Total Fat": 15.0,
+        "Dietary Fiber": 5.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/257988/traditional-mexican-street-tacos/"
+    },
+    {
+        "RecipeName": "Birria de Pollo (Chicken Birria) Tacos",
+        "Calories": 42.5,
+        "Protein": 4.67,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8463920/birria-de-pollo-chicken-birria-for-tacos/"
+    },
+    {
+        "RecipeName": "Ground Turkey Taco Meat",
+        "Calories": 67.0,
+        "Protein": 7.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/255545/ground-turkey-taco-meat/"
+    },
+    {
+        "RecipeName": "Sarah's Easy Shredded Chicken Taco Filling",
+        "Calories": 53.25,
+        "Protein": 8.75,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220326/sarahs-easy-shredded-chicken-taco-filling/"
+    },
+    {
+        "RecipeName": "Authentic Tacos al Pastor",
+        "Calories": 20.4,
+        "Protein": 1.7,
+        "Total Carbohydrate": 2.3,
+        "Total Fat": 0.6,
+        "Dietary Fiber": 0.3,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/257538/authentic-tacos-al-pastor/"
+    },
+    {
+        "RecipeName": "Fish Tacos",
+        "Calories": 51.12,
+        "Protein": 2.12,
+        "Total Carbohydrate": 5.38,
+        "Total Fat": 2.38,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/53729/fish-tacos/"
+    },
+    {
+        "RecipeName": "Easy Chorizo Street Tacos",
+        "Calories": 131.0,
+        "Protein": 5.0,
+        "Total Carbohydrate": 13.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/257865/easy-chorizo-street-tacos/"
+    },
+    {
+        "RecipeName": "Navajo Fry Bread",
+        "Calories": 18.61,
+        "Protein": 0.22,
+        "Total Carbohydrate": 1.28,
+        "Total Fat": 1.39,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/17053/navajo-fry-bread-ii/"
+    },
+    {
+        "RecipeName": "Ground Pork Tacos with Pineapple Salsa",
+        "Calories": 20.75,
+        "Protein": 1.25,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8500479/ground-pork-tacos-with-pineapple-salsa/"
+    },
+    {
+        "RecipeName": "Low-Carb Keto Cheese Taco Shells",
+        "Calories": 57.0,
+        "Protein": 3.5,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 4.75,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261028/low-carb-keto-cheese-taco-shells/"
+    },
+    {
+        "RecipeName": "Arrachera (Mexican Skirt Steak for Tacos)",
+        "Calories": 29.0,
+        "Protein": 3.17,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/265380/arrachera-mexican-skirt-steak-for-tacos/"
+    },
+    {
+        "RecipeName": "Birria de Res Tacos (Beef Birria Tacos)",
+        "Calories": 14.89,
+        "Protein": 0.94,
+        "Total Carbohydrate": 0.06,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/265338/birria-de-res-tacos-beef-birria-tacos/"
+    },
+    {
+        "RecipeName": "Taqueria-Style Tacos - Carne Asada",
+        "Calories": 23.06,
+        "Protein": 1.12,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.31,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/70935/taqueria-style-tacos-carne-asada/"
+    },
+    {
+        "RecipeName": "Mexican Breakfast Tacos",
+        "Calories": 134.25,
+        "Protein": 7.75,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 8.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/85185/authentic-mexican-breakfast-tacos/"
+    },
+    {
+        "RecipeName": "Taco in a Bag",
+        "Calories": 225.5,
+        "Protein": 8.75,
+        "Total Carbohydrate": 13.5,
+        "Total Fat": 15.25,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/20852/taco-in-a-bag/"
+    },
+    {
+        "RecipeName": "Air Fryer Oven Taco Shells",
+        "Calories": 10.25,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/280697/air-fryer-oven-taco-shells/"
+    },
+    {
+        "RecipeName": "Grilled Fish Tacos with Chipotle-Lime Dressing",
+        "Calories": 69.33,
+        "Protein": 3.83,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 3.17,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/142614/grilled-fish-tacos-with-chipotle-lime-dressing/"
+    },
+    {
+        "RecipeName": "Simple Slow-Cooked Korean Beef Soft Tacos",
+        "Calories": 57.0,
+        "Protein": 3.0,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/237005/simple-slow-cooked-korean-beef-soft-tacos/"
+    },
+    {
+        "RecipeName": "Chicken Wonton Tacos",
+        "Calories": 35.0,
+        "Protein": 2.57,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 1.43,
+        "Dietary Fiber": 0.43,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/245253/chicken-wonton-tacos/"
+    },
+    {
+        "RecipeName": "Instant Pot Tacos al Pastor",
+        "Calories": 35.92,
+        "Protein": 1.83,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.42,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/270608/instant-pot-tacos-al-pastor/"
+    },
+    {
+        "RecipeName": "Favorite Fry Bread Tacos",
+        "Calories": 116.0,
+        "Protein": 5.5,
+        "Total Carbohydrate": 8.5,
+        "Total Fat": 6.83,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/244351/favorite-fry-bread-tacos/"
+    },
+    {
+        "RecipeName": "Halibut Fish Tacos",
+        "Calories": 33.62,
+        "Protein": 1.5,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/273350/halibut-fish-tacos/"
+    },
+    {
+        "RecipeName": "Tasty Lentil Tacos",
+        "Calories": 50.67,
+        "Protein": 1.5,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222610/tasty-lentil-tacos/"
+    },
+    {
+        "RecipeName": "Slow Cooker Tacos al Pastor",
+        "Calories": 39.8,
+        "Protein": 2.6,
+        "Total Carbohydrate": 4.3,
+        "Total Fat": 1.4,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/266022/slow-cooker-tacos-al-pastor/"
+    },
+    {
+        "RecipeName": "Carne Asada Tacos",
+        "Calories": 78.67,
+        "Protein": 5.0,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 2.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/37336/carne-asada-tacos/"
+    },
+    {
+        "RecipeName": "Air Fryer Crispy Fish Tacos with Slaw",
+        "Calories": 92.5,
+        "Protein": 6.5,
+        "Total Carbohydrate": 12.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277359/air-fryer-crispy-fish-tacos-with-slaw/"
+    },
+    {
+        "RecipeName": "Baked Cod Fish Tacos",
+        "Calories": 52.17,
+        "Protein": 3.33,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278965/baked-cod-fish-tacos/"
+    },
+    {
+        "RecipeName": "Lime Chicken Soft Tacos",
+        "Calories": 20.4,
+        "Protein": 1.6,
+        "Total Carbohydrate": 1.9,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25371/lime-chicken-soft-tacos/"
+    },
+    {
+        "RecipeName": "Delicious Beef Tongue Tacos",
+        "Calories": 11.35,
+        "Protein": 0.55,
+        "Total Carbohydrate": 0.7,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/157899/delicious-beef-tongue-tacos/"
+    },
+    {
+        "RecipeName": "Fry Bread Tacos",
+        "Calories": 202.0,
+        "Protein": 10.0,
+        "Total Carbohydrate": 19.25,
+        "Total Fat": 9.25,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/50435/fry-bread-tacos-ii/"
+    },
+    {
+        "RecipeName": "Fish Tacos with Mango Salsa",
+        "Calories": 40.5,
+        "Protein": 2.38,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/233899/healthy-fish-tacos-with-mango-salsa/"
+    },
+    {
+        "RecipeName": "Navajo Tacos",
+        "Calories": 70.83,
+        "Protein": 3.5,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/247201/navajo-tacos/"
+    },
+    {
+        "RecipeName": "Indian Tacos with Yeast Fry Bread",
+        "Calories": 440.5,
+        "Protein": 7.0,
+        "Total Carbohydrate": 13.17,
+        "Total Fat": 40.83,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222993/indian-tacos-with-yeast-fry-bread/"
+    },
+    {
+        "RecipeName": "Tacos De Matamoros",
+        "Calories": 104.83,
+        "Protein": 6.33,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/86347/tacos-de-matamoros/"
+    },
+    {
+        "RecipeName": "Air Fryer Tacos de Papa",
+        "Calories": 13.7,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.2,
+        "Total Fat": 0.4,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/279985/air-fryer-tacos-de-papa/"
+    },
+    {
+        "RecipeName": "Eggplant Tacos",
+        "Calories": 63.75,
+        "Protein": 1.0,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 1.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/240499/eggplant-tacos/"
+    },
+    {
+        "RecipeName": "Tacos de Jamaica (Vegan Hibiscus Tacos)",
+        "Calories": 5.61,
+        "Protein": 0.11,
+        "Total Carbohydrate": 0.94,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/260001/tacos-de-jamaica-vegan-hibiscus-tacos/"
+    },
+    {
+        "RecipeName": "Shrimp Tacos",
+        "Calories": 141.75,
+        "Protein": 7.75,
+        "Total Carbohydrate": 15.0,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/139830/shrimp-tacos/"
+    },
+    {
+        "RecipeName": "Chicken Tacos",
+        "Calories": 50.12,
+        "Protein": 3.12,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/37906/chicken-tacos/"
+    },
+    {
+        "RecipeName": "Easy Keto Beef Tacos",
+        "Calories": 169.0,
+        "Protein": 10.25,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 13.25,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261032/easy-keto-beef-tacos/"
+    },
+    {
+        "RecipeName": "Impossible™ Burger Street Tacos",
+        "Calories": 61.17,
+        "Protein": 1.5,
+        "Total Carbohydrate": 7.67,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282237/impossible-burger-street-tacos/"
+    },
+    {
+        "RecipeName": "Slow Cooker Shredded Venison for Tacos",
+        "Calories": 57.57,
+        "Protein": 9.14,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.57,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/18853/slow-cooker-shredded-venison-for-tacos/"
+    },
+    {
+        "RecipeName": "Quick Fish Tacos",
+        "Calories": 104.0,
+        "Protein": 7.5,
+        "Total Carbohydrate": 9.75,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/221936/quick-fish-tacos/"
+    },
+    {
+        "RecipeName": "Shredded Chicken Tacos",
+        "Calories": 30.5,
+        "Protein": 3.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.12,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/278725/easy-shredded-chicken-tacos/"
+    },
+    {
+        "RecipeName": "Goya Shredded Chicken Tacos",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215224/shredded-chicken-tacos/"
+    },
+    {
+        "RecipeName": "Home-style Tacos al Pastor (Chile and Pineapple Pork Tacos)",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215235/home-style-tacos-al-pastor-chile-and-pineapple-pork-tacos/"
+    },
+    {
+        "RecipeName": "Black Bean Tacos",
+        "Calories": 100.5,
+        "Protein": 3.25,
+        "Total Carbohydrate": 11.0,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 3.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228915/black-bean-tacos/"
+    },
+    {
+        "RecipeName": "Taco Lettuce Wraps",
+        "Calories": 45.83,
+        "Protein": 3.67,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/274968/taco-lettuce-wraps/"
+    },
+    {
+        "RecipeName": "Vegan Bean Taco Filling",
+        "Calories": 17.75,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 1.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/84043/vegan-bean-taco-filling/"
+    },
+    {
+        "RecipeName": "Vegetarian Chickpea Tacos",
+        "Calories": 82.75,
+        "Protein": 2.25,
+        "Total Carbohydrate": 13.75,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/260289/vegetarian-chickpea-tacos/"
+    },
+    {
+        "RecipeName": "Slow Cooker Texas Pulled Pork",
+        "Calories": 66.0,
+        "Protein": 4.0,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/"
+    },
+    {
+        "RecipeName": "Best Brownies",
+        "Calories": 11.5,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.56,
+        "Total Fat": 0.56,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/10549/best-brownies/"
+    },
+    {
+        "RecipeName": "Juiciest Hamburgers Ever",
+        "Calories": 36.0,
+        "Protein": 2.75,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/49404/juiciest-hamburgers-ever/"
+    },
+    {
+        "RecipeName": "Grilled Salmon",
+        "Calories": 53.0,
+        "Protein": 3.5,
+        "Total Carbohydrate": 2.17,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/12720/grilled-salmon-i/"
+    },
+    {
+        "RecipeName": "Jen's Hearty Three Meat Chili",
+        "Calories": 77.5,
+        "Protein": 5.5,
+        "Total Carbohydrate": 3.12,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/154905/jens-hearty-three-meat-chili/"
+    },
+    {
+        "RecipeName": "Prize-Winning Baby Back Ribs",
+        "Calories": 151.83,
+        "Protein": 8.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 11.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Boilermaker Tailgate Chili",
+        "Calories": 50.0,
+        "Protein": 2.58,
+        "Total Carbohydrate": 4.58,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/78299/boilermaker-tailgate-chili/"
+    },
+    {
+        "RecipeName": "Seven Layer Bars",
+        "Calories": 4.31,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.47,
+        "Total Fat": 0.28,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/9889/seven-layer-bars/"
+    },
+    {
+        "RecipeName": "Cedar Planked Salmon",
+        "Calories": 113.0,
+        "Protein": 10.17,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 7.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/109297/cedar-planked-salmon/"
+    },
+    {
+        "RecipeName": "Homestyle Potato Chips",
+        "Calories": 22.38,
+        "Protein": 0.25,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 1.38,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/73135/homestyle-potato-chips/"
+    },
+    {
+        "RecipeName": "Peanut Butter Bars",
+        "Calories": 44.33,
+        "Protein": 0.75,
+        "Total Carbohydrate": 4.08,
+        "Total Fat": 3.08,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9999/peanut-butter-bars-i/"
+    },
+    {
+        "RecipeName": "Slow Cooker Chili",
+        "Calories": 34.12,
+        "Protein": 2.38,
+        "Total Carbohydrate": 4.12,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 1.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/"
+    },
+    {
+        "RecipeName": "Real Wisconsin Fried Cheese Curds",
+        "Calories": 23.12,
+        "Protein": 1.0,
+        "Total Carbohydrate": 0.44,
+        "Total Fat": 1.94,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216711/real-wisconsin-fried-cheese-curds/"
+    },
+    {
+        "RecipeName": "Chicken Wing Dip",
+        "Calories": 15.0,
+        "Protein": 0.56,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 1.38,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/90544/chicken-wing-dip/"
+    },
+    {
+        "RecipeName": "Texas Sheet Cake",
+        "Calories": 8.0,
+        "Protein": 0.06,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 0.41,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23056/texas-sheet-cake-v/"
+    },
+    {
+        "RecipeName": "Detroit Hot Honey Wings",
+        "Calories": 70.0,
+        "Protein": 1.83,
+        "Total Carbohydrate": 7.83,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/142120/detroit-hot-honey-wings/"
+    },
+    {
+        "RecipeName": "Pumpkin Cupcakes",
+        "Calories": 9.88,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/153245/pumpkin-spice-cupcakes/"
+    },
+    {
+        "RecipeName": "Fried Mac and Cheese Balls",
+        "Calories": 67.88,
+        "Protein": 2.5,
+        "Total Carbohydrate": 5.25,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/186033/fried-mac-and-cheese-balls/"
+    },
+    {
+        "RecipeName": "Blonde Brownies",
+        "Calories": 79.5,
+        "Protein": 1.0,
+        "Total Carbohydrate": 10.83,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/10177/blonde-brownies-i/"
+    },
+    {
+        "RecipeName": "Delicious Raspberry Oatmeal Cookie Bars",
+        "Calories": 32.44,
+        "Protein": 0.33,
+        "Total Carbohydrate": 5.22,
+        "Total Fat": 1.22,
+        "Dietary Fiber": 0.11,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/11314/delicious-raspberry-oatmeal-cookie-bars/"
+    },
+    {
+        "RecipeName": "Sweet Restaurant Slaw",
+        "Calories": 25.0,
+        "Protein": 0.12,
+        "Total Carbohydrate": 2.88,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/142027/sweet-restaurant-slaw/"
+    },
+    {
+        "RecipeName": "Wisconsin Bratwurst",
+        "Calories": 55.8,
+        "Protein": 1.4,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14524/wisconsin-bratwurst/"
+    },
+    {
+        "RecipeName": "Grill Master Chicken Wings",
+        "Calories": 18.1,
+        "Protein": 1.0,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213068/grill-master-chicken-wings/"
+    },
+    {
+        "RecipeName": "It's Chili by George!!",
+        "Calories": 30.5,
+        "Protein": 2.2,
+        "Total Carbohydrate": 2.6,
+        "Total Fat": 1.4,
+        "Dietary Fiber": 0.7,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14985/its-chili-by-george/"
+    },
+    {
+        "RecipeName": "Baked Hawaiian Sandwiches",
+        "Calories": 17.75,
+        "Protein": 0.96,
+        "Total Carbohydrate": 1.96,
+        "Total Fat": 0.46,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229038/baked-hawaiian-sandwiches/"
+    },
+    {
+        "RecipeName": "Slow Cooker Vegan Chili",
+        "Calories": 8.93,
+        "Protein": 0.4,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 0.13,
+        "Dietary Fiber": 0.47,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215311/hearty-vegan-slow-cooker-chili/"
+    },
+    {
+        "RecipeName": "Slow Cooker Carolina BBQ",
+        "Calories": 29.3,
+        "Protein": 2.8,
+        "Total Carbohydrate": 0.4,
+        "Total Fat": 1.7,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/148544/slow-cooker-carolina-bbq/"
+    },
+    {
+        "RecipeName": "BBQ Turkey",
+        "Calories": 107.83,
+        "Protein": 9.83,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 6.42,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/95158/bbq-turkey/"
+    },
+    {
+        "RecipeName": "Marinated Grilled Shrimp",
+        "Calories": 45.5,
+        "Protein": 5.17,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21694/marinated-grilled-shrimp/"
+    },
+    {
+        "RecipeName": "Grilled Jalapeño Poppers",
+        "Calories": 10.25,
+        "Protein": 0.38,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 0.94,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215701/grilled-jalapeno-poppers/"
+    },
+    {
+        "RecipeName": "Simple Country Ribs",
+        "Calories": 220.5,
+        "Protein": 9.0,
+        "Total Carbohydrate": 23.5,
+        "Total Fat": 9.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25432/simple-country-ribs/"
+    },
+    {
+        "RecipeName": "Grilled Bacon Jalapeño Wraps",
+        "Calories": 65.17,
+        "Protein": 1.67,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 6.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/87076/grilled-bacon-jalapeno-wraps/"
+    },
+    {
+        "RecipeName": "Chocolate Popcorn",
+        "Calories": 11.62,
+        "Protein": 0.19,
+        "Total Carbohydrate": 1.19,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/160595/chocolate-popcorn/"
+    },
+    {
+        "RecipeName": "Apple Squares",
+        "Calories": 8.94,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.38,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/15067/apple-squares/"
+    },
+    {
+        "RecipeName": "Chinese Pork Chops",
+        "Calories": 30.5,
+        "Protein": 3.33,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/72007/chinese-pork-chops/"
+    },
+    {
+        "RecipeName": "Outrageous Warm Chicken Nacho Dip",
+        "Calories": 6.95,
+        "Protein": 0.55,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.4,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/157940/outrageous-warm-chicken-nacho-dip/"
+    },
+    {
+        "RecipeName": "Slow Cooker Beer Pulled Pork",
+        "Calories": 13.06,
+        "Protein": 0.94,
+        "Total Carbohydrate": 0.56,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/"
+    },
+    {
+        "RecipeName": "Favorite Barbecue Chicken",
+        "Calories": 226.0,
+        "Protein": 13.0,
+        "Total Carbohydrate": 30.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/51372/favorite-barbecue-chicken/"
+    },
+    {
+        "RecipeName": "Quick Baby Back Ribs",
+        "Calories": 116.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/76057/quick-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Baked Buffalo Chicken Dip",
+        "Calories": 50.88,
+        "Protein": 2.12,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/221131/baked-buffalo-chicken-dip/"
+    },
+    {
+        "RecipeName": "Cajun Deep-Fried Turkey",
+        "Calories": 86.33,
+        "Protein": 7.58,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 5.92,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/130351/cajun-deep-fried-turkey/"
+    },
+    {
+        "RecipeName": "Grilled Delmonico Steaks",
+        "Calories": 169.0,
+        "Protein": 8.5,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 13.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/68301/grilled-delmonico-steaks/"
+    },
+    {
+        "RecipeName": "Deep-Fried Mushrooms",
+        "Calories": 15.88,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/144950/deep-fried-mushrooms/"
+    },
+    {
+        "RecipeName": "Slow Roasted BBQ Beef Roast",
+        "Calories": 48.5,
+        "Protein": 4.5,
+        "Total Carbohydrate": 0.1,
+        "Total Fat": 3.3,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/49332/slow-roasted-bbq-beef-roast/"
+    },
+    {
+        "RecipeName": "Burger Sliders",
+        "Calories": 9.67,
+        "Protein": 0.5,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 0.54,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/178295/slider-style-mini-burgers/"
+    },
+    {
+        "RecipeName": "Buffalo Chicken Wraps",
+        "Calories": 147.0,
+        "Protein": 7.5,
+        "Total Carbohydrate": 10.0,
+        "Total Fat": 8.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/188473/buffalo-chicken-wraps/"
+    },
+    {
+        "RecipeName": "Loaded Tater Tots",
+        "Calories": 21.42,
+        "Protein": 0.67,
+        "Total Carbohydrate": 1.92,
+        "Total Fat": 1.42,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/245542/loaded-tater-tots/"
+    },
+    {
+        "RecipeName": "Emily's Chipotle Chili",
+        "Calories": 56.0,
+        "Protein": 4.12,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 3.12,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/150297/emilys-chipotle-chili/"
+    },
+    {
+        "RecipeName": "Grilled Lobster Tails",
+        "Calories": 371.0,
+        "Protein": 22.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 30.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/36996/grilled-rock-lobster-tails/"
+    },
+    {
+        "RecipeName": "Ranch Burgers",
+        "Calories": 33.5,
+        "Protein": 2.88,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/72715/ranch-burgers/"
+    },
+    {
+        "RecipeName": "Southern-Style Egg Salad",
+        "Calories": 10.2,
+        "Protein": 0.4,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 0.9,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/280034/southern-style-egg-salad/"
+    },
+    {
+        "RecipeName": "Hash Brown Casserole for the Slow Cooker",
+        "Calories": 12.38,
+        "Protein": 0.44,
+        "Total Carbohydrate": 0.94,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/149855/hash-brown-casserole-for-the-slow-cooker/"
+    },
+    {
+        "RecipeName": "Blueberry Crumb Bars",
+        "Calories": 21.2,
+        "Protein": 0.2,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.93,
+        "Dietary Fiber": 0.13,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/10462/blueberry-crumb-bars/"
+    },
+    {
+        "RecipeName": "White Texas Sheet Cake",
+        "Calories": 14.33,
+        "Protein": 0.08,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 0.71,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/7820/white-texas-sheet-cake/"
+    },
+    {
+        "RecipeName": "Cedar Plank Salmon",
+        "Calories": 107.25,
+        "Protein": 8.75,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/71193/cedar-plank-salmon/"
+    },
+    {
+        "RecipeName": "Best Football Dip Ever",
+        "Calories": 48.88,
+        "Protein": 2.75,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 3.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/96129/best-football-dip-ever/"
+    },
+    {
+        "RecipeName": "Milly's Oatmeal Brownies",
+        "Calories": 37.25,
+        "Protein": 0.5,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 1.92,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/219067/millys-oatmeal-brownies/"
+    },
+    {
+        "RecipeName": "Grilled Soy-Sesame Asparagus",
+        "Calories": 25.0,
+        "Protein": 1.25,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/86925/grilled-soy-sesame-asparagus/"
+    },
+    {
+        "RecipeName": "Grilled Teriyaki Tuna",
+        "Calories": 137.75,
+        "Protein": 7.75,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 10.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/23039/grilled-teriyaki-tuna/"
+    },
+    {
+        "RecipeName": "Sassy Tailgate Sandwiches",
+        "Calories": 48.75,
+        "Protein": 2.58,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216837/sassy-tailgate-sandwiches/"
+    },
+    {
+        "RecipeName": "Juicy Lucy Burgers",
+        "Calories": 148.25,
+        "Protein": 9.5,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 9.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213797/juicy-lucy-burgers/"
+    },
+    {
+        "RecipeName": "Horseshoe",
+        "Calories": 1028.5,
+        "Protein": 44.0,
+        "Total Carbohydrate": 40.5,
+        "Total Fat": 77.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/142040/horseshoe/"
+    },
+    {
+        "RecipeName": "Grilled Chicken Spiedies",
+        "Calories": 145.83,
+        "Protein": 8.33,
+        "Total Carbohydrate": 12.17,
+        "Total Fat": 6.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228371/grilled-chicken-spiedies/"
+    },
+    {
+        "RecipeName": "Barbeque Halibut Steaks",
+        "Calories": 91.67,
+        "Protein": 10.67,
+        "Total Carbohydrate": 3.67,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/12837/barbeque-halibut-steaks/"
+    },
+    {
+        "RecipeName": "Tamales Rojos de Pollo (Red Chicken Tamales)",
+        "Calories": 3.74,
+        "Protein": 0.14,
+        "Total Carbohydrate": 0.34,
+        "Total Fat": 0.23,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261684/red-chicken-tamales-tamales-rojos-de-pollo/"
+    },
+    {
+        "RecipeName": "Real Homemade Tamales",
+        "Calories": 15.38,
+        "Protein": 0.75,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 0.94,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/34512/real-homemade-tamales/"
+    },
+    {
+        "RecipeName": "Beef Tamales",
+        "Calories": 9.64,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.64,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/34759/beef-tamales/"
+    },
+    {
+        "RecipeName": "Poblano and Cheese Tamales (Tamales de Rajas con Queso)",
+        "Calories": 10.5,
+        "Protein": 0.21,
+        "Total Carbohydrate": 0.79,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261634/poblano-and-cheese-tamales-tamales-de-rajas-con-queso/"
+    },
+    {
+        "RecipeName": "Pork for Tamales",
+        "Calories": 2.0,
+        "Protein": 0.19,
+        "Total Carbohydrate": 0.06,
+        "Total Fat": 0.12,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/20772/pork-for-tamales/"
+    },
+    {
+        "RecipeName": "Tamales Oaxaqueños (Oaxacan-Style Tamales)",
+        "Calories": 5.83,
+        "Protein": 0.17,
+        "Total Carbohydrate": 0.61,
+        "Total Fat": 0.31,
+        "Dietary Fiber": 0.11,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261685/tamales-oaxaquenos-oaxacan-style-tamales/"
+    },
+    {
+        "RecipeName": "Tamales de Puerco (Red Pork Tamales)",
+        "Calories": 22.93,
+        "Protein": 0.67,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261633/tamales-de-puerco-red-pork-tamales/"
+    },
+    {
+        "RecipeName": "Sweet Pineapple Tamales",
+        "Calories": 6.63,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 0.47,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/262521/sweet-pineapple-tamales/"
+    },
+    {
+        "RecipeName": "Tamale Casserole",
+        "Calories": 113.33,
+        "Protein": 5.0,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 7.0,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16363/tamale-casserole/"
+    },
+    {
+        "RecipeName": "Homemade Beef Tamales",
+        "Calories": 15.0,
+        "Protein": 0.84,
+        "Total Carbohydrate": 1.2,
+        "Total Fat": 0.8,
+        "Dietary Fiber": 0.24,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222502/homemade-beef-tamales/"
+    },
+    {
+        "RecipeName": "Green Chicken Tamales",
+        "Calories": 3.29,
+        "Protein": 0.11,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261636/green-chicken-tamales/"
+    },
+    {
+        "RecipeName": "Sweet Tamales with Pineapple and Coconut",
+        "Calories": 4.19,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.61,
+        "Total Fat": 0.19,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261683/sweet-tamales-with-pineapple-and-coconut/"
+    },
+    {
+        "RecipeName": "Honduran Tamales",
+        "Calories": 18.4,
+        "Protein": 0.73,
+        "Total Carbohydrate": 1.97,
+        "Total Fat": 0.9,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222496/honduran-tamales/"
+    },
+    {
+        "RecipeName": "Tamales de Frijoles (Bean Tamales)",
+        "Calories": 6.88,
+        "Protein": 0.12,
+        "Total Carbohydrate": 0.71,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261686/bean-tamales-tameles-de-frijoles/"
+    },
+    {
+        "RecipeName": "Instant Pot Tamales",
+        "Calories": 68.3,
+        "Protein": 2.4,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 4.7,
+        "Dietary Fiber": 0.8,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284436/instant-pot-tamales/"
+    },
+    {
+        "RecipeName": "Leftover Turkey Tamales",
+        "Calories": 44.2,
+        "Protein": 1.9,
+        "Total Carbohydrate": 3.1,
+        "Total Fat": 2.8,
+        "Dietary Fiber": 0.6,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235513/leftover-turkey-tamales/"
+    },
+    {
+        "RecipeName": "Cuban Tamales",
+        "Calories": 20.29,
+        "Protein": 0.79,
+        "Total Carbohydrate": 1.71,
+        "Total Fat": 1.07,
+        "Dietary Fiber": 0.21,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223055/cuban-tamales/"
+    },
+    {
+        "RecipeName": "Sweet Tamale Pie",
+        "Calories": 35.83,
+        "Protein": 1.25,
+        "Total Carbohydrate": 3.58,
+        "Total Fat": 1.92,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/233252/sweet-tamale-pie/"
+    },
+    {
+        "RecipeName": "Pork Tamales",
+        "Calories": 27.4,
+        "Protein": 1.2,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 2.07,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285315/pork-tamales/"
+    },
+    {
+        "RecipeName": "Sweet Orange Tamales",
+        "Calories": 5.78,
+        "Protein": 0.05,
+        "Total Carbohydrate": 0.78,
+        "Total Fat": 0.3,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/262523/sweet-orange-tamales/"
+    },
+    {
+        "RecipeName": "Spanish Omelette",
+        "Calories": 42.0,
+        "Protein": 0.83,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/20198/spanish-potato-omelet/"
+    },
+    {
+        "RecipeName": "Tortilla de Patatas",
+        "Calories": 36.58,
+        "Protein": 0.42,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/285671/tortilla-de-patatas/"
+    },
+    {
+        "RecipeName": "Crab-Stuffed Mushrooms",
+        "Calories": 27.67,
+        "Protein": 1.67,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12751/crab-stuffed-mushrooms/"
+    },
+    {
+        "RecipeName": "Authentic Mexican Shrimp Cocktail (Coctel de Camarones estilo Mexicano)",
+        "Calories": 102.5,
+        "Protein": 7.25,
+        "Total Carbohydrate": 10.5,
+        "Total Fat": 4.25,
+        "Dietary Fiber": 2.25,
+        "ProteinName": [
+            "kerang",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228393/authentic-mexican-shrimp-cocktail-coctel-de-camarones-estilo-mexicano/"
+    },
+    {
+        "RecipeName": "Air Fryer Calamari",
+        "Calories": 74.25,
+        "Protein": 6.25,
+        "Total Carbohydrate": 12.75,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/280571/air-fryer-calamari/"
+    },
+    {
+        "RecipeName": "Spanish Garlic Shrimp (Gambas al Ajillo)",
+        "Calories": 56.75,
+        "Protein": 4.75,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/266085/spanish-garlic-shrimp-gambas-al-ajillo/"
+    },
+    {
+        "RecipeName": "Chef John's Patatas Bravas",
+        "Calories": 169.5,
+        "Protein": 1.5,
+        "Total Carbohydrate": 10.75,
+        "Total Fat": 13.75,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230569/chef-johns-patatas-bravas/"
+    },
+    {
+        "RecipeName": "Tortilla Española (Spanish Tortilla)",
+        "Calories": 79.5,
+        "Protein": 2.17,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 5.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/147109/tortilla-espanola-spanish-tortilla/"
+    },
+    {
+        "RecipeName": "Easy Garlic Escargots",
+        "Calories": 101.25,
+        "Protein": 6.75,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 6.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/159391/easy-garlic-escargots/"
+    },
+    {
+        "RecipeName": "My Own Famous Stuffed Grape Leaves",
+        "Calories": 25.25,
+        "Protein": 0.33,
+        "Total Carbohydrate": 2.58,
+        "Total Fat": 1.58,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18842/my-own-famous-stuffed-grape-leaves/"
+    },
+    {
+        "RecipeName": "Authentic Patatas Bravas",
+        "Calories": 782.0,
+        "Protein": 3.5,
+        "Total Carbohydrate": 27.0,
+        "Total Fat": 75.5,
+        "Dietary Fiber": 4.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228954/authentic-patatas-bravas/"
+    },
+    {
+        "RecipeName": "Tomato and Mozzarella Bites",
+        "Calories": 5.8,
+        "Protein": 0.0,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 0.6,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/104806/tomato-and-mozzarella-bites/"
+    },
+    {
+        "RecipeName": "Grilled Marinated Shrimp",
+        "Calories": 74.5,
+        "Protein": 4.17,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 6.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/19484/grilled-marinated-shrimp/"
+    },
+    {
+        "RecipeName": "Ceviche Peruano",
+        "Calories": 29.62,
+        "Protein": 3.25,
+        "Total Carbohydrate": 3.62,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/134464/ceviche-peruano/"
+    },
+    {
+        "RecipeName": "Mahi Mahi Ceviche",
+        "Calories": 19.5,
+        "Protein": 1.83,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/"
+    }
+]

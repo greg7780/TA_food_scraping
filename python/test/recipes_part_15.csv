@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Babka,14.08,0.29,1.46,0.83,0.08,['susu'],https://www.allrecipes.com/recipe/262291/basic-babka/
+Easy Challah Bread,21.1,0.7,3.7,0.4,0.1,['telur'],https://www.allrecipes.com/recipe/172633/easy-challah-bread/
+Israeli Salad Recipe,54.4,0.8,3.6,4.4,0.8,[],https://www.allrecipes.com/recipe/208878/israeli-salad/
+Irresistible Whole Wheat Challah,13.44,0.38,2.06,0.5,0.25,[],https://www.allrecipes.com/recipe/181046/irresistible-whole-wheat-challah/
+Bread Machine Challah I,15.33,0.5,2.5,0.33,0.08,['susu'],https://www.allrecipes.com/recipe/7043/bread-machine-challah-i/
+Passover Matzo Lasagna,20.17,1.33,1.92,0.75,0.17,['keju'],https://www.allrecipes.com/recipe/212739/passover-matzo-lasagna/
+Sweet Challah,16.4,0.4,2.85,0.4,0.1,['telur'],https://www.allrecipes.com/recipe/132319/sweet-challah/
+Passover Rolls,52.0,1.33,3.83,3.67,0.17,[],https://www.allrecipes.com/recipe/16158/passover-rolls-i/
+Hamantashen,5.11,0.08,0.64,0.25,0.0,[],https://www.allrecipes.com/recipe/70329/hamantashen/
+Jewish Coffee Cake,30.33,0.42,3.33,1.75,0.08,[],https://www.allrecipes.com/recipe/15029/jewish-coffee-cake/
+Baked Falafel,140.5,5.5,19.5,4.5,3.5,['telur'],https://www.allrecipes.com/recipe/183947/baked-falafel/
+Stuffed Breast of Veal,17.4,1.53,1.0,0.8,0.07,[],https://www.allrecipes.com/recipe/158843/stuffed-breast-of-veal/
+Moroccan Shabbat Fish,46.33,6.0,1.0,2.0,0.33,['ayam'],https://www.allrecipes.com/recipe/213243/moroccan-shabbat-fish/
+Jewish Grandma's Best Brisket,32.7,1.9,0.2,2.6,0.0,['sapi'],https://www.allrecipes.com/recipe/103067/jewish-grandmas-best-beef-brisket/
+Sweet and Sour Cabbage Soup,31.67,4.33,1.17,1.0,0.25,['sapi'],https://www.allrecipes.com/recipe/213620/sweet-and-sour-cabbage-soup/
+Matzoh Ball Soup,72.88,5.62,1.25,4.88,0.25,['ayam'],https://www.allrecipes.com/recipe/13147/matzoh-ball-soup/
+New York Knish - Yo!,19.33,0.33,2.75,0.83,0.17,['ayam'],https://www.allrecipes.com/recipe/81942/new-york-knish-yo/
+Mom's Potato Latkes,92.75,1.5,5.5,7.5,0.75,[],https://www.allrecipes.com/recipe/235052/moms-potato-latkes/
+Passover Chocolate Torte,25.58,0.58,2.17,1.83,0.25,[],https://www.allrecipes.com/recipe/16291/passover-chocolate-torte/
+Mom's Authentic Kosher Cholent Recipe,133.38,7.25,12.25,6.12,2.12,[],https://www.allrecipes.com/recipe/14607/moms-authentic-kosher-cholent-recipe/
+Passover Charoset,24.38,0.38,3.5,1.25,0.62,[],https://www.allrecipes.com/recipe/217287/passover-apples-and-honey-charoset/
+Chocolate Babka,37.8,0.6,4.6,2.0,0.2,"['telur', 'susu']",https://www.allrecipes.com/recipe/176381/chocolate-babka/
+Cottage Cheese Blintzes,9.93,0.67,0.73,0.47,0.0,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/212387/cottage-cheese-blintzes/
+Foolproof Potato Latkes,57.8,1.4,7.4,2.6,1.0,[],https://www.allrecipes.com/recipe/212816/foolproof-potato-latkes/
+New Mom Broccoli Kugel,29.0,0.67,1.0,2.67,0.33,[],https://www.allrecipes.com/recipe/212831/new-mom-broccoli-kugel/
+4th of July Dump Cake,12.5,0.1,1.35,0.75,0.05,[],https://www.allrecipes.com/recipe/284325/4th-of-july-dump-cake/
+Zesty 4th of July Summer Salsa,3.58,0.17,0.83,0.0,0.25,[],https://www.allrecipes.com/recipe/284467/zesty-4th-of-july-summer-salsa/
+Apricot and Peach Fried Pies,15.56,0.22,1.94,0.78,0.06,['susu'],https://www.allrecipes.com/recipe/15814/apricot-and-peach-fried-pies/
+Classic Macaroni Salad,39.0,0.7,4.9,1.9,0.3,[],https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/
+Guacamole,65.5,1.0,4.5,5.5,2.75,[],https://www.allrecipes.com/recipe/14231/guacamole/
+Fresh Southern Peach Cobbler,140.5,1.0,24.75,4.5,0.25,[],https://www.allrecipes.com/recipe/51535/fresh-southern-peach-cobbler/
+Bacon-Wrapped Jalapeño Poppers,44.17,2.33,0.83,3.5,0.17,['keju'],https://www.allrecipes.com/recipe/233603/bacon-wrapped-jalapeno-poppers/
+Perfect Summer Fruit Salad,27.4,0.4,7.0,0.1,0.9,[],https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/
+Microwave Corn on the Cob,123.0,5.0,27.0,2.0,4.0,[],https://www.allrecipes.com/recipe/51025/microwave-corn-on-the-cob/
+Old-Fashioned Potato Salad,25.75,0.75,3.88,1.0,0.5,[],https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/
+Blueberry Crisp,49.75,0.38,9.25,1.5,0.38,[],https://www.allrecipes.com/recipe/242088/classic-american-blueberry-crisp/
+Juiciest Hamburgers Ever,36.0,2.75,1.12,2.25,0.12,"['susu', 'sapi', 'telur']",https://www.allrecipes.com/recipe/49404/juiciest-hamburgers-ever/
+Pico de Gallo,0.83,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/203800/pico-de-gallo/
+Easy Guacamole,2.81,0.06,0.19,0.25,0.12,[],https://www.allrecipes.com/recipe/14064/easy-guacamole/
+Best Spinach Dip Ever,113.67,2.17,8.83,7.83,0.5,[],https://www.allrecipes.com/recipe/22617/best-spinach-dip-ever/
+Oven-Baked Baby Back Ribs,122.0,4.75,13.0,5.75,0.5,[],https://www.allrecipes.com/recipe/220987/baked-bbq-baby-back-ribs/
+Best Turkey Burgers,15.33,1.75,0.17,0.83,0.0,['telur'],https://www.allrecipes.com/recipe/39748/actually-delicious-turkey-burgers/
+Prize-Winning Baby Back Ribs,151.83,8.0,3.5,11.83,0.17,[],https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/
+Best Hamburger Ever,111.25,9.75,2.25,7.0,0.25,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/72657/best-hamburger-ever/
+Chef John's Buttermilk Fried Chicken,315.5,16.5,14.0,21.25,0.75,['ayam'],https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/
+Marinated Flank Steak,60.5,4.17,0.67,4.67,0.0,[],https://www.allrecipes.com/recipe/18074/marinated-flank-steak/
+Taco Dip,3.12,0.12,0.2,0.2,0.0,['keju'],https://www.allrecipes.com/recipe/17069/taco-dip-i/
+Seven-Layer Taco Dip,1.18,0.04,0.07,0.09,0.02,['keju'],https://www.allrecipes.com/recipe/19673/seven-layer-taco-dip/
+Beer Brats,38.2,1.4,1.0,2.7,0.1,[],https://www.allrecipes.com/recipe/149975/beer-brats/
+Pasta Salad with Homemade Dressing,55.38,2.0,3.12,4.0,0.5,['keju'],https://www.allrecipes.com/recipe/73963/pasta-salad-with-homemade-dressing/
+The Best Fresh Tomato Salsa,0.15,0.0,0.03,0.0,0.0,[],https://www.allrecipes.com/recipe/214893/the-best-fresh-tomato-salsa/
+The Perfect Basic Burger,79.25,6.75,2.5,4.5,0.25,"['sapi', 'telur']",https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/
+Dave's Low Country Boil,48.13,4.53,3.07,1.93,0.4,['udang'],https://www.allrecipes.com/recipe/44033/daves-low-country-boil/
+Cedar Planked Salmon,113.0,10.17,0.33,7.67,0.0,[],https://www.allrecipes.com/recipe/109297/cedar-planked-salmon/
+Strawberry Pie,33.12,0.25,5.25,1.38,0.25,[],https://www.allrecipes.com/recipe/15836/strawberry-pie-ii/
+Blackberry Pie,31.0,0.38,5.25,1.0,0.62,['susu'],https://www.allrecipes.com/recipe/12284/blackberry-pie-i/
+Spicy Grilled Shrimp,27.33,4.17,0.5,1.0,0.17,['udang'],https://www.allrecipes.com/recipe/12775/spicy-grilled-shrimp/
+Best Fruit Dip,9.83,0.17,1.08,0.58,N/A,['keju'],https://www.allrecipes.com/recipe/16570/fruit-dip-ii/
+Crispy Fried Chicken,61.12,5.12,3.75,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/
+Best Burger Sauce,4.35,0.0,0.1,0.45,0.0,[],https://www.allrecipes.com/recipe/155191/best-burger-sauce/
+Simple BBQ Ribs,110.25,8.25,6.25,5.5,0.25,[],https://www.allrecipes.com/recipe/16448/simple-bbq-ribs/
+Louisiana Crawfish Boil,54.1,5.1,3.8,2.2,1.0,['udang'],https://www.allrecipes.com/recipe/140993/louisiana-crawfish-boil/
+Smooth Sweet Tea,10.43,N/A,2.71,N/A,N/A,[],https://www.allrecipes.com/recipe/109190/smooth-sweet-tea/
+Ice Cream Sandwich Cake,48.0,0.58,7.08,2.08,0.17,[],https://www.allrecipes.com/recipe/232742/ice-cream-sandwich-cake/
+Cannoli,13.4,0.17,0.6,1.17,0.03,"['keju', 'telur']",https://www.allrecipes.com/recipe/88849/cannoli/
+Fresh Homemade Salsa,0.92,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/230878/fresh-homemade-salsa/
+Sweet Zucchini Relish,0.42,0.0,0.11,N/A,0.0,[],https://www.allrecipes.com/recipe/172346/sweet-zucchini-relish/
+Grilled Tri-Tip,45.75,4.75,0.5,2.62,0.12,[],https://www.allrecipes.com/recipe/139269/grilled-tri-tip/
+Simple Pasta Salad,24.08,0.83,2.92,1.17,0.33,['keju'],https://www.allrecipes.com/recipe/86353/simple-pasta-salad/
+Deviled Eggs,54.67,3.17,0.83,4.33,0.0,[],https://www.allrecipes.com/recipe/222589/simple-deviled-eggs/
+Tomatillo Salsa Verde,3.0,0.12,0.62,0.12,0.12,[],https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/
+Grilled Pineapple,3.83,0.0,0.42,0.25,0.08,[],https://www.allrecipes.com/recipe/51294/grilled-pineapple/
+Easy Chocolate Icebox Cake,517.0,5.0,46.0,36.0,2.0,[],https://www.allrecipes.com/recipe/266388/easy-chocolate-icebox-cake/
+Old-Fashioned Pink Lemonade,12.58,0.0,3.33,N/A,0.0,[],https://www.allrecipes.com/recipe/20560/old-fashioned-pink-lemonade/
+Apple Hand Pies,182.0,2.25,20.5,10.5,1.5,"['susu', 'telur']",https://www.allrecipes.com/recipe/234374/apple-hand-pies/
+BLT Pasta Salad,36.3,1.8,1.2,2.7,0.1,[],https://www.allrecipes.com/recipe/72823/blt-pasta-salad/
+Alabama-Style White Barbecue Sauce,90.0,0.17,0.83,9.67,0.17,[],https://www.allrecipes.com/recipe/244944/alabama-style-white-barbecue-sauce/
+"Heather's Cilantro, Black Bean, and Corn Salsa",0.42,0.01,0.07,0.01,0.01,[],https://www.allrecipes.com/recipe/143315/heathers-cilantro-black-bean-and-corn-salsa/
+Simple Grilled Lamb Chops,86.5,4.17,0.33,7.5,0.0,[],https://www.allrecipes.com/recipe/137917/simple-grilled-lamb-chops/
+Hot Italian Giardiniera,23.3,0.1,0.6,2.4,0.2,[],https://www.allrecipes.com/recipe/81581/hot-italian-giardiniera/
+Baby Back Ribs,259.5,12.0,13.0,17.75,0.25,[],https://www.allrecipes.com/recipe/16091/baby-back-ribs/
+Grandpa's Classic Coney Sauce,15.5,1.17,1.08,0.75,0.0,['sapi'],https://www.allrecipes.com/recipe/100182/grandpas-classic-coney-sauce/
+Red-Skinned Potato Salad,35.83,0.83,1.33,3.08,0.08,[],https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/
+The Best Relish I've Ever Had,0.19,0.0,0.05,N/A,0.0,[],https://www.allrecipes.com/recipe/166211/the-best-relish-ive-ever-had/
+Easy Baked Beans,17.6,0.6,3.2,0.4,0.4,[],https://www.allrecipes.com/recipe/21655/simple-baked-beans/
+Korean BBQ Short Ribs (Galbi),142.0,5.8,4.6,11.2,0.2,['sapi'],https://www.allrecipes.com/recipe/141716/korean-bbq-short-ribs-gal-bi/
+Kalbi (Korean BBQ Short Ribs),274.0,9.0,11.25,21.5,0.25,['sapi'],https://www.allrecipes.com/recipe/96698/kalbi-korean-bbq-short-ribs/
+Korean BBQ Galbi,182.0,6.5,9.67,13.17,0.33,['sapi'],https://www.allrecipes.com/recipe/141268/korean-bbq-galbi/
+Kalbi (Marinated Beef Short Ribs),165.83,6.5,4.83,13.33,0.17,['sapi'],https://www.allrecipes.com/recipe/67001/kalbi-marinated-beef-short-ribs/
+Instant Pot Galbi (Korean-Style Short Ribs),109.5,4.17,5.17,7.83,0.5,['sapi'],https://www.allrecipes.com/recipe/270527/instant-pot-galbi-korean-style-short-ribs/
+Easy and Simple Korean BBQ Ribs,192.75,6.5,14.25,12.25,0.25,['sapi'],https://www.allrecipes.com/recipe/172476/easy-and-simple-korean-bbq-ribs/
+Homemade Kalbi (Korean BBQ Short Ribs),161.75,5.75,5.25,13.0,0.25,[],https://www.allrecipes.com/recipe/246645/kalbi-korean-bbq-short-ribs-authentic-recipe/
+Kalbi (Korean Marinated Short Ribs),34.7,1.4,0.8,2.9,0.1,['sapi'],https://www.allrecipes.com/recipe/262014/kalbi-korean-marinated-short-ribs/
+The Real Deal Korean Beef Ribs,115.33,7.0,7.83,4.5,0.17,['sapi'],https://www.allrecipes.com/recipe/158229/the-real-deal-korean-beef-ribs/
+Gluten-Free Kalbi Beef,60.8,2.6,1.7,4.8,0.1,[],https://www.allrecipes.com/recipe/246643/gluten-free-kalbi-beef/
+Korean BBQ-Inspired Short Ribs,154.75,5.75,5.0,12.5,0.5,['sapi'],https://www.allrecipes.com/recipe/242286/korean-bbq-inspired-short-ribs/
+Stewed Korean Short Ribs (Kalbi Jim),107.83,3.83,2.33,9.17,0.17,['sapi'],https://www.allrecipes.com/recipe/212697/stewed-korean-short-ribs-kalbi-jim/
+Las Vegas Galbi (Korean-Style Beef Ribs),47.88,2.75,4.25,2.25,0.25,['sapi'],https://www.allrecipes.com/recipe/262012/las-vegas-galbi-korean-style-beef-ribs/
+Spicy Chicken Jerky in the Air Fryer,9.0,1.67,0.0,0.17,0.0,['ayam'],https://www.allrecipes.com/recipe/279283/spicy-chicken-jerky-in-the-air-fryer/
+Baked Kale Chips,9.67,0.5,1.33,0.5,0.33,[],https://www.allrecipes.com/recipe/176957/baked-kale-chips/
+Fluffy Microwave Scrambled Eggs,70.5,6.0,1.0,4.5,N/A,['susu'],https://www.allrecipes.com/recipe/272293/fluffy-microwave-scrambled-eggs/
+Keto Ice Cream,97.0,0.67,1.0,9.67,0.33,[],https://www.allrecipes.com/recipe/274042/no-churn-keto-ice-cream/
+Air Fryer Chicken Thighs,53.25,4.75,0.25,3.5,0.0,['ayam'],https://www.allrecipes.com/recipe/272858/air-fryer-chicken-thighs/
+Turkish Eggs (Cilbir),215.0,12.5,4.0,17.0,0.5,[],https://www.allrecipes.com/recipe/277194/turkish-eggs-cilbir/
+Thick-Cut Bacon in the Oven,12.38,0.88,0.0,1.0,N/A,[],https://www.allrecipes.com/recipe/281936/thick-cut-bacon-in-the-oven/
+Quick Keto Chocolate Mousse,186.5,2.5,3.5,19.0,1.0,['keju'],https://www.allrecipes.com/recipe/270598/quick-keto-chocolate-mousse/
+How to Cook Bacon in the Oven,22.33,1.5,0.0,1.67,N/A,[],https://www.allrecipes.com/recipe/267904/oven-baked-bacon/
+4-Ingredient Keto Peanut Butter Cookies,11.08,0.5,1.0,0.92,0.08,['telur'],https://www.allrecipes.com/recipe/261181/4-ingredient-keto-peanut-butter-cookies/
+Air Fryer Rib-Eye Steak,326.0,22.0,4.0,24.5,0.5,[],https://www.allrecipes.com/recipe/271044/air-fryer-rib-eye-steak/
+Cheese Crisps,34.75,2.25,0.0,2.75,N/A,['keju'],https://www.allrecipes.com/recipe/260607/basic-keto-cheese-crisps/
+90-Second Keto Bread in a Mug,408.0,15.0,10.0,36.0,4.0,['telur'],https://www.allrecipes.com/recipe/263032/90-second-keto-bread-in-a-mug/
+Air Fryer Bacon,11.17,0.83,0.0,0.83,N/A,[],https://www.allrecipes.com/recipe/269960/air-fryer-bacon/
+Zucchini Pizza Bites,11.33,0.67,0.5,0.83,0.17,['keju'],https://www.allrecipes.com/recipe/257545/zucchini-pizza-bites/
+Smoked Chicken Drumsticks,13.75,1.67,0.08,0.75,0.0,['ayam'],https://www.allrecipes.com/recipe/281393/smoked-chicken-drumsticks/
+Ultimate Low-Carb Zucchini Lasagna,70.67,5.0,2.5,4.5,0.5,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/261026/ultimate-low-carb-zucchini-lasagna/
+Keto Smothered Chicken Thighs,116.5,10.25,0.5,8.0,0.25,['ayam'],https://www.allrecipes.com/recipe/272437/keto-smothered-chicken-thighs/
+Easy Keto Alfredo Sauce,88.5,1.67,0.67,9.0,0.0,['keju'],https://www.allrecipes.com/recipe/267874/easy-keto-alfredo-sauce/
+"Sous Vide ""Poached"" Eggs",18.0,1.5,0.0,1.25,N/A,[],https://www.allrecipes.com/recipe/279620/sous-vide-poached-eggs/
+Low-Carb Bacon Cheeseburger Casserole,49.5,3.17,0.17,4.0,N/A,"['keju', 'sapi']",https://www.allrecipes.com/recipe/265835/low-carb-bacon-cheeseburger-casserole/
+Easy Air Fryer Chicken Breast,456.0,70.0,1.0,17.0,0.0,['ayam'],https://www.allrecipes.com/recipe/283850/easy-air-fried-chicken-breast/
+Simple Cauliflower Keto Casserole,234.5,9.0,5.0,20.5,2.0,['keju'],https://www.allrecipes.com/recipe/265006/simple-cauliflower-keto-casserole/
+Keto Margarita,142.0,0.0,4.0,N/A,0.0,[],https://www.allrecipes.com/recipe/266764/keto-margarita/
+Low-Carb Keto Cheese Taco Shells,57.0,3.5,0.25,4.75,N/A,['keju'],https://www.allrecipes.com/recipe/261028/low-carb-keto-cheese-taco-shells/
+Baked Lemon Butter Chicken Thighs,127.5,10.25,1.75,8.5,0.0,['ayam'],https://www.allrecipes.com/recipe/272544/baked-lemon-butter-chicken-thighs/
+Chaffles with Almond Flour,66.0,5.5,1.0,4.5,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/278328/chaffles-with-almond-flour/
+Air Fryer Hamburgers,69.75,5.75,N/A,5.0,N/A,['sapi'],https://www.allrecipes.com/recipe/286357/air-fryer-hamburger-patties/
+Keto Crème Brûlée,116.5,1.25,4.25,12.0,N/A,['telur'],https://www.allrecipes.com/recipe/261027/keto-creme-brulee/
+Sous Vide Egg Bites,18.0,1.5,0.17,1.33,N/A,['keju'],https://www.allrecipes.com/recipe/278703/sous-vide-egg-bites/
+Air Fryer Blackened Chicken Breasts,122.5,20.0,1.5,3.5,1.0,['ayam'],https://www.allrecipes.com/recipe/272426/air-fryer-blackened-chicken-breast/
+Tuscan Pork Tenderloin,10.56,1.88,0.06,0.31,0.0,[],https://www.allrecipes.com/recipe/269652/tuscan-pork-tenderloin/
+Bacon on the Grill,21.0,1.17,N/A,1.83,N/A,[],https://www.allrecipes.com/recipe/274001/bacon-on-the-grill/
+Keto Chicken Parmesan,221.0,23.5,3.0,12.5,0.5,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/259138/keto-chicken-parmesan/
+Keto Chicken Crust Pizza,102.25,15.5,1.0,3.75,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/273658/keto-chicken-crust-pizza/
+Baked Spaghetti Squash,21.0,0.25,3.0,1.0,N/A,[],https://www.allrecipes.com/recipe/276566/baked-spaghetti-squash/
+Air Fryer Beef Tenderloin,29.38,4.0,0.0,1.38,0.0,['sapi'],https://www.allrecipes.com/recipe/280268/air-fryer-beef-tenderloin/
+Creamy Keto Taco Soup with Ground Beef,36.0,1.62,0.62,3.0,0.12,"['keju', 'sapi']",https://www.allrecipes.com/recipe/264017/creamy-keto-taco-soup-with-ground-beef/
+Keto Air Fryer Jalapeño Poppers,26.67,0.83,0.67,2.17,0.0,['keju'],https://www.allrecipes.com/recipe/277358/keto-air-fryer-jalapeno-poppers/
+Best Keto Bread,20.58,0.67,0.42,1.92,0.17,[],https://www.allrecipes.com/recipe/263033/best-keto-bread/
+Low-Carb Almond Cinnamon Butter Cookies,16.33,0.42,1.08,1.5,0.17,['telur'],https://www.allrecipes.com/recipe/261182/low-carb-almond-cinnamon-butter-cookies/
+Instant Pot Roasted Brussels Sprouts,28.25,0.75,2.75,1.75,0.75,[],https://www.allrecipes.com/recipe/261494/instant-pot-roasted-brussels-sprouts/
+Garlic Butter Smoked Shrimp,76.5,4.75,0.25,6.25,0.0,['udang'],https://www.allrecipes.com/recipe/278091/garlic-butter-smoked-shrimp/
+Smoked Pork Chops,32.17,4.33,0.33,1.33,0.0,[],https://www.allrecipes.com/recipe/281495/smoked-pork-chops/
+Roasted Leg of Pork,45.88,7.38,0.62,1.62,0.12,[],https://www.allrecipes.com/recipe/283665/roasted-leg-of-pork/
+Keto Tuna Salad,105.75,11.75,1.5,5.75,0.25,[],https://www.allrecipes.com/recipe/260368/keto-tuna-salad/
+Boneless Turkey Breast in the Instant Pot®,44.12,5.38,0.38,2.25,0.12,['ayam'],https://www.allrecipes.com/recipe/279781/boneless-turkey-breast-in-the-instant-pot/
+Lemon-Garlic Air Fryer Salmon,146.5,17.0,0.5,8.0,0.5,[],https://www.allrecipes.com/recipe/278090/lemon-garlic-air-fryer-salmon/
+Crispy Fried Chicken Skin,36.0,1.75,N/A,3.25,N/A,['ayam'],https://www.allrecipes.com/recipe/276262/crispy-fried-chicken-skin/
+Instant Pot Roasted Whole Chicken,42.62,5.88,0.12,1.88,0.0,['ayam'],https://www.allrecipes.com/recipe/276104/instant-pot-roasted-whole-chicken/
+Keto Fathead Bread,60.0,3.5,1.0,4.75,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/273073/keto-fathead-bread/
+Crispy Oven-Baked Bacon,20.0,1.4,0.0,1.6,N/A,[],https://www.allrecipes.com/recipe/281938/crispy-oven-baked-bacon/
+Keto Cheeseburger Casserole,108.0,6.5,1.25,8.5,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/283653/keto-cheeseburger-casserole/
+Air Fryer Keto Pork Chops,91.25,11.75,0.75,4.25,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/278092/air-fryer-keto-pork-chops/
+Key Lime Pie,69.12,1.38,10.62,2.62,0.12,['susu'],https://www.allrecipes.com/recipe/15880/key-lime-pie-vii/
+Easy Key Lime Pie,48.12,1.38,6.62,1.88,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/12698/easy-key-lime-pie-i/
+Key Lime Cake,39.75,0.33,4.17,2.5,0.0,['keju'],https://www.allrecipes.com/recipe/8310/key-lime-cake-iii/
+Mini Key Lime Pies,37.58,0.75,5.25,1.67,0.08,['susu'],https://www.allrecipes.com/recipe/219470/mini-key-lime-pies/
+World's Best Key Lime Pie,61.88,0.75,7.75,3.25,0.12,['susu'],https://www.allrecipes.com/recipe/15808/worlds-best-key-lime-pie/
+Classic Key Lime Pie,91.38,0.75,6.5,4.0,0.12,['susu'],https://www.allrecipes.com/recipe/232897/classic-key-lime-pie/
+Key Lime Pie I,52.5,1.0,5.38,3.12,0.12,['susu'],https://www.allrecipes.com/recipe/12224/key-lime-pie-i/
+Florida Key Lime Pie,115.12,2.12,13.5,5.38,0.12,"['keju', 'susu']",https://www.allrecipes.com/recipe/15049/florida-key-lime-pie/
+Phoenician's Key Lime Pie,57.0,1.12,5.88,3.38,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/141258/phoenicians-key-lime-pie/
+Key Lime Pie VI,35.25,0.5,6.12,1.12,0.0,[],https://www.allrecipes.com/recipe/12528/key-lime-pie-vi/
+No Bake Key Lime Pie,50.62,0.5,6.25,2.75,0.0,['keju'],https://www.allrecipes.com/recipe/12570/no-bake-key-lime-pie/
+Key Lime Pie VIII,55.0,0.75,7.5,2.62,0.12,['susu'],https://www.allrecipes.com/recipe/15787/key-lime-pie-viii/
+Traditional Key Lime Pie,57.5,1.38,8.62,2.12,0.0,"['telur', 'susu']",https://www.allrecipes.com/recipe/282852/authentic-key-lime-pie/
+Individual No-Bake Key Lime Pies,25.17,0.25,3.67,1.08,0.08,['susu'],https://www.allrecipes.com/recipe/284610/individual-no-bake-key-lime-pies/
+Key Lime Pie - Low Carb Version,51.88,0.88,0.62,5.12,0.25,['keju'],https://www.allrecipes.com/recipe/73386/key-lime-pie-low-carb-version/
+Key Lime Pie IV,47.75,0.75,5.0,2.88,0.0,['susu'],https://www.allrecipes.com/recipe/12385/key-lime-pie-iv/
+Frozen Key Lime Pie,30.88,0.75,4.25,1.25,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/24116/frozen-key-lime-pie/
+Key Lime and Raspberry Pies in Jars,84.83,1.5,9.33,4.83,0.33,"['telur', 'susu']",https://www.allrecipes.com/recipe/254339/key-lime-and-raspberry-pies-in-jars/
+Easy Key Lime Pie II,45.5,1.0,6.12,2.0,0.12,['susu'],https://www.allrecipes.com/recipe/15830/easy-key-lime-pie-ii/
+Key Lime and Pretzel Pie,39.88,0.62,5.5,1.75,0.12,['susu'],https://www.allrecipes.com/recipe/19872/key-lime-and-pretzel-pie/
+Breezy Key Lime Pie with Strawberry Rhubarb Glaze,104.25,1.62,16.62,3.62,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/216989/breezy-key-lime-pie-with-strawberry-rhubarb-glaze/
+Cream Cheese Kolacky,2.4,0.03,0.27,0.13,0.0,['keju'],https://www.allrecipes.com/recipe/10231/cream-cheese-kolacky/
+Breakfast Kolaches,9.78,0.44,0.5,0.78,0.06,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/33620/breakfast-kolaches/
+Kolaches From the Bread Machine,9.0,0.21,1.33,0.33,0.04,"['susu', 'telur']",https://www.allrecipes.com/recipe/23045/kolaches-from-the-bread-machine/
+Basic Sweet Dough,2.17,0.06,0.38,0.04,0.02,['susu'],https://www.allrecipes.com/recipe/6769/basic-sweet-dough/
+Grandma Skeet's Prune Kolaches,11.45,0.2,2.4,0.15,0.1,['telur'],https://www.allrecipes.com/recipe/65237/grandma-skeets-prune-kolaches/
+Korean BBQ Sauce,54.75,1.0,12.5,0.25,0.25,[],https://www.allrecipes.com/recipe/231131/korean-bbq-sauce/
+Gochujang Fried Rice,85.0,1.5,13.75,2.5,0.5,[],https://www.allrecipes.com/recipe/8527056/gochujang-fried-rice/
+Beef Bulgogi,58.0,4.0,3.0,3.25,0.25,[],https://www.allrecipes.com/recipe/100606/beef-bulgogi/
+Korean BBQ Short Ribs (Galbi),142.0,5.8,4.6,11.2,0.2,['sapi'],https://www.allrecipes.com/recipe/141716/korean-bbq-short-ribs-gal-bi/
+Kongnamool (Korean Soybean Sprouts),72.0,4.0,3.75,5.75,0.75,[],https://www.allrecipes.com/recipe/192812/kongnamool-korean-soybean-sprouts/
+Kimchi,0.21,0.02,0.04,0.0,0.02,['ikan'],https://www.allrecipes.com/recipe/105179/spicy-cabbage-kimchi/
+Bibimbap (Korean Rice Bowl),142.25,8.75,15.75,4.75,1.0,['sapi'],https://www.allrecipes.com/recipe/228240/bibimbap-korean-rice-with-mixed-vegetables/
+Kalbi (Korean BBQ Short Ribs),274.0,9.0,11.25,21.5,0.25,['sapi'],https://www.allrecipes.com/recipe/96698/kalbi-korean-bbq-short-ribs/
+Easy Bulgogi (Korean BBQ Beef),37.67,3.5,1.83,1.67,0.17,['sapi'],https://www.allrecipes.com/recipe/246172/easy-bulgogi-korean-bbq-beef/
+Yummy Korean-Style Glass Noodles (Japchae),90.75,0.5,16.25,2.75,0.25,[],https://www.allrecipes.com/recipe/158891/yummy-korean-glass-noodles-jap-chae/
+Korean Street Toast,938.0,32.0,50.0,70.0,6.0,['keju'],https://www.allrecipes.com/recipe/282477/korean-street-toast/
+Japchae Korean Glass Noodles,336.5,8.5,58.5,8.5,5.5,[],https://www.allrecipes.com/recipe/196879/jap-chae-korean-glass-noodles/
+Korean Fried Chicken,118.0,4.75,11.0,6.0,0.5,['ayam'],https://www.allrecipes.com/recipe/238844/korean-fried-chicken/
+Mom's Kimchi Egg,104.0,4.0,2.0,9.5,0.5,[],https://www.allrecipes.com/recipe/241223/moms-kimchi-egg/
+Skillet Chicken Bulgogi,67.25,7.0,3.25,3.0,0.25,['ayam'],https://www.allrecipes.com/recipe/240400/skillet-chicken-bulgogi/
+Korean BBQ Galbi,182.0,6.5,9.67,13.17,0.33,['sapi'],https://www.allrecipes.com/recipe/141268/korean-bbq-galbi/
+Simple Slow-Cooked Korean Beef Soft Tacos,57.0,3.0,5.0,2.75,0.5,['sapi'],https://www.allrecipes.com/recipe/237005/simple-slow-cooked-korean-beef-soft-tacos/
+Korean-Style Salad Dressing,8.25,0.12,0.5,0.62,0.12,[],https://www.allrecipes.com/recipe/222915/korean-style-salad-dressing/
+Korean Fried Chicken Sauce,8.33,0.17,2.17,0.0,0.17,[],https://www.allrecipes.com/recipe/238845/korean-fried-chicken-sauce/
+Air-Fried Korean Chicken Wings,86.75,4.0,11.25,3.0,0.25,['ayam'],https://www.allrecipes.com/recipe/273764/air-fried-korean-chicken-wings/
+Quick and Easy Kimchi Salad,15.33,0.33,1.67,1.0,0.5,[],https://www.allrecipes.com/recipe/246247/quick-and-easy-kimchi-salad/
+Spicy Korean Fried Chicken with Gochujang Sauce,99.5,7.25,13.0,2.0,0.25,"['telur', 'ayam', 'susu']",https://www.allrecipes.com/recipe/273786/spicy-korean-fried-chicken-with-gochujang-sauce/
+Korean Spicy Marinated Pork (Dae Ji Bool Gogi),37.5,2.38,2.12,2.12,0.12,[],https://www.allrecipes.com/recipe/162036/korean-spicy-marinated-pork-dae-ji-bool-gogi/
+Yaki Mandu (Korean Dumplings),5.0,0.24,0.48,0.24,0.04,['sapi'],https://www.allrecipes.com/recipe/245124/yaki-mandu/
+Kimchi Jun (Kimchi Pancake) and Dipping Sauce,49.75,1.75,6.75,1.75,0.5,[],https://www.allrecipes.com/recipe/190241/kimchi-jun-kimchi-pancake-and-dipping-sauce/
+Tteokbokki (Korean Spicy Rice Cakes),91.5,2.0,21.0,1.5,0.5,['ikan'],https://www.allrecipes.com/recipe/265318/tteokbokki-korean-spicy-rice-cakes/
+Japchae,20.25,0.88,2.12,1.0,0.25,['sapi'],https://www.allrecipes.com/recipe/236174/japchae/
+Korean Tofu and Vegetable Soup,72.25,6.5,6.25,3.0,2.25,['sapi'],https://www.allrecipes.com/recipe/55528/korean-tofu-and-vegetable-soup/
+Korean Soft Tofu Stew (Soon Du Bu Jigae),121.0,10.0,3.5,8.5,1.0,"['sapi', 'telur']",https://www.allrecipes.com/recipe/151006/korean-soft-tofu-stew-soon-du-bu-jigae/
+Korean Spicy Chicken and Potato (Tak Toritang),111.75,6.5,13.75,3.5,1.5,['ayam'],https://www.allrecipes.com/recipe/88344/korean-spicy-chicken-and-potato-tak-toritang/
+Spicy Korean Chicken,64.25,5.0,0.5,4.5,0.0,['ayam'],https://www.allrecipes.com/recipe/262002/spicy-korean-chicken/
+Korean Kimchi,1.5,0.1,0.3,0.0,0.05,[],https://www.allrecipes.com/recipe/107885/korean-kimchi/
+Vegetarian Bibimbap,131.67,4.67,15.0,6.33,1.67,[],https://www.allrecipes.com/recipe/228241/vegetarian-bibimbap/
+Ba'corn Cheese Corn,26.8,1.1,2.2,1.7,0.3,['keju'],https://www.allrecipes.com/recipe/274640/bacorn-cheese-corn/
+Godeungeo Jorim (Korean Braised Mackerel with Radish),44.5,3.25,3.5,2.0,1.0,[],https://www.allrecipes.com/recipe/246501/godeungeo-jorim-korean-braised-mackerel-with-radish/
+Bulgogi (Korean Barbecued Beef),60.75,5.0,1.5,3.75,0.25,['sapi'],https://www.allrecipes.com/recipe/63911/bulgogi-korean-barbecued-beef/
+Fried Kimchi,6.25,0.25,1.25,0.25,0.25,[],https://www.allrecipes.com/recipe/221548/fried-kimchi/
+Easy Sheet Pan Beef Bulgogi,56.5,4.33,2.17,3.5,0.33,['ikan'],https://www.allrecipes.com/recipe/281136/easy-sheet-pan-beef-bulgogi/
+Korean Hot Wings,76.5,4.33,6.5,3.83,0.17,['ayam'],https://www.allrecipes.com/recipe/236241/korean-hot-wings/
+Bulgogi Beef (Korean-Style Barbecue),499.0,17.5,31.5,33.5,2.0,['sapi'],https://www.allrecipes.com/recipe/255591/bulgogi-beef-korean-style-barbecue/
+Kalbi (Marinated Beef Short Ribs),165.83,6.5,4.83,13.33,0.17,['sapi'],https://www.allrecipes.com/recipe/67001/kalbi-marinated-beef-short-ribs/
+Korean Cucumber Salad,19.5,0.33,2.67,1.0,0.33,[],https://www.allrecipes.com/recipe/233417/refreshing-korean-cucumber-salad/
+Jajangmyeon (Vegetarian Korean Black Bean Noodles),157.5,5.0,28.0,3.0,1.5,[],https://www.allrecipes.com/recipe/267271/jajangmyeon-vegetarian-korean-black-bean-noodles/
+Dol Sot Bi Bim Bap,156.17,6.0,20.17,6.33,2.17,[],https://www.allrecipes.com/recipe/176283/dol-sot-bi-bim-bap/
+Korean-Style Cucumber Salad,49.0,1.5,4.0,3.5,1.0,[],https://www.allrecipes.com/recipe/63912/korean-cucumber-salad/
+Chap Chee Noodles,65.0,2.75,6.75,3.25,0.5,['sapi'],https://www.allrecipes.com/recipe/53731/chap-chee-noodles/
+Beef Bulgogi with Dipping Sauce,101.25,10.75,3.75,4.75,0.25,['sapi'],https://www.allrecipes.com/recipe/262008/beef-bulgogi-with-dipping-sauce/
+Bulgogi (Korean BBQ),109.75,11.0,6.0,4.5,0.5,['sapi'],https://www.allrecipes.com/recipe/47575/bulgogi-korean-bbq/
+Instant Pot Galbi (Korean-Style Short Ribs),109.5,4.17,5.17,7.83,0.5,['sapi'],https://www.allrecipes.com/recipe/270527/instant-pot-galbi-korean-style-short-ribs/
+Korean Doenjang-Jjigae (Soybean Paste Soup),9.83,0.83,0.83,0.5,0.33,[],https://www.allrecipes.com/recipe/212699/quick-and-simple-korean-doenjang-chigae-bean-pastetofu-soup/
+Easy Pancakes,61.75,1.75,8.5,2.5,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/45396/easy-pancakes/
+Classic Macaroni Salad,39.0,0.7,4.9,1.9,0.3,[],https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/
+To Die For Blueberry Muffins,47.62,0.5,7.12,2.0,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
+Banana Banana Bread,19.25,0.33,2.92,0.75,0.17,[],https://www.allrecipes.com/recipe/20144/banana-banana-bread/
+Juicy Roasted Chicken,70.5,5.17,0.17,5.33,0.0,['ayam'],https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/
+Mom's Zucchini Bread,10.67,0.12,1.33,0.54,0.04,[],https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/
+Three Ingredient Peanut Butter Cookies,32.83,1.0,3.5,1.92,0.25,['telur'],https://www.allrecipes.com/recipe/11352/three-ingredient-peanut-butter-cookies/
+Homemade Chicken Soup,15.2,1.3,0.4,0.9,0.1,['ayam'],https://www.allrecipes.com/recipe/8814/homemade-chicken-soup/
+Guacamole,65.5,1.0,4.5,5.5,2.75,[],https://www.allrecipes.com/recipe/14231/guacamole/
+Classic Waffles,75.8,2.0,9.6,3.2,0.2,['susu'],https://www.allrecipes.com/recipe/20513/classic-waffles/
+Basic Crêpes,54.0,1.75,6.5,2.25,0.25,['susu'],https://www.allrecipes.com/recipe/16383/basic-crepes/
+Good Old-Fashioned Pancakes,19.75,0.62,2.75,0.75,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
+Banana Muffins,15.5,0.25,2.67,0.5,0.08,['telur'],https://www.allrecipes.com/recipe/42719/banana-muffins-ii/
+Pan-Fried Asparagus,47.0,0.75,1.25,4.5,0.5,[],https://www.allrecipes.com/recipe/18318/pan-fried-asparagus/
+Slow Cooker Pot Roast,67.5,5.75,2.25,3.88,0.38,[],https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/
+Hot Spinach Artichoke Dip,11.17,0.33,0.25,1.0,0.08,['keju'],https://www.allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/
+Gnocchi,78.5,2.5,16.0,0.5,1.0,['telur'],https://www.allrecipes.com/recipe/18465/gnocchi-i/
+Marinated Tuna Steak,50.0,6.75,1.0,2.0,0.0,[],https://www.allrecipes.com/recipe/39455/marinated-tuna-steak/
+Janet's Rich Banana Bread,29.1,0.3,3.6,1.6,0.1,[],https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/
+Best Bread Machine Bread,14.5,0.33,2.25,0.42,0.08,[],https://www.allrecipes.com/recipe/17215/best-bread-machine-bread/
+Chocolate Chip Muffins,20.75,0.33,3.17,0.83,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/7906/chocolate-chip-muffins/
+Downeast Maine Pumpkin Bread,10.96,0.12,1.71,0.42,0.04,[],https://www.allrecipes.com/recipe/6820/downeast-maine-pumpkin-bread/
+Roasted Rack of Lamb,120.25,5.5,1.5,10.25,0.25,[],https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/
+Easy Guacamole,2.81,0.06,0.19,0.25,0.12,[],https://www.allrecipes.com/recipe/14064/easy-guacamole/
+Best Monkey Bread,25.2,0.33,3.8,1.0,0.07,[],https://www.allrecipes.com/recipe/6815/monkey-bread-i/
+Best Ever Muffins,15.17,0.25,2.5,0.5,0.08,"['susu', 'telur']",https://www.allrecipes.com/recipe/6874/best-ever-muffins/
+Grilled Salmon,53.0,3.5,2.17,3.33,0.0,[],https://www.allrecipes.com/recipe/12720/grilled-salmon-i/
+Amazingly Easy Irish Soda Bread,8.6,0.15,1.15,0.4,0.05,['telur'],https://www.allrecipes.com/recipe/16947/amazingly-easy-irish-soda-bread/
+Best Spinach Dip Ever,113.67,2.17,8.83,7.83,0.5,[],https://www.allrecipes.com/recipe/22617/best-spinach-dip-ever/
+Fluffy French Toast,10.25,0.42,1.58,0.25,0.08,['susu'],https://www.allrecipes.com/recipe/16895/fluffy-french-toast/
+Grilled Asparagus,13.75,0.75,1.25,1.0,0.5,[],https://www.allrecipes.com/recipe/17445/grilled-asparagus/
+Maple Salmon,66.25,5.75,3.5,3.0,0.0,[],https://www.allrecipes.com/recipe/51283/maple-salmon/
+Churros,91.0,0.75,14.25,3.5,0.25,[],https://www.allrecipes.com/recipe/24700/churros/
+Simple Scones,39.88,0.62,5.12,2.0,0.12,['telur'],https://www.allrecipes.com/recipe/79470/simple-scones/
+Classic Bran Muffins,14.0,0.33,2.17,0.58,0.33,['telur'],https://www.allrecipes.com/recipe/25224/classic-bran-muffins/
+Grandmother's Buttermilk Cornbread,31.56,0.56,4.33,1.33,0.11,[],https://www.allrecipes.com/recipe/76594/grandmothers-buttermilk-cornbread/
+Banana Oat Muffins,16.67,0.33,2.5,0.67,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/6714/banana-oat-muffins/
+Grandma's Gingersnap Cookies,0.97,0.02,0.15,0.03,0.0,['telur'],https://www.allrecipes.com/recipe/10365/grandmas-gingersnap-cookies/
+Clone of a Cinnabon,41.83,0.67,6.42,1.58,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/20156/clone-of-a-cinnabon/
+Simple Whole Wheat Bread,3.72,0.11,0.72,0.06,0.06,[],https://www.allrecipes.com/recipe/6773/simple-whole-wheat-bread/
+Simply Steamed Asparagus,8.0,0.75,1.0,0.25,0.5,[],https://www.allrecipes.com/recipe/55196/simply-steamed-asparagus/
+Deep-Fried Turkey,37.69,4.31,0.12,2.12,0.0,[],https://www.allrecipes.com/recipe/13824/deep-fried-turkey/
+Easy Baked Tilapia,43.0,6.25,1.75,1.0,0.75,[],https://www.allrecipes.com/recipe/70163/easy-baked-tilapia/
+Fish in Foil,106.5,12.0,4.0,5.5,1.5,[],https://www.allrecipes.com/recipe/21306/fish-in-foil/
+Oven Roasted Potatoes,72.25,1.25,13.25,1.75,1.0,[],https://www.allrecipes.com/recipe/20963/oven-roasted-potatoes/
+Extreme Banana Nut Bread 'EBNB',9.67,0.12,1.25,0.5,0.04,[],https://www.allrecipes.com/recipe/67937/extreme-banana-nut-bread-ebnb/
+Three Bean Salad,7.0,0.12,1.0,0.31,0.12,[],https://www.allrecipes.com/recipe/13637/three-bean-salad/
+Pesto Pasta with Chicken,41.0,2.12,5.38,1.25,0.38,['ayam'],https://www.allrecipes.com/recipe/46982/pesto-pasta-with-chicken/
+Blackened Chicken,67.5,12.5,0.5,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/8571/blackened-chicken/
+Braised Lamb Shanks,80.17,5.0,3.0,3.67,0.5,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/36927/rosemary-braised-lamb-shanks/
+Slow Cooker Chili,34.12,2.38,4.12,1.0,1.38,['sapi'],https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
+Black Bean and Corn Salad,65.17,1.83,5.83,4.17,2.0,[],https://www.allrecipes.com/recipe/13933/black-bean-and-corn-salad-ii/
+Kung Pao Chicken,109.25,8.5,6.25,5.75,1.0,['ayam'],https://www.allrecipes.com/recipe/9027/kung-pao-chicken/
+Baked Haddock,81.25,7.0,4.25,4.0,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/100195/baked-haddock/
+Buttermilk Pancakes,18.25,0.58,2.58,0.58,0.08,['susu'],https://www.allrecipes.com/recipe/24530/buttermilk-pancakes-ii/
+Sweet and Sour Meatballs,120.2,4.0,14.2,5.2,0.4,"['sapi', 'telur']",https://www.allrecipes.com/recipe/16305/sweet-and-sour-meatballs-ii/
+The Best Sweet and Sour Meatballs,129.0,6.25,16.75,4.25,0.25,"['sapi', 'telur']",https://www.allrecipes.com/recipe/26673/the-best-sweet-and-sour-meatballs/
+Crispy and Creamy Doughnuts,18.39,0.28,2.61,0.72,0.06,['susu'],https://www.allrecipes.com/recipe/45921/crispy-and-creamy-doughnuts/
+Amish White Bread,7.0,0.17,1.29,0.12,0.04,[],https://www.allrecipes.com/recipe/6788/amish-white-bread/
+Chocolate-Covered Strawberries,4.79,0.04,0.54,0.29,0.0,['susu'],https://www.allrecipes.com/recipe/21712/chocolate-covered-strawberries/
+Best Carrot Cake Ever,28.56,0.38,4.12,1.25,0.19,[],https://www.allrecipes.com/recipe/17393/best-carrot-cake-ever/
+Heavenly Halibut,58.75,6.5,0.25,3.5,0.0,['keju'],https://www.allrecipes.com/recipe/76659/heavenly-halibut/
+Banana Crumb Muffins,26.3,0.3,4.6,0.8,0.2,['telur'],https://www.allrecipes.com/recipe/17652/banana-crumb-muffins/
+Braised Corned Beef Brisket,75.83,5.17,0.83,5.67,0.17,['sapi'],https://www.allrecipes.com/recipe/231030/braised-corned-beef-brisket/
+Pumpkin Fluff Dip,1.97,0.0,0.25,0.12,0.0,[],https://www.allrecipes.com/recipe/24740/pumpkin-fluff-dip/
+Biscotti,2.67,0.06,0.39,0.11,0.0,[],https://www.allrecipes.com/recipe/17241/biscotti/
+Roasted Okra,21.67,0.67,2.0,1.67,1.0,[],https://www.allrecipes.com/recipe/204478/roasted-okra/
+Soul Smothered Chicken,46.5,2.38,2.75,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/83302/soul-smothered-chicken/
+Southern Grits Casserole,25.19,1.06,1.06,1.88,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/46968/southern-grits-casserole/
+Tasty Collard Greens,14.2,1.0,1.1,0.8,0.5,['ayam'],https://www.allrecipes.com/recipe/31478/tasty-collard-greens/
+Mayonnaise Biscuits,11.17,0.25,1.42,0.5,0.08,['susu'],https://www.allrecipes.com/recipe/24023/mayonnaise-biscuits/
+Southern Fried Chicken,122.75,8.25,4.0,8.0,0.25,['ayam'],https://www.allrecipes.com/recipe/8635/southern-fried-chicken/
+Jamaican Jerk Chicken,36.83,4.83,2.17,1.0,0.5,['ayam'],https://www.allrecipes.com/recipe/25471/jamaican-jerk-chicken/
+Southern Ham and Brown Beans,34.12,2.12,4.75,0.75,1.12,[],https://www.allrecipes.com/recipe/40203/southern-ham-and-brown-beans/
+Southern as You Can Get Collard Greens,20.62,1.62,0.38,1.38,0.12,['ayam'],https://www.allrecipes.com/recipe/73346/southern-as-you-can-get-collard-greens/
+African Peanut Soup,22.2,0.7,2.4,1.2,0.5,[],https://www.allrecipes.com/recipe/73090/african-peanut-soup/
+Sweet Potato Pie II,56.12,0.75,7.5,2.75,0.25,['susu'],https://www.allrecipes.com/recipe/19556/sweet-potato-pie-ii/
+African Curry,150.0,16.0,3.25,8.25,1.0,"['ayam', 'susu']",https://www.allrecipes.com/recipe/47439/african-curry/
+Doro Wat: Ethiopian Chicken Dish,194.5,8.25,6.0,13.5,3.0,['ayam'],https://www.allrecipes.com/recipe/246340/doro-wat-ethiopian-chicken-dish/
+"Okra, Corn and Tomatoes",27.83,1.0,4.67,0.83,0.67,[],https://www.allrecipes.com/recipe/81066/okra-corn-and-tomatoes/
+Tanya's Louisiana Southern Fried Chicken,106.33,7.17,8.0,5.0,0.33,"['ayam', 'susu']",https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/
+African Sweet Potato and Peanut Soup,36.83,1.0,5.5,1.5,1.17,[],https://www.allrecipes.com/recipe/55207/african-sweet-potato-and-peanut-soup/
+Sweet Potato Pie VII,38.75,0.62,5.88,1.5,0.38,[],https://www.allrecipes.com/recipe/17106/sweet-potato-pie-vii/
+African-Style Oxtail Stew,111.5,12.33,3.83,5.33,1.0,['sapi'],https://www.allrecipes.com/recipe/137967/african-style-oxtail-stew/
+Kentucky Biscuits,12.83,0.25,1.5,0.67,0.08,[],https://www.allrecipes.com/recipe/85594/kentucky-biscuits/
+Chef John's Creamy Corn Pudding,25.08,0.58,1.92,1.83,0.17,['susu'],https://www.allrecipes.com/recipe/256288/chef-johns-creamy-corn-pudding/
+Garlic Chicken Fried Chicken,97.75,8.25,9.25,2.75,0.5,"['telur', 'ayam', 'susu']",https://www.allrecipes.com/recipe/86047/garlic-chicken-fried-chicken/
+Southern Sweet Potato Pie,23.19,0.31,3.38,0.94,0.19,['susu'],https://www.allrecipes.com/recipe/22522/sweet-potato-pie-ix/
+Benne Wafers,0.74,0.01,0.08,0.04,0.0,['telur'],https://www.allrecipes.com/recipe/11215/benne-wafers/
+West African Peanut Soup,45.9,1.7,3.1,3.3,0.6,[],https://www.allrecipes.com/recipe/68530/west-african-peanut-soup/
+African Chicken Stew,102.5,7.33,5.33,6.0,1.0,['ayam'],https://www.allrecipes.com/recipe/8687/african-chicken-stew/
+Sausage and Cornbread Dressing,31.58,0.67,2.58,2.08,0.08,['ayam'],https://www.allrecipes.com/recipe/23386/sausage-and-cornbread-dressing/
+Spicy African Yam Soup,86.25,3.0,15.5,1.75,2.75,['ayam'],https://www.allrecipes.com/recipe/48121/spicy-african-yam-soup/
+Ashley's African Peanut Soup,10.25,0.55,1.15,0.45,0.2,['ayam'],https://www.allrecipes.com/recipe/217290/ashleys-african-peanut-soup/
+Creole Black-Eyed Peas and Rice,64.67,4.0,8.17,1.67,1.0,['sapi'],https://www.allrecipes.com/recipe/76791/creole-black-eyed-peas-and-rice/
+Zimbabwean Chicken and Vegetable Soup,44.33,2.0,4.0,2.5,1.0,['ayam'],https://www.allrecipes.com/recipe/219483/zimbabwean-chicken-and-vegetable-soup/
+Classic Macaroni Salad,39.0,0.7,4.9,1.9,0.3,[],https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/
+Guacamole,65.5,1.0,4.5,5.5,2.75,[],https://www.allrecipes.com/recipe/14231/guacamole/
+Best Fried Green Tomatoes,127.5,3.25,14.0,6.75,1.25,['susu'],https://www.allrecipes.com/recipe/16760/best-fried-green-tomatoes/
+Perfect Summer Fruit Salad,27.4,0.4,7.0,0.1,0.9,[],https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/
+Microwave Corn on the Cob,123.0,5.0,27.0,2.0,4.0,[],https://www.allrecipes.com/recipe/51025/microwave-corn-on-the-cob/
+Blueberry Crisp,49.75,0.38,9.25,1.5,0.38,[],https://www.allrecipes.com/recipe/242088/classic-american-blueberry-crisp/
+Oven-Baked Baby Back Ribs,122.0,4.75,13.0,5.75,0.5,[],https://www.allrecipes.com/recipe/220987/baked-bbq-baby-back-ribs/
+Sangria! Sangria!,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/72612/sangria-sangria/
+Squash Casserole,22.4,0.6,1.5,1.6,0.2,"['keju', 'susu']",https://www.allrecipes.com/recipe/18045/yellow-squash-casserole/
+Homemade Blueberry Pie,45.75,0.38,6.62,2.12,0.5,[],https://www.allrecipes.com/recipe/12196/blueberry-pie/
+Peach Pie the Old Fashioned Two Crust Way,53.5,0.62,7.38,2.5,0.25,['telur'],https://www.allrecipes.com/recipe/87979/peach-pie-the-old-fashioned-two-crust-way/
+Prize-Winning Baby Back Ribs,151.83,8.0,3.5,11.83,0.17,[],https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/
+Best Hamburger Ever,111.25,9.75,2.25,7.0,0.25,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/72657/best-hamburger-ever/
+Homemade Corn Dogs,19.88,0.56,1.19,1.44,0.06,"['sapi', 'telur', 'susu']",https://www.allrecipes.com/recipe/35149/corn-dogs/
+Seven-Layer Taco Dip,1.18,0.04,0.07,0.09,0.02,['keju'],https://www.allrecipes.com/recipe/19673/seven-layer-taco-dip/
+Pasta Salad with Homemade Dressing,55.38,2.0,3.12,4.0,0.5,['keju'],https://www.allrecipes.com/recipe/73963/pasta-salad-with-homemade-dressing/
+Dave's Low Country Boil,48.13,4.53,3.07,1.93,0.4,['udang'],https://www.allrecipes.com/recipe/44033/daves-low-country-boil/
+Easy Pavlova,46.62,0.5,5.25,2.75,0.25,['telur'],https://www.allrecipes.com/recipe/12126/easy-pavlova/
+Roasted Okra,21.67,0.67,2.0,1.67,1.0,[],https://www.allrecipes.com/recipe/204478/roasted-okra/
+Crisp Pickled Green Beans,0.17,0.02,0.04,N/A,0.02,[],https://www.allrecipes.com/recipe/62594/crisp-pickled-green-beans/
+Strawberry Pie,33.12,0.25,5.25,1.38,0.25,[],https://www.allrecipes.com/recipe/15836/strawberry-pie-ii/
+Blackberry Pie,31.0,0.38,5.25,1.0,0.62,['susu'],https://www.allrecipes.com/recipe/12284/blackberry-pie-i/
+Spicy Grilled Shrimp,27.33,4.17,0.5,1.0,0.17,['udang'],https://www.allrecipes.com/recipe/12775/spicy-grilled-shrimp/
+Best Fruit Dip,9.83,0.17,1.08,0.58,N/A,['keju'],https://www.allrecipes.com/recipe/16570/fruit-dip-ii/
+Crispy Fried Chicken,61.12,5.12,3.75,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/
+Melt in Your Mouth Blueberry Cake,17.17,0.25,2.42,0.75,0.08,"['susu', 'telur']",https://www.allrecipes.com/recipe/7358/melt-in-your-mouth-blueberry-cake/
+Simple BBQ Ribs,110.25,8.25,6.25,5.5,0.25,[],https://www.allrecipes.com/recipe/16448/simple-bbq-ribs/
+Vanilla Milkshake,172.5,4.5,18.5,9.5,0.5,['susu'],https://www.allrecipes.com/recipe/48974/vanilla-milkshake-i/
+Smooth Sweet Tea,10.43,N/A,2.71,N/A,N/A,[],https://www.allrecipes.com/recipe/109190/smooth-sweet-tea/
+Ice Cream Sandwich Cake,48.0,0.58,7.08,2.08,0.17,[],https://www.allrecipes.com/recipe/232742/ice-cream-sandwich-cake/
+Basic Fruit Smoothie,29.5,0.5,7.25,0.25,1.0,[],https://www.allrecipes.com/recipe/23553/basic-fruit-smoothie/
+Sautéed Asparagus,25.5,0.75,1.25,2.25,0.5,[],https://www.allrecipes.com/recipe/92845/sauteed-garlic-asparagus/
+Virgin Strawberry Daiquiri,287.0,0.0,74.0,0.0,1.0,[],https://www.allrecipes.com/recipe/107945/virgin-strawberry-daiquiri/
+Strawberry Shortcake,53.75,0.88,6.88,2.62,0.5,['telur'],https://www.allrecipes.com/recipe/8201/strawberry-shortcake/
+Simple Pasta Salad,24.08,0.83,2.92,1.17,0.33,['keju'],https://www.allrecipes.com/recipe/86353/simple-pasta-salad/
+Chinese Garlic Green Beans,9.17,0.33,1.33,0.33,0.5,[],https://www.allrecipes.com/recipe/158854/chinese-buffet-green-beans/
+Tomato Mozzarella Salad,33.17,1.67,1.0,2.5,0.17,['keju'],https://www.allrecipes.com/recipe/222659/tomato-mozzarella-salad/
+Mom's Beef Shish Kabobs,156.5,13.5,3.75,9.75,0.75,['sapi'],https://www.allrecipes.com/recipe/218486/moms-beef-shish-kabobs/
+Tomatillo Salsa Verde,3.0,0.12,0.62,0.12,0.12,[],https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/
+Detroit Hot Honey Wings,70.0,1.83,7.83,3.83,0.0,['ayam'],https://www.allrecipes.com/recipe/142120/detroit-hot-honey-wings/
+Grilled Pineapple,3.83,0.0,0.42,0.25,0.08,[],https://www.allrecipes.com/recipe/51294/grilled-pineapple/
+Roasted Garlic Lemon Broccoli,8.17,0.5,1.17,0.33,0.5,[],https://www.allrecipes.com/recipe/144346/roasted-garlic-lemon-broccoli/
+Easy Chocolate Icebox Cake,517.0,5.0,46.0,36.0,2.0,[],https://www.allrecipes.com/recipe/266388/easy-chocolate-icebox-cake/
+BLT Pasta Salad,36.3,1.8,1.2,2.7,0.1,[],https://www.allrecipes.com/recipe/72823/blt-pasta-salad/
+Old Fashioned Peach Cobbler,18.78,0.11,2.44,1.0,0.06,['telur'],https://www.allrecipes.com/recipe/19897/old-fashioned-peach-cobbler/
+Baby Back Ribs,259.5,12.0,13.0,17.75,0.25,[],https://www.allrecipes.com/recipe/16091/baby-back-ribs/
+Mexican Corn on the Cob (Elote),96.75,2.0,7.25,7.25,1.0,['keju'],https://www.allrecipes.com/recipe/138974/mexican-corn-on-the-cob-elote/
+Strawberry Mojito,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/172777/strawberry-mojito/
+Brazilian Lemonade,38.0,0.25,9.0,0.25,0.25,['susu'],https://www.allrecipes.com/recipe/54083/brazilian-lemonade/
+Red-Skinned Potato Salad,35.83,0.83,1.33,3.08,0.08,[],https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/
+Homemade Sushi,19.0,0.5,3.25,0.5,0.25,[],https://www.allrecipes.com/recipe/24228/sushi-roll/
+Southern Green Beans,23.62,0.88,3.25,0.88,0.75,['ayam'],https://www.allrecipes.com/recipe/190711/southern-green-beans/
+Fresh Cherry Cobbler,20.33,0.17,3.5,0.67,0.08,['susu'],https://www.allrecipes.com/recipe/72815/fresh-cherry-cobbler/
+Horchata,35.5,0.5,8.0,0.17,0.17,['susu'],https://www.allrecipes.com/recipe/141828/lolas-horchata/
+Southern-Style Buttermilk Fried Chicken,60.0,3.62,3.62,3.38,0.12,['ayam'],https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/
+Classic Spanish Sangria,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/21425/classic-spanish-sangria/
+Frozen Margaritas,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/32649/margaritas/
+Grilled Artichokes,100.5,0.75,2.5,10.25,1.25,[],https://www.allrecipes.com/recipe/57899/grilled-garlic-artichokes/
+Greek Chicken,51.5,3.88,0.5,3.88,0.12,['ayam'],https://www.allrecipes.com/recipe/14527/greek-chicken/
+Sweet Restaurant Slaw,25.0,0.12,2.88,1.5,0.12,[],https://www.allrecipes.com/recipe/142027/sweet-restaurant-slaw/
+Avocado Salad,21.0,0.33,1.67,1.67,1.0,[],https://www.allrecipes.com/recipe/19960/avocado-salad/
+Grilled Corn on the Cob,29.83,0.5,2.83,2.17,0.33,[],https://www.allrecipes.com/recipe/20724/grilled-corn-on-the-cob/
+Mango Salsa,2.62,0.0,0.62,0.0,0.12,[],https://www.allrecipes.com/recipe/48032/mango-salsa/
+Easy Batter Fruit Cobbler,96.0,1.0,16.25,3.25,0.25,['susu'],https://www.allrecipes.com/recipe/88354/easy-batter-fruit-cobbler/
+Pickle Brine Chicken,175.5,23.5,5.5,6.0,0.0,['ayam'],https://www.allrecipes.com/recipe/238385/pickle-brine-chicken/
+Ricotta Pie (Old Italian Recipe),14.67,0.54,1.92,0.54,0.04,"['keju', 'susu']",https://www.allrecipes.com/recipe/9328/ricotta-pie-old-italian-recipe/
+Better than Best Fried Chicken,132.75,8.0,8.25,7.25,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/24778/better-than-best-fried-chicken/
+Roasted Rack of Lamb,120.25,5.5,1.5,10.25,0.25,[],https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/
+Braised Lamb Ragù,75.0,3.67,2.67,4.17,0.67,[],https://www.allrecipes.com/recipe/241482/lamb-ragu/
+Herb-Crusted Rack of Lamb,152.4,6.0,3.6,13.0,0.0,[],https://www.allrecipes.com/recipe/8463881/herb-crusted-rack-of-lamb/
+Moroccan Harira Soup,35.67,1.67,5.5,1.0,1.17,['ayam'],https://www.allrecipes.com/recipe/8479335/moroccan-harira-soup/
+Stout-Braised Lamb Shanks,87.0,7.5,4.0,3.75,0.75,['sapi'],https://www.allrecipes.com/recipe/158799/stout-braised-lamb-shanks/
+Traditional Gyro Meat,25.8,2.4,0.1,1.7,0.0,['sapi'],https://www.allrecipes.com/recipe/173420/traditional-gyro-meat/
+Braised Lamb Shanks,80.17,5.0,3.0,3.67,0.5,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/36927/rosemary-braised-lamb-shanks/
+Simple Grilled Lamb Chops,86.5,4.17,0.33,7.5,0.0,[],https://www.allrecipes.com/recipe/137917/simple-grilled-lamb-chops/
+Sophie's Shepherd's Pie,286.0,13.75,26.0,14.5,4.0,"['sapi', 'susu']",https://www.allrecipes.com/recipe/158440/sophies-shepherds-pie/
+Lamb (Gosht) Biryani,68.0,2.12,8.0,3.12,0.62,['susu'],https://www.allrecipes.com/recipe/212487/lamb-gosht-biryani/
+Roast Leg of Lamb,31.83,3.0,0.0,2.08,0.0,[],https://www.allrecipes.com/recipe/9380/roast-leg-of-lamb/
+Lamb Tagine,105.75,9.0,6.0,5.25,1.25,['ayam'],https://www.allrecipes.com/recipe/105044/lamb-tagine/
+Traditional Gyros,35.42,1.83,3.58,3.42,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/240559/traditional-gyros/
+Lamb Burgers,145.0,8.75,8.75,8.25,0.75,[],https://www.allrecipes.com/recipe/236679/lamb-burgers/
+Turkish Doner Kebab,71.0,6.0,0.5,4.75,0.0,[],https://www.allrecipes.com/recipe/262546/authentic-turkish-doner-kebab/
+The Best Lamb Chops,72.25,4.25,3.0,4.75,N/A,[],https://www.allrecipes.com/recipe/284800/oven-roasted-lamb-chops/
+Kofta Kebabs,1.25,0.11,0.04,0.07,0.0,[],https://www.allrecipes.com/recipe/106030/kofta-kebabs/
+Irish Lamb Stew,67.2,4.6,2.6,3.9,0.4,['sapi'],https://www.allrecipes.com/recipe/16035/irish-lamb-stew/
+Slow Cooker Lamb Stew,109.5,6.75,11.5,4.25,2.0,['sapi'],https://www.allrecipes.com/recipe/269632/slow-cooker-lamb-stew/
+Braised Lamb Shoulder Chops,60.0,3.83,1.0,3.83,0.0,['sapi'],https://www.allrecipes.com/recipe/241480/braised-lamb-shoulder-chops/
+Roasted Lamb Breast,155.5,11.5,2.0,11.25,0.75,[],https://www.allrecipes.com/recipe/221996/roasted-lamb-breast/
+Serbian Ćevapčići,172.5,15.75,0.5,11.5,0.25,"['sapi', 'telur']",https://www.allrecipes.com/recipe/80398/serbian-cevapcici/
+Roast Leg of Lamb with Rosemary,55.3,4.1,0.8,3.9,0.0,[],https://www.allrecipes.com/recipe/18870/roast-leg-of-lamb-with-rosemary/
+Slow Cooker Lamb Chops,34.83,2.17,3.17,1.33,0.17,[],https://www.allrecipes.com/recipe/262939/slow-cooker-lamb-chops/
+Irish Shepherd's Pie,64.62,3.62,4.62,3.5,0.5,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/220519/irish-shepherds-pie/
+Traditional Shepherd's Pie,62.75,3.75,5.12,3.0,0.62,"['keju', 'sapi', 'telur', 'susu']",https://www.allrecipes.com/recipe/283435/traditional-shepherds-pie/
+Indian-Style Seekh Kebab,38.88,2.5,0.75,2.88,0.12,[],https://www.allrecipes.com/recipe/33252/indian-style-sheekh-kabab/
+Grilled Lamb Loin Chops,144.75,10.75,0.25,11.0,N/A,[],https://www.allrecipes.com/recipe/274989/grilled-lamb-loin-chops/
+Pistachio-Crusted Rack of Lamb,154.75,13.25,2.5,10.0,0.5,[],https://www.allrecipes.com/recipe/222394/pistachio-crusted-rack-of-lamb/
+Tomato Bredie,88.5,6.17,4.17,5.17,0.67,['sapi'],https://www.allrecipes.com/recipe/68735/tomato-bredie/
+Grilled Leg of Lamb Steaks,81.75,7.5,0.5,5.5,0.0,[],https://www.allrecipes.com/recipe/257284/grilled-leg-of-lamb-steaks/
+Slow Cooker Roasted Leg of Lamb,47.5,4.33,1.83,2.33,0.17,[],https://www.allrecipes.com/recipe/241514/slow-cooker-roasted-leg-of-lamb/
+Lamb Chops with Balsamic Reduction,63.75,3.75,1.25,4.75,0.0,['ayam'],https://www.allrecipes.com/recipe/74037/lamb-chops-with-balsamic-reduction/
+Heavenly Lamb Shanks,206.0,15.25,8.75,10.25,1.0,['ayam'],https://www.allrecipes.com/recipe/112150/heavenly-lamb-shanks/
+Roast Boneless Leg of Lamb,43.25,4.5,0.38,2.5,0.0,[],https://www.allrecipes.com/recipe/230327/easy-leg-of-lamb/
+Baked Lamb Chops,123.0,8.67,4.5,7.5,0.33,[],https://www.allrecipes.com/recipe/18810/baked-lamb-chops/
+Chef John's Irish Stew,84.67,5.33,4.83,4.83,0.67,['ayam'],https://www.allrecipes.com/recipe/236603/chef-johns-irish-stew/
+Uzbek Plov (Lamb and Rice Pilaf),62.12,2.38,7.0,2.88,0.5,[],https://www.allrecipes.com/recipe/214016/uzbek-plov-lamb-and-rice-pilaf/
+Instant Pot Lamb Shoulder Chops,23.62,1.88,0.62,1.12,0.0,['sapi'],https://www.allrecipes.com/recipe/272362/instant-pot-lamb-shoulder-chops/
+Kabob Koobideh (Persian Ground Meat Kabobs),32.5,2.62,0.5,2.25,0.12,['sapi'],https://www.allrecipes.com/recipe/279047/kabob-koobideh-persian-ground-meat-kabobs/
+Chef John's Grilled Lamb Steaks,116.75,7.25,3.0,8.5,0.0,[],https://www.allrecipes.com/recipe/238511/chef-johns-grilled-lamb-steaks/
+Roasted Butterflied Leg of Lamb,28.0,2.5,0.17,1.92,0.08,[],https://www.allrecipes.com/recipe/77005/broiled-and-slow-roasted-butterflied-leg-of-lamb-with-cumin-and-garlic/
+Lamb Ribs with Honey and Wine,84.67,4.33,1.67,6.17,0.17,[],https://www.allrecipes.com/recipe/25885/lamb-ribs-with-honey-and-wine/
+Lamb Souvlaki,86.5,4.75,0.25,7.25,0.0,[],https://www.allrecipes.com/recipe/274173/lamb-souvlaki/
+Lamb Shawarma,47.0,3.62,0.38,3.38,0.0,[],https://www.allrecipes.com/recipe/214029/lamb-shawarma/
+Samosas,3.5,0.1,0.23,0.23,0.0,[],https://www.allrecipes.com/recipe/20871/samosas/
+Grilled Lamb Burgers,75.2,5.2,5.0,3.8,0.4,['telur'],https://www.allrecipes.com/recipe/214625/grilled-lamb-burgers/
+Lamb Shank,57.0,6.0,1.83,2.83,0.17,[],https://www.allrecipes.com/recipe/230207/lamb-shank/
+Baked Lamb Meatballs,74.5,5.5,4.0,4.0,0.25,[],https://www.allrecipes.com/recipe/268252/baked-lamb-meatballs/
+Grilled Lamb with Brown Sugar Glaze,60.25,3.75,4.0,3.25,0.25,[],https://www.allrecipes.com/recipe/47822/grilled-lamb-with-brown-sugar-glaze/
+Oven-Roasted Lamb Ribs,204.75,11.75,8.25,14.0,1.5,[],https://www.allrecipes.com/recipe/257075/oven-roasted-lamb-ribs/
+A Scotsman's Shepherd Pie,48.25,2.12,3.75,2.62,0.38,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/235985/a-scotsmans-shepherd-pie/
+Lancashire Hot Pot,60.83,2.83,6.33,2.67,0.83,['ayam'],https://www.allrecipes.com/recipe/24805/lancashire-hot-pot/
+Gyros,28.0,2.75,0.12,1.75,0.0,['sapi'],https://www.allrecipes.com/recipe/233230/gyros/
+Greek Lamb Stew,91.25,5.0,6.0,5.0,2.0,[],https://www.allrecipes.com/recipe/168138/greek-lamb-stew/
+Butter Lamb Gravy,53.5,3.83,1.33,3.67,0.17,[],https://www.allrecipes.com/recipe/150812/butter-lamb-gravy/
+Mediterranean Lamb and Lentil Stew,143.0,9.75,11.5,6.75,5.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/141395/mediterranean-lamb-and-lentil-stew/
+Stuffed Leg of Lamb,60.62,4.88,1.88,3.62,0.25,['keju'],https://www.allrecipes.com/recipe/206640/stuffed-leg-of-lamb/
+Eggplant Lasagna,50.62,3.5,3.75,2.62,1.12,"['keju', 'sapi']",https://www.allrecipes.com/recipe/220094/eggplant-lasagna/
+Butternut Squash Lasagna,24.67,1.33,2.58,1.0,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/234860/butternut-squash-lasagna/
+World's Best Lasagna,37.33,2.5,3.08,1.75,0.33,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
+Homemade Lasagna,79.75,5.75,6.75,3.38,0.62,"['keju', 'sapi']",https://www.allrecipes.com/recipe/19344/homemade-lasagna/
+Slow Cooker Lasagna,44.6,3.1,3.6,2.0,0.3,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11959/slow-cooker-lasagna/
+Easy Lasagna,31.42,2.42,2.17,1.42,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/12011/easy-lasagna-ii/
+No-Noodle Zucchini Lasagna,61.75,5.12,2.88,3.38,0.75,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/172958/no-noodle-zucchini-lasagna/
+Seafood Lasagna,58.88,4.12,3.75,3.0,0.12,"['keju', 'susu', 'telur', 'udang']",https://www.allrecipes.com/recipe/22805/seafood-lasagna-with-crab-and-shrimp/
+Hearty Vegetable Lasagna,38.58,1.92,4.17,1.67,0.42,['keju'],https://www.allrecipes.com/recipe/11786/hearty-vegetable-lasagna/
+White Cheese Chicken Lasagna,30.75,2.0,1.92,1.75,0.17,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/8758/white-cheese-chicken-lasagna/
+Spinach Lasagna,24.08,1.67,1.25,1.42,0.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/22729/spinach-lasagna-iii/
+Classic and Simple Meat Lasagna,62.62,4.5,5.88,2.38,0.75,"['keju', 'sapi']",https://www.allrecipes.com/recipe/218091/classic-and-simple-meat-lasagna/
+Cheese Lasagna,54.5,2.5,7.25,1.75,0.62,['keju'],https://www.allrecipes.com/recipe/19354/cheese-lasagna/
+Ultimate Low-Carb Zucchini Lasagna,70.67,5.0,2.5,4.5,0.5,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/261026/ultimate-low-carb-zucchini-lasagna/
+Taco Lasagna,39.58,2.25,2.33,2.42,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/23105/taco-lasagna/
+Chef John's Lasagna,60.83,3.58,4.17,3.25,0.42,"['keju', 'sapi', 'susu']",https://www.allrecipes.com/recipe/233661/chef-johns-lasagna/
+Deep Dish Lasagna,32.58,2.08,2.83,1.5,0.33,['keju'],https://www.allrecipes.com/recipe/23710/deep-dish-lasagna/
+Creamy Chicken Lasagna,82.5,4.67,6.0,4.33,0.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/15085/creamy-chicken-lasagna/
+Simple Spinach Lasagna,45.12,2.88,5.25,1.5,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/23988/simple-spinach-lasagna/
+American Lasagna,83.0,6.38,6.0,3.75,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11729/american-lasagna/
+Easy Lasagna with Uncooked Noodles,87.75,5.5,7.88,3.75,0.62,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11949/easy-lasagna-i/
+Grandma's Best Ever Sour Cream Lasagna,83.75,5.12,3.88,5.25,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/154183/grandmas-best-ever-sour-cream-lasagna/
+Best Lasagna with Ricotta Bechamel,42.25,2.58,3.42,2.08,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/284670/best-lasagna-with-ricotta-bechamel/
+Lasagna Alfredo,119.25,6.88,7.12,7.25,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/19400/lasagna-alfredo/
+World's Best (Now Vegetarian!) Lasagna,30.5,2.25,2.75,1.25,0.33,"['keju', 'telur']",https://www.allrecipes.com/recipe/278027/worlds-best-now-vegetarian-lasagna/
+Classic Lasagna,64.7,3.9,3.1,4.1,0.4,"['keju', 'sapi']",https://www.allrecipes.com/recipe/156037/classic-lasagna/
+Randy's Slow Cooker Ravioli Lasagna,68.0,3.62,6.62,3.0,0.88,"['keju', 'sapi']",https://www.allrecipes.com/recipe/234397/randys-slow-cooker-ravioli-lasagna/
+Easy Cheesy Lasagna,58.9,3.8,2.8,3.6,0.3,"['keju', 'sapi']",https://www.allrecipes.com/recipe/75654/simply-traditional-lasagna/
+Lasagna Stuffed Shells,122.33,10.5,7.0,5.83,0.83,"['keju', 'sapi']",https://www.allrecipes.com/recipe/170463/lasagna-stuffed-shells/
+Mexican Lasagna,89.4,4.6,6.6,4.8,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/18789/mexican-lasagna/
+Buffalo Chicken Lasagna,82.12,4.88,4.75,4.75,0.25,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/244947/buffalo-chicken-lasagna/
+Artichoke Spinach Lasagna,49.5,2.62,5.62,2.0,0.88,['keju'],https://www.allrecipes.com/recipe/20082/artichoke-spinach-lasagna/
+Ragú No Boiling Lasagna,N/A,N/A,N/A,N/A,N/A,['keju'],https://www.allrecipes.com/recipe/236364/ragu-no-boiling-lasagna/
+Cabbage Lasagna,19.58,2.0,1.17,0.83,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/269558/cabbage-lasagna/
+Seafood Lasagna II,63.67,3.83,3.67,3.83,0.17,"['keju', 'telur', 'udang']",https://www.allrecipes.com/recipe/43946/seafood-lasagna-ii/
+Passover Matzo Lasagna,20.17,1.33,1.92,0.75,0.17,['keju'],https://www.allrecipes.com/recipe/212739/passover-matzo-lasagna/
+Tofu Lasagna,46.29,3.43,3.71,2.14,0.43,"['keju', 'susu']",https://www.allrecipes.com/recipe/25345/tofu-lasagna/
+Mexican Lasagna with Noodles,46.58,2.17,6.0,1.58,0.42,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11844/mexican-lasagna-with-noodles/
+Delicious Spinach and Turkey Lasagna,40.75,4.12,4.25,0.75,0.62,['keju'],https://www.allrecipes.com/recipe/213655/delicious-spinach-and-turkey-lasagna/
+Chicken and Spinach Alfredo Lasagna,49.25,2.42,1.83,3.67,0.17,"['keju', 'ayam']",https://www.allrecipes.com/recipe/24075/chicken-and-spinach-alfredo-lasagna/
+Easy Vegetarian Spinach Lasagna,50.83,3.0,6.17,1.67,0.67,"['keju', 'telur']",https://www.allrecipes.com/recipe/229764/easy-vegetarian-spinach-lasagna/
+Healthier World's Best Lasagna,32.5,2.75,2.75,1.25,0.33,['keju'],https://www.allrecipes.com/recipe/222087/healthier-worlds-best-lasagna/
+Grammy's Overnight Lasagna,69.88,5.0,5.5,3.0,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/214369/grammys-overnight-lasagna/
+Linda's Lasagna Recipe,61.75,4.75,4.75,2.75,0.5,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/21340/lindas-lasagna/
+Lasagna Roll-Ups,58.22,3.89,5.33,2.44,0.33,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/228649/lasagna-roll-ups-ii/
+Lasagna Alfredo Roll Ups,60.62,2.62,3.38,4.25,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/15225/lasagna-alfredo-roll-ups/
+Vegan Lasagna I,63.88,4.12,8.75,2.0,1.38,[],https://www.allrecipes.com/recipe/14069/vegan-lasagna-i/
+Cheesy Vegetable Lasagna,31.25,2.08,3.08,1.25,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/22478/cheesy-vegetable-lasagna/
+Easy Slow Cooker Lasagna,N/A,N/A,N/A,N/A,N/A,"['keju', 'sapi', 'telur', 'susu']",https://www.allrecipes.com/recipe/219846/slow-cooker-lasagna/
+Easy Roasted Vegetable Lasagna,41.0,2.2,4.8,1.5,0.6,['keju'],https://www.allrecipes.com/recipe/232465/easy-roasted-vegetable-lasagna/
+Leftover Spaghetti Lasagna,93.33,5.33,11.67,2.83,1.0,['keju'],https://www.allrecipes.com/recipe/220599/left-over-spaghetti-lasagna/

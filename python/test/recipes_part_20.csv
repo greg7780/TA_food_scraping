@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Pad Thai Quinoa Bowl,46.25,2.62,4.5,2.12,0.62,['ayam'],https://www.allrecipes.com/recipe/245372/pad-thai-quinoa-bowl/
+Soy-Free Chicken Pad Thai,129.75,11.0,9.75,5.0,0.75,['ayam'],https://www.allrecipes.com/recipe/264652/soy-free-chicken-pad-thai/
+Pad Thai with Tofu,113.0,3.5,15.25,4.25,0.75,['telur'],https://www.allrecipes.com/recipe/246141/pad-thai-with-tofu/
+Classic Pad Thai,138.25,7.5,17.5,4.5,1.0,"['ikan', 'ayam', 'udang']",https://www.allrecipes.com/recipe/217811/classic-pad-thai/
+Zucchini Noodles Pad Thai,92.5,9.0,7.0,3.75,1.25,"['ayam', 'udang']",https://www.allrecipes.com/recipe/246110/zucchini-noodles-pad-thai/
+Pad Thai Noodles,134.0,9.0,16.5,3.75,0.75,"['ikan', 'ayam', 'telur', 'udang']",https://www.allrecipes.com/recipe/246140/pad-thai-noodles/
+Raw Pad Thai,113.0,3.5,11.5,7.25,3.0,[],https://www.allrecipes.com/recipe/220406/raw-pad-thai/
+Okinawan-Style Pad Thai,74.62,2.62,7.75,3.88,0.5,['ayam'],https://www.allrecipes.com/recipe/220424/okinawan-style-pad-thai/
+Joe's Fusion Chicken Pad Thai,117.0,5.8,18.0,2.2,0.6,"['sapi', 'ikan', 'ayam']",https://www.allrecipes.com/recipe/220124/joes-fusion-chicken-pad-thai/
+Vegetarian Phad Thai,103.75,3.0,13.0,4.88,0.88,['susu'],https://www.allrecipes.com/recipe/52299/vegetarian-phad-thai/
+Toronto Pad Thai,75.0,2.33,8.83,3.67,0.5,[],https://www.allrecipes.com/recipe/87313/toronto-pad-thai/
+Shirataki Meatless Meat Pad Thai,90.75,4.25,8.0,5.5,1.5,[],https://www.allrecipes.com/recipe/244716/shirataki-meatless-meat-pad-thai/
+Simple Shrimp Pad Thai,142.75,7.5,15.25,6.0,1.0,"['ikan', 'udang']",https://www.allrecipes.com/recipe/263385/simple-shrimp-pad-thai/
+Quick and Easy Paella,79.33,4.33,7.83,3.17,0.33,"['ayam', 'udang']",https://www.allrecipes.com/recipe/238588/quick-and-easy-paella/
+Easy Paella,92.0,7.0,5.75,4.38,0.38,"['ayam', 'udang']",https://www.allrecipes.com/recipe/84137/easy-paella/
+Authentic Paella Valenciana,97.88,4.25,10.88,3.88,0.62,['ayam'],https://www.allrecipes.com/recipe/73337/authentic-paella-valenciana/
+Spanish Rice and Shrimp,61.75,5.25,3.5,3.0,0.5,['udang'],https://www.allrecipes.com/recipe/261384/spanish-rice-and-shrimp/
+Authentic Seafood Paella,392.0,26.5,37.0,10.0,4.5,"['udang', 'cumi']",https://www.allrecipes.com/recipe/228444/authentic-seafood-paella/
+Spanish Paella,87.33,4.83,9.5,3.0,0.5,"['ayam', 'udang', 'cumi']",https://www.allrecipes.com/recipe/12728/paella-i/
+Authentic Paella,73.88,5.25,6.75,2.75,0.38,"['ayam', 'udang']",https://www.allrecipes.com/recipe/137464/authentic-paella/
+"Brown Rice, Chicken, and Chorizo Paella",58.12,2.75,5.38,2.75,0.38,['ayam'],https://www.allrecipes.com/recipe/269005/brown-rice-chicken-and-chorizo-paella/
+Mexican Paella with Cauliflower Rice,46.0,3.62,1.5,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/256305/mexican-paella-with-cauliflower-rice/
+Pressure Cooker Paella with Chicken Thighs and Smoked Sausage,82.33,4.0,7.83,3.67,0.5,['ayam'],https://www.allrecipes.com/recipe/268087/pressure-cooker-paella-with-chicken-thighs-and-smoked-sausage/
+Maria's Paella,135.67,7.83,14.5,5.0,0.67,"['ayam', 'udang']",https://www.allrecipes.com/recipe/97840/marias-paella/
+Vegan Paella,77.0,2.0,14.75,1.25,1.75,[],https://www.allrecipes.com/recipe/238153/vegan-paella/
+Chicken and Quinoa Paella,35.0,2.3,4.1,1.1,0.6,['ayam'],https://www.allrecipes.com/recipe/263940/chicken-and-quinoa-paella/
+Cascadia Fideua,159.0,6.0,25.25,4.0,2.0,['ayam'],https://www.allrecipes.com/recipe/217055/cascadia-fideua/
+North African Paella,86.5,5.0,9.33,2.83,0.83,['udang'],https://www.allrecipes.com/recipe/257063/north-african-paella/
+Breakfast Paella,126.5,5.5,16.75,4.25,2.5,['ayam'],https://www.allrecipes.com/recipe/8418885/breakfast-paella/
+Seafood Paella,36.7,2.3,5.2,0.6,0.2,"['ayam', 'udang', 'cumi']",https://www.allrecipes.com/recipe/12840/paella-ii/
+Bacon-Wrapped Cherries,3.61,0.17,0.22,0.22,0.0,[],https://www.allrecipes.com/recipe/241782/bacon-wrapped-cherries/
+Prosciutto-Wrapped Pork Tenderloin with Crispy Sage,73.5,6.5,0.25,5.0,N/A,[],https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/
+Homemade Spaghetti Sauce with Ground Beef,23.12,1.5,1.88,1.12,0.5,['sapi'],https://www.allrecipes.com/recipe/158140/spaghetti-sauce-with-ground-beef/
+Juicy Roasted Chicken,70.5,5.17,0.17,5.33,0.0,['ayam'],https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/
+Guacamole,65.5,1.0,4.5,5.5,2.75,[],https://www.allrecipes.com/recipe/14231/guacamole/
+Baked Kale Chips,9.67,0.5,1.33,0.5,0.33,[],https://www.allrecipes.com/recipe/176957/baked-kale-chips/
+Roasted Pork Loin,37.5,2.88,0.12,2.62,0.0,[],https://www.allrecipes.com/recipe/21766/roasted-pork-loin/
+Easy Garam Masala,0.5,0.0,0.08,0.0,0.08,[],https://www.allrecipes.com/recipe/142967/easy-garam-masala/
+Baked Chicken Wings,266.0,16.0,2.0,21.5,0.5,['ayam'],https://www.allrecipes.com/recipe/187822/baked-chicken-wings/
+Easy Guacamole,2.81,0.06,0.19,0.25,0.12,[],https://www.allrecipes.com/recipe/14064/easy-guacamole/
+Easy Roasted Broccoli,15.75,0.75,1.75,1.0,0.75,[],https://www.allrecipes.com/recipe/240438/easy-roasted-broccoli/
+Baked Split Chicken Breast,307.5,27.5,0.5,21.0,0.0,['ayam'],https://www.allrecipes.com/recipe/231449/baked-split-chicken-breast/
+Grilled Asparagus,13.75,0.75,1.25,1.0,0.5,[],https://www.allrecipes.com/recipe/17445/grilled-asparagus/
+High Temperature Eye-of-Round Roast,37.83,4.5,N/A,2.17,N/A,['sapi'],https://www.allrecipes.com/recipe/94113/high-temperature-eye-of-round-roast/
+Creole Seasoning Blend,0.8,0.05,0.15,0.0,0.1,[],https://www.allrecipes.com/recipe/38214/creole-seasoning-blend/
+Homemade Poultry Seasoning,0.5,0.0,0.17,0.0,0.0,[],https://www.allrecipes.com/recipe/233909/homemade-poultry-seasoning/
+Deep-Fried Turkey,37.69,4.31,0.12,2.12,0.0,[],https://www.allrecipes.com/recipe/13824/deep-fried-turkey/
+Homemade Seasoned Salt,0.11,0.0,0.05,N/A,0.0,[],https://www.allrecipes.com/recipe/237461/homemade-seasoned-salt/
+"Fried Cabbage with Bacon, Onion, and Garlic",32.33,1.0,2.67,2.17,1.0,[],https://www.allrecipes.com/recipe/196732/fried-cabbage-with-bacon-onion-and-garlic/
+Sarah's Easy Shredded Chicken Taco Filling,53.25,8.75,0.25,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/220326/sarahs-easy-shredded-chicken-taco-filling/
+Easy Lemon-Pepper Chicken Wings,295.25,5.25,0.0,30.75,0.0,['ayam'],https://www.allrecipes.com/recipe/236418/easy-lemon-pepper-chicken-wings/
+Fish in Foil,106.5,12.0,4.0,5.5,1.5,[],https://www.allrecipes.com/recipe/21306/fish-in-foil/
+Easy Homemade Pizza Sauce,13.0,0.12,0.62,1.25,0.12,[],https://www.allrecipes.com/recipe/11771/easy-pizza-sauce-i/
+Chef John's Perfect Hard Boiled Eggs,12.0,1.0,0.0,0.83,N/A,[],https://www.allrecipes.com/recipe/235595/how-to-make-perfect-hard-boiled-eggs/
+Roasted Okra,21.67,0.67,2.0,1.67,1.0,[],https://www.allrecipes.com/recipe/204478/roasted-okra/
+Blackened Chicken,67.5,12.5,0.5,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/8571/blackened-chicken/
+Unstuffed Cabbage Roll,66.33,4.83,2.67,4.0,0.83,['sapi'],https://www.allrecipes.com/recipe/235997/unstuffed-cabbage-roll/
+Grilled Veggie Skewers,101.5,1.75,15.0,4.75,2.25,[],https://www.allrecipes.com/recipe/229166/grilled-veggie-skewers/
+Homemade Pickling Spice,4.83,0.17,0.67,0.17,0.33,[],https://www.allrecipes.com/recipe/231256/homemade-pickling-spice/
+Best Marinara Sauce Yet,18.88,0.25,1.5,1.38,0.25,[],https://www.allrecipes.com/recipe/11966/best-marinara-sauce-yet/
+Perfect Flat Iron Steak,57.5,5.17,0.17,3.83,0.0,[],https://www.allrecipes.com/recipe/150685/perfect-flat-iron-steak/
+Baked Fresh Rainbow Trout,62.17,9.0,0.33,2.5,0.0,[],https://www.allrecipes.com/recipe/236814/baked-fresh-rainbow-trout/
+"Daddy Eddie's Roast Pork (Pernil), Puerto Rican-Style",44.38,4.0,0.25,3.0,0.12,[],https://www.allrecipes.com/recipe/254168/daddy-eddies-roast-pork-pernil-puerto-rican-style/
+Easy Garlic Kale,21.75,1.0,2.75,1.0,0.5,[],https://www.allrecipes.com/recipe/241074/easy-garlic-kale/
+Grilled Beef Tenderloin with Herb-Garlic-Pepper Coating,31.81,2.12,0.06,2.5,0.0,['sapi'],https://www.allrecipes.com/recipe/107086/grilled-beef-tenderloin-with-herb-garlic-pepper-coating/
+Best Salmon Bake,193.0,20.0,2.5,11.0,1.0,[],https://www.allrecipes.com/recipe/71387/best-salmon-bake/
+Southern-Style Neck Bones,226.8,8.4,2.0,20.4,0.4,[],https://www.allrecipes.com/recipe/184008/southern-style-neck-bones/
+Herb Rubbed Sirloin Tip Roast,65.67,6.33,0.33,4.17,0.17,[],https://www.allrecipes.com/recipe/54839/herb-rubbed-sirloin-tip-roast/
+Simple Broccolini,109.0,4.0,9.0,7.0,1.5,[],https://www.allrecipes.com/recipe/240206/simple-broccolini/
+Roasted Onions,6.75,0.12,0.75,0.38,0.12,[],https://www.allrecipes.com/recipe/77009/roasted-onions/
+Blackened Seasoning Mix,0.75,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/174668/blackened-seasoning-mix/
+Baked Sweet Potatoes,45.25,0.75,7.0,1.75,1.0,[],https://www.allrecipes.com/recipe/18249/baked-sweet-potatoes/
+Hungarian Goulash,68.62,4.12,1.12,5.25,0.25,['sapi'],https://www.allrecipes.com/recipe/19954/hungarian-goulash-i/
+Herbs de Provence,0.08,0.0,0.02,0.0,0.0,[],https://www.allrecipes.com/recipe/223272/herbs-de-provence/
+Bacon for the Family or a Crowd,50.75,3.5,0.25,4.0,N/A,[],https://www.allrecipes.com/recipe/158727/bacon-for-the-family-or-a-crowd/
+Easy Pizza Sauce,0.46,0.04,0.12,0.0,0.04,[],https://www.allrecipes.com/recipe/44975/easy-pizza-sauce-iii/
+Beef Pot Roast,68.88,4.88,0.25,5.25,0.0,[],https://www.allrecipes.com/recipe/14621/beef-pot-roast/
+4-Ingredient Keto Peanut Butter Cookies,11.08,0.5,1.0,0.92,0.08,['telur'],https://www.allrecipes.com/recipe/261181/4-ingredient-keto-peanut-butter-cookies/
+Quick Pasta Sauce,14.0,0.33,1.67,0.83,0.5,[],https://www.allrecipes.com/recipe/21455/quick-pasta-sauce/
+Roasted Winter Squash Seeds,54.25,2.25,1.5,4.75,0.25,[],https://www.allrecipes.com/recipe/54873/roasted-winter-squash-seeds/
+World's Greatest Vegetable Broth,16.62,0.5,2.88,0.5,0.88,[],https://www.allrecipes.com/recipe/14033/worlds-greatest-vegetable-broth/
+Ground Beef and Cabbage,32.17,3.67,0.67,1.5,0.17,['sapi'],https://www.allrecipes.com/recipe/229324/ground-beef-and-cabbage/
+Easy Strawberry Vinaigrette,9.29,0.0,1.14,0.57,0.14,[],https://www.allrecipes.com/recipe/238180/easy-strawberry-vinaigrette/
+Grilled Tri-Tip,45.75,4.75,0.5,2.62,0.12,[],https://www.allrecipes.com/recipe/139269/grilled-tri-tip/
+Tri Tip Roast,93.0,11.5,0.25,4.5,0.0,['sapi'],https://www.allrecipes.com/recipe/240779/tri-tip-roast/
+Chili Powder,2.33,0.17,0.5,0.17,0.17,[],https://www.allrecipes.com/recipe/237172/chili-powder/
+Asparagus Wrapped in Crisp Prosciutto,63.75,3.25,0.75,5.5,0.25,[],https://www.allrecipes.com/recipe/73565/asparagus-wrapped-in-crisp-prosciutto/
+Ginger-Turmeric Herbal Tea,18.5,0.0,5.0,0.0,0.5,[],https://www.allrecipes.com/recipe/242148/ginger-turmeric-herbal-tea/
+Tomatillo Salsa Verde,3.0,0.12,0.62,0.12,0.12,[],https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/
+Easy Bok Choy,14.25,0.75,1.0,1.0,0.5,[],https://www.allrecipes.com/recipe/218619/easy-bok-choy/
+Puerto Rican Tostones (Fried Plantains),68.0,0.5,14.5,1.5,1.0,[],https://www.allrecipes.com/recipe/16768/puerto-rican-tostones-fried-plantains/
+Down Home Chitterlings,26.0,1.42,0.08,2.25,0.0,[],https://www.allrecipes.com/recipe/71111/down-home-chitterlings/
+Pan Fried Brussels Sprouts,21.75,1.0,3.0,1.0,1.25,[],https://www.allrecipes.com/recipe/216805/pan-fried-brussels-sprouts/
+Roast Leg of Lamb,31.83,3.0,0.0,2.08,0.0,[],https://www.allrecipes.com/recipe/9380/roast-leg-of-lamb/
+Cabbage Steaks,15.33,0.5,2.17,0.83,0.67,[],https://www.allrecipes.com/recipe/238097/cabbage-steaks/
+Roasted Chicken Rub,3.33,0.17,0.67,0.0,0.17,[],https://www.allrecipes.com/recipe/238147/roasted-chicken-rub/
+Perfect Hard-Boiled Eggs,9.0,0.75,0.0,0.62,N/A,[],https://www.allrecipes.com/recipe/213737/kens-perfect-hard-boiled-egg-and-i-mean-perfect/
+My-Hop Pancakes,24.25,0.5,2.88,1.12,0.12,['telur'],https://www.allrecipes.com/recipe/214499/my-hop-pancakes/
+Chef John's Blueberry Dutch Baby,283.5,8.0,28.0,16.5,1.5,['susu'],https://www.allrecipes.com/recipe/279754/chef-johns-blueberry-dutch-baby/
+Homemade Pancakes,12.7,0.4,1.7,0.5,0.1,"['telur', 'susu']",https://www.allrecipes.com/recipe/265294/homemade-pancakes/
+Pumpkin Pancakes,44.67,1.33,7.5,1.0,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/17036/pumpkin-pancakes/
+Fluffy Flapjack Pancakes,30.38,0.88,4.0,1.25,0.12,['susu'],https://www.allrecipes.com/recipe/260542/fluffy-flapjack-pancakes/
+Grandma's Gingerbread Pancakes,10.1,0.3,2.1,0.1,0.1,['telur'],https://www.allrecipes.com/recipe/214012/grandmas-gingerbread-pancakes/
+Mom's Buttermilk Pancakes,52.5,1.75,6.75,2.0,0.25,['telur'],https://www.allrecipes.com/recipe/203229/moms-buttermilk-pancakes/
+Cake Mix Birthday Cake Pancakes,155.5,2.25,21.5,7.0,N/A,['susu'],https://www.allrecipes.com/recipe/8537839/cake-mix-birthday-cake-pancakes/
+Kaiserschmarrn,126.75,3.5,17.5,4.0,0.25,['susu'],https://www.allrecipes.com/recipe/141136/kaiserschmarrn/
+Apple Fritter Pancakes,157.0,3.5,20.0,7.5,1.5,['telur'],https://www.allrecipes.com/recipe/8496144/apple-fritter-pancakes/
+Sheet Pan Buttermilk Pancakes,59.83,1.83,8.33,2.17,0.17,[],https://www.allrecipes.com/recipe/8462068/sheet-pan-buttermilk-pancakes/
+Easy Pancakes,61.75,1.75,8.5,2.5,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/45396/easy-pancakes/
+Banana Pancakes,32.0,0.83,4.83,1.0,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/20334/banana-pancakes-i/
+Good Old-Fashioned Pancakes,19.75,0.62,2.75,0.75,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
+Fluffy Pancakes,57.5,1.5,8.25,2.0,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/162760/fluffy-pancakes/
+Buttermilk Pancakes,18.25,0.58,2.58,0.58,0.08,['susu'],https://www.allrecipes.com/recipe/24530/buttermilk-pancakes-ii/
+Authentic Swedish Pancakes,5.08,0.23,0.62,0.23,0.0,['susu'],https://www.allrecipes.com/recipe/246952/authentic-swedish-pancakes/
+Quick Almond Flour Pancakes,55.25,2.25,2.5,4.5,1.0,[],https://www.allrecipes.com/recipe/234702/quick-almond-flour-pancakes/
+Todd's Famous Blueberry Pancakes,24.33,0.83,4.17,0.5,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/20177/todds-famous-blueberry-pancakes/
+German Pancakes,39.33,1.67,3.0,2.33,0.17,['susu'],https://www.allrecipes.com/recipe/36900/german-pancakes-ii/
+Old-Fashioned Pancakes,79.5,2.25,11.0,3.0,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/220415/old-fashioned-pancakes/
+Vegan Pancakes,88.0,1.67,16.33,1.67,0.33,[],https://www.allrecipes.com/recipe/191885/vegan-pancakes/
+German Apple Pancake,129.25,2.75,17.25,5.75,1.25,['susu'],https://www.allrecipes.com/recipe/23900/german-apple-pancake/
+Buckwheat Pancakes,49.0,2.25,6.5,1.5,1.5,['telur'],https://www.allrecipes.com/recipe/241553/buckwheat-pancakes/
+Apple Pancakes,80.5,2.0,10.25,3.5,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/23095/veronicas-apple-pancakes/
+Lemon Ricotta Pancakes,302.5,10.0,33.5,14.0,1.0,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/257657/lemon-ricotta-pancakes/
+Baked Pancakes,196.0,6.0,16.5,12.0,0.5,['susu'],https://www.allrecipes.com/recipe/231278/baked-pancakes/
+Cinnamon Roll Pancakes,40.88,0.5,4.75,2.25,0.12,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/244767/cinnamon-roll-pancakes/
+Fluffy Gluten-Free Pancakes,11.25,0.38,1.75,0.38,0.25,"['susu', 'telur']",https://www.allrecipes.com/recipe/260511/fluffy-gluten-free-pancakes/
+Dutch Babies,174.5,6.0,17.5,9.0,0.5,['susu'],https://www.allrecipes.com/recipe/23898/dutch-babies-ii/
+Spelt Pancakes,43.0,1.75,6.25,1.5,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/262177/spelt-pancakes/
+Mini Chocolate Chip Pancakes,152.0,3.33,21.0,6.67,1.0,"['telur', 'susu']",https://www.allrecipes.com/recipe/231855/mini-chocolate-chip-pancakes/
+100% Whole Wheat Pancakes,102.5,4.0,14.25,3.75,1.75,[],https://www.allrecipes.com/recipe/232131/100-whole-wheat-pancakes/
+Oatmeal Pancakes,51.75,1.5,6.25,2.25,0.25,['telur'],https://www.allrecipes.com/recipe/21384/oatmeal-pancakes-ii/
+Easy Banana Nut Pancakes,142.33,3.0,22.0,5.33,1.33,"['telur', 'susu']",https://www.allrecipes.com/recipe/256539/easy-banana-nut-pancakes/
+Strawberry Vanilla Pancakes,68.0,1.75,9.25,2.25,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/84892/strawberry-vanilla-pancakes/
+Flourless Banana Pancakes,122.5,3.5,7.0,9.0,1.0,[],https://www.allrecipes.com/recipe/240545/flourless-banana-pancakes/
+Cottage Cheese Pancakes,52.5,3.25,2.5,3.25,0.0,['keju'],https://www.allrecipes.com/recipe/187567/cottage-cheese-pancakes/
+Chocolate Pancakes,104.5,3.0,14.75,4.25,1.0,['susu'],https://www.allrecipes.com/recipe/183002/chocolate-pancakes/
+Peanut Butter Banana Pancakes,11.83,0.42,1.58,0.5,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/231394/peanut-butter-banana-pancakes/
+Fluffy and Delicious Pancakes,58.0,1.5,8.25,2.0,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/236165/fluffy-and-delicious-pancakes/
+Blini (Russian Pancakes),87.5,2.33,9.5,4.33,0.33,['susu'],https://www.allrecipes.com/recipe/215962/blini-russian-pancakes/
+Pannekaken (Norwegian Pancakes),24.17,1.17,3.33,0.67,0.17,['susu'],https://www.allrecipes.com/recipe/83723/norwegian-pancakes-pannekaken/
+Simply Pumpkin Pancakes,70.5,2.0,12.25,1.5,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/235535/simply-pumpkin-pancakes/
+Cornbread Pancakes,55.6,1.6,7.8,2.0,0.2,[],https://www.allrecipes.com/recipe/191710/cornbread-pancakes/
+Matcha Pancakes,38.0,0.67,3.67,2.17,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/261190/matcha-pancakes/
+Cinnamon Pancakes,13.9,0.3,1.5,0.8,0.1,['susu'],https://www.allrecipes.com/recipe/257014/cinnamon-pancakes/
+Pancakes from Scratch,72.5,1.75,9.0,3.25,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/239377/pancakes-from-scratch/
+Easy Buttermilk Baking Sheet Pancakes,34.62,0.75,6.25,0.75,0.38,[],https://www.allrecipes.com/recipe/258359/easy-buttermilk-baking-sheet-pancakes/
+Extra-Yummy Fluffy Pancakes,36.33,1.0,4.5,1.67,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/216755/extra-yummy-fluffy-pancakes/
+Quick and Easy Pancit,61.5,3.0,10.83,0.83,1.17,['ayam'],https://www.allrecipes.com/recipe/47015/quick-and-easy-pancit/
+Authentic Filipino Pancit,65.0,2.83,7.0,2.83,0.67,['ayam'],https://www.allrecipes.com/recipe/98629/authentic-filipino-pancit/
+Grandma Nena's Lumpia and Pancit,34.9,2.2,3.9,1.2,0.6,['ayam'],https://www.allrecipes.com/recipe/46302/grandma-nenas-lumpia-and-pancit/
+Filipino Spaghetti,59.0,2.42,6.92,2.25,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/166417/filipino-spaghetti/
+Filipino Pancit Bihon with Canton,52.67,3.5,6.67,1.33,0.83,"['ayam', 'udang']",https://www.allrecipes.com/recipe/212999/filipino-pancit-bihon-with-canton/
+Pork and Shrimp Pancit,122.0,7.25,11.0,5.25,0.5,"['ayam', 'udang']",https://www.allrecipes.com/recipe/46402/pork-and-shrimp-pancit/
+Pancit Sotanghon,54.83,2.5,8.5,1.17,0.83,"['ikan', 'ayam']",https://www.allrecipes.com/recipe/262431/pancit-sotanghon/
+Pancit Molo (Filipino Wonton Soup),37.2,2.8,3.1,1.5,0.2,"['ayam', 'udang']",https://www.allrecipes.com/recipe/212997/pancit-molo-filipino-wonton-soup/
+Pancit,121.0,10.0,15.0,2.0,1.25,"['ayam', 'udang']",https://www.allrecipes.com/recipe/31799/pancit/
+Basic Grilled Panini,802.0,32.0,27.0,63.0,3.0,['keju'],https://www.allrecipes.com/recipe/258946/basic-grilled-panini/
+Chef John's Cuban Sandwich,736.5,44.0,42.5,42.5,2.5,['keju'],https://www.allrecipes.com/recipe/256968/chef-johns-cuban-sandwich/
+Roasted Red Pepper Panini,111.5,8.5,8.5,5.0,0.5,['keju'],https://www.allrecipes.com/recipe/282267/roasted-red-pepper-panini/
+Grilled Panini Sandwich Without a Panini Maker,589.0,36.0,45.0,29.0,3.0,['keju'],https://www.allrecipes.com/recipe/258949/grilled-panini-sandwich-without-a-panini-maker/
+Turkey Avocado Panini,361.5,12.5,21.0,25.5,3.0,['keju'],https://www.allrecipes.com/recipe/201117/turkey-avocado-panini/
+Tuna Panini Melt,190.5,14.0,15.5,8.0,0.5,['keju'],https://www.allrecipes.com/recipe/254438/tuna-panini-melt/
+Prosciutto and Provolone Panini Sandwiches,199.75,7.75,6.75,16.0,0.5,['keju'],https://www.allrecipes.com/recipe/220914/prosciutto-and-provolone-panini-sandwiches/
+Turkey and Bacon Panini with Chipotle Mayonnaise,174.75,8.75,16.25,8.25,1.0,['keju'],https://www.allrecipes.com/recipe/214076/turkey-and-bacon-panini-with-chipotle-mayonnaise/
+Panini Sandwiches,116.0,4.25,10.25,6.75,1.0,['keju'],https://www.allrecipes.com/recipe/230181/panini-sandwiches/
+Grilled Turkey Cuban Sandwiches,177.67,15.33,15.83,5.67,0.83,['keju'],https://www.allrecipes.com/recipe/233785/grilled-turkey-cuban-sandwiches/
+Best BLT Chicken Panini,352.5,22.5,31.5,14.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/281659/best-blt-chicken-panini/
+"Italian ""Stuffed"" Toast (Toast Farcito)",155.0,7.0,14.5,7.5,1.0,['keju'],https://www.allrecipes.com/recipe/257166/italian-stuffed-toast-toast-farcito/
+Ham and Cheese Pretzel Panini,94.38,4.0,9.5,4.5,0.25,['keju'],https://www.allrecipes.com/recipe/275957/ham-and-cheese-pretzel-panini/
+Panzanella Panini,402.0,19.0,30.0,24.0,2.0,['keju'],https://www.allrecipes.com/recipe/176277/panzanella-panini/
+Best Chicken Panini,136.6,8.8,7.4,8.0,0.8,"['keju', 'ayam']",https://www.allrecipes.com/recipe/281664/best-chicken-panini/
+Healthy Greek Chicken Panini,549.0,52.0,50.0,15.0,5.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282776/healthy-greek-chicken-panini/
+"Rotisserie Chicken Panini with Roasted Sweet Red Pepper, Spinach, and Guacamole",564.0,21.0,51.0,31.0,6.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/283001/rotisserie-chicken-panini-with-roasted-sweet-red-pepper-spinach-and-guacamole/
+Caprese Panini,324.0,16.5,18.0,21.0,1.5,['keju'],https://www.allrecipes.com/recipe/282735/caprese-panini/
+Italian Chicken Panini,656.0,51.0,23.0,39.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282775/italian-chicken-panini/
+Hatch Chile Turkey Panini,743.0,76.0,41.0,28.0,5.0,['keju'],https://www.allrecipes.com/recipe/266811/hatch-chile-turkey-panini/
+Simply the Easiest Beef Brisket,86.67,4.0,5.33,5.17,0.0,['sapi'],https://www.allrecipes.com/recipe/57264/simply-the-easiest-beef-brisket/
+Potato Kugel,4.96,0.12,0.71,0.21,0.08,[],https://www.allrecipes.com/recipe/204133/old-fashioned-potato-kugel/
+Gefilte Fish,51.3,6.2,3.2,1.4,0.3,[],https://www.allrecipes.com/recipe/17121/gefilte-fish/
+Best Matzo Balls,6.62,0.19,0.62,0.38,0.0,[],https://www.allrecipes.com/recipe/231327/best-matzah-balls/
+Matzah,7.88,0.25,1.5,0.12,0.0,[],https://www.allrecipes.com/recipe/213682/matzah/
+Chicken Liver Pâté,8.25,0.38,0.12,0.62,N/A,"['keju', 'ayam']",https://www.allrecipes.com/recipe/26737/chicken-liver-pate/
+Overnight Matzo Bake,38.88,1.25,6.0,1.12,0.12,['susu'],https://www.allrecipes.com/recipe/8465380/overnight-matzo-bake/
+Juicy Roasted Chicken,70.5,5.17,0.17,5.33,0.0,['ayam'],https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/
+Pan-Fried Asparagus,47.0,0.75,1.25,4.5,0.5,[],https://www.allrecipes.com/recipe/18318/pan-fried-asparagus/
+Hot Spinach Artichoke Dip,11.17,0.33,0.25,1.0,0.08,['keju'],https://www.allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/
+Cornish Game Hens with Garlic and Rosemary,203.5,14.75,2.5,14.5,0.5,['ayam'],https://www.allrecipes.com/recipe/8938/cornish-game-hens-with-garlic-and-rosemary/
+Simply Steamed Asparagus,8.0,0.75,1.0,0.25,0.5,[],https://www.allrecipes.com/recipe/55196/simply-steamed-asparagus/
+Roast Potatoes,56.75,1.0,9.0,1.75,0.75,[],https://www.allrecipes.com/recipe/18324/roast-potatoes/
+Simple Chopped Liver,15.12,1.38,0.38,0.88,0.12,['ayam'],https://www.allrecipes.com/recipe/76193/simple-chopped-liver/
+Easy Baked Beef Brisket,42.25,2.25,0.75,3.38,0.12,[],https://www.allrecipes.com/recipe/273034/easy-baked-beef-brisket/
+Roast Leg of Lamb,31.83,3.0,0.0,2.08,0.0,[],https://www.allrecipes.com/recipe/9380/roast-leg-of-lamb/
+Smoked Fish Dip,1.56,0.25,0.06,0.0,N/A,[],https://www.allrecipes.com/recipe/45291/smoked-fish-dip/
+Flourless Chocolate Cake,21.31,0.31,1.75,1.5,0.12,[],https://www.allrecipes.com/recipe/8149/flourless-chocolate-cake-i/
+Candied Carrots,37.5,0.25,6.25,1.5,0.75,[],https://www.allrecipes.com/recipe/18241/candied-carrots/
+Fried Matzo,485.0,19.0,49.0,24.0,N/A,[],https://www.allrecipes.com/recipe/221193/fried-matzoh/
+Chicken and Red Wine Sauce,17.83,1.83,1.58,0.33,0.0,['ayam'],https://www.allrecipes.com/recipe/19125/chicken-and-red-wine-sauce/
+Kalamata Olive Tapenade,10.12,0.12,0.38,1.0,0.0,[],https://www.allrecipes.com/recipe/165309/kalamata-olive-tapenade/
+Lemon-Orange Orange Roughy,35.0,4.75,2.0,1.0,0.5,[],https://www.allrecipes.com/recipe/40061/lemon-orange-orange-roughy/
+Roast Sticky Chicken-Rotisserie Style,73.25,7.75,0.5,4.25,0.12,[],https://www.allrecipes.com/recipe/45954/roast-sticky-chicken-rotisserie-style/
+Garlic Prime Rib,37.47,2.0,0.07,3.2,0.0,[],https://www.allrecipes.com/recipe/56352/garlic-prime-rib/
+Roast Leg of Lamb with Rosemary,55.3,4.1,0.8,3.9,0.0,[],https://www.allrecipes.com/recipe/18870/roast-leg-of-lamb-with-rosemary/
+Garlic Red Potatoes,69.75,1.25,10.0,3.0,1.25,['keju'],https://www.allrecipes.com/recipe/25272/garlic-red-potatoes/
+Orange-Glazed Carrots,34.0,0.25,5.25,1.5,0.75,[],https://www.allrecipes.com/recipe/24773/orange-glazed-carrots/
+Roasted Garlic Mashed Potatoes,21.5,0.38,3.0,1.0,0.25,['susu'],https://www.allrecipes.com/recipe/24775/roasted-garlic-mashed-potatoes/
+Oma's Fabulous Matzo Ball Soup,44.8,1.7,6.4,1.4,0.1,['ayam'],https://www.allrecipes.com/recipe/17110/omas-fabulous-matzo-ball-soup/
+Matzo Brei,222.0,9.0,24.0,10.0,N/A,['telur'],https://www.allrecipes.com/recipe/16045/matzo-brei/
+Charoset,9.8,0.2,0.7,0.8,0.2,[],https://www.allrecipes.com/recipe/242217/charoset/
+Chocolate Chip Cheese Ball,3.19,0.03,0.22,0.25,0.03,['keju'],https://www.allrecipes.com/recipe/26740/chocolate-chip-cheese-ball/
+Quinoa Side Dish,51.75,1.75,8.0,1.5,1.0,[],https://www.allrecipes.com/recipe/29915/quinoa-side-dish/
+Simple Whole Roasted Chicken,64.5,6.83,0.33,3.83,0.0,['ayam'],https://www.allrecipes.com/recipe/70679/simple-whole-roasted-chicken/
+Haroset for Passover,40.17,0.67,4.67,2.17,0.83,[],https://www.allrecipes.com/recipe/45301/haroset-for-passover/
+Roast Chicken with Rosemary,48.5,5.17,0.17,2.83,0.0,['ayam'],https://www.allrecipes.com/recipe/15427/roast-chicken-with-rosemary/
+Steamed Zucchini,15.0,0.5,1.5,1.0,0.5,[],https://www.allrecipes.com/recipe/18333/steamed-zucchini/
+Grilled Leg of Lamb Steaks,81.75,7.5,0.5,5.5,0.0,[],https://www.allrecipes.com/recipe/257284/grilled-leg-of-lamb-steaks/
+Roast Boneless Leg of Lamb,43.25,4.5,0.38,2.5,0.0,[],https://www.allrecipes.com/recipe/230327/easy-leg-of-lamb/
+Honey Ginger Carrots,20.33,0.17,2.33,1.33,0.33,[],https://www.allrecipes.com/recipe/25237/honey-ginger-carrots/
+Balsamic Glazed Carrots,20.5,0.25,3.25,1.0,0.75,[],https://www.allrecipes.com/recipe/57348/balsamic-glazed-carrots/
+Best Sweet and Sour Brisket,40.1,1.9,2.4,2.5,0.1,['sapi'],https://www.allrecipes.com/recipe/212741/jewish-style-sweet-and-sour-brisket/
+Spicy Rapid Roast Chicken,28.62,2.88,0.0,1.88,0.0,['ayam'],https://www.allrecipes.com/recipe/8690/spicy-rapid-roast-chicken/
+Roasted Beets and Sauteed Beet Greens,51.0,1.25,4.5,3.5,2.25,[],https://www.allrecipes.com/recipe/54484/roasted-beets-and-sauteed-beet-greens/
+Baked Tilapia in Garlic and Olive Oil,54.25,6.0,1.0,3.0,0.25,[],https://www.allrecipes.com/recipe/16711/baked-tilapia-in-garlic-and-olive-oil/
+Oven-Roasted Lamb Ribs,204.75,11.75,8.25,14.0,1.5,[],https://www.allrecipes.com/recipe/257075/oven-roasted-lamb-ribs/
+Passover Matzo Lasagna,20.17,1.33,1.92,0.75,0.17,['keju'],https://www.allrecipes.com/recipe/212739/passover-matzo-lasagna/
+Quinoa Tabbouleh,88.5,2.5,11.5,4.25,2.25,[],https://www.allrecipes.com/recipe/25922/quinoa-tabbouleh/
+Chocolate-Dipped Coconut Macaroons,5.54,0.08,0.46,0.42,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/266645/chocolate-dipped-coconut-macaroons/
+Passover Rolls,52.0,1.33,3.83,3.67,0.17,[],https://www.allrecipes.com/recipe/16158/passover-rolls-i/
+Sensational Slow Cooked Beef Brisket,62.4,2.7,1.7,4.6,0.2,['sapi'],https://www.allrecipes.com/recipe/221043/sensational-slow-cooked-beef-brisket/
+Creamy Garlic Dip,3.06,0.0,0.06,0.31,0.0,[],https://www.allrecipes.com/recipe/24659/creamy-garlic-dip/
+Perfect Coconut Macaroons,9.89,0.11,1.28,0.56,0.17,['telur'],https://www.allrecipes.com/recipe/220926/perfect-coconut-macaroons/
+Amaretti,22.17,0.58,2.5,1.17,0.25,['telur'],https://www.allrecipes.com/recipe/11517/amaretti/
+Tender Onion Baked Chicken,67.5,8.0,1.25,3.25,0.0,['ayam'],https://www.allrecipes.com/recipe/17625/tender-onion-baked-chicken/
+Authentic Middle Eastern Hummus (Chummus),68.88,2.25,6.38,4.0,1.88,[],https://www.allrecipes.com/recipe/161082/authentic-middle-eastern-hummus-chummus/
+Fantastic Lemon Butter Fillet,39.67,3.5,0.5,2.67,0.17,[],https://www.allrecipes.com/recipe/37918/fantastic-lemon-butter-fillet/
+Moroccan Shabbat Fish,46.33,6.0,1.0,2.0,0.33,['ayam'],https://www.allrecipes.com/recipe/213243/moroccan-shabbat-fish/
+Jewish Grandma's Best Brisket,32.7,1.9,0.2,2.6,0.0,['sapi'],https://www.allrecipes.com/recipe/103067/jewish-grandmas-best-beef-brisket/
+Matzoh Ball Soup,72.88,5.62,1.25,4.88,0.25,['ayam'],https://www.allrecipes.com/recipe/13147/matzoh-ball-soup/
+Roasted Lemon Herb Chicken,50.62,4.0,0.5,3.62,0.25,['ayam'],https://www.allrecipes.com/recipe/8709/roasted-lemon-herb-chicken/
+Roasted Vegetable Chicken,57.38,4.38,5.0,2.12,0.75,['ayam'],https://www.allrecipes.com/recipe/17676/roasted-vegetable-chicken/
+Asparagus Parmesan,39.8,1.6,0.8,3.6,0.4,['keju'],https://www.allrecipes.com/recipe/58645/asparagus-parmesan/
+Wine-Braised Beef Brisket,40.88,2.25,0.38,3.12,0.12,['sapi'],https://www.allrecipes.com/recipe/221041/wine-braised-beef-brisket/
+Spaghetti alla Carbonara,191.0,9.75,21.25,7.0,1.0,['keju'],https://www.allrecipes.com/recipe/245775/spaghetti-alla-carbonara-the-traditional-italian-recipe/
+Spaghetti Carbonara,55.5,2.0,5.62,2.62,0.25,['keju'],https://www.allrecipes.com/recipe/11973/spaghetti-carbonara-ii/
+Fettuccine Carbonara,102.33,4.33,10.83,4.83,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/42585/fettuccini-carbonara/
+Chicken and Shrimp Carbonara,97.0,5.5,5.88,5.75,0.38,"['keju', 'ayam', 'telur', 'udang']",https://www.allrecipes.com/recipe/263497/chicken-and-shrimp-carbonara/
+Loaded Chicken Carbonara,232.0,18.5,23.5,6.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/232865/loaded-chicken-carbonara/
+Quick and Creamy Pasta Carbonara,194.5,6.25,11.75,14.0,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/228310/quick-and-creamy-pasta-carbonara/
+Italian Carbonara with Bacon,64.0,2.62,6.0,3.12,0.38,['keju'],https://www.allrecipes.com/recipe/277132/italian-carbonara-with-bacon/
+Creamy Pasta Carbonara,49.38,2.25,5.25,2.25,0.25,['keju'],https://www.allrecipes.com/recipe/11770/pasta-carbonara-i/
+Greek Yogurt Carbonara,40.25,2.25,4.25,1.75,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/279165/greek-yogurt-carbonara/
+Chef John's Spaghetti alla Carbonara,344.0,18.0,33.0,15.0,1.5,['keju'],https://www.allrecipes.com/recipe/221971/chef-johns-spaghetti-alla-carbonara/
+Chicken Carbonara,89.38,4.38,5.62,5.38,0.25,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/282904/chicken-carbonara/
+Easy Carbonara Sauce,38.5,1.17,1.17,3.33,0.17,[],https://www.allrecipes.com/recipe/231043/easy-carbonara-sauce/
+Gluten Free Carbonara,88.33,2.83,14.17,2.33,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/246017/gluten-free-carbonara/
+Shrimp Carbonara,78.5,4.0,10.17,2.33,0.5,"['keju', 'susu', 'udang']",https://www.allrecipes.com/recipe/263496/shrimp-carbonara/
+Classic Carbonara with Pancetta,139.67,5.17,10.33,8.83,0.67,['keju'],https://www.allrecipes.com/recipe/142690/classic-carbonara-with-pancetta/
+Quick Pasta Carbonara,101.75,4.75,12.75,4.0,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/212501/quick-pasta-carbonara/
+Tortellini Carbonara,116.6,5.4,6.8,7.8,0.8,['keju'],https://www.allrecipes.com/recipe/18006/tortellini-carbonara/
+10-Minute Mushroom Carbonara,61.83,2.83,9.67,1.33,0.5,['keju'],https://www.allrecipes.com/recipe/266525/10-minute-mushroom-carbonara/
+Asparagus Carbonara,93.0,5.0,11.75,2.75,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/279162/asparagus-carbonara/
+Spaghetti Alla Carbonara Tradizionali,122.0,5.25,18.75,2.75,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/257380/spaghetti-alla-carbonara-tradizionali/
+Ramen Carbonara,142.0,9.5,10.0,7.5,2.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/274608/ramen-carbonara/
+Four-Cheese Chicken Carbonara,101.0,4.25,5.5,7.0,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/277129/four-cheese-chicken-carbonara/
+Spaghetti Carbonara I,100.17,4.67,9.67,4.67,0.33,['keju'],https://www.allrecipes.com/recipe/11791/spaghetti-carbonara-i/
+BLT Pasta Carbonara,72.0,4.0,9.0,2.5,1.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/266526/blt-pasta-carbonara/
+Cheater Carbonara,110.75,5.0,12.5,4.75,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/279188/cheater-carbonara/
+Fettucine Carbonara,54.88,2.12,5.38,2.88,0.25,['keju'],https://www.allrecipes.com/recipe/23611/fettucine-carbonara/
+Keto Spaghetti Squash Carbonara,150.5,9.0,13.0,8.0,0.0,['keju'],https://www.allrecipes.com/recipe/267862/keto-spaghetti-squash-carbonara/
+Chicken-Bacon Carbonara,128.5,7.5,9.83,6.5,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282900/chicken-bacon-carbonara/
+Zoodles alla Carbonara,173.5,8.5,7.0,13.5,2.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/244714/zoodles-alla-carbonara/
+Avocado Carbonara for Two,373.0,15.0,43.0,16.0,5.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/279538/avocado-carbonara-for-two/
+Pasta Carbonara with Chicken,99.5,4.75,5.62,6.5,0.25,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/282899/pasta-carbonara-with-chicken/
+Maple Syrup-Glazed Bacon Breakfast Carbonara,75.83,3.33,10.5,2.17,0.5,['keju'],https://www.allrecipes.com/recipe/277966/maple-syrup-glazed-bacon-breakfast-carbonara/
+Easy Ranch Spaghetti Carbonara,129.75,6.0,16.25,4.25,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/264948/easy-ranch-spaghetti-carbonara/
+Chicken Almost Carbonara,59.75,3.12,6.75,2.0,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/279506/chicken-almost-carbonara/
+Breakfast Pasta for Dinner,95.75,5.25,11.5,3.25,0.5,['keju'],https://www.allrecipes.com/recipe/282705/breakfast-pasta-for-dinner/
+Gnocchi Primavera,81.75,2.5,6.5,5.25,0.75,['keju'],https://www.allrecipes.com/recipe/203712/gnocchi-primavera/
+Creamy Penne Pasta Primavera,86.33,3.0,10.83,3.67,1.0,['keju'],https://www.allrecipes.com/recipe/237430/creamy-penne-pasta-primavera/
+Shrimp Primavera,76.67,6.33,11.0,1.0,1.0,['udang'],https://www.allrecipes.com/recipe/223107/shrimp-primavera/
+No-Cream Pasta Primavera,67.67,2.33,9.0,2.5,1.0,['keju'],https://www.allrecipes.com/recipe/86515/no-cream-pasta-primavera/
+Pasta Primavera with Italian Turkey Sausage,59.62,2.62,6.25,2.75,0.62,"['keju', 'ayam']",https://www.allrecipes.com/recipe/90119/pasta-primavera-with-italian-turkey-sausage/
+Healthy Pasta Primavera,70.25,4.0,10.5,2.0,2.0,['keju'],https://www.allrecipes.com/recipe/270838/healthy-pasta-primavera/
+Penne Primavera,86.75,3.75,13.5,2.0,1.5,['keju'],https://www.allrecipes.com/recipe/72506/penne-primavera/
+Creamy Shrimp Pasta Primavera,123.75,6.0,6.5,8.0,0.5,"['keju', 'udang']",https://www.allrecipes.com/recipe/277123/creamy-shrimp-pasta-primavera/
+Chicken Primavera Alfredo,162.33,4.5,10.33,11.83,0.67,"['keju', 'ayam', 'telur']",https://www.allrecipes.com/recipe/231825/chicken-primavera-alfredo/
+Chef John's Pasta Primavera,98.33,3.17,12.17,4.5,1.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/236218/chef-johns-pasta-primavera/
+Pasta Primavera with Cauliflower Sauce,73.75,3.75,12.0,1.75,2.75,['keju'],https://www.allrecipes.com/recipe/261302/pasta-primavera-with-cauliflower-sauce/
+Baked Pasta Primavera,33.75,1.62,3.75,1.5,0.38,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/238745/baked-pasta-primavera/
+Lemon Orzo Primavera,69.75,2.5,11.25,1.5,1.0,['keju'],https://www.allrecipes.com/recipe/88186/lemon-orzo-primavera/
+Shrimp Primavera with Goat Cheese,129.75,9.5,13.75,4.75,2.0,"['keju', 'udang']",https://www.allrecipes.com/recipe/223108/shrimp-primavera-with-goat-cheese/
+Light Primavera Pasta,36.5,1.0,6.0,1.0,0.25,[],https://www.allrecipes.com/recipe/277121/light-primavera-pasta/
+Skillet Gnocchi Primavera with Lemon Cream Sauce,71.6,2.0,5.8,4.8,1.0,['keju'],https://www.allrecipes.com/recipe/279927/skillet-gnocchi-primavera-with-lemon-cream-sauce/
+Baked Ziti Primavera,12.62,0.5,1.92,0.33,0.21,['keju'],https://www.allrecipes.com/recipe/190199/baked-ziti-primavera/
+Garlicky Shrimp Primavera with Shishito Peppers,45.88,3.38,4.5,1.62,0.38,"['keju', 'udang']",https://www.allrecipes.com/recipe/284934/garlicky-shrimp-primavera-with-shishito-peppers/
+Creamy Pasta Primavera with Chicken and Sausage,74.25,2.5,7.75,3.88,0.75,['ayam'],https://www.allrecipes.com/recipe/277120/creamy-pasta-primavera-with-chicken-and-sausage/
+Balsamic Pasta Primavera,107.0,2.5,12.25,5.75,2.0,[],https://www.allrecipes.com/recipe/277124/balsamic-pasta-primavera/
+Instant Pot Pasta Primavera,41.17,1.33,7.0,0.83,0.83,[],https://www.allrecipes.com/recipe/278610/instant-pot-pasta-primavera/
+Napa Cabbage Noodle Salad,83.25,0.88,4.0,7.38,0.62,[],https://www.allrecipes.com/recipe/14249/napa-cabbage-noodle-salad/
+Pearl Couscous Salad,93.33,2.17,13.67,3.5,1.67,[],https://www.allrecipes.com/recipe/239813/pearl-couscous-salad/
+Bow Tie Pasta Salad,26.42,0.67,3.67,1.0,0.25,['keju'],https://www.allrecipes.com/recipe/220413/bow-tie-pasta-salad/
+Greek Couscous Salad,84.67,3.0,14.0,2.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/218225/greek-couscous/
+Pesto Tortellini Salad,63.83,1.83,4.33,4.5,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/41490/tortellini-pesto-salad/
+Caprese Pasta with Thai Basil,210.5,6.5,23.0,10.25,1.0,[],https://www.allrecipes.com/recipe/8453629/caprese-pasta-with-thai-basil/
+Best Tuna Pasta Salad,52.5,2.25,4.5,2.88,0.38,[],https://www.allrecipes.com/recipe/272790/tuna-and-macaroni-salad/
+Greek Pasta Salad,38.38,0.62,2.38,3.0,0.25,['keju'],https://www.allrecipes.com/recipe/176650/greek-pasta-salad/
+Southwestern Pasta Salad,30.0,1.0,3.88,1.25,0.88,[],https://www.allrecipes.com/recipe/26297/southwestern-pasta-salad/
+Italian Pasta Salad,30.92,1.25,2.42,1.75,0.17,['keju'],https://www.allrecipes.com/recipe/222750/quick-italian-pasta-salad/
+Bacon Ranch Pasta Salad,33.6,0.9,1.5,2.7,0.1,"['keju', 'susu']",https://www.allrecipes.com/recipe/69226/bacon-ranch-pasta-salad/
+Easy Cold Pasta Salad,37.12,0.88,5.5,1.38,0.38,[],https://www.allrecipes.com/recipe/149799/easy-cold-pasta-salad/
+Spaghetti Salad,62.75,1.88,6.5,3.25,0.38,['keju'],https://www.allrecipes.com/recipe/11922/spaghetti-salad-iii/
+Pasta Salad with Homemade Dressing,55.38,2.0,3.12,4.0,0.5,['keju'],https://www.allrecipes.com/recipe/73963/pasta-salad-with-homemade-dressing/
+Classic Macaroni Salad,39.0,0.7,4.9,1.9,0.3,[],https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/
+Simple Pasta Salad,24.08,0.83,2.92,1.17,0.33,['keju'],https://www.allrecipes.com/recipe/86353/simple-pasta-salad/
+Pasta Salad,66.67,1.33,6.5,4.17,0.67,[],https://www.allrecipes.com/recipe/14385/pasta-salad/
+BLT Pasta Salad,36.3,1.8,1.2,2.7,0.1,[],https://www.allrecipes.com/recipe/72823/blt-pasta-salad/
+Amish Macaroni Salad,88.67,1.5,11.0,4.17,0.5,[],https://www.allrecipes.com/recipe/74915/amish-macaroni-salad/
+Greek Orzo Salad,65.5,2.33,9.5,2.17,1.17,['keju'],https://www.allrecipes.com/recipe/19389/greek-orzo-salad/
+Awesome Pasta Salad,15.44,0.62,0.88,1.06,0.12,['keju'],https://www.allrecipes.com/recipe/52734/awesome-pasta-salad/
+Club Chicken Pasta Salad,81.0,3.17,6.17,5.0,0.83,"['keju', 'ayam']",https://www.allrecipes.com/recipe/236198/chicken-club-pasta-salad/
+Tuna Macaroni Salad,97.0,3.17,8.67,5.5,0.67,[],https://www.allrecipes.com/recipe/70208/amelias-tuna-macaroni-salad/
+Magnificent Macaroni Salad,156.6,2.8,10.6,11.4,0.6,[],https://www.allrecipes.com/recipe/221132/magnificent-macaroni-salad/
+Antipasto Pasta Salad,37.58,1.25,2.75,2.42,0.25,['keju'],https://www.allrecipes.com/recipe/14278/antipasto-pasta-salad/
+Chef John's Classic Macaroni Salad,24.58,0.42,2.67,1.33,0.17,[],https://www.allrecipes.com/recipe/244305/chef-johns-classic-macaroni-salad/
+Mom's Best Macaroni Salad,26.5,0.44,2.81,1.56,0.12,['susu'],https://www.allrecipes.com/recipe/65052/moms-best-macaroni-salad/
+Black Bean and Couscous Salad,28.11,1.11,4.56,0.67,1.11,['ayam'],https://www.allrecipes.com/recipe/24833/black-bean-and-couscous-salad/
+Creamy Macaroni Salad,28.42,0.42,2.0,2.08,0.08,['susu'],https://www.allrecipes.com/recipe/222214/creamy-macaroni-salad/
+Creamy Vegan Pasta Salad,22.5,0.5,3.12,1.0,0.12,[],https://www.allrecipes.com/recipe/275873/creamy-vegan-pasta-salad/
+Ham and Shell Salad,143.5,6.0,13.5,7.5,1.5,['keju'],https://www.allrecipes.com/recipe/148470/ham-and-shell-salad/
+Creamy Crab and Pasta Salad,65.5,4.33,8.0,2.0,0.5,[],https://www.allrecipes.com/recipe/50896/creamy-crab-and-pasta-salad/
+Mediterranean Orzo Salad,69.67,1.83,5.83,4.5,0.5,['keju'],https://www.allrecipes.com/recipe/280504/mediterranean-orzo-salad/
+Easy Rainbow Pasta Salad,48.38,1.0,6.5,2.12,0.38,[],https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/
+Sesame Noodle Salad,42.25,0.88,5.12,2.12,0.38,[],https://www.allrecipes.com/recipe/214921/sesame-noodle-salad/
+Shrimp Pasta Salad with Italian Dressing,56.83,4.33,8.33,0.67,0.67,"['keju', 'udang']",https://www.allrecipes.com/recipe/270867/shrimp-pasta-salad-with-italian-dressing/
+Rosa Marina Fruit Salad,8.17,0.17,1.46,0.21,0.04,[],https://www.allrecipes.com/recipe/233943/rosa-marina-fruit-salad/
+Spinach and Orzo Salad,61.38,2.0,6.12,3.38,0.38,['keju'],https://www.allrecipes.com/recipe/26301/spinach-and-orzo-salad/
+Seafood Pasta Salad,54.5,1.38,5.75,2.88,0.38,['susu'],https://www.allrecipes.com/recipe/24814/seafood-pasta-salad/
+Tortellini Salad,51.88,2.12,3.75,3.25,0.38,['keju'],https://www.allrecipes.com/recipe/206441/tortellini-salad/
+Shrimp Pasta Salad,56.38,1.88,4.25,3.62,0.25,['udang'],https://www.allrecipes.com/recipe/233397/shrimp-and-pasta-shell-salad/
+Rainbow Rotini Salad,40.88,1.12,6.25,1.38,0.5,[],https://www.allrecipes.com/recipe/11875/rainbow-rotini-salad/
+Pasties,147.83,4.17,12.0,9.17,0.83,[],https://www.allrecipes.com/recipe/46981/pasties-ii/
+Vegetable Pasties,72.62,1.38,8.38,3.88,0.75,[],https://www.allrecipes.com/recipe/37259/vegetable-pasties/
+Cornish Finnish Michigan Pasties,110.25,3.75,9.5,6.25,0.62,['sapi'],https://www.allrecipes.com/recipe/12432/cornish-finnish-michigan-pasties/
+Vegetable Cornish Pasties,171.75,4.25,13.75,11.25,1.25,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/15731/vegetable-cornish-pasties/
+Great Grandma Johns' Pasties,155.25,5.25,14.25,8.5,1.0,['sapi'],https://www.allrecipes.com/recipe/66326/great-grandma-johns-pasties/
+Coal Miners Pasties,197.67,7.5,16.5,11.17,1.17,[],https://www.allrecipes.com/recipe/12164/coal-miners-pasties/
+Easy Cabbage Pockets,7.08,0.33,0.96,0.21,0.08,['sapi'],https://www.allrecipes.com/recipe/245483/easy-cabbage-pockets/
+Vegetarian Pasties,129.5,3.5,14.67,6.33,2.33,[],https://www.allrecipes.com/recipe/16721/vegetarian-pasties/
+Cornish Pastie II,86.33,2.33,7.33,5.33,0.67,['sapi'],https://www.allrecipes.com/recipe/12452/cornish-pastie-ii/
+Cinnamon Roll Monkey Bread,30.75,0.25,4.38,1.38,0.12,[],https://www.allrecipes.com/recipe/284760/cinnamon-roll-monkey-bread/
+Chinese Sweet Bun Dough,9.92,0.17,0.83,0.67,0.0,['susu'],https://www.allrecipes.com/recipe/133909/chinese-sweet-bun-dough/
+Zeppole,1.97,0.03,0.14,0.14,0.0,['keju'],https://www.allrecipes.com/recipe/19847/zeppole/
+Mochi Donuts,39.44,0.56,6.89,1.22,0.22,"['telur', 'susu']",https://www.allrecipes.com/recipe/8516139/mochi-donuts/
+Nana's Fastnachts,1.78,0.03,0.25,0.07,0.0,['susu'],https://www.allrecipes.com/recipe/7208/nanas-fastnachts/
+Eggnog Cinnamon Rolls,42.58,0.58,5.58,2.08,0.17,"['keju', 'telur']",https://www.allrecipes.com/recipe/8486275/eggnog-cinnamon-rolls/
+Homemade Mini Cinnamon Rolls,80.25,1.38,12.88,2.62,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/8508239/homemade-mini-cinnamon-rolls/
+Best Monkey Bread,25.2,0.33,3.8,1.0,0.07,[],https://www.allrecipes.com/recipe/6815/monkey-bread-i/
+Pain au Chocolat (Chocolate Croissants),147.33,1.78,17.0,8.67,0.67,"['telur', 'susu']",https://www.allrecipes.com/recipe/142764/pain-au-chocolat-chocolate-filled-croissant/
+"""Thousand Layer"" Chocolate Brioche",65.12,1.5,8.88,2.75,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/8518477/thousand-layer-chocolate-brioche/
+Air Fryer Cherry Cream Cheese Croissants,28.38,0.62,2.0,2.0,0.12,['keju'],https://www.allrecipes.com/recipe/8458926/air-fryer-cherry-cream-cheese-croissants/
+Clone of a Cinnabon,41.83,0.67,6.42,1.58,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/20156/clone-of-a-cinnabon/
+Ooey-Gooey Cinnamon Buns,26.13,0.4,3.0,1.47,0.13,['susu'],https://www.allrecipes.com/recipe/21461/ooey-gooey-cinnamon-buns/
+Apple Cider Donuts,23.0,0.25,4.33,0.58,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/282261/baked-apple-cider-donuts/
+Best Cake Doughnuts,16.83,0.25,2.08,0.83,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/
+Crispy and Creamy Doughnuts,18.39,0.28,2.61,0.72,0.06,['susu'],https://www.allrecipes.com/recipe/45921/crispy-and-creamy-doughnuts/
+Beignets,54.3,1.2,8.3,1.8,0.3,['susu'],https://www.allrecipes.com/recipe/7179/beignets/
+Easy Apple Strudel,11.25,0.17,2.33,0.17,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/47821/easy-apple-strudel/
+Kouign-Amann,24.25,0.25,2.5,1.5,0.08,[],https://www.allrecipes.com/recipe/271049/kouign-amann/
+Monkey Bread from Scratch,42.7,0.6,7.2,1.3,0.2,"['telur', 'susu']",https://www.allrecipes.com/recipe/272308/monkey-bread-from-scratch/
+Cinnamon Rolls From Frozen Bread Dough - EASY,7.6,0.15,1.15,0.3,0.05,['susu'],https://www.allrecipes.com/recipe/230133/cinnamon-rolls-from-frozen-bread-dough-easy/
+Danish Pastry,7.58,0.11,1.08,0.31,0.03,"['telur', 'susu']",https://www.allrecipes.com/recipe/27342/danish-pastry/
+Croissants,16.33,0.25,1.33,1.08,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/6916/croissants/
+Baked Apple Roses,529.0,6.0,48.0,35.5,2.5,['telur'],https://www.allrecipes.com/recipe/244198/baked-apple-roses/
+Ninety-Minute Cinnamon Rolls,28.92,0.42,4.58,1.08,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/17006/ninety-minute-cinnamon-rolls/
+Caramel Rolls,27.89,0.44,3.78,1.33,0.11,['susu'],https://www.allrecipes.com/recipe/260902/caramel-rolls/
+Oliebollen (Dutch Doughnuts),22.5,0.42,3.83,0.75,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/46299/oliebollen-dutch-doughnuts/
+Brioche,14.25,0.31,1.38,0.81,0.06,['telur'],https://www.allrecipes.com/recipe/17486/brioche/
+Cinnamon Rolls,23.25,0.38,2.81,1.19,0.12,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/24556/cinnamon-rolls-iii/
+Buñuelos,15.25,0.19,1.56,0.94,0.0,[],https://www.allrecipes.com/recipe/10502/bunuelos/
+Danish Kringle,23.08,0.42,2.83,1.17,0.08,"['keju', 'telur']",https://www.allrecipes.com/recipe/23971/danish-kringle/
+Land of Nod Cinnamon Buns,21.5,0.8,3.95,0.35,0.2,[],https://www.allrecipes.com/recipe/23177/land-of-nod-cinnamon-buns/
+Quick and Easy Monkey Bread,32.42,0.58,5.0,1.25,0.17,[],https://www.allrecipes.com/recipe/7110/quick-and-easy-monkey-bread/
+Simple Chopped Liver,15.12,1.38,0.38,0.88,0.12,['ayam'],https://www.allrecipes.com/recipe/76193/simple-chopped-liver/
+Liver Pâté,7.25,0.31,0.06,0.62,0.0,['ayam'],https://www.allrecipes.com/recipe/14821/liver-pate/
+Pate,6.0,0.19,0.06,0.56,N/A,['keju'],https://www.allrecipes.com/recipe/26893/pate/
+Chef John's Pate de Campagne,20.83,1.25,0.92,1.25,0.17,['ayam'],https://www.allrecipes.com/recipe/256888/chef-johns-pate-de-campagne/
+Exotic Mushroom and Walnut Pate,7.94,0.12,0.19,0.75,0.06,[],https://www.allrecipes.com/recipe/127494/exotic-mushroom-and-walnut-pate/
+Gorton (French-Canadian Pork Spread),5.9,0.12,0.03,0.57,0.0,[],https://www.allrecipes.com/recipe/213554/gorton-french-canadian-pork-spread/
+Mock Chopped Liver,96.75,4.25,9.25,5.25,2.0,['ayam'],https://www.allrecipes.com/recipe/16835/mock-chopped-liver/
+Chicken Liver Pâté,8.25,0.38,0.12,0.62,N/A,"['keju', 'ayam']",https://www.allrecipes.com/recipe/26737/chicken-liver-pate/
+Veggie Pate,6.38,0.19,0.5,0.44,0.12,[],https://www.allrecipes.com/recipe/24708/veggie-pate/
+Easy Liver Pâté,3.33,0.12,0.04,0.29,N/A,"['keju', 'susu']",https://www.allrecipes.com/recipe/69121/easy-liver-pate/
+French-Canadian Gorton Pork Spread,3.69,0.31,0.06,0.25,0.0,[],https://www.allrecipes.com/recipe/213551/french-canadian-gorton-pork-spread/
+Red Salmon Pâté,23.88,1.12,0.25,2.12,0.12,['keju'],https://www.allrecipes.com/recipe/77776/red-salmon-pate/
+Salmon Terrine,16.83,0.75,0.08,1.5,0.0,[],https://www.allrecipes.com/recipe/241882/salmon-terrine/
+Turkey Liver Pate (Fois Gras),41.25,1.75,0.5,3.75,0.0,['ayam'],https://www.allrecipes.com/recipe/284344/turkey-liver-pate-fois-gras/
+Easy Chicken Liver Pate,10.31,0.31,0.19,0.88,0.0,['ayam'],https://www.allrecipes.com/recipe/256173/easy-chicken-liver-pate/
+Colleen's Chicken Liver Pate,42.17,2.33,0.83,3.33,0.17,"['ayam', 'susu']",https://www.allrecipes.com/recipe/257980/colleens-chicken-liver-pate/
+Danish Chicken Liver Pate,14.0,0.67,0.33,1.17,0.0,['ayam'],https://www.allrecipes.com/recipe/257981/danish-chicken-liver-pate/
+Bug Lady Tofu Pate,1.33,0.04,0.04,0.12,0.0,[],https://www.allrecipes.com/recipe/26720/bug-lady-tofu-pate/
+To Die For Garlic Feta Pate,8.06,0.19,0.06,0.81,N/A,['keju'],https://www.allrecipes.com/recipe/60383/to-die-for-garlic-feta-pate/
+Special Occasion Smoked Bluefish Pâté,4.06,0.25,0.06,0.31,N/A,['keju'],https://www.allrecipes.com/recipe/19689/special-occasion-smoked-bluefish-pate/
+White Bean Pate,11.25,0.38,1.38,0.5,0.38,[],https://www.allrecipes.com/recipe/221157/white-bean-pate/
+Lighter Cretons,7.6,1.0,0.2,0.3,0.0,[],https://www.allrecipes.com/recipe/234018/lighter-cretons/
+Chicken Liver Pate with Currants,3.31,0.16,0.09,0.25,0.0,['ayam'],https://www.allrecipes.com/recipe/256174/chicken-liver-pate-with-currants/
+George's Salmon-Pepper Pate,48.5,1.25,6.0,2.25,0.25,[],https://www.allrecipes.com/recipe/263251/georges-salmon-pepper-pate/
+Rustic Chicken Liver and Morel Pate,14.7,1.3,0.3,0.8,0.0,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/285767/rustic-chicken-liver-and-morel-pate/
+Easy Pavlova,46.62,0.5,5.25,2.75,0.25,['telur'],https://www.allrecipes.com/recipe/12126/easy-pavlova/
+The Best Pavlova,15.5,0.17,2.08,0.75,0.08,['telur'],https://www.allrecipes.com/recipe/15532/the-best-pavlova/
+Meringue Crust,6.62,0.12,1.62,N/A,N/A,['telur'],https://www.allrecipes.com/recipe/12258/meringue-crust/
+Strawberry Pavlova,28.2,0.3,2.8,1.7,0.1,['telur'],https://www.allrecipes.com/recipe/229849/strawberry-pavlova/
+Chef John's Pavlova with Strawberries,17.5,0.17,1.5,1.25,0.08,['telur'],https://www.allrecipes.com/recipe/221268/chef-johns-pavlova-with-strawberries/
+Lemon Blueberry Pavlova,70.67,0.83,10.33,3.17,0.17,[],https://www.allrecipes.com/recipe/283837/lemon-blueberry-pavlova/
+Best Ever New Zealand Pavlova,7.33,0.08,1.83,N/A,N/A,['telur'],https://www.allrecipes.com/recipe/17420/best-ever-new-zealand-pavlova/
+Banoffee Pavlova,34.75,0.38,7.62,0.5,0.12,['telur'],https://www.allrecipes.com/recipe/71537/banoffee-pavlova/
+Schaum Torte,63.12,0.88,11.38,1.88,0.25,['telur'],https://www.allrecipes.com/recipe/49071/schaum-torte/
+Chocolate Pavlova,50.25,0.62,6.5,2.62,0.38,['telur'],https://www.allrecipes.com/recipe/60928/chocolate-pavlova/
+Meringue Cake with Whipped Cream and Raspberries,28.3,0.3,3.0,1.8,0.2,['telur'],https://www.allrecipes.com/recipe/76924/meringue-cake-with-whipped-cream-and-raspberries/
+Pavlova with Winter Fruits,320.67,4.33,44.33,16.33,2.33,['telur'],https://www.allrecipes.com/recipe/269274/pavlova-with-winter-fruits/
+Mini Berry Pavlovas,5.12,0.06,0.88,0.19,0.0,['telur'],https://www.allrecipes.com/recipe/275547/mini-berry-pavlovas/
+Strawberry Rhubarb Meringue Dessert,64.0,0.8,8.6,3.0,0.3,['telur'],https://www.allrecipes.com/recipe/216997/strawberry-rhubarb-meringue-dessert/
+Orange-Berry Pavlova,19.5,0.25,1.92,1.25,0.08,['telur'],https://www.allrecipes.com/recipe/275549/orange-berry-pavlova/
+Pavlova Deluxe,31.75,0.5,3.75,1.75,0.12,['telur'],https://www.allrecipes.com/recipe/12138/pavlova-deluxe/
+A Drama Queen's Pavlova,17.25,0.25,3.33,0.42,0.08,['telur'],https://www.allrecipes.com/recipe/83706/a-drama-queens-pavlova/
+Frozen Lemon Pavlova,59.5,1.0,9.62,2.12,0.38,['telur'],https://www.allrecipes.com/recipe/165687/frozen-lemon-pavlova/
+Blueberry Dessert,30.25,0.25,3.83,1.58,0.17,['telur'],https://www.allrecipes.com/recipe/130669/blueberry-dessert/
+Peanut Butter Blossoms,1.38,0.02,0.17,0.07,0.01,['susu'],https://www.allrecipes.com/recipe/9920/peanut-blossoms-ii/
+Homemade Tagalongs,3.76,0.07,0.37,0.24,0.02,"['susu', 'telur']",https://www.allrecipes.com/recipe/8534935/homemade-tagalongs/
+Peanut Butter M&M Cookies,10.81,0.31,1.19,0.62,0.06,['telur'],https://www.allrecipes.com/recipe/8532501/peanut-butter-mm-cookies/
+Three Ingredient Peanut Butter Cookies,32.83,1.0,3.5,1.92,0.25,['telur'],https://www.allrecipes.com/recipe/11352/three-ingredient-peanut-butter-cookies/
+Classic Peanut Butter Cookies,2.62,0.04,0.31,0.15,0.02,[],https://www.allrecipes.com/recipe/10275/classic-peanut-butter-cookies/
+3-Ingredient Peanut Butter Cookies,4.08,0.12,0.46,0.25,0.04,['telur'],https://www.allrecipes.com/recipe/244614/3-ingredient-peanut-butter-cookies/
+Easy Peanut Butter Blossoms,4.14,0.11,0.42,0.25,0.03,['susu'],https://www.allrecipes.com/recipe/255735/worlds-easiest-peanut-butter-blossoms/
+Peanut Butter Cup Cookies,3.05,0.05,0.35,0.17,0.03,"['susu', 'telur']",https://www.allrecipes.com/recipe/9471/peanut-butter-cup-cookies/
+Peanut Butter Bars,44.33,0.75,4.08,3.08,0.25,[],https://www.allrecipes.com/recipe/9999/peanut-butter-bars-i/
+Chewy Peanut Butter Chocolate Chip Cookies,10.25,0.17,1.42,0.5,0.08,[],https://www.allrecipes.com/recipe/9996/chewy-peanut-butter-chocolate-chip-cookies/
+4-Ingredient Keto Peanut Butter Cookies,11.08,0.5,1.0,0.92,0.08,['telur'],https://www.allrecipes.com/recipe/261181/4-ingredient-keto-peanut-butter-cookies/
+Peanut Butter Kiss Cookies,7.06,0.22,0.78,0.39,0.06,"['susu', 'telur']",https://www.allrecipes.com/recipe/9806/peanut-butter-kiss-cookies/
+Peanut Butter Balls,3.6,0.06,0.38,0.23,0.02,[],https://www.allrecipes.com/recipe/10670/peanut-butter-balls-iii/
+Peanut Butter Spider Cookies,2.44,0.04,0.29,0.12,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/240007/peanut-butter-spider-cookies/
+Super Easy Peanut Butter Cookies,3.29,0.08,0.29,0.25,0.04,['telur'],https://www.allrecipes.com/recipe/246889/super-easy-peanut-butter-cookies/
+Peanut Butter Haystacks,18.25,0.42,1.42,1.25,0.08,[],https://www.allrecipes.com/recipe/10985/peanut-butter-haystacks/
+Oatmeal Peanut Butter Cookies,2.5,0.04,0.27,0.15,0.02,[],https://www.allrecipes.com/recipe/10308/oatmeal-peanut-butter-cookies/
+Joey's Peanut Butter Cookies,2.94,0.08,0.31,0.17,0.03,"['susu', 'telur']",https://www.allrecipes.com/recipe/11024/joeys-peanut-butter-cookies/
+Soft Peanut Butter Cookies,22.5,0.42,2.83,1.17,0.08,['telur'],https://www.allrecipes.com/recipe/10978/soft-peanut-butter-cookies/
+Sugar-Free Peanut Butter Cookies,5.75,0.25,0.21,0.5,0.08,[],https://www.allrecipes.com/recipe/158403/sugar-free-peanut-butter-cookies/
+Chocolate Peanut Butter Balls,1.54,0.03,0.17,0.1,0.01,[],https://www.allrecipes.com/recipe/10479/peanut-butter-balls-ii/
+Cookie Butter Cookies,8.38,0.12,1.04,0.46,0.04,['telur'],https://www.allrecipes.com/recipe/237633/cookie-butter-cookies/
+Jif Irresistible Peanut Butter Cookies,6.92,0.12,0.83,0.33,0.04,"['telur', 'susu']",https://www.allrecipes.com/recipe/65354/jif-irresistible-peanut-butter-cookies/
+Best Peanut Butter Cookies Ever,3.67,0.11,0.39,0.22,0.03,[],https://www.allrecipes.com/recipe/16754/best-peanut-butter-cookies-ever/
+Mom's Peanut Butter Blossoms,4.5,0.08,0.48,0.27,0.02,['susu'],https://www.allrecipes.com/recipe/235946/peanut-butter-blossoms/
+Peanut Butter Cookie in a Mug,113.5,3.5,12.0,6.5,0.5,['telur'],https://www.allrecipes.com/recipe/237909/peanut-butter-cookie-in-a-mug/
+Christmas Peanut Butter Balls,6.87,0.13,0.87,0.37,0.03,[],https://www.allrecipes.com/recipe/11025/peanut-butter-balls-iv/
+Flourless Peanut Butter Cookies,65.67,2.0,7.0,3.83,0.5,['telur'],https://www.allrecipes.com/recipe/9998/flourless-peanut-butter-cookies/
+Quick Peanut Butter Cookies,1.83,0.06,0.19,0.11,0.0,['telur'],https://www.allrecipes.com/recipe/10419/quick-peanut-butter-cookies/
+Peanut Butter Rice Krispie Treats,26.92,0.5,4.42,1.0,0.08,[],https://www.allrecipes.com/recipe/10765/peanut-butter-crispies-ii/
+Favorite Peanut Butter Cookies,2.02,0.04,0.2,0.13,0.02,[],https://www.allrecipes.com/recipe/25052/favorite-peanut-butter-cookies/
+Chef John's Peanut Butter Cookies,21.0,0.42,2.5,1.17,0.08,['telur'],https://www.allrecipes.com/recipe/220435/chef-johns-peanut-butter-cookies/
+Old Fashioned Peanut Butter Cookies,2.5,0.07,0.28,0.13,0.0,[],https://www.allrecipes.com/recipe/10836/old-fashioned-peanut-butter-cookies/
+No Bake Chocolate Peanut Butter Cookies,6.88,0.12,0.96,0.29,0.08,['susu'],https://www.allrecipes.com/recipe/231368/no-bake-chocolate-peanut-butter-cookies/
+"Easy, Chewy Flourless Peanut Butter Cookies",18.5,0.5,1.92,1.08,0.17,['telur'],https://www.allrecipes.com/recipe/242366/easy-chewy-flourless-peanut-butter-cookies/
+Peanut Butter Cup Brownies,104.67,1.17,14.17,5.33,0.67,['telur'],https://www.allrecipes.com/recipe/10444/peanut-butter-cup-brownies/
+Uncle Mac's Peanut Butter and Jelly Cookies,17.25,0.5,1.92,0.92,0.08,['telur'],https://www.allrecipes.com/recipe/26244/uncle-macs-peanut-butter-and-jelly-cookies/
+Peanut Butter Chocolate Chip Cookies from Heaven,11.71,0.21,1.33,0.67,0.08,[],https://www.allrecipes.com/recipe/9830/peanut-butter-chocolate-chip-cookies-from-heaven/
+Soft and Chewy Peanut Butter Cookies,19.44,0.33,2.33,1.0,0.06,[],https://www.allrecipes.com/recipe/10716/soft-and-chewy-peanut-butter-cookies/
+Oatmeal Peanut Butter Cookies III,33.08,0.67,3.5,2.0,0.17,['telur'],https://www.allrecipes.com/recipe/10759/oatmeal-peanut-butter-cookies-iii/
+The Whole Jar of Peanut Butter Cookies,9.07,0.23,0.83,0.6,0.07,['telur'],https://www.allrecipes.com/recipe/11520/the-whole-jar-of-peanut-butter-cookies/
+Gluten-Free Peanut Butter Cookies,34.2,0.87,3.33,2.2,0.33,[],https://www.allrecipes.com/recipe/11441/gluten-free-peanut-butter-cookies/
+Chocolate Coated Peanut Butter Crackers,9.72,0.15,0.97,0.6,0.03,[],https://www.allrecipes.com/recipe/10445/chocolate-coated-peanut-butter-crackers/
+Oatmeal Peanut Butter Bars,4.62,0.09,0.56,0.25,0.06,[],https://www.allrecipes.com/recipe/10661/oatmeal-peanut-butter-bars/
+Dad's Favorite Peanut Butter Cookies,2.42,0.06,0.28,0.14,0.0,['telur'],https://www.allrecipes.com/recipe/10373/dads-favorite-peanut-butter-cookies/
+Oatmeal Peanut Butter and Chocolate Chip Cookies,3.92,0.06,0.53,0.19,0.03,[],https://www.allrecipes.com/recipe/15466/oatmeal-peanut-butter-and-chocolate-chip-cookies/
+Peanut Butter Cornflake Crunch Bars,29.42,0.58,5.17,0.92,0.17,[],https://www.allrecipes.com/recipe/9869/peanut-butter-cornflake-crunch-bars/
+Easy and Fun Peanut Butter Balls,17.17,0.75,1.75,0.92,0.08,['susu'],https://www.allrecipes.com/recipe/11328/easy-and-fun-peanut-butter-balls/
+Peanut Butter Cookies,5.92,0.08,0.79,0.29,0.04,['telur'],https://www.allrecipes.com/recipe/10665/peanut-butter-cookies-iv/
+Michelle's Peanut Butter Marbled Brownies,5.08,0.08,0.58,0.31,0.03,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/11266/michelles-peanut-butter-marbled-brownies/
+Easy Peanut Butter Chocolate Chip Cookies,3.08,0.06,0.28,0.19,0.03,['telur'],https://www.allrecipes.com/recipe/10675/peanut-butter-chocolate-chip-cookies-ii/
+Peanut Butter and Bran Cookies,0.77,0.01,0.08,0.05,0.01,[],https://www.allrecipes.com/recipe/10387/peanut-butter-and-bran-cookies/
+Peanut Butter Oatmeal Cookies,1.62,0.03,0.15,0.1,0.01,[],https://www.allrecipes.com/recipe/9980/peanut-butter-oatmeal-cookies/
+Stef's Whoopie Pies with Peanut Butter Frosting,135.17,1.83,17.83,6.83,0.67,"['susu', 'telur']",https://www.allrecipes.com/recipe/10994/stefs-whoopie-pies-with-peanut-butter-frosting/
+Light and Soft Peanut Butter Cookies,6.21,0.17,0.54,0.42,0.04,['telur'],https://www.allrecipes.com/recipe/232913/light-and-soft-peanut-butter-cookies/
+No-Bake Chocolate Peanut Butter Bars,24.5,0.5,2.5,1.58,0.17,[],https://www.allrecipes.com/recipe/10019/chocolate-peanut-butter-bars-ii/
+Homemade Peanut Butter Chews,4.19,0.06,0.64,0.17,0.03,[],https://www.allrecipes.com/recipe/10060/homemade-peanut-butter-chews/
+Peanut Butter Banana Cookies,15.75,0.58,1.25,1.08,0.17,['telur'],https://www.allrecipes.com/recipe/267981/peanut-butter-banana-cookies/
+Peanut Butter Fingers,7.67,0.12,0.96,0.42,0.04,"['susu', 'telur']",https://www.allrecipes.com/recipe/26202/peanut-butter-fingers/
+5-Ingredient Peanut Butter Chocolate Cookies,6.56,0.31,0.38,0.56,0.06,['telur'],https://www.allrecipes.com/recipe/260369/5-ingredient-peanut-butter-chocolate-cookies/
+Magic Peanut Butter Middles,19.27,0.47,2.27,1.07,0.13,['telur'],https://www.allrecipes.com/recipe/10064/magic-peanut-butter-middles/
+Peanut Butter Shortbread Cookies,34.83,1.0,3.83,1.92,0.25,[],https://www.allrecipes.com/recipe/9825/peanut-butter-shortbread-cookies/
+Jennah's Famous Peanut Butter Blossoms,4.8,0.13,0.6,0.23,0.03,['susu'],https://www.allrecipes.com/recipe/235986/jennahs-famous-peanut-butter-blossoms/
+Peanut Butter Bars IV,16.78,0.33,1.94,1.0,0.11,[],https://www.allrecipes.com/recipe/11077/peanut-butter-bars-iv/
+Mini Pecan Pies,17.72,0.17,2.5,0.83,0.06,[],https://www.allrecipes.com/recipe/240315/mini-southern-pecan-pies/
+Pecan Pumpkin Pie,82.62,1.38,11.88,3.5,0.5,['susu'],https://www.allrecipes.com/recipe/12223/pecan-pumpkin-pie-i/
+Pecan Pie,64.0,0.62,8.12,3.38,0.38,[],https://www.allrecipes.com/recipe/9487/pecan-pie/
+Chocolate Pecan Pie,92.0,1.0,11.5,4.88,0.25,[],https://www.allrecipes.com/recipe/13611/chocolate-pecan-pie-i/
+Pecan Pie without Corn Syrup,53.38,0.62,4.62,3.75,0.25,['susu'],https://www.allrecipes.com/recipe/22544/pecan-pie-v/
+Kentucky Derby Pie,86.75,0.88,10.75,4.88,0.5,[],https://www.allrecipes.com/recipe/258239/kentucky-derby-pie/
+Chocolate Bourbon Pecan Pie,80.88,0.75,10.0,4.38,0.38,[],https://www.allrecipes.com/recipe/15994/chocolate-bourbon-pecan-pie/
+Southern Pecan Pie,65.0,0.75,8.75,3.38,0.38,[],https://www.allrecipes.com/recipe/12170/southern-pecan-pie-i/
+Pecan Pie Cheesecake,133.75,1.62,11.88,9.25,0.5,['keju'],https://www.allrecipes.com/recipe/8505912/pecan-pie-cheesecake/
+Pecan Tarts,64.0,0.75,7.12,3.75,0.38,[],https://www.allrecipes.com/recipe/15163/pecan-tarts/
+Irresistible Pecan Pie,37.67,0.42,4.08,2.33,0.25,[],https://www.allrecipes.com/recipe/18433/irresistible-pecan-pie/

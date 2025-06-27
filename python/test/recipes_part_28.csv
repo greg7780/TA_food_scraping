@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Quick and Easy Chicken Spaghetti,62.67,4.33,6.5,2.17,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/26286/quick-and-easy-chicken-spaghetti/
+Creamy Bay Scallop Spaghetti,167.75,9.5,13.25,8.5,0.5,['keju'],https://www.allrecipes.com/recipe/255021/creamy-bay-scallop-spaghetti/
+One-Pot Spaghetti with Meat Sauce,151.5,7.5,16.5,6.75,0.5,['keju'],https://www.allrecipes.com/recipe/269004/one-pot-spaghetti-with-meat-sauce/
+Spaghetti alla Carbonara,191.0,9.75,21.25,7.0,1.0,['keju'],https://www.allrecipes.com/recipe/245775/spaghetti-alla-carbonara-the-traditional-italian-recipe/
+Spaghetti Carbonara,55.5,2.0,5.62,2.62,0.25,['keju'],https://www.allrecipes.com/recipe/11973/spaghetti-carbonara-ii/
+Easy Spaghetti with Tomato Sauce,139.25,7.0,16.5,5.0,1.5,['sapi'],https://www.allrecipes.com/recipe/11715/easy-spaghetti-with-tomato-sauce/
+Spaghetti Pizza,37.25,1.88,3.75,1.62,0.25,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/23181/spaghetti-pizza-i/
+Chicken and Shrimp Carbonara,97.0,5.5,5.88,5.75,0.38,"['keju', 'ayam', 'telur', 'udang']",https://www.allrecipes.com/recipe/263497/chicken-and-shrimp-carbonara/
+Light Lemon Pesto Pasta,77.5,3.0,10.0,2.83,0.67,['keju'],https://www.allrecipes.com/recipe/233010/light-lemon-pesto-pasta/
+Italian Sausage Spaghetti,334.0,14.5,30.75,16.25,2.5,['keju'],https://www.allrecipes.com/recipe/283148/italian-sausage-spaghetti/
+Easy Spaghetti Pie,67.67,5.67,3.33,3.5,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11837/spaghetti-pie-ii/
+Loaded Chicken Carbonara,232.0,18.5,23.5,6.0,2.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/232865/loaded-chicken-carbonara/
+Shrimp Spaghetti with Tomato Sauce,60.75,2.75,9.75,1.12,0.62,['udang'],https://www.allrecipes.com/recipe/263413/shrimp-spaghetti-with-tomato-sauce/
+Chef John's Spaghetti with Red Clam Sauce,213.0,11.0,29.25,4.25,2.0,['keju'],https://www.allrecipes.com/recipe/254576/chef-johns-spaghetti-with-red-clam-sauce/
+Spaghetti Italian,45.83,2.0,6.5,1.33,0.67,[],https://www.allrecipes.com/recipe/19356/spaghetti-italian/
+Spaghetti with Corned Beef,95.75,6.25,10.25,3.0,0.75,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/11819/spaghetti-with-corned-beef/
+Spaghetti a la Philly,165.5,8.25,16.25,7.5,1.75,"['keju', 'sapi']",https://www.allrecipes.com/recipe/212496/spaghetti-a-la-philly/
+Pasta Verde,187.0,5.0,22.5,9.0,1.25,['keju'],https://www.allrecipes.com/recipe/269771/pasta-verde/
+Italian Carbonara with Bacon,64.0,2.62,6.0,3.12,0.38,['keju'],https://www.allrecipes.com/recipe/277132/italian-carbonara-with-bacon/
+The Best and Easiest Spaghetti,198.25,8.0,16.75,10.75,1.0,['sapi'],https://www.allrecipes.com/recipe/11724/the-best-and-easiest-spaghetti/
+Ground Sausage Spaghetti,93.0,4.0,10.5,3.83,0.67,['keju'],https://www.allrecipes.com/recipe/234636/ground-sausage-spaghetti/
+Chicken Spaghetti Bake,89.88,6.5,6.0,4.25,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/231232/chicken-spaghetti-bake/
+Chef John's Spaghetti al Tonno,155.0,7.75,20.0,4.5,1.75,['keju'],https://www.allrecipes.com/recipe/237065/chef-johns-spaghetti-al-tonno/
+Easy Baked Spaghetti Casserole,61.25,3.12,5.0,3.12,0.38,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11905/baked-spaghetti-i/
+Chicken Spaghetti II,31.44,2.56,3.11,0.89,0.11,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8976/chicken-spaghetti-ii/
+Oyster Mushroom Pasta,204.75,5.5,23.0,10.5,1.75,['keju'],https://www.allrecipes.com/recipe/247435/oyster-mushroom-pasta/
+Pasta with Swiss Chard,226.5,8.5,31.0,9.0,6.0,['keju'],https://www.allrecipes.com/recipe/218593/pasta-with-swiss-chard/
+Mom's Spaghetti Bolognese,56.38,3.0,7.5,1.75,0.88,"['keju', 'sapi']",https://www.allrecipes.com/recipe/217378/moms-spaghetti-bolognese/
+Spaghetti with Marinara Sauce,34.12,1.25,7.0,0.12,0.62,[],https://www.allrecipes.com/recipe/12040/spaghetti-with-marinara-sauce/
+Chicken Spaghetti with White Sauce,61.25,4.5,6.25,2.0,0.38,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/282017/chicken-spaghetti-with-white-sauce/
+Spaghetti with Garlic and Basil,42.0,1.12,5.12,1.88,0.38,['keju'],https://www.allrecipes.com/recipe/63299/spaghetti-with-garlic-and-basil/
+Fideo (Mexican Spaghetti),75.83,5.33,8.0,2.33,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/62212/fideo-mexican-spaghetti/
+Chef John's Spaghetti alla Carbonara,344.0,18.0,33.0,15.0,1.5,['keju'],https://www.allrecipes.com/recipe/221971/chef-johns-spaghetti-alla-carbonara/
+Baked Spaghetti Casserole,49.5,2.5,5.88,1.75,0.5,['keju'],https://www.allrecipes.com/recipe/240285/baked-spaghetti-casserole/
+Vegan Spaghetti and (Beyond) Meatballs,173.0,3.5,21.5,5.5,2.0,['sapi'],https://www.allrecipes.com/recipe/278805/vegan-spaghetti-and-beyond-meatballs/
+Spaghetti with Bacon,49.88,1.38,5.38,2.5,0.25,[],https://www.allrecipes.com/recipe/214576/spaghetti-with-bacon/
+Pasta with Arugula and Tomatoes,185.0,5.33,25.67,7.0,1.67,['keju'],https://www.allrecipes.com/recipe/266888/pasta-with-arugula-and-tomatoes/
+Best Spanish Rice,57.2,1.2,10.2,1.2,0.4,['ayam'],https://www.allrecipes.com/recipe/33385/best-spanish-rice/
+Instant Pot Mexican Rice,56.25,1.25,10.25,1.0,0.25,['ayam'],https://www.allrecipes.com/recipe/263330/instant-pot-mexican-rice/
+Flavorful Spanish Rice and Beans,79.5,2.25,14.25,1.5,1.75,[],https://www.allrecipes.com/recipe/261369/flavorful-spanish-rice-and-beans/
+Spanish Rice II,67.5,1.25,11.5,2.0,0.75,[],https://www.allrecipes.com/recipe/24329/spanish-rice-ii/
+Arroz Rojo (Mexican Red Rice),42.6,1.0,7.0,1.2,0.4,['ayam'],https://www.allrecipes.com/recipe/221433/arroz-rojo-mexican-red-rice/
+Quick and Easy Spanish Rice,39.17,0.67,7.0,0.83,0.17,['ayam'],https://www.allrecipes.com/recipe/220650/quick-and-easy-spanish-rice/
+Arroz Rojo,43.4,0.8,7.4,1.2,0.6,['ayam'],https://www.allrecipes.com/recipe/78213/arroz-rojo/
+Rice Cooker Spanish Rice,35.0,0.88,6.0,0.88,0.38,['ayam'],https://www.allrecipes.com/recipe/261374/rice-cooker-spanish-rice/
+Better Spanish Rice,41.0,1.0,7.0,0.75,0.25,['ayam'],https://www.allrecipes.com/recipe/132896/better-spanish-rice/
+Spicy Spanish-Style Rice,24.25,0.5,4.88,0.25,0.12,['ayam'],https://www.allrecipes.com/recipe/237639/spicy-spanish-style-rice/
+Spanish Brown Rice,49.75,1.25,10.5,0.5,0.75,[],https://www.allrecipes.com/recipe/230893/spanish-brown-rice/
+Easy Spanish Rice,21.0,0.38,3.75,0.5,0.12,['ayam'],https://www.allrecipes.com/recipe/233081/easy-spanish-rice/
+Quick Spanish Rice,33.83,0.67,5.17,1.0,0.5,['sapi'],https://www.allrecipes.com/recipe/239479/quick-spanish-rice/
+Easy Arroz con Gandules,19.75,0.58,3.5,0.42,0.5,[],https://www.allrecipes.com/recipe/14040/easy-arroz-con-gandules/
+Easy Authentic Spanish Rice,31.62,0.62,3.38,1.75,0.25,['keju'],https://www.allrecipes.com/recipe/222047/easy-authentic-spanish-rice/
+Spanish Rice Original,62.17,1.5,7.67,3.17,0.83,['ayam'],https://www.allrecipes.com/recipe/53224/spanish-rice-original/
+Slow Cooker Spanish Rice,66.5,3.67,6.33,3.0,0.67,['sapi'],https://www.allrecipes.com/recipe/261379/slow-cooker-spanish-rice/
+Vegan Spanish Rice,67.0,1.25,10.75,2.0,0.75,[],https://www.allrecipes.com/recipe/261372/vegan-spanish-rice/
+Brown Spanish Rice,26.0,0.67,5.33,0.17,0.5,['ayam'],https://www.allrecipes.com/recipe/222050/brown-spanish-rice/
+Keto Cauliflower Spanish Rice,20.67,0.5,1.67,1.5,0.5,[],https://www.allrecipes.com/recipe/268237/keto-cauliflower-spanish-rice/
+Baked Mexican Rice,39.67,0.83,7.17,0.83,0.5,[],https://www.allrecipes.com/recipe/280388/baked-mexican-rice/
+Simple Spanish Rice,89.75,1.5,13.0,3.75,1.0,[],https://www.allrecipes.com/recipe/229524/simple-spanish-rice/
+Spanish Rice,44.83,0.83,9.17,0.5,0.33,[],https://www.allrecipes.com/recipe/16652/spanish-rice/
+Linnie's Spanish Rice,50.0,1.25,11.0,0.25,0.5,[],https://www.allrecipes.com/recipe/17428/linnies-spanish-rice/
+Easy Slow Cooker Spanish Rice,50.38,3.38,4.0,2.38,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/261380/easy-slow-cooker-spanish-rice/
+Spicy American Spanish Rice,37.75,1.62,2.38,2.5,0.38,['sapi'],https://www.allrecipes.com/recipe/222052/spicy-american-spanish-rice/
+Apple Spice Cake,25.5,0.29,3.86,1.07,0.14,[],https://www.allrecipes.com/recipe/8170/apple-spice-cake/
+Fresh Pear Cake,37.42,0.42,5.5,1.58,0.25,['telur'],https://www.allrecipes.com/recipe/8212/fresh-pear-cake/
+Best Carrot Cake Ever,28.56,0.38,4.12,1.25,0.19,[],https://www.allrecipes.com/recipe/17393/best-carrot-cake-ever/
+"Moist, Tender Spice Cake",17.19,0.25,2.25,0.81,0.06,['susu'],https://www.allrecipes.com/recipe/76964/moist-tender-spice-cake/
+Buttery Cinnamon Cake,22.93,0.29,2.93,1.14,0.07,['susu'],https://www.allrecipes.com/recipe/7540/buttery-cinnamon-cake/
+Sugar-Free Cake,30.25,0.5,3.42,1.75,0.25,[],https://www.allrecipes.com/recipe/7419/sugar-free-cake/
+Great Canadian Heinz Ketchup Cake,52.0,0.42,7.42,2.42,0.08,['keju'],https://www.allrecipes.com/recipe/217814/great-canadian-heinz-ketchup-cake/
+Cake Mixes From Scratch and Variations,5.96,0.08,0.92,0.21,0.0,['susu'],https://www.allrecipes.com/recipe/8063/cake-mixes-from-scratch-and-variations/
+Moist Apple Cake,10.33,0.12,1.29,0.54,0.08,[],https://www.allrecipes.com/recipe/8358/apple-cake-iv/
+Apple Cake with Caramel Glaze,56.83,0.58,5.92,3.58,0.17,['susu'],https://www.allrecipes.com/recipe/73751/apple-harvest-pound-cake-with-caramel-glaze/
+Carrot Cake with PHILLY Cream Cheese Icing,24.94,0.28,3.0,1.39,0.06,['keju'],https://www.allrecipes.com/recipe/179673/carrot-cake-with-philly-cream-cheese-icing/
+Tomato Soup Cake,10.56,0.12,1.94,0.31,0.06,['telur'],https://www.allrecipes.com/recipe/7583/tomato-soup-cake-i/
+Mother's Applesauce Cake,32.88,0.31,5.69,1.06,0.19,['susu'],https://www.allrecipes.com/recipe/8079/mothers-applesauce-cake/
+Grandma Snyder's Oatmeal Cake,22.5,0.28,3.17,1.06,0.11,['susu'],https://www.allrecipes.com/recipe/7268/grandma-snyders-oatmeal-cake/
+Easy Raisin Cake,6.25,0.08,0.88,0.29,0.04,[],https://www.allrecipes.com/recipe/7342/easy-raisin-cake/
+German Apple Cake,8.38,0.08,1.17,0.42,0.04,[],https://www.allrecipes.com/recipe/7915/german-apple-cake-i/
+Applesauce Cake VI,43.92,0.42,5.25,2.42,0.17,[],https://www.allrecipes.com/recipe/25558/applesauce-cake-vi/
+Never Fail Applesauce Spice Cake,24.89,0.28,3.56,1.11,0.11,['keju'],https://www.allrecipes.com/recipe/7997/never-fail-applesauce-spice-cake/
+Apple Butter Spice Cake,33.25,0.42,5.08,1.33,0.17,[],https://www.allrecipes.com/recipe/13801/apple-butter-spice-cake/
+Green Tomato Cake,7.29,0.12,1.21,0.25,0.04,[],https://www.allrecipes.com/recipe/8381/green-tomato-cake/
+Sour Milk Spice Cake,23.17,0.33,2.92,1.17,0.08,['susu'],https://www.allrecipes.com/recipe/8227/sour-milk-spice-cake/
+Ginger Malva Pudding,45.5,0.62,6.75,1.88,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/256679/ginger-malva-pudding/
+Molasses Cake,24.83,0.33,4.17,0.83,0.08,[],https://www.allrecipes.com/recipe/8034/molasses-cake/
+Easy Pumpkin Cake,43.08,0.5,5.5,2.25,0.25,[],https://www.allrecipes.com/recipe/7860/pumpkin-cake-i/
+Guava Cake,26.64,0.36,4.0,1.07,0.07,[],https://www.allrecipes.com/recipe/7966/guava-cake/
+Depression Cake I,9.75,0.08,1.58,0.38,0.04,[],https://www.allrecipes.com/recipe/8214/depression-cake-i/
+Gingerbread Cake with Lemon Glaze,39.44,0.33,6.44,1.44,0.11,['telur'],https://www.allrecipes.com/recipe/221068/gingerbread-cake-with-lemon-glaze/
+Orange Marmalade Cake,17.0,0.29,2.07,0.93,0.07,['susu'],https://www.allrecipes.com/recipe/17455/orange-marmalade-cake/
+Nutmeg Cake,34.17,0.42,5.5,1.25,0.08,[],https://www.allrecipes.com/recipe/7679/nutmeg-cake/
+Carrot Cake XI,10.58,0.12,1.12,0.67,0.04,[],https://www.allrecipes.com/recipe/17344/carrot-cake-xi/
+Irish Whiskey Cake,62.33,0.67,10.89,1.89,0.33,['telur'],https://www.allrecipes.com/recipe/15864/irish-whiskey-cake/
+Jewish Apple Cake,28.14,0.36,4.0,1.29,0.14,[],https://www.allrecipes.com/recipe/7969/jewish-apple-cake-i/
+Coconut-Topped Oatmeal Cake,16.44,0.17,2.5,0.67,0.06,[],https://www.allrecipes.com/recipe/7781/oatmeal-cake-i/
+Raw Apple Cake,11.17,0.12,1.71,0.46,0.04,"['keju', 'susu']",https://www.allrecipes.com/recipe/8269/raw-apple-cake/
+Chocolate Chip Apple Cake,28.29,0.36,4.07,1.29,0.14,[],https://www.allrecipes.com/recipe/7988/chocolate-chip-apple-cake/
+Georgia's Tennessee Jam Cake,57.08,1.0,8.92,2.17,0.25,[],https://www.allrecipes.com/recipe/136566/georgias-tennessee-jam-cake/
+Pumpkin Spice Cake,24.0,0.25,3.12,1.25,0.12,[],https://www.allrecipes.com/recipe/26061/pumpkin-spice-cake-i/
+Zucchini Spice Cake,9.88,0.12,1.67,0.33,0.04,[],https://www.allrecipes.com/recipe/163781/zucchini-spice-cake/
+Boscobel Beach Ginger Cake,30.17,0.5,3.83,1.5,0.08,['susu'],https://www.allrecipes.com/recipe/25971/boscobel-beach-ginger-cake/
+Moist Holiday Honeycake,46.25,0.5,7.25,1.67,0.17,[],https://www.allrecipes.com/recipe/219008/moist-holiday-honeycake/
+Gingerbread I,17.58,0.17,2.58,0.75,0.08,['telur'],https://www.allrecipes.com/recipe/7345/gingerbread-i/
+Fig Spice Cake,22.5,0.36,3.43,0.93,0.36,[],https://www.allrecipes.com/recipe/24974/fig-spice-cake/
+Sausage Cake,48.83,0.92,7.33,1.92,0.17,[],https://www.allrecipes.com/recipe/8361/sausage-cake/
+Spicy Apple Cake,52.0,0.56,7.89,2.11,0.22,['susu'],https://www.allrecipes.com/recipe/19117/spicy-apple-cake/
+Zucchini Bars with Spice Frosting,22.44,0.25,3.19,1.06,0.06,['keju'],https://www.allrecipes.com/recipe/263784/zucchini-bars-with-spice-frosting/
+Glazed Fig Cake,19.56,0.22,2.11,1.17,0.06,['susu'],https://www.allrecipes.com/recipe/21074/fig-cake-i/
+Mexican Chocolate Cake,3.47,0.03,0.47,0.17,0.0,['susu'],https://www.allrecipes.com/recipe/17217/mexican-chocolate-cake/
+Kim's Buttermilk Spice Cake,48.92,0.58,5.92,2.67,0.08,['keju'],https://www.allrecipes.com/recipe/286259/kims-buttermilk-spice-cake/
+Cinnabon® Cupcakes,13.71,0.17,1.62,0.79,0.04,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/231832/cinnabon-cupcakes/
+Fabulous Oatmeal-Bran Cake,6.17,0.08,1.04,0.21,0.04,[],https://www.allrecipes.com/recipe/7359/fabulous-oatmeal-bran-cake/
+Harvest Pumpkin Cupcakes,7.28,0.06,1.12,0.31,0.03,['keju'],https://www.allrecipes.com/recipe/215375/harvest-pumpkin-cupcakes/
+A Plus Carrot Cake,12.33,0.12,1.54,0.67,0.08,[],https://www.allrecipes.com/recipe/81201/a-plus-carrot-cake/
+Raisin Cake,22.5,0.25,4.5,0.5,0.17,[],https://www.allrecipes.com/recipe/17896/raisin-cake/
+Chocolate Zucchini Cake,11.42,0.12,1.17,0.71,0.04,[],https://www.allrecipes.com/recipe/17643/chocolate-zucchini-cake-iii/
+Honey Cake I,6.83,0.12,1.25,0.17,0.04,[],https://www.allrecipes.com/recipe/7487/honey-cake-i/
+Grandma Ruby's Prune Cake,24.12,0.25,4.38,0.69,0.19,[],https://www.allrecipes.com/recipe/256430/grandma-rubys-prune-cake/
+Nutmeg Feather Cake,14.53,0.27,2.27,0.53,0.07,[],https://www.allrecipes.com/recipe/71169/nutmeg-feather-cake/
+Upside-Down Pear Gingerbread Cake,30.67,0.33,5.25,1.0,0.17,['telur'],https://www.allrecipes.com/recipe/216555/upside-down-pear-gingerbread-cake/
+Rice Cooker Muffin Cake,28.75,0.5,4.62,1.0,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/228477/rice-cooker-muffin-cake/
+Easy Pumpkin Bars,4.12,0.04,0.54,0.21,0.0,[],https://www.allrecipes.com/recipe/13680/easy-pumpkin-bars/
+War Cake,12.22,0.17,2.0,0.44,0.06,[],https://www.allrecipes.com/recipe/8125/war-cake/
+"Moist, Tender Spice Cake: Gingerbread Variation",18.69,0.25,2.62,0.81,0.06,['susu'],https://www.allrecipes.com/recipe/76965/moist-tender-spice-cake-gingerbread-variation/
+Colonial Pumpkin Bars,5.56,0.06,0.81,0.25,0.03,['keju'],https://www.allrecipes.com/recipe/13671/colonial-pumpkin-bars/
+Eggless Milkless Butterless Cake,16.42,0.25,3.5,0.17,0.08,[],https://www.allrecipes.com/recipe/7490/eggless-milkless-butterless-cake/
+Grandma's Wonderful Picnic Cake,11.21,0.12,1.25,0.71,0.08,[],https://www.allrecipes.com/recipe/232014/grandmas-wonderful-picnic-cake/
+Tomato Soup Cake III,16.33,0.22,2.33,0.72,0.06,['keju'],https://www.allrecipes.com/recipe/7759/tomato-soup-cake-iii/
+Orange Spice Garbanzo Cake,10.5,0.4,1.9,0.2,0.2,[],https://www.allrecipes.com/recipe/235771/orange-spice-garbanzo-cake/
+Hot Spinach Artichoke Dip,11.17,0.33,0.25,1.0,0.08,['keju'],https://www.allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/
+Best Spinach Dip Ever,113.67,2.17,8.83,7.83,0.5,[],https://www.allrecipes.com/recipe/22617/best-spinach-dip-ever/
+Creamy Cheesy Spinach Dip,9.58,0.5,0.33,0.75,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/228778/creamy-cheesy-spinach-dip/
+Spinach and Artichoke Dip,5.54,0.21,0.08,0.5,0.04,['keju'],https://www.allrecipes.com/recipe/13887/spinach-and-artichoke-dip/
+"Artichoke & Spinach Dip, Restaurant Style",12.75,0.58,0.42,1.0,0.08,['keju'],https://www.allrecipes.com/recipe/33474/artichoke-spinach-dip-restaurant-style/
+Instant Pot Spinach and Artichoke Dip,54.88,3.0,1.12,4.38,0.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/268013/instant-pot-spinach-and-artichoke-dip/
+Amazing No Cook Spinach Artichoke Dip,2.97,0.16,0.12,0.22,0.03,['keju'],https://www.allrecipes.com/recipe/223012/amazing-no-cook-spinach-artichoke-dip/
+Hot Artichoke and Spinach Dip,5.12,0.25,0.19,0.38,0.06,['keju'],https://www.allrecipes.com/recipe/14814/hot-artichoke-spinach-dip/
+"Veronica's Hot Spinach, Artichoke and Chile Dip",31.4,0.9,0.8,2.9,0.2,['keju'],https://www.allrecipes.com/recipe/60357/veronicas-hot-spinach-artichoke-and-chile-dip/
+Ultimate Spinach Dip,2.08,0.02,0.04,0.21,0.0,[],https://www.allrecipes.com/recipe/24166/ultimate-spinach-dip/
+Chef John's Hot Spinach Artichoke Dip,47.33,2.17,1.5,3.83,0.5,['keju'],https://www.allrecipes.com/recipe/221191/chef-johns-hot-spinach-artichoke-dip/
+Original Ranch Spinach Dip,20.3,0.6,2.3,1.0,0.2,[],https://www.allrecipes.com/recipe/220257/original-ranch-spinach-dip/
+Slow Cooker Spinach-Artichoke Dip,38.83,2.0,1.33,3.0,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/276776/slow-cooker-spinach-artichoke-dip/
+Artichoke Spinach Dip,1.43,0.04,0.04,0.14,0.0,['keju'],https://www.allrecipes.com/recipe/26699/artichoke-spinach-dip/
+Luscious Spinach Artichoke Dip,2.08,0.08,0.08,0.17,0.04,['keju'],https://www.allrecipes.com/recipe/15141/luscious-spinach-artichoke-dip/
+Baked Spinach-Artichoke Dip without Mayo,7.56,0.31,0.25,0.62,0.06,['keju'],https://www.allrecipes.com/recipe/282806/baked-spinach-artichoke-dip-without-mayo/
+Pumpernickel Spinach Dip,3.88,0.12,0.46,0.21,0.08,[],https://www.allrecipes.com/recipe/24914/pumpernickel-spinach-dip-ii/
+Spinach Con Queso,15.94,0.81,0.5,1.19,0.06,"['keju', 'susu']",https://www.allrecipes.com/recipe/245161/spinach-con-queso/
+Avocado-Spinach Dip,7.0,0.12,0.38,0.62,0.25,[],https://www.allrecipes.com/recipe/241276/avocado-spinach-dip/
+Hot Spinach and Artichoke Dip,1.46,0.04,0.04,0.12,0.02,['keju'],https://www.allrecipes.com/recipe/24915/hot-spinach-and-artichoke-dip/
+Florentine Artichoke Dip,12.12,0.38,0.31,1.06,0.06,['keju'],https://www.allrecipes.com/recipe/14930/florentine-artichoke-dip/
+Holiday Hot Spinach Dip,1.46,0.08,0.08,0.12,0.04,['keju'],https://www.allrecipes.com/recipe/9249/holiday-hot-spinach-dip/
+Hot Asiago and Spinach Dip,4.67,0.17,0.04,0.46,0.0,['keju'],https://www.allrecipes.com/recipe/160422/hot-asiago-and-spinach-dip/
+Spinach Artichoke Dip with Water Chestnuts,8.25,0.25,0.42,0.67,0.08,['keju'],https://www.allrecipes.com/recipe/239156/spinach-artichoke-dip-with-water-chestnuts/
+Vegan Spinach Artichoke Dip,17.7,0.8,1.0,1.3,0.6,['keju'],https://www.allrecipes.com/recipe/266759/vegan-spinach-artichoke-dip/
+Hot Mexican Spinach Dip,0.71,0.04,0.02,0.05,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/24191/hot-mexican-spinach-dip/
+Fabulous Spinach and Artichoke Dip,13.25,0.58,0.42,1.08,0.08,['keju'],https://www.allrecipes.com/recipe/241634/fabulous-spinach-and-artichoke-dip/
+Spinach Dip,3.1,0.05,0.1,0.3,0.05,[],https://www.allrecipes.com/recipe/14022/spinach-dip/
+Spinach Dip in Pumpernickel,5.45,0.3,0.85,0.1,0.1,['keju'],https://www.allrecipes.com/recipe/24232/spinach-dip-in-pumpernickel/
+Justine's Artichoke Chicken Spinach Dip,48.0,2.5,1.12,3.88,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/58527/justines-artichoke-chicken-spinach-dip/
+White Cheese Dip,4.69,0.19,0.06,0.44,0.0,['keju'],https://www.allrecipes.com/recipe/240988/white-cheese-dip/
+"Hot Spinach, Artichoke, and Swiss Cheese Dip",10.88,0.38,0.38,0.94,0.06,['keju'],https://www.allrecipes.com/recipe/283641/hot-spinach-artichoke-and-swiss-cheese-dip/
+Sour Cream Mushroom Dip,47.17,1.83,0.83,4.17,0.17,['keju'],https://www.allrecipes.com/recipe/213209/sour-cream-mushroom-dip/
+Mexican Cream Cheese Dip,8.19,0.38,0.19,0.69,0.06,['keju'],https://www.allrecipes.com/recipe/278078/mexican-cream-cheese-dip/
+Artichoke Dip with Fresh Spinach,16.83,0.58,0.58,1.42,0.08,['keju'],https://www.allrecipes.com/recipe/282809/artichoke-dip-with-fresh-spinach/
+No Bake Pizza Appetizer,38.25,1.25,2.88,2.5,0.12,['ayam'],https://www.allrecipes.com/recipe/19660/no-bake-pizza-appetizer/
+"Absolutely Wonderful Cheesy, Creamy Spinach Artichoke Dip",30.5,1.38,2.75,1.62,0.38,['keju'],https://www.allrecipes.com/recipe/262412/absolutely-wonderful-cheesy-creamy-spinach-artichoke-dip/
+Healthier Hot Artichoke and Spinach Dip II,8.58,0.42,0.33,0.67,0.08,['keju'],https://www.allrecipes.com/recipe/219457/healthier-hot-artichoke-and-spinach-dip-ii/
+Spinach Con Queso Dip,48.4,2.6,1.0,3.8,0.1,"['keju', 'susu']",https://www.allrecipes.com/recipe/261048/spinach-con-queso-dip/
+Skinny Spinach and Artichoke Dip,8.38,0.44,0.44,0.56,0.06,['keju'],https://www.allrecipes.com/recipe/245255/skinny-spinach-and-artichoke-dip/
+Amazing Artichoke and Spinach Dip,38.6,1.1,0.9,3.5,0.2,['keju'],https://www.allrecipes.com/recipe/60229/amazing-artichoke-and-spinach-dip/
+Facemeltingly-Good Spinach Dip,12.75,0.06,0.12,1.38,0.06,[],https://www.allrecipes.com/recipe/220544/facemeltingly-good-spinach-dip/
+4-Cheese Spinach-Artichoke Dip,19.88,0.88,0.62,1.62,0.25,['keju'],https://www.allrecipes.com/recipe/282807/4-cheese-spinach-artichoke-dip/
+Cheesy Beer and Spinach Dip,N/A,N/A,N/A,N/A,N/A,['keju'],https://www.allrecipes.com/recipe/24644/cheesy-beer-and-spinach-dip/
+Mexican Spinach Dip,1.79,0.08,0.06,0.15,0.0,['keju'],https://www.allrecipes.com/recipe/72376/mexican-spinach-dip/
+Easy Avocado Hummus,2.67,0.08,0.21,0.21,0.08,[],https://www.allrecipes.com/recipe/259260/quick-and-easy-avocado-hummus/
+Blue Monday Dip,1.25,0.04,0.08,0.08,0.0,[],https://www.allrecipes.com/recipe/20530/blue-monday-dip/
+Family-Favorite Spinach Artichoke Dip,13.17,0.83,0.67,0.75,0.17,"['keju', 'ayam']",https://www.allrecipes.com/recipe/221939/spinach-artichoke-dip/
+Spinach Artichoke Dip from Reynolds Wrap®,20.64,0.57,1.07,1.64,0.14,"['keju', 'susu']",https://www.allrecipes.com/recipe/242445/spinach-artichoke-dip-from-reynolds-wrap/
+Alaskan Spicy Spinach Dip,30.0,1.5,0.58,2.42,0.08,['keju'],https://www.allrecipes.com/recipe/19700/alaskan-spicy-spinach-dip/
+Refreshing Cucumber Salsa,6.1,0.1,0.3,0.6,0.1,[],https://www.allrecipes.com/recipe/223177/refreshing-cucumber-salsa/
+Chicken Florentine Dip,20.7,1.6,0.8,1.2,0.1,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/286044/chicken-florentine-dip/
+Vegan Spinach Dip with Artichokes,10.67,0.42,0.67,0.83,0.42,['keju'],https://www.allrecipes.com/recipe/268908/vegan-spinach-dip-with-artichokes/
+Spinach and Gorgonzola Cheese Ball,10.0,0.38,0.12,0.94,0.06,['keju'],https://www.allrecipes.com/recipe/58301/spinach-and-gorgonzola-cheese-ball/
+Split Pea Soup,51.67,3.33,9.67,0.17,3.67,[],https://www.allrecipes.com/recipe/13384/split-pea-soup/
+Ham and Split Pea Soup Recipe — A Great Soup,46.75,3.12,4.62,1.75,1.88,['ayam'],https://www.allrecipes.com/recipe/219170/ham-and-split-pea-soup-recipe-a-great-soup/
+Ham Bone and Green Split Pea Soup,25.88,2.25,2.88,0.62,0.88,['ayam'],https://www.allrecipes.com/recipe/262028/ham-bone-and-green-split-pea-soup/
+Canadian Yellow Split Pea Soup with Ham,14.33,1.0,2.67,0.0,0.08,[],https://www.allrecipes.com/recipe/234017/canadian-yellow-split-pea-soup-with-ham/
+Vegan Split Pea Soup,24.7,1.3,4.6,0.2,1.4,[],https://www.allrecipes.com/recipe/16217/vegan-split-pea-soup-i/
+Best Ever Split Pea Soup,16.62,1.38,2.25,0.25,0.75,['ayam'],https://www.allrecipes.com/recipe/23860/best-ever-split-pea/
+Split Pea and Ham Soup I,103.25,7.0,18.0,0.75,7.5,[],https://www.allrecipes.com/recipe/13288/split-pea-and-ham-soup-i/
+Pressure Cooker Split Pea Soup,60.67,4.17,8.33,1.33,3.33,[],https://www.allrecipes.com/recipe/246119/pressure-cooker-split-pea-soup/
+Split Pea Soup without Pork,6.5,0.5,1.1,0.0,0.5,['ayam'],https://www.allrecipes.com/recipe/25697/split-pea-soup-without-pork/
+Snert (Split Pea Soup),60.88,3.12,4.0,3.62,0.88,['ayam'],https://www.allrecipes.com/recipe/221233/snert-split-pea-soup/
+Instant Pot Split Pea Soup,68.0,4.0,9.0,2.0,3.5,['ayam'],https://www.allrecipes.com/recipe/268512/instant-pot-split-pea-soup/
+Instant Pot Split Pea and Ham Soup,131.5,7.25,12.5,6.0,4.25,"['keju', 'ayam']",https://www.allrecipes.com/recipe/279994/instant-pot-split-pea-and-ham-soup/
+Split Pea Soup with Homemade Ham Bone Stock,40.25,2.12,7.0,0.25,2.38,[],https://www.allrecipes.com/recipe/262026/split-pea-soup-with-homemade-ham-bone-stock/
+Split Pea and Ham Soup II,43.5,3.38,4.75,1.25,1.88,[],https://www.allrecipes.com/recipe/18108/split-pea-and-ham-soup-ii/
+Red Lentil and Yellow Split Pea Soup Made with a Pressure Cooker,17.0,1.2,2.9,0.1,0.7,['ayam'],https://www.allrecipes.com/recipe/218654/red-lentil-and-yellow-split-pea-soup-made-with-a-pressure-cooker/
+Split Pea Smoked Turkey Soup,76.62,7.88,6.12,2.25,2.12,['ayam'],https://www.allrecipes.com/recipe/216100/split-pea-smoked-turkey-soup/
+Slow Cooker Split Pea Sausage Soup,51.5,3.0,6.38,1.62,2.12,['ayam'],https://www.allrecipes.com/recipe/16810/slow-cooker-split-pea-sausage-soup/
+Instant Pot® Vegan Split Pea Soup,65.33,3.67,11.17,0.83,3.83,[],https://www.allrecipes.com/recipe/284018/instant-pot-vegan-split-pea-soup/
+Slow Cooker Split Pea Soup with Bacon and Hash Browns,32.25,2.12,5.38,0.38,2.0,['ayam'],https://www.allrecipes.com/recipe/228742/slow-cooker-split-pea-soup-with-bacon-and-hash-browns/
+Split Pea Soup with Rosemary,42.17,2.83,6.0,0.83,2.17,['ayam'],https://www.allrecipes.com/recipe/89199/split-pea-soup-with-rosemary/
+Green Velvet Soup,15.0,0.75,3.0,0.12,0.75,[],https://www.allrecipes.com/recipe/24415/green-velvet-soup/
+Split Pea Soup with Ham,15.75,1.17,2.08,0.33,0.83,['ayam'],https://www.allrecipes.com/recipe/237268/split-pea-soup-with-ham/
+Pulled Pork Split Pea Soup,30.75,2.67,2.92,0.92,0.83,['ayam'],https://www.allrecipes.com/recipe/280751/pulled-pork-split-pea-soup/
+Rick's Yummy Split Pea Soup with Ham,70.25,6.62,4.62,2.75,1.75,['ayam'],https://www.allrecipes.com/recipe/236179/ricks-yummy-split-pea-soup-with-ham/
+Curry Split Pea Soup,5.3,0.3,0.8,0.15,0.3,['ayam'],https://www.allrecipes.com/recipe/217173/curry-split-pea-soup/
+Vegan Split Pea Soup II,26.0,1.5,4.17,0.33,0.17,[],https://www.allrecipes.com/recipe/21114/vegan-split-pea-soup-ii/
+Snert (Dutch Split Pea Soup),67.38,5.25,9.38,1.25,3.62,[],https://www.allrecipes.com/recipe/258334/snert-dutch-split-pea-soup/
+Tackee David's Split Pea with Ham,25.62,1.75,4.62,0.12,1.88,[],https://www.allrecipes.com/recipe/217084/tackee-davids-split-pea-with-ham/
+Split Pea Soup with Tofu,26.38,1.5,4.12,0.62,1.0,[],https://www.allrecipes.com/recipe/71574/split-pea-soup-with-tofu/
+Megan's Vegan Split Pea Soup,54.83,3.17,10.33,0.33,3.67,[],https://www.allrecipes.com/recipe/259274/vegan-split-pea-soup/
+Simple Vegan Split Pea Soup,55.75,3.25,9.0,1.0,3.5,[],https://www.allrecipes.com/recipe/262148/simple-vegan-split-pea-soup/
+Split Pea Soup with Sun-Dried Tomato Gremolata,93.25,4.5,15.5,2.0,5.25,[],https://www.allrecipes.com/recipe/276718/split-pea-soup-with-sun-dried-tomato-gremolata/
+Split Pea Soup with Pork Belly,27.0,1.75,4.0,0.38,1.62,[],https://www.allrecipes.com/recipe/228741/split-pea-soup-with-pork-belly/
+Shortbread Cookies,40.83,0.42,4.08,2.58,0.08,[],https://www.allrecipes.com/recipe/10269/shortbread-cookies-ii/
+Butter Rich Spritz Butter Cookies,2.69,0.03,0.31,0.14,0.0,['telur'],https://www.allrecipes.com/recipe/25018/butter-rich-spritz-butter-cookies/
+Cream Cheese Cookies,0.75,0.01,0.08,0.04,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/10204/cream-cheese-cookies-i/
+Butter Cookies,2.86,0.03,0.36,0.14,0.0,['telur'],https://www.allrecipes.com/recipe/10011/butter-cookies-ii/
+Langues de Chat,2.31,0.03,0.28,0.11,0.03,['telur'],https://www.allrecipes.com/recipe/10899/langues-de-chat/
+Cookie Press Butter Cookies,2.21,0.02,0.25,0.12,0.0,['telur'],https://www.allrecipes.com/recipe/11141/cookie-press-butter-cookies/
+Cookie Press Shortbread,4.83,0.04,0.46,0.33,0.0,[],https://www.allrecipes.com/recipe/10003/cookie-press-shortbread/
+Snowflake Spritz Cookies,2.92,0.03,0.33,0.17,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/15235/butter-snow-flakes/
+Spritz Cookies II,6.0,0.08,0.67,0.33,0.0,['telur'],https://www.allrecipes.com/recipe/10056/spritz-cookies-ii/
+Chocolate Press Cookies,1.87,0.02,0.29,0.07,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/46740/chocolate-press-cookies/
+Swedish Ground Almond Spritz Cookies,1.75,0.02,0.19,0.1,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/50859/swedish-ground-almond-spritz-cookies/
+Chocolate Spritz (Cookie Press),0.69,0.01,0.07,0.04,0.0,['telur'],https://www.allrecipes.com/recipe/232870/chocolate-spritz-cookie-press/
+Cream Cheese Spritz Cookies,1.11,0.02,0.09,0.07,0.0,['keju'],https://www.allrecipes.com/recipe/276741/cream-cheese-spritz-cookies/
+Lemon Spritz Cookies,1.71,0.02,0.19,0.1,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/276739/lemon-spritz-cookies/
+My Mom's Spritz Cookies,1.79,0.02,0.19,0.12,0.0,['telur'],https://www.allrecipes.com/recipe/268475/my-moms-spritz-cookies/
+Spritz Orange Crisps,2.17,0.02,0.26,0.12,0.0,['telur'],https://www.allrecipes.com/recipe/11198/spritz-orange-crisps/
+Spritz Cookies V,1.15,0.01,0.11,0.07,0.0,['telur'],https://www.allrecipes.com/recipe/25762/spritz-cookies-v/
+Holiday Spritz Cookies,2.62,0.02,0.33,0.14,N/A,['telur'],https://www.allrecipes.com/recipe/239524/holiday-spritz-cookies/
+Spritz Cookies IV,1.1,0.02,0.13,0.05,0.0,['telur'],https://www.allrecipes.com/recipe/10623/spritz-cookies-iv/
+Salted Caramel Spritz,3.14,0.06,0.39,0.17,0.0,['telur'],https://www.allrecipes.com/recipe/277031/salted-caramel-spritz/
+Lemon Cheesecake Cookies,0.68,0.02,0.08,0.03,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/268006/lemon-cheesecake-cookies/
+Upside Down Cookies,88.5,1.0,11.83,4.33,0.33,['susu'],https://www.allrecipes.com/recipe/11519/upside-down-cookies/
+Best Spritz Cookies,0.83,0.01,0.1,0.04,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/276740/best-spritz-cookies/
+Spritz,1.56,0.02,0.19,0.09,0.0,['telur'],https://www.allrecipes.com/recipe/9586/spritz/
+Amazingly Easy Irish Soda Bread,8.6,0.15,1.15,0.4,0.05,['telur'],https://www.allrecipes.com/recipe/16947/amazingly-easy-irish-soda-bread/
+Guinness Bread,15.42,0.42,2.5,0.42,0.25,[],https://www.allrecipes.com/recipe/109907/guinness-bread/
+Shamrock Lucky Charms Treats,13.5,0.17,2.67,0.33,0.08,[],https://www.allrecipes.com/recipe/8535283/shamrock-lucky-charms-treats/
+Corned Beef Roast,58.12,3.5,3.5,3.25,0.5,['sapi'],https://www.allrecipes.com/recipe/83646/corned-beef-roast/
+Slow Cooker Irish Beef Stew,41.75,2.25,3.75,1.88,0.62,['sapi'],https://www.allrecipes.com/recipe/246418/traditional-irish-stew/
+Pressure Cooker Corned Beef,22.2,1.5,0.2,1.5,0.0,['sapi'],https://www.allrecipes.com/recipe/256749/pressure-cooker-corned-beef-brisket/
+Oatmeal Soda Bread,20.17,0.42,3.0,0.75,0.08,['susu'],https://www.allrecipes.com/recipe/7030/oatmeal-soda-bread/
+Nana Dot's Irish Soda Bread,5.08,0.08,0.83,0.17,0.04,['susu'],https://www.allrecipes.com/recipe/161706/nana-dots-irish-soda-bread/
+Irish Boxty,37.83,0.83,4.83,1.67,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/161679/irish-boxty/
+Stout-Braised Lamb Shanks,87.0,7.5,4.0,3.75,0.75,['sapi'],https://www.allrecipes.com/recipe/158799/stout-braised-lamb-shanks/
+Fennel Soda Bread,18.5,0.5,3.25,0.42,0.08,[],https://www.allrecipes.com/recipe/43624/fennel-soda-bread/
+Slow-Cooker Corned Beef and Cabbage,59.12,3.0,6.25,2.5,0.88,['sapi'],https://www.allrecipes.com/recipe/84270/slow-cooker-corned-beef-and-cabbage/
+Corned Beef and Cabbage,147.0,11.83,8.33,7.0,1.0,['sapi'],https://www.allrecipes.com/recipe/16310/corned-beef-and-cabbage-i/
+The Best Irish Coffee,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/44045/irish-coffee/
+Instant Pot Corned Beef,104.25,7.0,1.25,7.0,0.0,['sapi'],https://www.allrecipes.com/recipe/268026/instant-pot-corned-beef/
+Peanut Butter Potato Candy,7.9,0.05,1.7,0.1,0.0,['susu'],https://www.allrecipes.com/recipe/220888/peanut-butter-potato-candy/
+Baby Guinness,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/74819/baby-guinness/
+Braised Corned Beef Brisket,75.83,5.17,0.83,5.67,0.17,['sapi'],https://www.allrecipes.com/recipe/231030/braised-corned-beef-brisket/
+Beef and Guinness Stew,88.0,4.83,7.0,4.17,0.83,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/234534/beef-and-guinness-stew/
+Homemade Irish Cream,N/A,N/A,N/A,N/A,N/A,['susu'],https://www.allrecipes.com/recipe/23534/original-irish-cream/
+Deluxe Corned Beef Hash,40.0,3.12,3.12,1.75,0.38,['sapi'],https://www.allrecipes.com/recipe/216981/deluxe-corned-beef-hash/
+Irish Boiled Ham Dinner,125.5,6.33,10.67,6.83,2.33,[],https://www.allrecipes.com/recipe/162534/classic-irish-boiled-dinner/
+Irish Boiled Dinner (Corned Beef),153.0,7.83,17.83,6.0,4.0,['sapi'],https://www.allrecipes.com/recipe/30918/irish-boiled-dinner-corned-beef/
+Corned Beef Dinner for St. Patrick's Day,68.12,3.25,7.62,2.88,1.25,['sapi'],https://www.allrecipes.com/recipe/239927/corned-beef-dinner-for-st-patricks-day/
+Spicy and Tender Corned Beef,70.67,3.83,5.5,3.67,1.5,['sapi'],https://www.allrecipes.com/recipe/231567/spicy-and-tender-corned-beef/
+Irish Potato Candy,0.98,0.0,0.17,0.03,0.0,['keju'],https://www.allrecipes.com/recipe/16520/irish-potato-candy/
+Potato Scones,33.0,0.5,4.83,1.33,0.33,[],https://www.allrecipes.com/recipe/241419/potato-scones/
+Irish Lamb Stew,67.2,4.6,2.6,3.9,0.4,['sapi'],https://www.allrecipes.com/recipe/16035/irish-lamb-stew/
+Pudding Shots,N/A,N/A,N/A,N/A,N/A,['susu'],https://www.allrecipes.com/recipe/176054/pudding-shots/
+True Bangers and Mash with Onion Gravy,129.0,3.5,12.5,5.0,1.5,"['sapi', 'susu']",https://www.allrecipes.com/recipe/216071/true-bangers-and-mash-with-onion-gravy/
+Rainbow Cookies,0.64,0.01,0.07,0.03,0.0,[],https://www.allrecipes.com/recipe/10118/rainbow-cookies/
+Diane's Colcannon,31.25,0.75,3.75,1.62,0.62,['susu'],https://www.allrecipes.com/recipe/58642/dianes-colcannon/
+Irish Shepherd's Pie,64.62,3.62,4.62,3.5,0.5,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/220519/irish-shepherds-pie/
+Chef John's Irish Pork Stew,66.83,3.33,5.5,3.17,0.83,['ayam'],https://www.allrecipes.com/recipe/236988/chef-johns-irish-pork-stew/
+Easy Irish Colcannon,45.33,1.17,7.0,1.67,1.5,[],https://www.allrecipes.com/recipe/213339/easy-irish-colcannon/
+Onion Jam,1.16,0.0,0.16,0.06,0.0,[],https://www.allrecipes.com/recipe/220546/onion-jam/
+Guinness Corned Beef,17.88,1.06,0.88,1.06,N/A,['sapi'],https://www.allrecipes.com/recipe/46530/guinness-corned-beef/
+Shamrock Shake,206.0,5.0,26.5,9.5,0.5,['susu'],https://www.allrecipes.com/recipe/231602/shamrock-shakes/
+Lime Sherbet Punch,13.67,0.06,3.22,0.11,0.06,[],https://www.allrecipes.com/recipe/220562/lime-sherbet-punch/
+Irish Potato Farls,54.5,1.25,10.75,0.75,1.25,[],https://www.allrecipes.com/recipe/100506/irish-potato-farls/
+Irish Champ,81.5,2.0,11.75,3.25,1.75,['susu'],https://www.allrecipes.com/recipe/100295/irish-champ/
+Mashed Peas,27.33,0.83,3.0,1.5,0.67,[],https://www.allrecipes.com/recipe/213342/mashed-peas/
+Easy Corned Beef and Cabbage,141.5,11.67,7.5,7.0,1.0,['sapi'],https://www.allrecipes.com/recipe/222592/easy-corned-beef-and-cabbage/
+Creamed Cabbage,41.83,1.0,2.33,3.33,0.83,[],https://www.allrecipes.com/recipe/163145/creamed-cabbage/
+Irish Brown Soda Bread,17.17,0.75,3.42,0.17,0.42,[],https://www.allrecipes.com/recipe/17873/irish-brown-soda-bread/
+Instant Pot Shepherd's Pie,57.83,3.0,4.83,3.0,0.83,['sapi'],https://www.allrecipes.com/recipe/270606/instant-pot-shepherds-pie/
+Mustard Sauce for Corned Beef,12.12,0.12,2.0,0.38,0.0,['telur'],https://www.allrecipes.com/recipe/283028/mustard-sauce-for-corned-beef/
+Cream Cheese Sugar Cookies,0.74,0.01,0.08,0.04,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/11116/cream-cheese-sugar-cookies/
+Irish Tea Cake,27.3,0.4,4.1,1.1,0.1,['susu'],https://www.allrecipes.com/recipe/27028/irish-tea-cake/
+Guinness Beer Cheese Dip,14.0,0.81,0.19,1.12,0.0,[],https://www.allrecipes.com/recipe/220556/guinness-beer-cheese-dip/
+Sous Vide Corned Beef,10.42,0.75,0.0,0.75,N/A,['sapi'],https://www.allrecipes.com/recipe/279006/sous-vide-corned-beef/
+Fabulous Fried Cabbage,11.0,0.5,2.0,0.33,0.83,['ayam'],https://www.allrecipes.com/recipe/100811/fabulous-fried-cabbage/
+Chef John's Corned Beef and Cabbage,47.5,2.75,3.62,2.5,0.75,['sapi'],https://www.allrecipes.com/recipe/236601/chef-johns-corned-beef-and-cabbage/
+Chef John's Irish Stew,84.67,5.33,4.83,4.83,0.67,['ayam'],https://www.allrecipes.com/recipe/236603/chef-johns-irish-stew/
+Striker's Potatoes O'Brien,36.38,0.75,6.5,0.88,0.88,[],https://www.allrecipes.com/recipe/213763/strikers-potatoes-obrien/
+Hot Irish Whiskey,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/156997/hot-irish-whiskey/
+Irish Soda Farls,63.0,2.25,12.75,0.25,0.5,[],https://www.allrecipes.com/recipe/100502/irish-soda-farls/
+Best Ever Irish Soda Bread,30.0,0.67,5.17,0.83,0.17,[],https://www.allrecipes.com/recipe/213826/best-ever-irish-soda-bread/
+Traditional Armenian Gomgush,48.1,2.7,4.8,2.0,1.0,[],https://www.allrecipes.com/recipe/268810/traditional-armenian-gomgush/
+Slow Cooker Irish Beef Stew,41.75,2.25,3.75,1.88,0.62,['sapi'],https://www.allrecipes.com/recipe/246418/traditional-irish-stew/
+Slow Cooker Beef Stew,96.0,7.33,5.0,5.0,0.67,['sapi'],https://www.allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/
+Good New Orleans Creole Gumbo,14.15,1.05,0.6,0.85,0.1,"['sapi', 'udang']",https://www.allrecipes.com/recipe/216888/good-new-orleans-creole-gumbo/
+Best Jambalaya,77.5,4.67,7.0,3.33,0.5,['ayam'],https://www.allrecipes.com/recipe/31848/jambalaya/
+Easy Homemade Chili,65.67,5.17,8.17,1.5,3.0,['sapi'],https://www.allrecipes.com/recipe/16248/easy-homemade-chili/
+Belgium Beef Stew,53.5,2.88,2.25,3.5,0.25,['sapi'],https://www.allrecipes.com/recipe/30597/belgium-beef-stew/
+Ecuadorian Seco de Pollo,42.33,3.17,0.83,2.67,0.17,['ayam'],https://www.allrecipes.com/recipe/257313/ecuadorian-seco-de-pollo/
+Oven Beef Stew,31.12,1.75,2.25,1.75,0.38,['sapi'],https://www.allrecipes.com/recipe/16379/oven-beef-stew/
+Mom's Basic Vegetable Beef Stew,34.88,1.75,3.88,1.38,0.62,['sapi'],https://www.allrecipes.com/recipe/240564/moms-basic-vegetable-beef-stew/
+Easy Beef Chili,30.5,1.5,3.25,1.42,0.67,['sapi'],https://www.allrecipes.com/recipe/274087/easy-beef-chili/
+Down and Dirty Garlic Chili,80.25,8.5,8.25,2.0,2.0,['sapi'],https://www.allrecipes.com/recipe/68440/down-and-dirty-garlic-chili/
+Dutch Oven Pork Stew,56.5,2.5,4.5,3.25,0.75,[],https://www.allrecipes.com/recipe/278871/dutch-oven-pork-stew/
+Pumpkin Stew,74.0,3.62,7.75,3.5,0.88,['sapi'],https://www.allrecipes.com/recipe/22925/pumpkin-stew/
+The Best Vegetarian Chili in the World,48.88,3.5,7.38,1.0,2.25,[],https://www.allrecipes.com/recipe/72508/the-best-vegetarian-chili-in-the-world/
+Classic Goulash,59.5,3.38,4.0,3.25,0.5,['sapi'],https://www.allrecipes.com/recipe/213268/classic-goulash/
+Best Damn Chili,33.83,2.08,2.33,1.75,0.58,['sapi'],https://www.allrecipes.com/recipe/233613/best-damn-chili/
+Simple Turkey Chili,23.12,2.0,2.38,0.75,0.75,[],https://www.allrecipes.com/recipe/80969/simple-turkey-chili/
+Just Like Wendy's Chili,32.6,2.3,2.9,1.5,0.8,['sapi'],https://www.allrecipes.com/recipe/231082/just-like-wendys-chili/
+Boilermaker Tailgate Chili,50.0,2.58,4.58,2.5,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/78299/boilermaker-tailgate-chili/
+Jeff's Hot Dog Chili,28.0,2.33,1.33,1.5,0.17,['sapi'],https://www.allrecipes.com/recipe/223538/jeffs-hot-dog-chili/
+Homemade Chili,22.83,1.58,1.67,1.08,0.58,['sapi'],https://www.allrecipes.com/recipe/255259/homemade-chili/
+Jamaican Brown Stew Chicken,42.88,3.12,1.75,2.5,0.12,['ayam'],https://www.allrecipes.com/recipe/281733/jamaican-brown-stew-chicken/
+Slow Cooker Chili,34.12,2.38,4.12,1.0,1.38,['sapi'],https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
+Cioppino,24.46,2.69,0.69,1.0,0.08,"['ayam', 'udang']",https://www.allrecipes.com/recipe/12816/cioppino/
+Louisiana Crawfish Étouffée,106.0,3.17,13.83,4.17,0.33,[],https://www.allrecipes.com/recipe/76155/louisiana-crawfish-etouffee/
+Easy White Chicken Chili,116.5,8.75,13.25,3.0,3.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/228650/easy-white-chicken-chili/
+Laura's Quick Slow Cooker Turkey Chili,34.5,2.62,4.12,1.0,1.38,[],https://www.allrecipes.com/recipe/82768/lauras-quick-slow-cooker-turkey-chili/
+Beef and Guinness Stew,88.0,4.83,7.0,4.17,0.83,"['sapi', 'ayam']",https://www.allrecipes.com/recipe/234534/beef-and-guinness-stew/
+Cajun Chicken and Sausage Gumbo,48.0,1.6,1.5,4.0,0.1,['ayam'],https://www.allrecipes.com/recipe/141114/cajun-chicken-and-sausage-gumbo/
+Homemade Beef Stew,40.1,2.7,2.5,2.1,0.3,['sapi'],https://www.allrecipes.com/recipe/25678/beef-stew-vi/
+Hungarian Goulash,68.62,4.12,1.12,5.25,0.25,['sapi'],https://www.allrecipes.com/recipe/19954/hungarian-goulash-i/
+Authentic Cincinnati Chili,25.1,2.7,0.7,1.2,0.3,['sapi'],https://www.allrecipes.com/recipe/206953/authentic-cincinnati-chili/
+White Chili with Ground Turkey,49.5,4.0,3.38,2.12,0.88,"['keju', 'ayam']",https://www.allrecipes.com/recipe/17023/white-chili-with-ground-turkey/
+Chef John's Shrimp Étouffée,106.0,10.25,7.5,3.75,0.5,"['ayam', 'udang']",https://www.allrecipes.com/recipe/236320/chef-johns-shrimp-etouffee/
+Chef John's Sausage & Shrimp Jambalaya,123.75,7.5,9.25,6.25,1.25,"['ayam', 'udang']",https://www.allrecipes.com/recipe/220126/chef-johns-sausage-shrimp-jambalaya/
+Puerto Rican Sancocho,35.33,1.58,6.17,0.67,0.83,['sapi'],https://www.allrecipes.com/recipe/257186/puerto-rican-sancocho/
+Instant Pot Best Beef Stew,88.0,5.0,8.0,4.0,1.0,['sapi'],https://www.allrecipes.com/recipe/263037/instant-pot-best-beef-stew/
+Ghormeh Sabzi (Persian Herb Stew),57.33,3.0,3.17,3.83,1.33,[],https://www.allrecipes.com/recipe/257499/ghormeh-sabzi-persian-herb-stew/
+Slow Cooker Oxtail Stew,20.08,1.75,1.5,0.75,0.33,['sapi'],https://www.allrecipes.com/recipe/270818/slow-cooker-oxtail-stew/
+Creamy White Chili,41.75,2.62,3.75,1.88,0.75,['ayam'],https://www.allrecipes.com/recipe/229949/creamy-white-chili/
+Grandma's Slow Cooker Vegetarian Chili,32.5,1.5,6.62,0.25,1.62,[],https://www.allrecipes.com/recipe/14021/grandmas-slow-cooker-vegetarian-chili/
+Slow Cooker 3-Bean Chili,23.8,2.0,2.9,0.5,0.9,[],https://www.allrecipes.com/recipe/236091/slow-cooker-3-bean-chili/
+Colleen's Slow Cooker Jambalaya,19.58,1.67,0.5,1.17,0.08,"['ayam', 'udang']",https://www.allrecipes.com/recipe/73634/colleens-slow-cooker-jambalaya/
+Mile High Green Chile,21.75,1.0,1.12,1.5,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/218772/mile-high-green-chili/
+Pressure Cooker Beef Stew,60.88,3.25,5.25,3.0,0.75,['sapi'],https://www.allrecipes.com/recipe/75086/pressure-cooker-beef-stew/
+Quick Chili,61.12,3.25,3.38,3.88,1.0,['sapi'],https://www.allrecipes.com/recipe/13329/quick-chili-i/
+Pressure Cooker Chili,58.83,3.67,5.83,2.5,2.0,['sapi'],https://www.allrecipes.com/recipe/192357/pressure-cooker-chili/
+Oyster Stew,138.75,3.25,3.5,12.75,0.25,[],https://www.allrecipes.com/recipe/12862/oyster-stew/
+Irish Lamb Stew,67.2,4.6,2.6,3.9,0.4,['sapi'],https://www.allrecipes.com/recipe/16035/irish-lamb-stew/
+It's Chili by George!!,30.5,2.2,2.6,1.4,0.7,['sapi'],https://www.allrecipes.com/recipe/14985/its-chili-by-george/
+Slow Cooker Lamb Stew,109.5,6.75,11.5,4.25,2.0,['sapi'],https://www.allrecipes.com/recipe/269632/slow-cooker-lamb-stew/
+Spicy Slow-Cooked Chili,30.8,2.3,2.2,1.4,0.8,"['keju', 'sapi']",https://www.allrecipes.com/recipe/223390/spicy-slow-cooked-chili/
+Award Winning Chili Con Carne,61.88,4.0,3.62,3.38,1.0,['sapi'],https://www.allrecipes.com/recipe/89993/award-winning-chili-con-carne/
+Easy Chili,61.33,3.33,4.5,3.5,1.17,['sapi'],https://www.allrecipes.com/recipe/15401/easy-chili-i/
+Quick Tofu Stir Fry,37.5,2.0,3.5,2.0,0.75,[],https://www.allrecipes.com/recipe/280800/quick-tofu-stir-fry/
+Easy Chinese Fried Noodles,26.83,0.67,1.17,2.17,0.17,[],https://www.allrecipes.com/recipe/34668/chinese-fried-noodles/
+Chicken in Black Bean Sauce,44.33,6.33,1.5,1.33,0.17,['ayam'],https://www.allrecipes.com/recipe/246187/chicken-in-garlic-and-black-bean-sauce/
+Yaki Udon,53.0,2.5,5.75,2.75,1.75,[],https://www.allrecipes.com/recipe/8539106/yaki-udon/
+Mango Chicken Stir-Fry,85.6,11.0,6.0,1.8,0.8,['ayam'],https://www.allrecipes.com/recipe/8527054/mango-chicken-stir-fry/
+Teriyaki Shrimp Noodles,122.75,8.5,16.75,1.75,1.25,['udang'],https://www.allrecipes.com/recipe/8525647/teriyaki-shrimp-noodles/
+Spicy Chicken and Green Bean Stir Fry,115.0,12.0,4.0,5.5,1.0,['ayam'],https://www.allrecipes.com/recipe/8522536/spicy-chicken-and-green-bean-stir-fry/
+Chicken Teriyaki and Noodles,99.33,4.33,10.5,4.5,1.0,['ayam'],https://www.allrecipes.com/recipe/8529770/chicken-teriyaki-and-noodles/
+Green Beans and Chicken,75.0,7.25,5.5,2.5,1.25,['ayam'],https://www.allrecipes.com/recipe/8522542/green-beans-and-chicken/
+Chicken & Vegetable Stir-Fry,90.5,9.5,11.0,0.75,0.5,['ayam'],https://www.allrecipes.com/recipe/8468703/chicken-vegetable-stir-fry/
+Quick Beef Stir-Fry,67.0,5.75,2.25,4.0,0.75,['sapi'],https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/
+Chicken Stir Fry,57.33,4.17,7.5,1.17,0.83,['ayam'],https://www.allrecipes.com/recipe/223382/chicken-stir-fry/
+Quick and Easy Pancit,61.5,3.0,10.83,0.83,1.17,['ayam'],https://www.allrecipes.com/recipe/47015/quick-and-easy-pancit/
+Mushroom Stir-Fry,47.25,1.25,4.75,2.75,1.0,[],https://www.allrecipes.com/recipe/277482/mushroom-stir-fry/
+Sweet and Sour Chicken Stir-Fry,64.75,6.0,5.0,2.25,0.5,['ayam'],https://www.allrecipes.com/recipe/17747/sweet-and-sour-chicken-iii/
+Pork Stir Fry,31.33,3.0,2.17,1.33,0.5,[],https://www.allrecipes.com/recipe/241091/pork-stir-fry/
+Kung Pao Chicken,109.25,8.5,6.25,5.75,1.0,['ayam'],https://www.allrecipes.com/recipe/9027/kung-pao-chicken/
+Chop Suey,67.5,4.0,3.0,4.5,0.75,[],https://www.allrecipes.com/recipe/25136/chop-suey/
+Sweet and Sour Pork,165.75,3.5,18.75,8.75,0.5,['telur'],https://www.allrecipes.com/recipe/31144/sweet-and-sour-pork-iii/
+Mongolian Beef and Spring Onions,97.75,4.5,13.75,3.0,0.75,['sapi'],https://www.allrecipes.com/recipe/201849/mongolian-beef-and-spring-onions/
+Pinakbet,30.67,2.33,1.5,1.67,0.5,[],https://www.allrecipes.com/recipe/212994/pinakbet/
+Restaurant-Style Beef and Broccoli,82.75,5.5,3.25,5.25,0.75,['sapi'],https://www.allrecipes.com/recipe/191156/restaurant-style-beef-and-broccoli/
+Chicken and Broccoli Stir Fry,85.75,8.5,7.25,3.0,1.75,['ayam'],https://www.allrecipes.com/recipe/240708/broccoli-and-chicken-stir-fry/
+Chinese Pepper Steak,78.0,6.5,4.25,3.75,0.5,['sapi'],https://www.allrecipes.com/recipe/172704/chinese-pepper-steak/
+Special Fried Rice,453.0,11.0,84.0,7.5,2.5,['ikan'],https://www.allrecipes.com/recipe/241560/special-fried-rice/
+Ginger Veggie Stir Fry,19.83,0.33,1.33,1.5,0.33,[],https://www.allrecipes.com/recipe/24712/ginger-veggie-stir-fry/
+Breakfast Rice from Japan,332.0,12.0,48.0,10.0,2.0,['telur'],https://www.allrecipes.com/recipe/245773/breakfast-rice-from-japan/
+Stir-Fry Chicken and Vegetables,157.0,11.0,10.0,8.0,2.5,['ayam'],https://www.allrecipes.com/recipe/231229/stir-fry-chicken-and-vegetables/
+Moo Shu Chicken,79.75,7.5,4.25,3.5,0.5,['ayam'],https://www.allrecipes.com/recipe/273598/moo-shu-chicken/
+Crispy Ginger Beef,72.8,3.0,9.0,2.8,0.4,[],https://www.allrecipes.com/recipe/237807/crispy-ginger-beef/
+Lo Mein Noodles,86.0,2.25,15.0,2.0,1.0,[],https://www.allrecipes.com/recipe/233446/lo-mein-noodles/
+Panang Curry with Chicken,149.0,5.5,4.75,12.75,0.75,"['ikan', 'ayam', 'susu']",https://www.allrecipes.com/recipe/213947/panang-curry-with-chicken/
+Chicken and Peppers with Balsamic Vinegar,81.0,7.0,3.25,4.5,0.5,['ayam'],https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/
+Sesame Beef,88.5,5.5,4.0,5.75,0.25,[],https://www.allrecipes.com/recipe/14679/sesame-beef/
+Shrimp with Lobster Sauce,77.0,6.5,1.25,5.0,0.0,"['telur', 'udang']",https://www.allrecipes.com/recipe/57716/shrimp-with-lobster-sauce/
+Pork Lo Mein,103.75,6.5,13.75,2.75,1.25,[],https://www.allrecipes.com/recipe/231523/pork-lo-mein/
+Stir-Fried Vegetables with Chicken or Pork,48.0,4.25,3.75,2.0,1.0,['ayam'],https://www.allrecipes.com/recipe/32057/stir-fried-vegetables-with-chicken-or-pork/
+Szechwan Shrimp,35.5,4.5,1.75,1.0,0.0,['udang'],https://www.allrecipes.com/recipe/86230/szechwan-shrimp/
+"Chicken, Asparagus, and Mushroom Skillet",215.0,13.5,3.5,17.0,1.5,['ayam'],https://www.allrecipes.com/recipe/213654/chicken-asparagus-and-mushroom-skillet/
+Crispy Orange Beef,84.5,4.5,9.83,3.17,1.0,['sapi'],https://www.allrecipes.com/recipe/57966/crispy-orange-beef/
+Easy Sweet and Sour Chicken,105.25,6.75,12.25,3.5,1.25,['ayam'],https://www.allrecipes.com/recipe/220314/easy-sweet-and-sour-chicken/
+Szechuan Beef,51.0,3.0,2.17,3.5,0.67,['ayam'],https://www.allrecipes.com/recipe/20095/szechuan-beef/
+Shrimp and Scallop Stir-Fry,53.25,7.0,3.0,1.75,0.75,['udang'],https://www.allrecipes.com/recipe/272806/shrimp-and-scallop-stir-fry/
+Summer Strawberry Rhubarb Pie,50.75,0.5,6.88,2.5,0.38,[],https://www.allrecipes.com/recipe/216986/summer-strawberry-rhubarb-pie/
+Fresh Strawberry Pie with Jell-O,10.44,0.12,2.0,0.25,0.12,[],https://www.allrecipes.com/recipe/12156/fresh-strawberry-pie-i/
+Strawberry Pie,33.12,0.25,5.25,1.38,0.25,[],https://www.allrecipes.com/recipe/15836/strawberry-pie-ii/
+Strawberry Rhubarb Pie,54.62,0.62,8.0,2.38,0.62,['telur'],https://www.allrecipes.com/recipe/12612/rhubarb-and-strawberry-pie/
+No Bake Sugar Free Strawberry Cheesecake,52.0,1.0,4.17,3.5,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/215589/no-bake-sugar-free-strawberry-cheesecake/
+Old-Fashioned Strawberry Pie,51.5,0.38,7.88,2.12,0.25,[],https://www.allrecipes.com/recipe/12468/old-fashioned-strawberry-pie/
+DanDan's Strawberry Cream Pie,49.38,0.5,4.12,3.5,0.12,['keju'],https://www.allrecipes.com/recipe/231938/dandans-strawberry-cream-pie/
+Strawberry Tarts,10.17,0.08,2.0,0.25,0.08,[],https://www.allrecipes.com/recipe/12334/strawberry-tarts/
+Strawberry Rhubarb Custard Pie,42.75,0.62,7.12,1.38,0.25,['susu'],https://www.allrecipes.com/recipe/223069/strawberry-rhubarb-custard-pie/
+Strawberry Glazed Pie,34.88,0.25,6.5,1.0,0.38,[],https://www.allrecipes.com/recipe/12641/strawberry-glazed-pie/
+Strawberry Yogurt Pie I,39.62,0.5,4.5,2.25,0.12,[],https://www.allrecipes.com/recipe/12225/strawberry-yogurt-pie-i/
+Crumb-Topped Strawberry Rhubarb Pie,63.25,0.62,10.12,2.38,0.38,[],https://www.allrecipes.com/recipe/216987/crumb-topped-strawberry-rhubarb-pie/
+Strawberry Pretzel Pie,20.75,0.19,2.75,1.06,0.06,['keju'],https://www.allrecipes.com/recipe/17757/strawberry-pretzel-pie/
+Frozen Strawberry Pie,26.69,0.38,2.69,1.69,0.06,"['keju', 'susu']",https://www.allrecipes.com/recipe/238468/strawberry-frozen-pie/
+Easy as Pie Strawberry Pie,27.5,0.12,3.25,1.5,0.12,[],https://www.allrecipes.com/recipe/15838/easy-as-pie-strawberry-pie/
+Favorite Strawberry Rhubarb Pie,55.25,0.5,8.62,2.25,0.5,[],https://www.allrecipes.com/recipe/216992/favorite-strawberry-rhubarb-pie/
+Renee's Strawberry Rhubarb Pie,48.88,0.5,7.62,1.88,0.5,['telur'],https://www.allrecipes.com/recipe/216991/renees-strawberry-rhubarb-pie/
+The Old Boy's Strawberry Pie,51.25,0.5,7.88,2.12,0.38,[],https://www.allrecipes.com/recipe/18536/the-old-boys-strawberry-pie/
+Strawberry Pie without Jell-O,39.0,0.25,7.25,1.0,0.38,[],https://www.allrecipes.com/recipe/270445/strawberry-pie-without-jell-o/
+Strawberry Delight Dessert Pie,30.92,0.42,3.75,1.67,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/24203/strawberry-delight-dessert-pie/
+Strawberry Delight Pie,33.88,0.5,4.75,1.25,0.12,['keju'],https://www.allrecipes.com/recipe/241388/strawberry-delight-pie/
+Strawberry Chiffon Pie,35.88,0.38,5.12,1.62,0.12,['telur'],https://www.allrecipes.com/recipe/274398/strawberry-chiffon-pie/
+Fresh Strawberry Tart,40.0,0.5,4.25,2.38,0.12,"['keju', 'telur']",https://www.allrecipes.com/recipe/258749/fresh-strawberry-tart/
+Fluffy Strawberry Pie,39.88,0.38,5.75,1.88,0.25,[],https://www.allrecipes.com/recipe/220137/fluffy-strawberry-pie/
+Strawberry Cream Pie to Die For,44.12,0.38,4.62,2.62,0.25,['keju'],https://www.allrecipes.com/recipe/231506/strawberry-cream-pie-to-die-for/
+Mini Strawberry Tarts,8.0,0.11,0.83,0.49,0.03,['keju'],https://www.allrecipes.com/recipe/106022/mini-strawberry-tarts/
+Fresh Fruit Tart with Mascarpone,24.44,0.25,2.69,1.44,0.12,['keju'],https://www.allrecipes.com/recipe/273048/fresh-fruit-tart-with-mascarpone/
+Maman's Fresh Strawberry Rhubarb Pie,26.38,0.12,4.5,0.88,0.25,[],https://www.allrecipes.com/recipe/214115/mamans-fresh-strawberry-rhubarb-pie/
+Strawberry Yogurt Pie,30.75,0.5,4.0,1.5,0.12,[],https://www.allrecipes.com/recipe/17721/strawberry-yogurt-pie-ii/
+No-Crust Strawberry Pie,7.12,0.12,1.75,0.0,0.25,[],https://www.allrecipes.com/recipe/15072/no-crust-strawberry-pie/
+Strawberry-Cream Cheese Pie,44.62,0.5,5.88,2.25,0.25,['keju'],https://www.allrecipes.com/recipe/285961/strawberry-cream-cheese-pie/
+Grandma's Strawberry Rhubarb Pie,54.0,0.62,9.0,1.88,0.25,['susu'],https://www.allrecipes.com/recipe/12585/strawberry-rhubarb-pie/
+Becky's Strawberry Pie,35.12,0.38,4.62,1.88,0.12,[],https://www.allrecipes.com/recipe/23156/strawberry-pie-vi/
+Strawberry Banana Pie,56.0,0.5,8.0,2.62,0.5,[],https://www.allrecipes.com/recipe/141766/strawberry-banana-pie/
+Beautiful Summer Fruit Tart,21.75,0.25,2.0,1.5,0.08,['keju'],https://www.allrecipes.com/recipe/273610/beautiful-summer-fruit-tart/
+Two Tier Strawberry Pie,47.25,0.38,5.25,2.88,0.12,['keju'],https://www.allrecipes.com/recipe/49640/two-tier-strawberry-pie/
+Strawberry Cheese Pie,52.62,0.75,5.25,3.38,0.25,['keju'],https://www.allrecipes.com/recipe/12697/strawberry-cheese-pie/
+1970's French Strawberry Pie,52.25,0.38,6.62,2.75,0.25,['keju'],https://www.allrecipes.com/recipe/222980/1970s-french-strawberry-pie/
+Strawberry-Mango Pie,52.88,0.5,7.62,2.5,0.38,[],https://www.allrecipes.com/recipe/141765/strawberry-mango-pie/
+White Chocolate-Cream Cheese Fruit Tart Recipe,40.75,0.5,4.25,2.5,0.17,['keju'],https://www.allrecipes.com/recipe/273046/white-chocolate-cream-cheese-fruit-tart/
+Fresh Strawberry Cheesecake Pie,46.12,0.62,5.88,2.38,0.25,['keju'],https://www.allrecipes.com/recipe/220138/fresh-strawberry-cheesecake-pie/
+Summer Fruit Tart from Almond Breeze®,12.0,0.25,1.88,0.5,0.25,['telur'],https://www.allrecipes.com/recipe/258314/summer-fruit-tart-from-almond-breeze/
+Strawberry Dream Pie,42.5,0.5,4.5,2.62,0.12,['keju'],https://www.allrecipes.com/recipe/29400/strawberry-dream-pie/
+Spring Strawberry Rhubarb Pie,86.12,0.75,13.62,3.38,0.5,['susu'],https://www.allrecipes.com/recipe/12596/strawberry-rhubarb-pie-iii/
+Lisa's Tomatillo and Strawberry Pie,58.75,0.5,8.88,2.5,0.5,[],https://www.allrecipes.com/recipe/233152/lisas-tomatillo-and-strawberry-pie/
+Mini Strawberry Hand Pies,33.33,0.5,3.5,2.0,0.33,['telur'],https://www.allrecipes.com/recipe/283807/mini-strawberry-hand-pies/
+Orange-Kissed Strawberry Rhubarb Pie,59.62,0.5,9.75,2.12,0.5,['susu'],https://www.allrecipes.com/recipe/214116/orange-kissed-strawberry-rhubarb-pie/
+Strawberry Brown Sugar Sour Cream Pie,52.0,0.62,7.88,2.12,0.38,['telur'],https://www.allrecipes.com/recipe/201457/strawberry-brown-sugar-sour-cream-pie/
+My Own Strawberry Rhubarb Pie,49.62,0.5,7.38,2.12,0.5,['susu'],https://www.allrecipes.com/recipe/216988/my-own-strawberry-rhubarb-pie/
+Deep-Dish Strawberry Pie,41.5,0.38,7.38,1.38,0.62,[],https://www.allrecipes.com/recipe/222982/deep-dish-strawberry-pie/
+Summer Fresh Strawberry Pie,40.75,0.25,5.0,2.25,0.25,[],https://www.allrecipes.com/recipe/274566/summer-fresh-strawberry-pie/
+Strawberry Kiwi Tartlets,25.08,0.42,2.83,1.42,0.25,['telur'],https://www.allrecipes.com/recipe/79883/strawberry-kiwi-tartlets/
+Rhubarb-Strawberry Herb Crumble Pie,46.0,0.38,6.5,2.12,0.25,[],https://www.allrecipes.com/recipe/275254/rhubarb-strawberry-herb-crumble-pie/
+Strawberry Lemonade Pie,74.44,0.89,11.0,3.22,0.33,['telur'],https://www.allrecipes.com/recipe/273703/strawberry-lemonade-pie/
+Fresh Strawberry Almond Pie,41.62,0.38,6.25,1.88,0.38,[],https://www.allrecipes.com/recipe/12212/fresh-strawberry-almond-pie/
+Chef Neal's Strawberry-Rhubarb Sour Cream Pies,27.5,0.31,4.0,1.19,0.12,[],https://www.allrecipes.com/recipe/262668/chef-neals-strawberry-rhubarb-sour-cream-pies/
+Breezy Key Lime Pie with Strawberry Rhubarb Glaze,104.25,1.62,16.62,3.62,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/216989/breezy-key-lime-pie-with-strawberry-rhubarb-glaze/
+Chocolate-Covered Strawberry Pie,72.12,1.0,5.88,5.12,0.25,['keju'],https://www.allrecipes.com/recipe/270444/chocolate-covered-strawberry-pie/
+Summery Strawberry Pie,36.12,0.62,4.5,1.75,0.12,"['keju', 'susu']",https://www.allrecipes.com/recipe/221219/summery-strawberry-pie/
+Strawberry Creme Brulee Pie,59.88,0.62,4.12,4.62,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/228961/strawberry-creme-brulee-pie/
+Berry Tart with No Added Sugar,50.62,0.62,3.0,4.12,0.38,['keju'],https://www.allrecipes.com/recipe/279826/berry-tart-with-no-added-sugar/
+Strawberry Cream Cheese Tarts,4.1,0.02,0.5,0.23,0.0,['keju'],https://www.allrecipes.com/recipe/285962/strawberry-cream-cheese-tarts/
+Buffalochef's Strawberry Rhubarb Pie,69.62,0.88,10.38,2.88,0.5,[],https://www.allrecipes.com/recipe/216995/buffalochefs-strawberry-rhubarb-pie/
+Fresh Strawberry Pie with Orange Liqueur Glaze,30.12,0.25,5.0,1.0,0.25,[],https://www.allrecipes.com/recipe/213452/fresh-strawberry-pie-with-orange-liqueur-glaze/
+Easy Strawberry Shortcake,51.83,0.83,9.17,1.5,0.33,[],https://www.allrecipes.com/recipe/241997/easy-strawberry-shortcake/
+Classic Strawberry Shortcakes,68.17,0.83,8.83,3.5,0.5,['susu'],https://www.allrecipes.com/recipe/179358/classic-strawberry-shortcakes/
+Strawberry Shortcake,53.75,0.88,6.88,2.62,0.5,['telur'],https://www.allrecipes.com/recipe/8201/strawberry-shortcake/
+Super Easy Shortcake Biscuits,19.33,0.42,2.5,0.83,0.08,['susu'],https://www.allrecipes.com/recipe/280491/super-easy-strawberry-shortcake-biscuits/
+Buttermilk Strawberry Shortcake,26.83,0.42,4.0,1.08,0.25,[],https://www.allrecipes.com/recipe/220168/buttermilk-strawberry-shortcake/
+"Red, White, and Blue Strawberry Shortcake",10.11,0.11,1.72,0.33,0.11,[],https://www.allrecipes.com/recipe/22987/red-white-and-blue-strawberry-shortcake/
+Skillet Strawberry Shortcake,30.25,0.42,3.58,1.67,0.17,['telur'],https://www.allrecipes.com/recipe/283707/skillet-strawberry-shortcake/
+Old-Fashioned Strawberry Shortcake,48.88,0.75,7.62,1.88,0.25,['susu'],https://www.allrecipes.com/recipe/228308/old-fashioned-strawberry-shortcake/
+Chocolate Strawberry Shortcake,26.08,0.33,3.42,1.33,0.17,['susu'],https://www.allrecipes.com/recipe/16029/chocolate-strawberry-shortcake/
+Glazed Doughnut Strawberry Shortcake,191.5,1.75,14.25,14.5,1.0,[],https://www.allrecipes.com/recipe/238046/glazed-doughnut-strawberry-shortcake/
+Chef John's Classic Strawberry Shortcake,51.0,0.75,7.38,2.25,0.5,['susu'],https://www.allrecipes.com/recipe/244201/chef-johns-classic-strawberry-shortcake/
+Scrumptious Strawberry Shortcake,28.67,0.42,2.92,1.75,0.17,['telur'],https://www.allrecipes.com/recipe/22988/scrumptious-strawberry-shortcake/
+Cottage Pudding (Cake for Strawberry Shortcake),30.78,0.56,5.0,1.0,0.11,"['susu', 'telur']",https://www.allrecipes.com/recipe/218000/cottage-pudding-cake-for-strawberry-shortcake/
+Quick Strawberry Shortcake,103.6,1.8,14.0,4.8,0.6,['susu'],https://www.allrecipes.com/recipe/218003/quick-strawberry-shortcake/
+Strawberry Crescent Roll Shortcake,98.25,1.5,12.0,5.0,0.5,[],https://www.allrecipes.com/recipe/280374/strawberry-crescent-roll-shortcake/
+Gluten-Free Strawberry Shortcake,42.38,0.25,7.38,1.25,0.38,['susu'],https://www.allrecipes.com/recipe/218005/gluten-free-strawberry-shortcake/
+Strawberry Shortcake from Scratch,92.83,1.17,10.83,5.17,0.5,['susu'],https://www.allrecipes.com/recipe/280495/strawberry-shortcake-from-scratch/
+Strawberry-Citrus Shortcake,82.38,1.25,10.38,4.12,0.25,[],https://www.allrecipes.com/recipe/141824/strawberry-citrus-shortcake/
+Strawberry Shortcakes,107.17,1.17,10.5,7.0,0.67,[],https://www.allrecipes.com/recipe/232166/strawberry-shortcakes/
+Strawberry and Rhubarb Shortcakes,40.12,0.62,5.62,1.75,0.25,['telur'],https://www.allrecipes.com/recipe/8360701/strawberry-and-rhubarb-shortcakes/
+Carry Cake with Strawberries and Whipped Cream,86.5,1.2,8.5,5.5,0.3,"['keju', 'susu']",https://www.allrecipes.com/recipe/111377/carry-cake-with-strawberries-and-whipped-cream/
+Sensational Strawberry Shortcake,50.38,0.88,7.25,2.12,0.25,['susu'],https://www.allrecipes.com/recipe/222632/sensational-strawberry-shortcake/
+Petra's Strawberry Shortcake,59.38,0.88,10.25,1.88,0.38,[],https://www.allrecipes.com/recipe/218004/petras-strawberry-shortcake/
+Strawberry Shortcake with Balsamic,35.5,0.75,7.25,0.5,0.5,[],https://www.allrecipes.com/recipe/220169/strawberry-shortcake-with-balsamic/
+Strawberry Shortcake Kabobs,9.08,0.25,1.58,0.25,0.25,[],https://www.allrecipes.com/recipe/244673/strawberry-shortcake-kabobs/
+Fresh Strawberry Lemon Shortcake,369.0,6.5,49.5,17.0,2.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/228835/fresh-strawberry-lemon-shortcake/
+Simple Chocolate Strawberry Shortcake,15.56,0.19,1.81,0.88,0.12,['susu'],https://www.allrecipes.com/recipe/26003/simple-chocolate-strawberry-shortcake/
+Heart-Shaped Strawberry Shortcakes,104.75,1.12,8.25,7.62,0.5,"['susu', 'telur']",https://www.allrecipes.com/recipe/217999/heart-shaped-strawberry-shortcakes/
+Smart Cookie Strawberry Shortcakes,48.5,0.58,5.0,3.0,0.33,[],https://www.allrecipes.com/recipe/274736/smart-cookie-strawberry-shortcakes/
+Strawberry Shortcake Updated,24.7,0.4,3.0,1.2,0.1,[],https://www.allrecipes.com/recipe/218001/strawberry-shortcake-updated/
+Mouth-Watering Stuffed Mushrooms,7.5,0.17,0.17,0.67,0.0,['keju'],https://www.allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/
+Stuffed Cream Cheese Mushrooms,29.33,0.83,0.5,2.67,0.0,['keju'],https://www.allrecipes.com/recipe/240406/stuffed-cream-cheese-mushrooms/
+Crab-Stuffed Mushrooms,27.67,1.67,1.0,2.0,0.33,['keju'],https://www.allrecipes.com/recipe/12751/crab-stuffed-mushrooms/
+Easy Sausage-Stuffed Mushrooms,12.33,0.92,0.42,0.83,0.08,['keju'],https://www.allrecipes.com/recipe/234844/easy-sausage-stuffed-mushrooms/
+Air Fryer Stuffed Mushrooms,17.33,0.83,0.67,1.33,0.17,['keju'],https://www.allrecipes.com/recipe/278271/air-fryer-stuffed-mushrooms/
+Stuffed Portobello Mushrooms,40.25,2.5,2.75,2.25,0.5,"['keju', 'telur']",https://www.allrecipes.com/recipe/220810/spinach-stuffed-portobello-mushrooms/
+Easy Garlic Escargots,101.25,6.75,2.75,6.75,0.0,['keju'],https://www.allrecipes.com/recipe/159391/easy-garlic-escargots/
+Bacon and Cheddar Stuffed Mushrooms,13.75,0.62,0.12,1.25,0.0,['keju'],https://www.allrecipes.com/recipe/21061/bacon-and-cheddar-stuffed-mushrooms/
+The Best Seafood-Stuffed Mushrooms,46.5,2.83,3.0,2.67,0.17,"['keju', 'telur', 'udang']",https://www.allrecipes.com/recipe/143649/the-best-seafood-stuffed-mushrooms/

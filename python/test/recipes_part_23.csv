@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Classic American-Style Potato Salad,48.5,1.17,4.83,2.83,0.5,[],https://www.allrecipes.com/recipe/76992/classic-american-style-potato-salad/
+Southern Dill Potato Salad,34.88,0.75,1.38,3.0,0.12,[],https://www.allrecipes.com/recipe/200165/southern-dill-potato-salad/
+Mom's Mashed Potato Salad,38.62,0.62,2.5,3.0,0.25,[],https://www.allrecipes.com/recipe/222869/moms-mashed-potato-salad/
+Potato Salad for a Crowd,7.12,0.15,0.53,0.5,0.07,[],https://www.allrecipes.com/recipe/222868/potato-salad-for-40/
+Sweet Potato Potato Salad,32.0,0.75,2.25,2.25,0.25,[],https://www.allrecipes.com/recipe/16625/sweet-potato-potato-salad/
+Baked Potato Salad,26.83,1.08,2.42,1.5,0.25,['keju'],https://www.allrecipes.com/recipe/215624/baked-potato-salad/
+Italian Potato Salad,43.5,0.62,5.12,2.38,0.62,[],https://www.allrecipes.com/recipe/16145/italian-potato-salad/
+Quick Potato Salad,26.67,1.0,4.17,0.83,0.5,[],https://www.allrecipes.com/recipe/160623/quick-potato-salad/
+American Potato Salad,27.42,0.58,3.42,1.33,0.33,[],https://www.allrecipes.com/recipe/39964/american-potato-salad/
+The Best Potato Salad,30.42,0.58,2.92,1.92,0.25,[],https://www.allrecipes.com/recipe/169084/the-best-potato-salad/
+New Red Potato Salad,26.25,0.42,1.83,2.0,0.17,['susu'],https://www.allrecipes.com/recipe/27070/new-red-potato-salad/
+"Cauliflower ""Potato"" Salad",30.25,0.38,0.75,2.88,0.25,[],https://www.allrecipes.com/recipe/267246/low-carb-cauliflower-mock-potato-salad/
+Chicken Potato Salad,48.57,1.86,2.57,3.57,0.29,['ayam'],https://www.allrecipes.com/recipe/8779/chicken-potato-salad/
+Kristen's Bacon Ranch Potato Salad,60.5,2.75,3.38,4.12,0.38,['keju'],https://www.allrecipes.com/recipe/217938/kristens-bacon-ranch-potato-salad/
+Bacon and Eggs Potato Salad,45.62,1.0,3.38,3.25,0.38,[],https://www.allrecipes.com/recipe/232827/bacon-and-eggs-potato-salad/
+Amish Potato Salad,62.12,1.12,6.12,3.88,0.62,['susu'],https://www.allrecipes.com/recipe/73875/amish-potato-salad/
+South African Potato Salad,27.47,0.67,2.87,1.53,0.33,['susu'],https://www.allrecipes.com/recipe/102162/south-african-potato-salad/
+Green Bean and Potato Salad,17.6,0.2,1.7,1.1,0.2,[],https://www.allrecipes.com/recipe/83637/green-bean-and-potato-salad/
+Mom's Dill Potato Salad,20.42,0.25,1.67,1.5,0.17,[],https://www.allrecipes.com/recipe/143258/moms-dill-potato-salad/
+Potato Salad with Chives,53.0,0.67,4.33,3.83,0.5,[],https://www.allrecipes.com/recipe/72677/potato-salad-with-chives/
+Perfect Potato Salad,23.25,0.33,1.83,1.67,0.17,[],https://www.allrecipes.com/recipe/258493/perfect-potato-salad/
+Russian Potato Salad,47.8,1.5,4.3,2.8,0.7,[],https://www.allrecipes.com/recipe/88092/russian-potato-salad/
+Pressure Cooker Potato Salad,56.83,1.17,6.67,2.83,0.67,[],https://www.allrecipes.com/recipe/147346/pressure-cooker-potato-salad/
+Grilled Potato Salad,36.25,0.75,2.38,2.62,0.25,[],https://www.allrecipes.com/recipe/244205/grilled-potato-salad/
+Blue Cheese Potato Salad,96.2,1.6,7.4,6.8,0.8,['keju'],https://www.allrecipes.com/recipe/25174/blue-cheese-potato-salad/
+Grandma's Creamy Potato Salad,89.67,1.17,3.83,8.0,0.5,[],https://www.allrecipes.com/recipe/276316/grandmas-creamy-potato-salad/
+Peruvian Potato-Chicken Salad (Causa Rellena),164.5,4.75,10.25,12.25,1.75,['ayam'],https://www.allrecipes.com/recipe/273995/peruvian-potato-chicken-salad-causa-rellena/
+Caesar Potato Salad,14.94,0.44,2.56,0.38,0.25,[],https://www.allrecipes.com/recipe/237349/caesar-potato-salad/
+Hawaiian Bruddah Potato Mac (Macaroni) Salad,19.35,0.3,1.5,1.4,0.2,[],https://www.allrecipes.com/recipe/213905/hawaiian-bruddah-potato-mac-macaroni-salad/
+Best Classic Potato Salad,27.5,0.58,3.08,1.5,0.25,[],https://www.allrecipes.com/recipe/283951/best-classic-potato-salad/
+Simple Potato Salad,185.67,2.67,16.67,12.0,1.33,[],https://www.allrecipes.com/recipe/14430/simple-potato-salad/
+Restaurant-Style Potato Salad,37.25,0.38,3.0,2.75,0.38,[],https://www.allrecipes.com/recipe/14350/restaurant-style-potato-salad/
+Mother's Potato Salad,50.1,0.9,5.2,3.0,0.4,[],https://www.allrecipes.com/recipe/214709/mothers-potato-salad/
+Armenian-Style Potato Salad,34.0,0.5,4.38,1.75,0.5,[],https://www.allrecipes.com/recipe/8410927/armenian-style-potato-salad/
+Chef John's Ham and Potato Soup,113.0,4.0,10.5,6.25,1.0,['ayam'],https://www.allrecipes.com/recipe/220127/chef-johns-ham-and-potato-soup/
+Absolutely Ultimate Potato Soup,74.25,1.62,5.5,5.25,0.62,['ayam'],https://www.allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/
+Baked Potato Soup,124.67,4.5,8.33,8.17,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/12997/baked-potato-soup-i/
+Slow Cooker Zuppa Toscana,55.88,2.0,5.25,3.12,0.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/261337/slow-cooker-zuppa-toscana/
+Hash Brown Potato Soup,107.0,2.0,9.67,7.0,0.83,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282332/potato-soup-with-hash-browns/
+Potato Chowder Soup,44.88,1.88,4.25,2.5,0.38,"['keju', 'susu']",https://www.allrecipes.com/recipe/23859/potato-chowder-soup-i/
+Bacon and Potato Soup,40.67,2.0,4.83,1.5,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/13076/bacon-and-potato-soup/
+Knoephla Soup,25.8,0.7,3.0,1.3,0.2,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/235753/knoephla-soup/
+Slow Cooker Potato-Bacon Soup,38.0,1.6,3.5,2.0,0.4,['keju'],https://www.allrecipes.com/recipe/277373/slow-cooker-potato-bacon-soup/
+Toscana Soup,54.2,2.4,1.4,4.4,0.2,['ayam'],https://www.allrecipes.com/recipe/23236/toscana-soup/
+Slow Cooker Loaded Potato Soup,80.88,2.38,6.25,5.25,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/277943/slow-cooker-loaded-potato-soup/
+"Potato, Broccoli and Cheese Soup",74.67,3.33,7.17,3.83,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/13353/potato-broccoli-and-cheese-soup/
+Perfect Potato Soup,65.33,1.83,7.83,3.17,1.0,['ayam'],https://www.allrecipes.com/recipe/255487/perfect-potato-soup/
+World's Best Potato Soup,55.7,2.8,4.2,3.1,0.4,"['keju', 'ayam']",https://www.allrecipes.com/recipe/13404/worlds-best-potato-soup/
+Very Easy Potato Bacon Soup,196.5,8.0,21.5,9.0,2.5,['susu'],https://www.allrecipes.com/recipe/235445/very-easy-potato-bacon-soup/
+Cheesy Potato Soup II,49.89,1.89,4.78,2.67,0.56,"['keju', 'susu']",https://www.allrecipes.com/recipe/17950/cheesy-potato-soup-ii/
+"Creamy Potato, Carrot, and Leek Soup",52.0,1.12,8.0,1.88,1.12,['ayam'],https://www.allrecipes.com/recipe/235401/creamy-potato-carrot-and-leek-soup/
+Hungarian Potato and Sausage Soup,128.0,4.25,11.5,7.25,1.25,['ayam'],https://www.allrecipes.com/recipe/279302/hungarian-potato-and-sausage-soup/
+Cauliflower Potato Soup,107.5,3.75,12.0,5.25,1.75,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/234991/cauliflower-potato-soup/
+Chicken Potato Soup,77.25,4.25,10.25,2.25,1.5,['ayam'],https://www.allrecipes.com/recipe/272232/chicken-potato-soup/
+Bacon Cheeseburger Soup,95.5,5.33,5.67,5.67,0.5,"['keju', 'sapi', 'ayam', 'susu']",https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/
+Potato Soup,27.14,0.71,5.0,0.43,0.43,"['ayam', 'susu']",https://www.allrecipes.com/recipe/20987/potato-soup/
+Easy Leek and Potato Soup,71.75,1.5,11.75,2.5,1.5,['ayam'],https://www.allrecipes.com/recipe/262540/easy-leek-and-potato-soup/
+Ian's Potato-Vegetable Soup,31.0,0.8,4.8,1.2,0.8,['sapi'],https://www.allrecipes.com/recipe/13291/ians-potato-vegetable-soup/
+Easy Slow Cooker Cheesy Potato Soup with Ham,86.33,4.0,4.67,7.0,0.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/273023/easy-slow-cooker-cheesy-potato-soup-with-ham/
+Potato Cheese Soup with Velveeta®,52.62,1.88,4.88,2.88,0.5,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/18126/potato-cheese-soup-with-velveeta/
+Golden Potato Soup,59.8,3.4,4.8,3.0,0.6,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/13316/golden-potato-soup/
+Instant Pot Loaded Baked Potato Soup,57.0,2.0,6.67,2.67,0.67,['keju'],https://www.allrecipes.com/recipe/276654/instant-pot-loaded-baked-potato-soup/
+Potato and Cheddar Soup,16.9,0.8,1.2,1.0,0.1,"['keju', 'susu']",https://www.allrecipes.com/recipe/13311/potato-and-cheddar-soup/
+Cheesy Potato and Corn Chowder,41.29,1.57,5.43,1.71,0.57,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/12922/cheesy-potato-and-corn-chowder/
+Kartoffelsuppe nach Bayrischer Art (Bavarian Potato Soup),65.67,1.83,11.0,1.83,1.67,[],https://www.allrecipes.com/recipe/257290/kartoffelsuppe-nach-bayrischer-art-bavarian-potato-soup/
+ORE-IDA Slow-Cooker Loaded Potato Soup,26.33,1.0,1.67,1.83,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/245629/ore-ida-slow-cooker-loaded-potato-soup/
+Vegan Potato Soup,18.38,0.38,3.12,0.5,0.5,['susu'],https://www.allrecipes.com/recipe/255642/vegan-potato-soup/
+Potato and Green Chile Soup,42.88,1.88,4.5,2.0,0.62,"['keju', 'sapi', 'susu']",https://www.allrecipes.com/recipe/279716/potato-and-green-chile-soup/
+Carol's Baked Potato Soup,103.5,3.17,7.5,6.83,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/17695/baked-potato-soup-iii/
+Celery Potato Soup,53.25,1.25,10.25,1.0,1.75,['ayam'],https://www.allrecipes.com/recipe/278312/celery-potato-soup/
+Cheesy Potato Leek Soup,49.0,1.38,4.0,3.12,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/240320/cheesy-potato-leek-soup/
+Loaded Chicken Potato Soup,63.75,3.62,4.5,3.5,0.5,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/239849/loaded-chicken-potato-soup/
+Creamy Potato and Leek Soup,31.25,0.62,3.62,1.62,0.38,['ayam'],https://www.allrecipes.com/recipe/240667/creamy-potato-and-leek-soup/
+Loaded Baked Potato Soup,45.83,1.92,4.17,2.5,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/239388/loaded-baked-potato-soup/
+"Potato, Leek, and Spinach Soup",38.67,1.67,4.17,1.83,0.5,['ayam'],https://www.allrecipes.com/recipe/239704/potato-leek-and-spinach-soup/
+Cream of Onion and Potato Soup,7.62,0.25,1.25,0.21,0.12,['susu'],https://www.allrecipes.com/recipe/16397/cream-of-onion-and-potato-soup/
+Instant Pot Potato and Bacon Soup,43.83,1.67,6.5,1.33,0.67,"['ayam', 'susu']",https://www.allrecipes.com/recipe/276696/instant-pot-potato-and-bacon-soup/
+Slow Cooker Vegan Leek and Potato Soup,31.38,0.5,4.5,1.38,0.5,['susu'],https://www.allrecipes.com/recipe/277492/slow-cooker-vegan-leek-and-potato-soup/
+German Potato Bacon Soup,28.25,0.75,3.38,1.38,0.5,['ayam'],https://www.allrecipes.com/recipe/236187/german-potato-bacon-soup/
+Instant Pot Potato Leek Soup,129.33,3.67,25.0,2.0,2.67,['ayam'],https://www.allrecipes.com/recipe/270203/instant-pot-potato-leek-soup/
+Slow Cooker Potato Soup with Heavy Cream,33.3,0.6,2.3,2.5,0.2,"['ayam', 'susu']",https://www.allrecipes.com/recipe/279712/slow-cooker-potato-soup-with-heavy-cream/
+Brett's Slow Cooker Loaded Baked Potato Soup,90.67,4.0,6.67,5.33,0.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/259797/bretts-slow-cooker-loaded-baked-potato-soup/
+Real Potato Leek Soup,50.0,1.25,9.75,0.75,0.88,"['ayam', 'susu']",https://www.allrecipes.com/recipe/22932/real-potato-leek-soup/
+"Potato, Ham, Broccoli, and Cheese Soup with Baby Dumplings",71.12,3.88,6.62,3.38,0.62,"['susu', 'ayam', 'telur', 'keju']",https://www.allrecipes.com/recipe/202265/potato-ham-broccoli-and-cheese-soup-with-baby-dumplings/
+Creamy Hash Brown Potato Soup,19.62,0.75,2.25,1.06,0.12,"['ayam', 'susu']",https://www.allrecipes.com/recipe/256745/hash-brown-potato-soup/
+Instant Pot Frozen Potato Soup,27.62,0.75,2.5,1.62,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/280812/instant-pot-frozen-potato-soup/
+"Ham, Potato, and Cheese Soup",20.06,1.25,2.5,0.56,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/13071/ham-potato-and-cheese-soup/
+Fully-Loaded Baked Potato Soup,109.67,3.5,5.0,8.5,0.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/259796/fully-loaded-baked-potato-soup/
+Creamy Irish Potato Soup,57.75,1.75,8.5,2.0,1.0,"['ayam', 'susu']",https://www.allrecipes.com/recipe/151648/creamy-irish-potato-soup/
+Potato and Sausage Soup,62.5,2.12,2.25,4.88,0.25,['ayam'],https://www.allrecipes.com/recipe/279744/potato-and-sausage-soup/
+Potato Soup with Sour Cream,94.83,4.17,8.83,4.83,0.67,"['keju', 'susu']",https://www.allrecipes.com/recipe/279743/potato-soup-with-sour-cream/
+Potato Soup with Cream Cheese,53.4,2.0,1.4,4.4,0.2,"['keju', 'ayam']",https://www.allrecipes.com/recipe/279741/potato-soup-with-cream-cheese/
+Baked Potato Soup with Rivels,71.5,3.5,6.62,3.5,0.38,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/260307/baked-potato-soup-with-rivels/
+Creamy Asparagus Potato Soup,60.67,1.17,4.17,4.67,0.67,"['keju', 'ayam']",https://www.allrecipes.com/recipe/272890/creamy-asparagus-potato-soup/
+Creamy Ham and Potato Soup,25.5,1.3,3.1,0.9,0.4,"['ayam', 'susu']",https://www.allrecipes.com/recipe/235511/creamy-ham-and-potato-soup/
+Cheesiest Potato Soup,61.0,1.67,2.67,5.0,0.33,"['keju', 'ayam']",https://www.allrecipes.com/recipe/25732/cheesiest-potato-soup/
+Slow Cooker Ham and Potato Soup,99.33,3.33,9.67,5.67,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/279745/slow-cooker-ham-and-potato-soup/
+Veggie Bulgur Salad (Kisir),31.17,0.5,4.17,1.67,0.83,[],https://www.allrecipes.com/recipe/215596/veggie-bulgur-salad-kisir/
+Classic Macaroni Salad,39.0,0.7,4.9,1.9,0.3,[],https://www.allrecipes.com/recipe/81108/classic-macaroni-salad/
+Slow Cooker Texas Pulled Pork,66.0,4.0,5.75,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+Best Brownies,11.5,0.12,1.56,0.56,0.06,[],https://www.allrecipes.com/recipe/10549/best-brownies/
+Authentic German Potato Salad,45.75,1.25,8.0,1.0,0.5,[],https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/
+Baked Ziti,57.8,2.8,5.8,2.5,0.6,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11758/baked-ziti-i/
+"Broccoli, Rice, Cheese, and Chicken Casserole",94.5,4.5,10.38,3.88,0.38,"['keju', 'ayam', 'susu']",https://www.allrecipes.com/recipe/25490/broccoli-rice-cheese-and-chicken-casserole/
+Baked Spaghetti,76.12,4.75,4.5,4.25,0.38,"['keju', 'sapi']",https://www.allrecipes.com/recipe/222582/baked-spaghetti/
+King Ranch Chicken Casserole,59.88,4.0,3.12,3.5,0.38,"['keju', 'ayam']",https://www.allrecipes.com/recipe/236805/king-ranch-chicken-casserole/
+Boston Baked Beans,63.67,3.5,10.5,1.0,2.83,[],https://www.allrecipes.com/recipe/18255/boston-baked-beans/
+Seven Layer Bars,4.31,0.06,0.47,0.28,0.03,['susu'],https://www.allrecipes.com/recipe/9889/seven-layer-bars/
+Chocolate Pretzel Treats,0.93,0.03,0.12,0.05,0.0,['susu'],https://www.allrecipes.com/recipe/223594/chocolate-pretzel-treats/
+Ham Salad,19.17,0.67,0.08,1.83,0.0,[],https://www.allrecipes.com/recipe/228283/ham-salad-spread/
+No-Noodle Zucchini Lasagna,61.75,5.12,2.88,3.38,0.75,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/172958/no-noodle-zucchini-lasagna/
+Strawberry Spinach Salad,122.75,1.5,10.75,8.75,1.5,[],https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/
+Texas Sheet Cake,8.0,0.06,1.12,0.41,0.03,['susu'],https://www.allrecipes.com/recipe/23056/texas-sheet-cake-v/
+Napa Cabbage Salad,105.33,1.5,6.67,8.5,1.0,[],https://www.allrecipes.com/recipe/18517/napa-cabbage-salad/
+Easy Quinoa Salad,45.0,1.5,5.67,2.0,1.33,[],https://www.allrecipes.com/recipe/229156/zesty-quinoa-salad/
+BLT Pasta Salad,36.3,1.8,1.2,2.7,0.1,[],https://www.allrecipes.com/recipe/72823/blt-pasta-salad/
+Twice-Baked Potato Casserole,133.75,5.75,8.75,8.5,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/231988/twice-baked-potato-casserole-with-bacon/
+Blonde Brownies,79.5,1.0,10.83,3.83,0.33,['telur'],https://www.allrecipes.com/recipe/10177/blonde-brownies-i/
+Old Fashioned Pineapple Upside-Down Cake,26.75,0.25,4.58,0.83,0.08,[],https://www.allrecipes.com/recipe/7622/old-fashioned-pineapple-upside-down-cake/
+Baked Ziti with Sausage,81.12,3.88,8.62,3.38,0.75,"['keju', 'telur']",https://www.allrecipes.com/recipe/165350/baked-ziti-with-sausage/
+Delicious Raspberry Oatmeal Cookie Bars,32.44,0.33,5.22,1.22,0.11,[],https://www.allrecipes.com/recipe/11314/delicious-raspberry-oatmeal-cookie-bars/
+Sweet Restaurant Slaw,25.0,0.12,2.88,1.5,0.12,[],https://www.allrecipes.com/recipe/142027/sweet-restaurant-slaw/
+Antipasto Salad,38.3,2.2,0.8,2.9,0.2,['keju'],https://www.allrecipes.com/recipe/216641/antipasto-salad-ii/
+Chef John's Meatless Meatballs,105.25,4.25,12.5,4.5,2.0,['keju'],https://www.allrecipes.com/recipe/232908/chef-johns-meatless-meatballs/
+Potato Salad,16.95,0.2,1.0,1.4,0.1,[],https://www.allrecipes.com/recipe/232864/potato-salad/
+"Broccoli Salad with Red Grapes, Bacon, and Sunflower Seeds",40.88,0.75,1.62,3.62,0.25,[],https://www.allrecipes.com/recipe/232720/broccoli-salad-with-red-grapes-bacon-and-sunflower-seeds/
+Easy Apple Slaw,22.83,0.17,4.17,0.83,0.33,[],https://www.allrecipes.com/recipe/34615/easy-apple-coleslaw/
+Warm Dijon Potato Salad,19.38,0.38,3.0,0.75,0.38,['keju'],https://www.allrecipes.com/recipe/228116/warm-dijon-potato-salad/
+Thai Cucumber Salad,61.25,1.5,9.5,2.25,0.75,[],https://www.allrecipes.com/recipe/169593/thai-cucumber-salad/
+Apple Squares,8.94,0.12,1.38,0.38,0.06,['telur'],https://www.allrecipes.com/recipe/15067/apple-squares/
+Spaghetti Pizza,37.25,1.88,3.75,1.62,0.25,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/23181/spaghetti-pizza-i/
+Ethiopian Cabbage Dish,81.4,1.4,10.0,4.4,1.6,[],https://www.allrecipes.com/recipe/152937/ethiopian-cabbage-dish/
+Chocolate Cobbler,39.88,0.38,7.25,1.25,0.25,['susu'],https://www.allrecipes.com/recipe/69656/chocolate-cobbler/
+Chef John's Classic Macaroni Salad,24.58,0.42,2.67,1.33,0.17,[],https://www.allrecipes.com/recipe/244305/chef-johns-classic-macaroni-salad/
+Easy Lasagna with Uncooked Noodles,87.75,5.5,7.88,3.75,0.62,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11949/easy-lasagna-i/
+Moist Zucchini Cake,8.79,0.12,0.92,0.54,0.04,[],https://www.allrecipes.com/recipe/7499/zucchini-cake-ii/
+Judy's Strawberry Pretzel Salad,23.19,0.25,2.56,1.38,0.06,['keju'],https://www.allrecipes.com/recipe/16080/judys-strawberry-pretzel-salad/
+Chuck's Favorite Mac and Cheese,98.5,4.5,7.67,5.5,0.5,['keju'],https://www.allrecipes.com/recipe/19368/chucks-favorite-mac-and-cheese/
+Granny Cake,7.58,0.12,1.25,0.25,0.04,['susu'],https://www.allrecipes.com/recipe/7632/granny-cake-i/
+Burger Sliders,9.67,0.5,0.67,0.54,0.04,"['keju', 'sapi']",https://www.allrecipes.com/recipe/178295/slider-style-mini-burgers/
+Stir-Fried Vegetables with Chicken or Pork,48.0,4.25,3.75,2.0,1.0,['ayam'],https://www.allrecipes.com/recipe/32057/stir-fried-vegetables-with-chicken-or-pork/
+Slow Cooker Potluck Spare Ribs,43.67,2.5,2.83,2.5,0.0,[],https://www.allrecipes.com/recipe/231768/slow-cooker-potluck-spareribs/
+Low-Carb Almond Cinnamon Butter Cookies,16.33,0.42,1.08,1.5,0.17,['telur'],https://www.allrecipes.com/recipe/261182/low-carb-almond-cinnamon-butter-cookies/
+Calico Bean Casserole,102.83,4.67,11.5,4.33,1.67,['sapi'],https://www.allrecipes.com/recipe/24224/calico-bean-casserole/
+Broccoli Slaw,54.88,0.62,5.88,3.38,0.5,['ayam'],https://www.allrecipes.com/recipe/223583/easy-broccoli-slaw-salad/
+Easy Spaghetti Pie,67.67,5.67,3.33,3.5,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/11837/spaghetti-pie-ii/
+Lemon Pound Cake with Aunt Evelyn's Lemon Glaze,38.57,0.43,5.64,1.64,0.07,[],https://www.allrecipes.com/recipe/236915/lemon-buttermilk-pound-cake-with-aunt-evelyns-lemon-glaze/
+Rose Petal Pound Cake,29.92,0.5,3.75,1.5,0.08,[],https://www.allrecipes.com/recipe/7697/rose-petal-pound-cake/
+Homemade Pound Cake,48.33,0.67,6.58,2.17,0.08,['susu'],https://www.allrecipes.com/recipe/280318/homemade-pound-cake/
+Orange Pound Cake,52.33,0.67,8.0,2.08,0.08,[],https://www.allrecipes.com/recipe/280206/orange-pound-cake/
+Easy Cream Cheese Pound Cake,37.5,0.5,4.57,2.0,0.07,['keju'],https://www.allrecipes.com/recipe/8384/cream-cheese-pound-cake-iii/
+Sweet Potato Pound Cake,30.86,0.36,4.71,1.21,0.07,[],https://www.allrecipes.com/recipe/8457/sweet-potato-pound-cake/
+Five Flavor Pound Cake,36.5,0.43,5.14,1.64,0.07,['susu'],https://www.allrecipes.com/recipe/8072/five-flavor-pound-cake-i/
+Lemon Blueberry Pound Cake,31.81,0.44,4.06,1.62,0.06,['susu'],https://www.allrecipes.com/recipe/72747/blueberry-lemon-pound-cake/
+Quesadilla Salvadoreña,22.5,0.5,2.42,1.25,0.0,['keju'],https://www.allrecipes.com/recipe/255919/quesadilla-salvadorena/
+Grandmother's Pound Cake,8.8,0.1,1.1,0.47,0.03,['susu'],https://www.allrecipes.com/recipe/21702/grandmothers-pound-cake-ii/
+Blueberry Pound Cake,27.57,0.36,4.0,1.21,0.07,[],https://www.allrecipes.com/recipe/25969/blueberry-pound-cake/
+Buttermilk Pound Cake,40.75,0.58,6.25,1.5,0.08,[],https://www.allrecipes.com/recipe/7722/buttermilk-pound-cake-ii/
+Kentucky Blue Ribbon All-Butter Pound Cake,46.0,0.58,6.25,2.17,0.08,['susu'],https://www.allrecipes.com/recipe/257278/kentucky-blue-ribbon-all-butter-pound-cake/
+Sour Cream Pound Cake,30.0,0.29,4.57,1.21,0.07,[],https://www.allrecipes.com/recipe/84042/grandmas-sour-cream-pound-cake/
+Six-Egg Pound Cake,32.07,0.43,4.07,1.57,0.07,['susu'],https://www.allrecipes.com/recipe/8341/six-egg-pound-cake/
+Peach Pound Cake,19.19,0.25,2.75,0.81,0.06,[],https://www.allrecipes.com/recipe/17635/ga-peach-pound-cake/
+Coconut Cream Pound Cake,28.19,0.38,3.81,1.31,0.12,['keju'],https://www.allrecipes.com/recipe/71003/coconut-cream-pound-cake/
+Apple Cake with Caramel Glaze,56.83,0.58,5.92,3.58,0.17,['susu'],https://www.allrecipes.com/recipe/73751/apple-harvest-pound-cake-with-caramel-glaze/
+One Egg Lemon Pound Cake,27.2,0.4,4.1,1.0,0.1,"['susu', 'telur']",https://www.allrecipes.com/recipe/8440/one-egg-lemon-pound-cake/
+Battenburg Cake,53.83,0.92,7.17,2.67,0.33,['telur'],https://www.allrecipes.com/recipe/7570/battenburg-cake/
+Chocolate Pound Cake III,24.62,0.31,3.31,1.25,0.12,[],https://www.allrecipes.com/recipe/25999/chocolate-pound-cake-iii/
+Yogurt Cake,32.17,0.42,4.58,1.42,0.08,[],https://www.allrecipes.com/recipe/17476/yogurt-cake/
+Classic Sour Cream Pound Cake,31.2,0.4,4.5,1.3,0.1,[],https://www.allrecipes.com/recipe/8388/sour-cream-pound-cake/
+Pineapple Pound Cake,35.71,0.43,4.36,1.86,0.07,['susu'],https://www.allrecipes.com/recipe/17649/pineapple-pound-cake/
+Brown Sugar Pound Cake I,29.31,0.38,3.69,1.5,0.06,['susu'],https://www.allrecipes.com/recipe/25973/brown-sugar-pound-cake-i/
+Cream Cheese Pound Cake with Lemon Glaze,36.57,0.5,4.29,2.0,0.07,['keju'],https://www.allrecipes.com/recipe/228051/cream-cheese-pound-cake/
+Pound Cake Cupcakes,8.5,0.12,1.21,0.33,0.0,['keju'],https://www.allrecipes.com/recipe/280293/pound-cake-cupcakes/
+Pecan Sour Cream Pound Cake,49.5,0.58,7.5,2.0,0.08,[],https://www.allrecipes.com/recipe/7279/pecan-sour-cream-pound-cake/
+German Marble Cake,24.71,0.43,3.29,1.07,0.07,['susu'],https://www.allrecipes.com/recipe/7807/german-marble-cake/
+Cream Cheese Pound Cake I,38.64,0.5,4.86,2.0,0.07,['keju'],https://www.allrecipes.com/recipe/7326/cream-cheese-pound-cake-i/
+Old-Fashioned Lemon Pound Cake,32.58,0.42,4.17,1.58,0.08,['susu'],https://www.allrecipes.com/recipe/256175/old-fashioned-lemon-pound-cake/
+Zesty Lemon Loaf,14.2,0.2,2.2,0.55,0.05,[],https://www.allrecipes.com/recipe/158213/zesty-lemon-loaf/
+Cherry Pound Cake,36.08,0.5,4.17,2.0,0.08,['keju'],https://www.allrecipes.com/recipe/52607/cherry-pound-cake/
+Whipping Cream Pound Cake,34.79,0.43,4.86,1.57,0.07,[],https://www.allrecipes.com/recipe/8268/whipping-cream-pound-cake/
+Cherry Cream Cheese Cake,29.86,0.43,3.36,1.64,0.07,['keju'],https://www.allrecipes.com/recipe/7704/cherry-cream-cheese-cake/
+Lemon Poppy Seed Loaf,8.46,0.12,1.25,0.33,0.04,[],https://www.allrecipes.com/recipe/7424/lemon-poppy-seed-loaf/
+World's Best Sweet Potato Pound Cake,22.94,0.38,3.94,0.69,0.06,['keju'],https://www.allrecipes.com/recipe/269933/worlds-best-sweet-potato-pound-cake/
+Mom's Margarine Cake,47.25,0.67,6.42,2.17,0.08,['susu'],https://www.allrecipes.com/recipe/87477/moms-margarine-cake/
+Caramel Pound Cake,53.07,0.5,7.29,2.57,0.14,['susu'],https://www.allrecipes.com/recipe/7429/caramel-pound-cake/
+Cold Oven Pound Cake,25.62,0.25,3.5,1.19,0.06,['susu'],https://www.allrecipes.com/recipe/26015/cold-oven-pound-cake/
+English Pound Cake,43.42,0.58,6.25,1.83,0.08,[],https://www.allrecipes.com/recipe/17800/english-pound-cake/
+Ultimate Butter Pound Cake,57.5,0.75,6.38,3.25,0.12,[],https://www.allrecipes.com/recipe/257279/ultimate-butter-pound-cake/
+Marble Swirl Pound Cake,27.93,0.43,4.21,1.07,0.07,['susu'],https://www.allrecipes.com/recipe/8169/marble-swirl-pound-cake/
+Strawberry Cream Cheese Pound Cake,37.83,0.83,5.17,1.58,0.17,['keju'],https://www.allrecipes.com/recipe/264876/strawberry-cream-cheese-pound-cake/
+Sour Cream Lemon Pound Cake,29.1,0.5,3.6,1.5,0.1,[],https://www.allrecipes.com/recipe/280241/sour-cream-lemon-pound-cake/
+Seven-Up Pound Cake,29.79,0.36,3.64,1.57,0.07,[],https://www.allrecipes.com/recipe/21727/seven-up-pound-cake/
+The Best Pound Cake,35.57,0.5,4.64,1.71,0.07,['susu'],https://www.allrecipes.com/recipe/17647/the-best-pound-cake/
+Pineapple Upside-Down Pound Cake,34.86,0.43,5.0,1.5,0.07,['keju'],https://www.allrecipes.com/recipe/261979/pineapple-upside-down-pound-cake/
+Barbadian Plain Cake,44.17,0.58,4.33,2.75,0.08,['susu'],https://www.allrecipes.com/recipe/7544/barbadian-plain-cake/
+Butter Pound Cake,38.0,0.43,4.64,2.0,0.07,[],https://www.allrecipes.com/recipe/7303/butter-pound-cake/
+Amazing Strawberry Pound Cake,27.5,0.33,3.5,1.42,0.08,['susu'],https://www.allrecipes.com/recipe/231964/amazing-strawberry-pound-cake/
+Butternut Pound Cake,32.93,0.43,4.14,1.71,0.07,['susu'],https://www.allrecipes.com/recipe/24966/butternut-pound-cake/
+Greek Lemon Cake,36.92,0.58,5.25,1.58,0.08,['susu'],https://www.allrecipes.com/recipe/7763/greek-lemon-cake/
+Strawberry Pound Cake,66.6,0.8,7.6,3.8,0.1,['keju'],https://www.allrecipes.com/recipe/280291/strawberry-pound-cake/
+Apricot Brandy Pound Cake III,29.07,0.4,4.0,1.2,0.07,[],https://www.allrecipes.com/recipe/23732/apricot-brandy-pound-cake-iii/
+Grandma Ruby's Buttermilk Pound Cake,23.88,0.31,3.5,0.94,0.06,[],https://www.allrecipes.com/recipe/242103/grandma-rubys-buttermilk-pound-cake/
+Yellow Pound Cake,39.71,0.5,4.79,2.14,0.07,['susu'],https://www.allrecipes.com/recipe/7593/yellow-pound-cake/
+Jan's Dark Chocolate Swirl Pound Cake,53.0,0.67,6.67,2.75,0.08,['keju'],https://www.allrecipes.com/recipe/245020/jans-dark-chocolate-swirl-pound-cake/
+Peanut Butter Pound Cake,59.7,1.1,6.3,3.5,0.2,[],https://www.allrecipes.com/recipe/257280/peanut-butter-pound-cake/
+Poppy Seed Cake III,30.0,0.5,3.79,1.5,0.07,['susu'],https://www.allrecipes.com/recipe/8448/poppy-seed-cake-iii/
+Best Chocolate Pound Cake,47.5,0.67,6.5,2.25,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/8391/best-chocolate-pound-cake/
+Marinated Pretzels,6.5,0.06,0.19,0.62,0.0,[],https://www.allrecipes.com/recipe/21829/marinated-pretzels/
+Crescent Roll Pretzels,16.12,0.38,1.38,1.0,N/A,['telur'],https://www.allrecipes.com/recipe/8538301/crescent-roll-pretzels/
+Air Fryer Pretzel Crescent Rolls,13.75,0.25,1.38,0.75,N/A,[],https://www.allrecipes.com/recipe/8537838/air-fryer-pretzel-crescent-rolls/
+Homemade Soft Pretzels,19.75,0.5,4.08,0.17,0.17,[],https://www.allrecipes.com/recipe/24272/buttery-soft-pretzels/
+Papa Drexler's Bavarian Pretzels,57.0,1.33,9.5,1.5,0.5,[],https://www.allrecipes.com/recipe/161586/papa-drexlers-bavarian-pretzels/
+Pizza Dough Pretzels,36.83,1.17,6.83,0.5,0.17,[],https://www.allrecipes.com/recipe/255590/pizza-dough-pretzels/
+Soft Homemade Pretzels,13.17,0.33,2.5,0.17,0.08,['telur'],https://www.allrecipes.com/recipe/230976/soft-homemade-pretzels/
+Soft Pretzel Sticks with Honey Mustard Dipping Sauce,18.0,0.33,2.67,0.67,0.08,[],https://www.allrecipes.com/recipe/274326/soft-pretzel-sticks-with-honey-mustard-dipping-sauce/
+Mall Pretzels,15.17,0.42,2.92,0.17,0.08,[],https://www.allrecipes.com/recipe/6737/mall-pretzels/
+Soft Pretzel Bites,10.38,0.25,1.62,0.31,0.06,['telur'],https://www.allrecipes.com/recipe/268018/soft-pretzel-bites/
+Large Soft Pretzels (Quick),10.67,0.27,1.8,0.27,0.07,['telur'],https://www.allrecipes.com/recipe/238864/large-soft-pretzels-quick/
+Sourdough Soft Pretzels,18.75,0.5,2.75,0.58,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/272372/sourdough-soft-pretzels/
+Bavarian Pretzels,28.0,0.75,4.88,0.5,0.12,[],https://www.allrecipes.com/recipe/285589/bavarian-pretzels/
+German New Year Pretzel,31.88,0.88,4.62,1.12,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/236652/german-new-year-pretzel/
+Pretzel Bratwurst Bites,3.42,0.14,0.17,0.25,0.0,[],https://www.allrecipes.com/recipe/278062/pretzel-bratwurst-bites/
+Two-Ingredient Dough Soft Pretzels,63.0,1.5,6.25,3.5,0.25,[],https://www.allrecipes.com/recipe/8400333/two-ingredient-dough-soft-pretzels/
+Quick and Easy Pretzel Bites with Nutella® Dipping Sauce,133.0,3.25,17.25,6.0,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/269035/quick-and-easy-pretzel-bites-with-nutella-dipping-sauce/
+Two-Ingredient Dough Air Fryer Pretzel Bites,19.12,0.5,2.0,1.12,0.12,[],https://www.allrecipes.com/recipe/8398189/two-ingredient-dough-air-fryer-pretzel-bites/
+Air Fryer Pretzel Bites,57.75,2.0,9.25,1.5,0.25,[],https://www.allrecipes.com/recipe/8400266/air-fryer-pretzel-bites/
+Easy Standing Rib Roast,73.33,5.5,0.33,5.5,0.17,[],https://www.allrecipes.com/recipe/255737/easy-standing-rib-roast/
+Prime Rib - It's Easier Than You Think,43.7,2.2,0.1,3.8,0.0,['sapi'],https://www.allrecipes.com/recipe/230368/prime-rib-its-easier-than-you-think/
+Chef John's Perfect Prime Rib,439.25,18.25,0.25,40.25,0.0,[],https://www.allrecipes.com/recipe/221958/chef-johns-perfect-prime-rib/
+The Perfect Prime Rib Roast,65.5,3.67,0.17,5.5,0.0,[],https://www.allrecipes.com/recipe/240437/the-perfect-prime-rib-roast/
+Reverse-Sear Prime Rib Roast,40.75,2.55,0.0,3.3,0.0,[],https://www.allrecipes.com/recipe/245638/reverse-sear-prime-rib-roast/
+Low and Slow Prime Rib,538.0,22.5,0.25,49.0,0.0,[],https://www.allrecipes.com/recipe/8520971/low-and-slow-prime-rib/
+Horseradish Cream Sauce for Prime Rib,3.5,0.0,0.06,0.38,0.0,[],https://www.allrecipes.com/recipe/276477/horseradish-cream-sauce-for-prime-rib/
+Prime Rib Gravy,182.5,7.75,3.5,15.0,0.25,['sapi'],https://www.allrecipes.com/recipe/8519674/prime-rib-gravy/
+Smoked Prime Rib Roast,35.8,2.7,0.2,2.6,0.1,[],https://www.allrecipes.com/recipe/240305/smoked-prime-rib-roast/
+Restaurant-Style Prime Rib Roast,62.14,3.14,0.43,5.21,0.0,[],https://www.allrecipes.com/recipe/139890/restaurant-style-prime-rib-roast/
+Christmas Prime Rib,34.17,1.92,0.25,2.83,0.08,['sapi'],https://www.allrecipes.com/recipe/219587/christmas-prime-rib/
+Kosher Salt Encrusted Prime Rib Roast,65.17,6.0,0.17,4.33,0.0,[],https://www.allrecipes.com/recipe/17143/kosher-salt-encrusted-prime-rib-roast/
+Cast-Iron Skillet Prime Rib Roast and Gravy,70.25,3.5,1.0,5.62,0.12,['sapi'],https://www.allrecipes.com/recipe/230192/cast-iron-skillet-prime-rib-roast-and-gravy/
+Prime Rib,36.92,3.92,0.25,2.17,N/A,[],https://www.allrecipes.com/recipe/9381/prime-rib/
+The Best Prime Rib Ever,57.12,2.75,0.25,5.0,0.0,[],https://www.allrecipes.com/recipe/262936/the-best-prime-rib-ever/
+Easy Prime Rib Roast,42.5,3.88,0.38,2.75,0.0,[],https://www.allrecipes.com/recipe/240543/easy-prime-rib-roast/
+Prime Rib Roast on Charcoal Grill,14.75,0.8,0.05,1.25,0.0,['sapi'],https://www.allrecipes.com/recipe/262932/prime-rib-roast-on-charcoal-grill/
+Rosemary Dijon Prime Rib,43.6,2.1,0.3,3.7,N/A,[],https://www.allrecipes.com/recipe/230367/rosemary-dijon-prime-rib/
+Classic Standing Beef Rib Roast,68.88,5.62,0.5,4.62,0.0,['sapi'],https://www.allrecipes.com/recipe/220363/classic-standing-beef-rib-roast/
+Prime Rib Au Jus with Yorkshire Pudding,160.83,10.67,6.67,9.67,0.33,"['sapi', 'susu']",https://www.allrecipes.com/recipe/160399/prime-rib-au-jus-with-yorkshire-pudding/
+Rock Salt Roast Prime Rib,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/30975/rock-salt-roast-prime-rib/
+Amazing Slow-Roasted Prime Rib,9.38,0.88,0.04,0.62,N/A,[],https://www.allrecipes.com/recipe/262937/amazing-slow-roasted-prime-rib/
+Kim's Prime Rib,122.8,10.2,0.8,8.4,0.0,[],https://www.allrecipes.com/recipe/16350/kims-prime-rib/
+Delectable Prime Rib au Jus,23.95,1.45,0.2,1.9,0.1,['sapi'],https://www.allrecipes.com/recipe/219589/delectable-prime-rib-and-au-jus/
+Rock Salt-Encrusted Prime Rib,77.7,4.1,2.1,5.75,0.1,[],https://www.allrecipes.com/recipe/154851/rock-salt-encrusted-prime-rib/
+Boneless Garlic and Rosemary Rubbed Prime Rib with Red Wine Mushroom Sauce,44.38,4.5,0.75,2.25,0.25,['ayam'],https://www.allrecipes.com/recipe/92634/boneless-garlic-and-rosemary-rubbed-prime-rib-with-red-wine-mushroom-sauce/
+Best Prime Rib Roast,52.5,2.5,0.83,4.25,0.0,[],https://www.allrecipes.com/recipe/14623/best-prime-rib-roast/
+Blackened Prime Rib,87.12,4.38,3.0,6.5,0.75,[],https://www.allrecipes.com/recipe/57576/blackened-prime-rib/
+Smoked Standing Rib Roast,94.17,5.0,0.67,6.0,0.0,[],https://www.allrecipes.com/recipe/43808/smoked-standing-rib-roast/
+Delicious and Easy Prime Rib,31.93,1.57,0.14,2.79,0.07,[],https://www.allrecipes.com/recipe/235743/delicious-and-easy-prime-rib/
+Brian's Garlicky Prime Rib,75.38,3.5,1.0,6.12,0.0,[],https://www.allrecipes.com/recipe/219585/brians-garlicky-prime-rib/
+Prime Rib Our Way,59.08,3.08,2.58,3.92,0.17,[],https://www.allrecipes.com/recipe/219586/prime-rib-our-way/
+Sous Vide Prime Rib,62.5,2.58,0.17,5.5,0.0,['sapi'],https://www.allrecipes.com/recipe/8455770/sous-vide-prime-rib/
+Pork Carnitas,20.83,1.33,0.17,1.58,0.0,['ayam'],https://www.allrecipes.com/recipe/219048/pork-carnitas/
+Instant Pot Carnitas,6.42,0.5,0.08,0.46,0.0,[],https://www.allrecipes.com/recipe/246332/carnitas-pressure-cooker/
+Slow Cooker Texas Pulled Pork,66.0,4.0,5.75,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+Bob's Smoked Pulled Pork,22.1,1.2,0.75,1.6,0.05,[],https://www.allrecipes.com/recipe/236104/bobs-pulled-pork-on-a-smoker/
+Slow Cooker Pulled Pork,41.88,2.62,6.12,0.62,0.25,[],https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/
+Kalua Pig in a Slow Cooker,20.25,2.17,N/A,1.25,N/A,[],https://www.allrecipes.com/recipe/24035/kalua-pig-in-a-slow-cooker/
+Slow Cooker Carnitas,22.3,2.2,0.1,1.4,0.0,['ayam'],https://www.allrecipes.com/recipe/139603/slow-cooker-carnitas/
+"Easy, Two-Ingredient Pulled Pork",67.0,3.75,8.12,2.0,0.38,[],https://www.allrecipes.com/recipe/236095/easy-two-ingredient-pulled-pork/
+Slow Cooker Beer Pulled Pork,13.06,0.94,0.56,0.75,0.0,[],https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/
+Slow-Smoked Pulled Pork (Boston Butt),116.67,5.0,3.5,9.0,0.17,[],https://www.allrecipes.com/recipe/254510/slow-smoked-pulled-pork-boston-butt/
+Crispy Pork Carnitas,52.83,4.33,0.33,3.83,0.0,[],https://www.allrecipes.com/recipe/239786/crispy-pork-carnitas/
+Slow Cooker Pulled Pork Barbeque,30.17,2.5,1.17,1.67,0.08,[],https://www.allrecipes.com/recipe/236422/slow-cooker-pulled-pork-barbeque/
+Dutch Oven Pulled Pork,13.33,1.08,1.33,0.42,0.0,[],https://www.allrecipes.com/recipe/278862/dutch-oven-pulled-pork/
+Smoked Pork Butt,20.06,1.69,0.19,1.38,N/A,[],https://www.allrecipes.com/recipe/17932/smoked-pork-butt/
+Easy Oven Pulled Pork,48.4,2.9,0.2,4.0,0.0,[],https://www.allrecipes.com/recipe/285153/easy-oven-pulled-pork/
+Chef John's Pulled Pork BBQ,28.67,1.42,2.83,1.25,0.08,[],https://www.allrecipes.com/recipe/235566/chef-johns-pulled-pork-bbq/
+BBQ Pork for Sandwiches,29.58,2.5,1.25,1.5,0.0,['sapi'],https://www.allrecipes.com/recipe/21174/bbq-pork-for-sandwiches/
+Slow Cooker Pulled Pork with Orange Juice,47.62,3.62,0.5,3.38,0.0,[],https://www.allrecipes.com/recipe/234697/slow-cooker-pulled-pork-with-orange-juice/
+Instant Pot® Pulled Pork,19.75,1.0,1.12,1.31,0.06,['ayam'],https://www.allrecipes.com/recipe/274650/instant-pot-pulled-pork/
+Cochinita Pibil,37.0,3.17,1.67,2.0,0.17,[],https://www.allrecipes.com/recipe/55069/cochinita-pibil/
+Sweet and Savory Slow Cooker Pulled Pork,48.5,2.9,4.6,1.9,0.2,[],https://www.allrecipes.com/recipe/213262/sweet-and-savory-slow-cooker-pulled-pork/
+Homestyle Kalua Pork with Cabbage in a Slow Cooker,50.2,3.0,0.5,4.1,0.2,[],https://www.allrecipes.com/recipe/222403/homestyle-kalua-pork-with-cabbage-in-a-slow-cooker/
+Easy North Carolina Barbeque,44.9,2.3,0.4,3.8,0.1,[],https://www.allrecipes.com/recipe/143172/easy-north-carolina-barbeque/
+Pork for Tamales,2.0,0.19,0.06,0.12,0.0,[],https://www.allrecipes.com/recipe/20772/pork-for-tamales/
+Easy Slow Cooker Apple Pork Roast,37.64,3.21,1.36,2.07,0.14,[],https://www.allrecipes.com/recipe/213270/easy-slow-cooker-apple-pork-roast/
+Slow Cooker Pineapple Pulled Pork,27.75,2.5,1.5,1.38,0.12,[],https://www.allrecipes.com/recipe/269927/slow-cooker-pineapple-pulled-pork/
+Instant Pot Dr Pepper Pulled Pork,156.75,6.25,26.5,2.75,0.75,[],https://www.allrecipes.com/recipe/268514/instant-pot-dr-pepper-pulled-pork/
+Big V's Slow-Cooker Pulled Pork,70.33,4.83,3.33,3.83,0.17,[],https://www.allrecipes.com/recipe/235170/big-vs-slow-cooker-pulled-pork/
+Slow Cooker Root Beer Pulled Pork,34.5,1.9,0.4,2.8,N/A,[],https://www.allrecipes.com/recipe/241143/slow-cooker-root-beer-pulled-pork/
+Juicy Pulled Pork,36.75,2.12,5.75,0.62,0.25,[],https://www.allrecipes.com/recipe/235371/juicy-pulled-pork/
+Super-Easy Pulled Pork Sandwiches,20.7,1.5,2.25,0.6,0.15,[],https://www.allrecipes.com/recipe/235378/super-easy-pulled-pork-sandwiches/
+Slow-Cooked Pulled Pork Shoulder,23.5,1.5,1.3,1.3,0.1,[],https://www.allrecipes.com/recipe/214463/slow-cooked-pulled-pork-shoulder/
+Orange and Milk-Braised Pork Carnitas,40.62,2.75,0.5,3.0,0.0,['susu'],https://www.allrecipes.com/recipe/242405/orange-and-milk-braised-pork-carnitas/
+Slow Cooker Pulled Pork with Root Beer Recipe,12.14,0.86,0.43,0.79,0.0,[],https://www.allrecipes.com/recipe/276493/slow-cooker-pulled-pork-with-root-beer/
+Faye's Pulled Barbecue Pork,63.09,3.91,2.45,4.09,0.09,[],https://www.allrecipes.com/recipe/14731/fayes-pulled-barbecue-pork/
+Slow Cooker Pulled Pork Roast,62.88,3.12,6.12,2.88,0.25,[],https://www.allrecipes.com/recipe/217821/slow-cooker-pulled-pork-roast/
+Tasty Slow Cooker Pulled Pork Recipe,37.1,1.8,4.0,1.5,0.1,[],https://www.allrecipes.com/recipe/241144/tasty-slow-cooker-pulled-pork/
+Easy Shredded Pork,14.93,0.82,1.11,0.79,0.04,[],https://www.allrecipes.com/recipe/219677/easy-shredded-pork/
+Manteca Fried Carnitas,15.2,0.6,0.15,1.35,0.05,[],https://www.allrecipes.com/recipe/197655/manteca-fried-carnitas/
+Simple Smoked Pork Butt,11.85,0.95,0.05,0.85,0.0,[],https://www.allrecipes.com/recipe/274564/simple-smoked-pork-butt/
+Easy Slow Cooker BBQ,33.62,2.12,1.5,2.0,0.0,[],https://www.allrecipes.com/recipe/235361/easy-slow-cooker-bbq/
+Sweet Pulled Pork Barbacoa,31.25,1.5,3.38,1.38,0.0,[],https://www.allrecipes.com/recipe/273985/sweet-pulled-pork-barbacoa/
+North Carolina-Style Pulled Pork,42.6,3.9,1.2,2.3,0.1,[],https://www.allrecipes.com/recipe/25459/north-carolina-style-pulled-pork/
+Honey BBQ Pulled Pork in the Slow Cooker,66.75,2.5,13.0,0.75,0.5,[],https://www.allrecipes.com/recipe/276494/honey-bbq-pulled-pork-in-the-slow-cooker/
+Instant Pot Carne Adovado,21.7,2.1,0.4,1.2,0.1,['ayam'],https://www.allrecipes.com/recipe/259740/instant-pot-carne-adovado/
+Cuban Shredded Pork,40.4,3.8,1.6,2.2,0.2,[],https://www.allrecipes.com/recipe/25149/cuban-shredded-pork/
+Pulled Pork Tamale Casserole,57.0,3.0,6.38,2.12,0.38,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/263424/pulled-pork-tamale-casserole/
+Shredded Pork Fajita Tacos,75.83,4.0,4.83,4.67,0.5,['keju'],https://www.allrecipes.com/recipe/254813/shredded-pork-fajita-tacos/
+Salsa Verde Pork,52.17,6.5,0.67,2.5,N/A,[],https://www.allrecipes.com/recipe/240599/salsa-verde-pork/
+Southern Pulled Pork,29.67,3.0,0.5,1.67,0.17,[],https://www.allrecipes.com/recipe/72194/southern-pulled-pork/
+Slow Cooker Pork Green Chili,26.92,1.25,1.58,1.75,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/272664/slow-cooker-pork-green-chili/
+Pineapple Pulled Pork Al Pastor,46.08,3.58,3.58,1.92,0.25,[],https://www.allrecipes.com/recipe/274229/pineapple-pulled-pork-al-pastor/
+Sweet and Spicy Ginger Beer Pulled Pork,10.56,0.94,0.17,0.67,0.06,[],https://www.allrecipes.com/recipe/247354/sweet-and-spicy-ginger-beer-pulled-pork/
+Pork Carnitas with Cilantro Tomatillo Sauce,65.5,4.5,4.0,3.5,0.75,[],https://www.allrecipes.com/recipe/153606/pork-carnitas-with-cilantro-tomatillo-sauce/
+Memphis Pulled Pork,8.7,0.4,1.1,0.3,0.1,['sapi'],https://www.allrecipes.com/recipe/235365/memphis-pulled-pork/
+Bourbon Bacon Pulled Pork,47.25,2.88,3.5,1.88,0.0,[],https://www.allrecipes.com/recipe/261772/bourbon-bacon-pulled-pork/
+Apple Cider Pulled Pork with Caramelized Onion and Apples,108.83,5.33,11.17,3.83,0.5,[],https://www.allrecipes.com/recipe/235162/apple-cider-pulled-pork-with-caramelized-onion-and-apples/
+Pulled Pork Hash,96.0,6.0,12.33,2.67,1.33,[],https://www.allrecipes.com/recipe/235372/pulled-pork-hash/
+Awesome Pulled Pork BBQ,54.8,4.1,4.4,2.4,0.2,['ayam'],https://www.allrecipes.com/recipe/235166/awesome-pulled-pork-bbq/
+Pumpkin Coconut Bread,12.33,0.17,1.79,0.54,0.08,[],https://www.allrecipes.com/recipe/6770/pumpkin-coconut-bread/
+Downeast Maine Pumpkin Bread,10.96,0.12,1.71,0.42,0.04,[],https://www.allrecipes.com/recipe/6820/downeast-maine-pumpkin-bread/
+Easy Pumpkin Muffins,16.67,0.17,3.08,0.42,0.17,[],https://www.allrecipes.com/recipe/93290/easy-pumpkin-muffins/
+Chocolate Chip Pumpkin Bread,8.4,0.1,1.23,0.37,0.03,[],https://www.allrecipes.com/recipe/6732/chocolate-chip-pumpkin-bread/
+Pumpkin Muffins with Streusel Topping,15.39,0.22,2.39,0.61,0.11,[],https://www.allrecipes.com/recipe/228562/pumpkin-muffins-with-streusel-topping/
+Easy Pumpkin Chocolate Chip Bread,33.8,0.4,4.9,1.5,0.3,[],https://www.allrecipes.com/recipe/235257/easy-pumpkin-chocolate-chip-bread/
+The Best Pumpkin Bread,9.67,0.12,1.33,0.42,0.04,[],https://www.allrecipes.com/recipe/277579/the-best-pumpkin-bread/
+Banana Pumpkin Bread,27.33,0.42,4.67,0.92,0.25,[],https://www.allrecipes.com/recipe/16706/banana-pumpkin-bread/
+Copycat Starbucks Pumpkin Bread,53.75,0.75,6.25,3.0,0.25,[],https://www.allrecipes.com/recipe/246817/starbucks-pumpkin-bread/
+Pumpkin Pie Muffins,10.04,0.12,1.92,0.25,0.17,[],https://www.allrecipes.com/recipe/234646/pumpkin-pie-muffins/
+Pumpkin Chocolate Chip Muffins,16.42,0.25,2.5,0.67,0.08,[],https://www.allrecipes.com/recipe/7958/pumpkin-chocolate-chip-muffins/
+Pumpkin Conchas,65.5,1.33,10.17,2.17,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/8505349/pumpkin-conchas/
+Pumpkin Pie Bread,10.96,0.12,1.71,0.42,0.04,[],https://www.allrecipes.com/recipe/7243/pumpkin-pie-bread/
+Pumpkin Cream Cheese Bread,19.53,0.27,2.67,0.93,0.07,"['keju', 'telur']",https://www.allrecipes.com/recipe/17968/pumpkin-cheese-bread-ii/
+Perfect Pumpkin Muffins,16.0,0.21,2.14,0.79,0.07,[],https://www.allrecipes.com/recipe/274250/perfect-pumpkin-muffins/
+Pumpkin Bread,15.95,0.2,2.45,0.65,0.05,[],https://www.allrecipes.com/recipe/18392/pumpkin-bread/
+Pumpkin Apple Streusel Muffins,13.83,0.17,2.39,0.44,0.06,[],https://www.allrecipes.com/recipe/20237/pumpkin-apple-streusel-muffins/
+Pumpkin Gingerbread,10.96,0.12,1.71,0.42,0.04,[],https://www.allrecipes.com/recipe/23822/pumpkin-gingerbread/
+Delicious Pumpkin Bread,10.67,0.12,1.62,0.42,0.04,[],https://www.allrecipes.com/recipe/6697/delicious-pumpkin-bread/
+Banana Nut Bread Baked in a Jar,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/7024/banana-nut-bread-baked-in-a-jar/
+Fresh Pumpkin Muffins,31.92,0.42,5.08,1.17,0.17,[],https://www.allrecipes.com/recipe/24011/pumpkin-muffins-ii/
+Pumpkin Gut Chocolate Chip Muffins,41.25,0.58,6.58,1.58,0.25,[],https://www.allrecipes.com/recipe/261056/pumpkin-gut-chocolate-chip-muffins/
+Dairy-Free Pumpkin Bread,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/268607/dairy-free-pumpkin-bread/
+Baked Pumpkin Bread,13.5,0.25,2.67,0.25,0.08,['telur'],https://www.allrecipes.com/recipe/6845/baked-pumpkin-bread/
+Applesauce Pumpkin Bread,17.38,0.31,3.38,0.38,0.19,[],https://www.allrecipes.com/recipe/230579/applesauce-pumpkin-bread/
+Pumpkin Oat Bread,9.36,0.18,1.36,0.36,0.09,[],https://www.allrecipes.com/recipe/212463/pumpkin-oat-bread/
+Pumpkin Cranberry Bread,25.71,0.36,3.93,1.07,0.21,[],https://www.allrecipes.com/recipe/18211/pumpkin-cranberry-bread/
+Whole Wheat Pumpkin Applesauce Muffins,18.92,0.42,3.17,0.67,0.25,[],https://www.allrecipes.com/recipe/55334/whole-wheat-pumpkin-applesauce-muffins/
+October Oatmeal Pumpkin Muffins,44.0,1.17,8.83,0.5,0.67,['susu'],https://www.allrecipes.com/recipe/229965/october-oatmeal-pumpkin-muffins/
+Whole Wheat Pumpkin Bread,9.94,0.17,1.39,0.44,0.11,[],https://www.allrecipes.com/recipe/275624/whole-wheat-pumpkin-bread/
+Easy Pumpkin Spice Muffins,13.78,0.22,1.78,0.67,0.11,[],https://www.allrecipes.com/recipe/239068/easy-pumpkin-spice-muffins/
+Pumpkin Spinach Toddler Muffins,4.0,0.08,0.42,0.25,0.08,[],https://www.allrecipes.com/recipe/259281/pumpkin-spinach-toddler-muffins/
+Pumpkin Banana Oat Muffins,35.58,0.58,4.25,2.0,0.42,[],https://www.allrecipes.com/recipe/268954/pumpkin-banana-oat-muffins/
+Healthy Pumpkin Cranberry Muffins,12.42,0.25,2.33,0.25,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/232460/healthy-pumpkin-cranberry-muffins/
+Easy and Delicious Pumpkin Bread,23.5,0.25,3.06,1.19,0.06,[],https://www.allrecipes.com/recipe/232433/easy-and-delicious-pumpkin-bread/
+Perfect Paleo Pumpkin Bread,23.5,0.5,2.38,1.5,0.25,[],https://www.allrecipes.com/recipe/239755/perfect-paleo-pumpkin-bread/
+Cinnamon Chip Pumpkin Mini Muffins,6.58,0.08,1.08,0.21,0.08,[],https://www.allrecipes.com/recipe/246622/cinnamon-chip-pumpkin-mini-muffins/
+Pumpkin Walnut Bread,26.5,0.33,3.33,1.42,0.17,[],https://www.allrecipes.com/recipe/276534/pumpkin-walnut-bread/
+Samhain Pumpkin Bread,12.31,0.19,2.0,0.44,0.12,[],https://www.allrecipes.com/recipe/149896/samhain-pumpkin-bread/
+Pumpkin Wheat Honey Muffins,21.92,0.33,3.0,1.08,0.25,[],https://www.allrecipes.com/recipe/56312/pumpkin-wheat-honey-muffins/
+Pumpkin Loaf,22.08,0.42,3.17,0.92,0.17,['keju'],https://www.allrecipes.com/recipe/6944/pumpkin-loaf/
+Pumpkin Muffins with Cinnamon Streusel Topping,10.06,0.11,1.61,0.39,0.06,[],https://www.allrecipes.com/recipe/232543/pumpkin-muffins-with-cinnamon-streusel-topping/
+Gluten-Free Pumpkin Bread,14.6,0.2,2.1,0.7,0.1,[],https://www.allrecipes.com/recipe/240083/gluten-free-pumpkin-bread/
+Orange Pumpkin Loaf,23.83,0.42,4.0,0.83,0.17,[],https://www.allrecipes.com/recipe/6932/orange-pumpkin-loaf/
+Pumpkin Nut Muffins,5.12,0.08,0.75,0.21,0.04,[],https://www.allrecipes.com/recipe/6824/pumpkin-nut-muffins/
+Citrus Cranberry Zucchini Bread,14.15,0.15,2.1,0.6,0.05,[],https://www.allrecipes.com/recipe/229696/citrus-cranberry-zucchini-bread/
+Pumpkin Bread with Raisins and Pecans,26.2,0.5,4.2,0.9,0.2,[],https://www.allrecipes.com/recipe/274706/pumpkin-bread-with-raisins-and-pecans/
+Pumpkin Zucchini Bread,36.25,0.58,5.42,1.42,0.17,[],https://www.allrecipes.com/recipe/229351/pumpkin-zucchini-bread-cake/
+Maple Pumpkin Doughnuts,34.38,0.38,5.25,1.38,0.12,['telur'],https://www.allrecipes.com/recipe/234865/maple-pumpkin-doughnuts/
+Lemon Pistachio Zucchini Bread,14.65,0.25,1.75,0.75,0.05,[],https://www.allrecipes.com/recipe/222563/lemon-pistachio-zucchini-bread/
+Moist Pumpkin Bread,24.56,0.25,3.5,1.12,0.12,[],https://www.allrecipes.com/recipe/272416/moist-pumpkin-bread/
+Chef John's Pumpkin Cinnamon Rolls,20.38,0.31,3.25,0.69,0.12,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/229860/chef-johns-pumpkin-cinnamon-rolls/
+Blueberry Pumpkin Muffins,12.17,0.25,2.0,0.42,0.17,"['telur', 'susu']",https://www.allrecipes.com/recipe/149964/blueberry-pumpkin-muffins/
+Pumpkin Swirl Bread,39.8,0.6,5.5,1.8,0.1,"['keju', 'telur']",https://www.allrecipes.com/recipe/7049/pumpkin-swirl-bread/
+Spiced Pumpkin Bread,10.29,0.12,1.71,0.33,0.08,[],https://www.allrecipes.com/recipe/231647/spiced-pumpkin-bread/
+Chef John's No-Knead Pumpkin Bread,22.5,0.62,4.75,0.12,0.25,[],https://www.allrecipes.com/recipe/235614/no-knead-holiday-pumpkin-bread/
+Pumpkin Chip Muffins,13.62,0.17,1.62,0.79,0.08,[],https://www.allrecipes.com/recipe/22960/pumpkin-chip-muffins/
+Chocolate Chip and Pumpkin Bread,17.15,0.2,2.55,0.75,0.15,[],https://www.allrecipes.com/recipe/239271/chocolate-chip-and-pumpkin-bread/
+Pumpkin Donuts,17.08,0.33,3.08,0.42,0.08,['susu'],https://www.allrecipes.com/recipe/233640/pumpkin-donuts/
+White Chocolate Pumpkin Spice Muffins,35.89,0.56,5.0,1.67,0.11,"['telur', 'susu']",https://www.allrecipes.com/recipe/239567/white-chocolate-pumpkin-spice-muffins/
+Cream Cheese Filled Pumpkin Muffins,24.58,0.33,2.83,1.42,0.17,['keju'],https://www.allrecipes.com/recipe/218785/cream-cheese-filled-pumpkin-muffins/
+Double Pumpkin-Beer Bread,18.17,0.33,2.67,0.75,0.25,['telur'],https://www.allrecipes.com/recipe/216226/double-pumpkin-beer-bread/
+Glazed Pumpkin Donuts,21.83,0.33,3.58,0.75,0.08,['susu'],https://www.allrecipes.com/recipe/231765/glazed-pumpkin-donuts/
+Pumpkin Spelt Muffins,13.33,0.33,2.0,0.58,0.17,[],https://www.allrecipes.com/recipe/278283/pumpkin-spelt-muffins/
+Pumpkin Bread (Gluten-Free),4.33,0.08,0.62,0.21,0.08,[],https://www.allrecipes.com/recipe/240084/pumpkin-bread-gluten-free/
+Pumpkin Chiffon Pie,43.62,0.88,7.0,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/22379/pumpkin-chiffon-pie/
+Perfect Pumpkin Pie,47.38,0.75,3.88,1.75,0.38,['susu'],https://www.allrecipes.com/recipe/23439/perfect-pumpkin-pie/
+Libby's Famous Pumpkin Pie,35.38,0.75,4.88,1.5,0.38,['susu'],https://www.allrecipes.com/recipe/22755/libbys-famous-pumpkin-pie/
+Homemade Fresh Pumpkin Pie,45.38,0.88,5.5,2.25,0.12,['susu'],https://www.allrecipes.com/recipe/13711/homemade-fresh-pumpkin-pie/
+Pecan Pumpkin Pie,82.62,1.38,11.88,3.5,0.5,['susu'],https://www.allrecipes.com/recipe/12223/pecan-pumpkin-pie-i/
+Pumpkin Tahini Pie,28.12,0.62,2.12,2.0,0.38,['susu'],https://www.allrecipes.com/recipe/8505041/pumpkin-tahini-pie/
+Pumpkin Pie with Vanilla Meringue,32.62,0.75,5.0,1.12,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/8505146/pumpkin-pie-with-vanilla-meringue/
+Marbled Chocolate Pumpkin Pie,19.33,0.44,1.89,1.22,0.33,['susu'],https://www.allrecipes.com/recipe/8505123/marbled-chocolate-pumpkin-pie/
+Pumpkin Pie with Maple Mascarpone Swirl,32.62,0.62,2.38,2.38,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/8500337/pumpkin-pie-with-maple-mascarpone-swirl/
+Simple Pumpkin Pie,59.75,1.25,8.38,2.5,0.38,['susu'],https://www.allrecipes.com/recipe/229932/simple-pumpkin-pie/
+Double Layer Pumpkin Pie,44.5,0.5,6.38,2.0,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/12482/double-layer-pumpkin-pie/
+Pumpkin Custard Pie,40.75,0.62,4.25,2.5,0.25,['susu'],https://www.allrecipes.com/recipe/13858/pumpkin-custard-pie/
+Real Pumpkin Pie,22.75,0.31,3.12,1.06,0.06,[],https://www.allrecipes.com/recipe/229594/fresh-sugar-pumpkin-pie/
+Chef John's Pumpkin Pie,40.0,1.0,5.25,1.75,0.38,"['susu', 'telur']",https://www.allrecipes.com/recipe/230132/chef-johns-pumpkin-pie/
+Crustless Pumpkin Pie,6.0,0.5,0.88,0.12,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/231541/easy-crustless-pumpkin-pie/
+Pumpkin Pie Spice I,2.75,0.0,0.62,0.12,0.25,[],https://www.allrecipes.com/recipe/20477/pumpkin-pie-spice-i/
+Whipped Pumpkin Pie,75.62,0.62,8.12,4.75,0.38,['keju'],https://www.allrecipes.com/recipe/235146/whipped-pumpkin-pie/
+Mrs. Sigg's Fresh Pumpkin Pie,52.88,1.38,9.12,1.62,0.38,['susu'],https://www.allrecipes.com/recipe/12089/mrs-siggs-fresh-pumpkin-pie/
+Killer Pumpkin Pie,48.75,0.62,6.25,2.5,0.38,['susu'],https://www.allrecipes.com/recipe/212491/killer-pumpkin-pie/
+Creamy Pumpkin Pie,39.88,0.88,5.5,1.62,0.25,['susu'],https://www.allrecipes.com/recipe/23771/creamy-pumpkin-pie/
+Mini Pumpkin Tarts,6.52,0.08,0.6,0.44,0.02,"['keju', 'susu']",https://www.allrecipes.com/recipe/217130/pumpkin-tarts/
+No-Bake Pumpkin Cheesecake Pie,56.75,0.62,6.38,3.25,0.5,['keju'],https://www.allrecipes.com/recipe/240162/no-bake-pumpkin-cheesecake-pie/
+No-Bake Pumpkin Pie,43.25,1.0,6.38,1.62,0.25,['susu'],https://www.allrecipes.com/recipe/15564/no-bake-pumpkin-pie-i/
+Signature Pumpkin Pie,38.75,1.0,5.25,1.62,0.38,['susu'],https://www.allrecipes.com/recipe/229767/signature-pumpkin-pie/
+Pumpkin Pie from Almond Breeze®,60.83,1.0,9.17,2.33,0.5,['telur'],https://www.allrecipes.com/recipe/255672/pumpkin-pie-from-almond-breeze/
+No-Sugar Pumpkin Pie,18.25,0.62,1.75,1.0,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/15403/sugarless-pumpkin-pie-ii/
+Gluten Free Crustless Pumpkin Pie,20.5,0.62,2.88,0.88,0.25,['susu'],https://www.allrecipes.com/recipe/230212/gluten-free-crustless-pumpkin-pie/
+Fresh Pumpkin Pie,50.62,1.0,7.5,2.25,0.25,['susu'],https://www.allrecipes.com/recipe/12433/fresh-pumpkin-pie/
+Vegan Pumpkin Pie,25.25,0.25,3.88,1.0,0.25,['susu'],https://www.allrecipes.com/recipe/255507/vegan-pumpkin-pie/
+Vanilla Pumpkin Pie,36.12,0.88,4.75,1.62,0.38,['susu'],https://www.allrecipes.com/recipe/23141/vanilla-pumpkin-pie/
+Keto Pumpkin Pie,17.38,0.5,1.88,1.38,0.38,[],https://www.allrecipes.com/recipe/266183/keto-pumpkin-pie/
+Mini Pumpkin Pies,5.75,0.12,0.5,0.38,0.04,"['keju', 'telur']",https://www.allrecipes.com/recipe/219025/mini-pumpkin-pies/
+Pumpkin Pecan Pie,65.38,0.75,8.62,3.38,0.38,['telur'],https://www.allrecipes.com/recipe/12231/pumpkin-pecan-pie-i/
+Fireball Pumpkin Pie,41.75,0.62,6.0,1.38,0.62,['susu'],https://www.allrecipes.com/recipe/281562/fireball-pumpkin-pie/
+Tofu Pumpkin Pie,28.75,0.62,4.38,1.12,0.38,[],https://www.allrecipes.com/recipe/216554/tofu-pumpkin-pie/
+Pumpkin Pie without Evaporated Milk,16.06,0.25,2.5,0.62,0.12,['susu'],https://www.allrecipes.com/recipe/12206/pumpkin-pie-ii/
+Cindy's Pumpkin Pie,13.94,0.25,1.75,0.69,0.12,[],https://www.allrecipes.com/recipe/24097/cindys-pumpkin-pie/
+Bisquick Impossible Pumpkin Pie,28.5,0.75,4.0,1.12,0.12,['susu'],https://www.allrecipes.com/recipe/18432/impossible-pumpkin-pie-ii/
+Pumpkin Pie for Dieters,18.33,0.33,3.83,0.0,0.33,['susu'],https://www.allrecipes.com/recipe/55358/pumpkin-pie-for-dieters/
+Gingersnap Pumpkin Pie,39.38,0.75,5.88,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/12214/gingersnap-pumpkin-pie/
+Pumpkin Pie Squares,7.33,0.12,1.0,0.33,0.04,"['telur', 'susu']",https://www.allrecipes.com/recipe/13792/pumpkin-pie-squares/
+Walnut Pumpkin Pie,57.38,1.0,7.38,2.88,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/13465/walnut-pumpkin-pie/
+Caramel-Pecan Pumpkin Pie,58.38,0.75,7.12,3.25,0.5,[],https://www.allrecipes.com/recipe/130635/caramel-pecan-pumpkin-pie/
+Brown Family's Favorite Pumpkin Pie,57.88,1.25,6.5,3.25,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/12504/brown-familys-favorite-pumpkin-pie/
+Creamy Pumpkin Pie with Ricotta Cheese,32.12,0.62,4.62,1.25,0.38,"['keju', 'susu']",https://www.allrecipes.com/recipe/240236/creamy-pumpkin-pie-with-ricotta-cheese/
+Pumpkin Pudding Pie,40.38,0.62,5.75,1.75,0.25,['susu'],https://www.allrecipes.com/recipe/244372/pumpkin-pudding-pie/
+Apple Butter Pumpkin Pie,51.62,1.0,6.25,2.62,0.38,['susu'],https://www.allrecipes.com/recipe/37258/apple-butter-pumpkin-pie/
+Mom's Pumpkin Pie,43.12,0.88,5.5,2.12,0.38,"['susu', 'telur']",https://www.allrecipes.com/recipe/12141/moms-pumpkin-pie/
+Praline Pumpkin Pie II,44.88,0.62,5.25,2.5,0.25,[],https://www.allrecipes.com/recipe/24103/praline-pumpkin-pie-ii/
+Dairy-Free Pumpkin Pie,19.12,0.25,3.62,0.5,0.25,"['telur', 'susu']",https://www.allrecipes.com/recipe/282813/dairy-free-pumpkin-pie/
+"Pumpkin Pie (Wheat-Free, Egg-Free, and Dairy-Free)",33.0,0.12,3.88,2.0,0.25,[],https://www.allrecipes.com/recipe/183221/pumpkin-pie-wheat-free-egg-free-and-dairy-free/
+Healthier Sweet Potato Pie,39.5,0.5,4.25,2.38,0.25,['susu'],https://www.allrecipes.com/recipe/222124/healthier-sweet-potato-pie-i/
+Pumpkin Custard Pie I,28.5,0.75,4.25,1.0,0.12,['susu'],https://www.allrecipes.com/recipe/15239/pumpkin-custard-pie-i/
+Mom's Spiced Pumpkin Pie,37.12,0.88,5.12,1.62,0.38,['susu'],https://www.allrecipes.com/recipe/24855/moms-spiced-pumpkin-pie/
+Easy Spiced Pumpkin Pie,41.62,0.75,5.62,2.0,0.5,['susu'],https://www.allrecipes.com/recipe/23650/spicy-pumpkin-pie-ii/
+Easy Maple Pumpkin Pie,36.75,0.75,5.25,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/268925/easy-maple-pumpkin-pie/
+Frozen No-Bake Pumpkin Pie,26.62,0.38,3.62,1.12,0.25,['susu'],https://www.allrecipes.com/recipe/18510/frozen-no-bake-pumpkin-pie/
+Dairy-Free Honey Pumpkin Pie,42.5,0.75,6.0,1.88,N/A,[],https://www.allrecipes.com/recipe/268685/dairy-free-honey-pumpkin-pie/
+Pumpkin Patch Tarts,20.93,0.24,2.86,0.98,0.02,['susu'],https://www.allrecipes.com/recipe/268442/pumpkin-patch-tarts/
+Harvest Walnut Pumpkin Pie,60.5,1.12,8.12,2.75,0.38,['susu'],https://www.allrecipes.com/recipe/268384/harvest-walnut-pumpkin-pie/
+Pumpkin Custard Pie II,42.88,0.5,3.25,2.88,0.12,[],https://www.allrecipes.com/recipe/16326/pumpkin-custard-pie-ii/
+Greek Pumpkin Pie,128.83,2.17,18.67,5.33,1.17,['telur'],https://www.allrecipes.com/recipe/218472/greek-pumpkin-pie/
+Kahlua® Pumpkin Pie,38.0,0.75,5.38,1.38,0.25,['susu'],https://www.allrecipes.com/recipe/234440/kahlua-pumpkin-pie/
+Pumpkin Pie with Truvia® Natural Sweetener,N/A,N/A,N/A,N/A,N/A,['susu'],https://www.allrecipes.com/recipe/229475/pumpkin-pie-with-truvia-natural-sweetener/
+Chocolate Pumpkin Pudding Pie,59.75,1.0,7.62,3.0,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/275949/chocolate-pumpkin-pudding-pie/
+Chocolate Pumpkin Pecan Pie,36.5,0.6,4.3,2.1,0.3,['telur'],https://www.allrecipes.com/recipe/282580/chocolate-pumpkin-pecan-pie/
+Air Fryer Pumpkin Seeds,39.0,1.67,1.17,3.33,0.33,[],https://www.allrecipes.com/recipe/269968/air-fryer-pumpkin-seeds/
+Chef John's Pumpkin Seed Brittle,21.5,0.17,4.17,0.58,0.0,[],https://www.allrecipes.com/recipe/239785/chef-johns-pumpkin-seed-brittle/
+Cajun Spiced Roasted Pumpkin Seeds,16.0,0.6,1.4,1.0,0.2,[],https://www.allrecipes.com/recipe/228537/cajun-spiced-roasted-pumpkin-seeds/
+Toasted Pumpkin Seeds,12.75,0.38,1.12,0.88,0.12,[],https://www.allrecipes.com/recipe/22633/toasted-pumpkin-seeds/
+Cinnamon Sugar Pumpkin Seeds,15.3,0.5,0.6,1.3,0.1,[],https://www.allrecipes.com/recipe/239621/cinnamon-toast-pumpkin-seeds/
+Spiced Pumpkin Seeds,11.25,0.38,1.12,0.62,0.12,[],https://www.allrecipes.com/recipe/13839/spiced-pumpkin-seeds/
+Savory Toasted Pumpkin Seeds,6.5,0.25,0.19,0.56,0.06,[],https://www.allrecipes.com/recipe/55091/savory-toasted-pumpkin-seeds/
+Toasted Pumpkin Seeds with Sugar and Spice,72.5,2.25,6.25,4.75,0.25,[],https://www.allrecipes.com/recipe/93408/toasted-pumpkin-seeds-with-sugar-and-spice/
+Spiced Maple Pumpkin Seeds,30.17,0.67,2.67,2.0,0.17,[],https://www.allrecipes.com/recipe/216025/spiced-maple-pumpkin-seeds/
+Best Roasted Pumpkin Seeds,6.67,0.25,0.75,0.33,0.08,[],https://www.allrecipes.com/recipe/23522/best-roasted-pumpkin-seeds/
+Roasted Butternut Squash Seeds,54.25,2.25,1.5,4.75,0.25,[],https://www.allrecipes.com/recipe/277437/roasted-butternut-squash-seeds/
+Baked Pumpkin Seeds,31.17,0.67,2.33,2.17,0.17,[],https://www.allrecipes.com/recipe/234717/baked-pumpkin-seeds/
+Honey Pumpkin Seeds,9.25,0.19,1.38,0.38,0.06,[],https://www.allrecipes.com/recipe/234716/honey-pumpkin-seeds/
+Caramelized Spicy Pumpkin Seeds,14.62,0.38,2.12,0.62,0.12,[],https://www.allrecipes.com/recipe/152418/caramelized-spicy-pumpkin-seeds/
+Maryland Pumpkin Seeds,84.5,3.83,3.0,7.17,0.83,[],https://www.allrecipes.com/recipe/94555/maryland-pumpkin-seeds/
+Air Fryer Salt and Vinegar Pumpkin Seeds,47.0,2.25,1.5,4.0,0.25,[],https://www.allrecipes.com/recipe/281925/air-fryer-salt-and-vinegar-pumpkin-seeds/
+Sweet Pumpkin Seeds,18.38,0.38,2.75,0.75,0.12,[],https://www.allrecipes.com/recipe/128616/sweet-pumpkin-seeds/
+Roasted Tajin Pumpkin Seeds,49.25,2.25,1.5,4.25,0.25,[],https://www.allrecipes.com/recipe/259193/roasted-tajin-pumpkin-seeds/
+Drunken Pumpkin Seeds,40.5,1.5,1.33,2.67,0.17,[],https://www.allrecipes.com/recipe/222365/drunken-pumpkin-seeds/
+Roasted Cinnamon Spice Pumpkin Seeds,53.0,2.25,2.5,4.25,0.5,[],https://www.allrecipes.com/recipe/235314/roasted-cinnamon-spice-pumpkin-seeds/
+Sweet and Spicy Pumpkin Seeds,27.5,1.12,1.0,2.38,0.12,[],https://www.allrecipes.com/recipe/93450/sweet-and-spicy-pumpkin-seeds/
+Healing Pumpkin Seeds,35.0,0.75,2.75,2.5,0.25,[],https://www.allrecipes.com/recipe/255806/healing-pumpkin-seeds/
+Sweet Curry Pumpkin Seeds,17.3,0.5,1.0,1.4,0.1,[],https://www.allrecipes.com/recipe/259195/sweet-curry-pumpkin-seeds/
+Sweet Vanilla Cinnamon Pumpkin Seeds,18.25,0.75,0.67,1.58,0.17,[],https://www.allrecipes.com/recipe/228457/sweet-vanilla-cinnamon-pumpkin-seeds/
+Buffalo and Ranch Pumpkin Seeds,51.0,2.25,2.25,4.12,0.38,[],https://www.allrecipes.com/recipe/259210/buffalo-and-ranch-pumpkin-seeds/
+Pumpkin Seed Brittle,5.96,0.12,0.96,0.21,0.0,[],https://www.allrecipes.com/recipe/265901/pumpkin-seed-brittle/
+"Crispy, Crunchy Pumpkin Seeds",12.25,0.38,1.12,0.75,0.12,[],https://www.allrecipes.com/recipe/279952/crispy-crunchy-pumpkin-seeds/
+Candied Pumpkin Seeds,8.75,0.33,1.33,0.33,0.08,[],https://www.allrecipes.com/recipe/279949/candied-pumpkin-seeds/
+Cinnamon and Ginger Caramelized Pumpkin Seeds,29.12,1.12,1.38,2.38,0.25,[],https://www.allrecipes.com/recipe/239850/cinnamon-and-ginger-caramelized-pumpkin-seeds/
+Air Fryer Maple-Chili Pumpkin Seeds,37.33,1.5,1.5,3.17,0.33,[],https://www.allrecipes.com/recipe/281916/air-fryer-maple-chili-pumpkin-seeds/
+Perfect Pumpkin Seeds,4.58,0.17,0.58,0.25,0.08,[],https://www.allrecipes.com/recipe/216256/perfect-pumpkin-seeds/
+Pumpkin Pie Seeds,7.75,0.25,1.0,0.38,0.12,[],https://www.allrecipes.com/recipe/228535/pumpkin-pie-seeds/
+Sweet Spicy Pumpkin Seeds,29.5,0.75,3.25,1.75,0.25,[],https://www.allrecipes.com/recipe/127212/sweet-spicy-pumpkin-seeds/
+"Oolong, Orange, and Whiskey Punch",20.5,0.12,1.75,0.0,0.0,[],https://www.allrecipes.com/recipe/8506845/oolong-orange-and-whiskey-punch/
+Party Punch IV,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/32446/party-punch-iv/
+Jamaican Rum Punch,31.75,0.25,3.75,0.12,0.25,[],https://www.allrecipes.com/recipe/236879/jamaican-rum-punch/
+Budget Jungle Juice for a Crowd,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/137430/budget-jungle-juice-for-a-crowd/
+Old-Fashioned Swedish Glögg,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/180453/old-fashioned-swedish-glogg/
+Fruit Punch,0.72,0.0,0.18,N/A,0.0,[],https://www.allrecipes.com/recipe/32372/fruit-punch/
+Party Punch,4.17,0.04,1.0,0.0,0.0,[],https://www.allrecipes.com/recipe/46659/party-punch-iii/
+Brandy Slush,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/32413/brandy-slush-i/
+Lime Sherbet Punch,13.67,0.06,3.22,0.11,0.06,[],https://www.allrecipes.com/recipe/220562/lime-sherbet-punch/
+Luscious Slush Punch,2.16,0.02,0.54,0.0,0.0,[],https://www.allrecipes.com/recipe/19163/luscious-slush-punch/
+Moose Milk,4.95,0.07,0.36,0.11,0.0,['susu'],https://www.allrecipes.com/recipe/230533/moose-milk/
+Sangria Cocktail,4.27,0.0,0.3,N/A,0.0,[],https://www.allrecipes.com/recipe/222520/sangria-cocktail/
+Baby Blue Punch,5.04,0.0,1.17,0.04,N/A,[],https://www.allrecipes.com/recipe/70551/baby-blue-punch/
+Peachy White Sangria,18.8,0.05,2.05,0.0,0.1,[],https://www.allrecipes.com/recipe/223329/white-peachy-sangria/
+Party Punch V,2.79,0.04,0.67,0.0,0.0,[],https://www.allrecipes.com/recipe/32696/party-punch-v/
+Orange Dream Punch,1.13,0.0,0.27,N/A,0.0,[],https://www.allrecipes.com/recipe/32364/orange-dream-punch/
+Watermelon Sangria,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/202438/watermelon-sangria/
+White Sangria,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/23537/white-sangria/

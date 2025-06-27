@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Creamy Mushroom Pasta,54.33,1.67,7.67,1.83,0.33,"['ayam', 'keju']",https://www.allrecipes.com/recipe/72797/creamy-mushroom-pasta/
+Fettuccine Alfredo with Chicken,117.5,9.25,12.25,3.0,0.75,"['ayam', 'keju']",https://www.allrecipes.com/recipe/236060/fettuccine-alfredo-with-chicken/
+Really Creamy Fettuccine Alfredo,170.0,4.75,11.25,12.0,0.5,"['susu', 'keju']",https://www.allrecipes.com/recipe/19403/really-creamy-fettuccine-alfredo/
+Baked Fettuccine Lasagna,36.6,2.1,3.3,1.7,0.3,"['sapi', 'keju']",https://www.allrecipes.com/recipe/14965/baked-fettuccine-lasagna/
+Creamy Ham and Asparagus Fettuccine,125.67,3.5,7.5,9.33,0.5,['keju'],https://www.allrecipes.com/recipe/21452/ham-and-asparagus-fettuccine/
+A Farewell to Basil Fettuccine,218.5,7.0,40.0,3.0,1.5,['telur'],https://www.allrecipes.com/recipe/12067/a-farewell-to-basil-fettuccine/
+Blackened Shrimp Stroganoff,110.0,8.25,10.25,4.0,0.75,"['ayam', 'udang']",https://www.allrecipes.com/recipe/40573/blackened-shrimp-stroganoff/
+Chef John's Pasta Primavera,98.33,3.17,12.17,4.5,1.33,"['ayam', 'keju']",https://www.allrecipes.com/recipe/236218/chef-johns-pasta-primavera/
+Shrimp and Asparagus Fettuccine,64.62,2.88,6.0,3.25,0.5,"['udang', 'keju']",https://www.allrecipes.com/recipe/213640/shrimp-and-asparagus-fettuccine/
+Rattlesnake Pasta,134.5,8.33,11.5,6.17,0.67,['keju'],https://www.allrecipes.com/recipe/75923/rattlesnake-pasta/
+"Cajun Chicken, Shrimp, and Sausage Pasta",141.25,9.0,12.5,6.0,1.0,"['udang', 'susu', 'ayam', 'keju']",https://www.allrecipes.com/recipe/219972/ragin-cajun-pasta/
+Fettuccine with Sweet Pepper-Cayenne Sauce,118.75,5.0,17.25,3.5,1.0,"['ayam', 'keju']",https://www.allrecipes.com/recipe/17702/fettuccine-with-sweet-pepper-cayenne-sauce/
+Cajun Shrimp and Sausage Alfredo,81.25,4.25,6.62,4.38,0.5,"['udang', 'keju']",https://www.allrecipes.com/recipe/276729/cajun-shrimp-and-sausage-alfredo/
+Tomato Alfredo,48.57,2.0,7.57,1.14,0.43,['keju'],https://www.allrecipes.com/recipe/11821/tomato-alfredo/
+Pasta Con Broccoli,374.5,6.5,23.5,29.0,1.5,['keju'],https://www.allrecipes.com/recipe/11714/pasta-con-broccoli/
+Alfredo Light,36.5,1.75,6.38,0.5,0.5,"['ayam', 'susu', 'keju']",https://www.allrecipes.com/recipe/11915/alfredo-light/
+Smoked Chicken Alfredo,84.75,3.88,4.5,5.62,0.25,"['ayam', 'keju']",https://www.allrecipes.com/recipe/281254/smoked-chicken-alfredo/
+Chicken Alfredo with Fettuccini Noodles,126.75,4.88,5.88,9.5,0.25,"['susu', 'ayam', 'keju']",https://www.allrecipes.com/recipe/26258/chicken-alfredo-with-fettuccini-noodles/
+Filet Mignon with Bacon Cream Sauce,95.75,5.25,2.25,7.25,0.0,['sapi'],https://www.allrecipes.com/recipe/213511/filet-mignon-with-bacon-cream-sauce/
+Perfect Pan Seared Filet Mignon,545.5,33.0,4.5,43.0,1.5,[],https://www.allrecipes.com/recipe/8539032/perfect-pan-seared-filet-mignon/
+Surf and Turf,222.0,13.5,1.5,17.5,0.0,['udang'],https://www.allrecipes.com/recipe/233259/surf-and-turf-for-two/
+Filet Mignon with Rich Balsamic Glaze,183.5,10.0,3.0,13.0,0.0,[],https://www.allrecipes.com/recipe/30578/filet-mignon-with-rich-balsamic-glaze/
+Blue Cheese Crusted Filet Mignon with Port Wine Sauce,100.5,6.25,2.25,7.0,0.25,"['sapi', 'keju']",https://www.allrecipes.com/recipe/72267/blue-cheese-crusted-filet-mignon-with-port-wine-sauce/
+Chef John's Individual Beef Wellingtons,332.5,11.5,14.75,25.0,0.5,['telur'],https://www.allrecipes.com/recipe/282602/chef-johns-individual-beef-wellingtons/
+Easy Yet Romantic Filet Mignon,305.5,33.5,1.0,17.5,0.0,[],https://www.allrecipes.com/recipe/132814/easy-yet-romantic-filet-mignon/
+Mouthwatering Crabmeat Pan Seared Filets,380.5,38.0,1.0,24.0,N/A,[],https://www.allrecipes.com/recipe/213468/mouthwatering-crabmeat-pan-seared-filets/
+Filet Mignon with Garlic Shrimp Cream Sauce,388.5,19.0,5.0,31.5,0.0,['udang'],https://www.allrecipes.com/recipe/213506/filet-mignon-with-garlic-shrimp-cream-sauce/
+Filet Mignon with Mushroom-Cabernet Gravy,83.0,5.0,2.0,5.0,0.25,['sapi'],https://www.allrecipes.com/recipe/213510/filet-mignon-with-mushroom-cabernet-gravy/
+Lobster Colorado,146.25,13.0,0.25,10.25,0.0,['sapi'],https://www.allrecipes.com/recipe/100072/lobster-colorado/
+Crab-Stuffed Filet Mignon with Whiskey Peppercorn Sauce,187.0,10.25,1.75,14.25,0.25,"['udang', 'sapi']",https://www.allrecipes.com/recipe/46815/crab-stuffed-filet-mignon-with-whiskey-peppercorn-sauce/
+Jessica's Steak Oscar,644.5,41.5,11.0,48.5,2.5,"['susu', 'sapi']",https://www.allrecipes.com/recipe/216800/jessicas-steak-oscar/
+Grilled Filet Mignon with Gorgonzola Cream Sauce,364.0,13.75,2.25,33.5,0.25,"['sapi', 'keju']",https://www.allrecipes.com/recipe/200340/grilled-filet-mignon-with-gorgonzola-cream-sauce/
+Lover's Beef Burgundy Filet,110.38,3.62,1.0,9.25,0.12,[],https://www.allrecipes.com/recipe/15901/lovers-beef-burgundy-filet/
+Smothered Filet Mignon,147.5,8.75,3.25,10.75,0.5,['keju'],https://www.allrecipes.com/recipe/67432/smothered-filet-mignon/
+Filet Mignon for Two,515.5,32.0,4.0,41.0,0.0,['keju'],https://www.allrecipes.com/recipe/278230/filet-mignon-for-two/
+Broiled Filet Mignon,62.5,8.0,2.0,2.25,0.0,[],https://www.allrecipes.com/recipe/278229/broiled-filet-mignon/
+Filet Mignon and Balsamic Strawberries,109.5,6.5,5.5,6.75,0.5,['sapi'],https://www.allrecipes.com/recipe/213507/filet-mignon-and-balsamic-strawberries/
+Filet Mignon with Mushrooms,234.0,19.0,3.0,11.0,0.5,[],https://www.allrecipes.com/recipe/278231/filet-mignon-with-mushrooms/
+Grilled Filet Mignon with Blue Cheese Butter,118.5,8.5,0.25,9.25,0.0,['keju'],https://www.allrecipes.com/recipe/286256/grilled-filet-mignon-with-blue-cheese-butter/
+Herb-Marinated Tenderloin,111.0,16.0,0.5,4.5,0.0,['sapi'],https://www.allrecipes.com/recipe/201978/herb-marinated-tenderloin/
+Teri Tips,9.75,0.56,0.38,0.62,0.0,[],https://www.allrecipes.com/recipe/14666/teri-tips/
+Filet Mignon with Bell Pepper Haystack and Fresh Guacamole Served with Corn Chips,411.75,16.0,26.25,28.25,5.25,"['ayam', 'sapi']",https://www.allrecipes.com/recipe/185849/filet-mignon-with-bell-pepper-haystack-and-fresh-guacamole-served-with-corn-chips/
+Spanish Flan,50.75,1.38,8.25,1.38,0.0,['susu'],https://www.allrecipes.com/recipe/20979/spanish-flan/
+Flan de Queso (Cream Cheese Flan),59.38,1.75,7.25,2.75,N/A,"['susu', 'keju']",https://www.allrecipes.com/recipe/246830/flan-de-queso-cream-cheese-flan/
+Baked Flan,61.25,1.25,5.88,3.75,N/A,['susu'],https://www.allrecipes.com/recipe/44497/baked-flan/
+Flan Mexicano (Mexican Flan),54.25,1.12,7.0,2.5,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/214091/flan-mexicano-mexican-flan/
+Creamy Caramel Flan,35.0,1.1,4.1,1.7,N/A,"['susu', 'keju']",https://www.allrecipes.com/recipe/22220/creamy-caramel-flan/
+Quesillo (Venezuelan Flan),38.62,1.0,6.75,0.88,N/A,['susu'],https://www.allrecipes.com/recipe/262054/quesillo-venezuelan-flan/
+Flan de Coco (Coconut Flan),24.75,0.67,3.92,0.75,0.0,['susu'],https://www.allrecipes.com/recipe/108362/flan-de-coco-coconut-flan/
+Leche Flan,32.25,0.92,4.58,1.17,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/262423/leche-flan/
+Original Mexican Flan Napolitano,21.75,0.75,2.17,1.17,N/A,"['susu', 'keju']",https://www.allrecipes.com/recipe/260650/original-mexican-flan-napolitano/
+Easy Flan,73.0,2.25,12.5,1.75,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/20524/flan-ii/
+Microwave Flan,45.12,0.62,9.75,0.5,N/A,['susu'],https://www.allrecipes.com/recipe/109661/microwave-flan/
+Brazilian Style Flan (Pudim de Leite Condensado),37.88,1.0,6.62,0.88,N/A,['susu'],https://www.allrecipes.com/recipe/202261/brazilian-style-flan-pudim-de-leite-condensado/
+Sous Vide Flan,40.62,1.25,6.38,1.25,N/A,['susu'],https://www.allrecipes.com/recipe/263114/sous-vide-flan/
+Coconut Milk Flan,62.17,1.67,8.17,2.83,0.0,['susu'],https://www.allrecipes.com/recipe/228447/coconut-milk-flan/
+Coconut Flan,27.75,0.83,3.33,1.33,0.0,['susu'],https://www.allrecipes.com/recipe/109921/coconut-flan/
+Simple and Creamy Spanish Flan,41.5,1.12,6.38,1.38,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/231051/simple-and-creamy-spanish-flan/
+Coconut Cheese Flan (Flan de Coco y Queso),24.88,0.5,2.62,1.44,0.0,"['susu', 'keju']",https://www.allrecipes.com/recipe/219066/coconut-cheese-flan-flan-de-coco-y-queso/
+Super Easy Cream Cheese Flan,40.3,1.0,5.6,1.6,N/A,"['susu', 'keju']",https://www.allrecipes.com/recipe/246831/super-easy-cream-cheese-flan/
+Jericallas (Mexican Baked Custards),17.5,0.6,2.6,0.6,0.1,['susu'],https://www.allrecipes.com/recipe/283398/jericallas-mexican-baked-custards/
+Caramel-Glazed Flan,40.88,1.12,7.5,0.5,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/25648/caramel-glazed-flan/
+Aracely's Flan,26.8,0.8,2.9,1.4,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/90358/aracelys-flan/
+Pumpkin Pie Flan,35.38,1.25,5.38,1.12,0.25,['susu'],https://www.allrecipes.com/recipe/66549/pumpkin-pie-flan/
+Flan I,47.0,1.25,8.12,1.12,N/A,['susu'],https://www.allrecipes.com/recipe/19049/flan-i/
+Pina Colada Flan,93.25,1.25,14.62,3.5,0.0,['susu'],https://www.allrecipes.com/recipe/214804/pina-colada-flan/
+White Chocolate Flan,65.2,1.3,6.8,3.8,N/A,"['susu', 'keju']",https://www.allrecipes.com/recipe/220155/white-chocolate-flan/
+Instant Pot Bahn Flan (Vietnamese Flan),209.33,5.0,40.0,3.67,N/A,"['susu', 'telur']",https://www.allrecipes.com/recipe/279981/instant-pot-bahn-flan-vietnamese-flan/
+Pumpkin Flan,16.88,0.5,2.0,0.88,0.12,[],https://www.allrecipes.com/recipe/268361/pumpkin-flan/
+Mango Pudding (Flan de Mango),21.58,0.58,3.58,0.58,0.08,['susu'],https://www.allrecipes.com/recipe/33056/mango-pudding-flan-de-mango/
+Lisa's Favorite Carne Asada Marinade,17.25,1.25,0.5,1.17,0.08,[],https://www.allrecipes.com/recipe/186691/lisas-favorite-carne-asada-marinade/
+Marinated Flank Steak,60.5,4.17,0.67,4.67,0.0,[],https://www.allrecipes.com/recipe/18074/marinated-flank-steak/
+London Broil,49.5,6.12,0.12,2.62,0.0,[],https://www.allrecipes.com/recipe/14562/london-broil-ii/
+Flank Steak Pinwheels,50.0,3.0,1.67,3.33,0.17,['keju'],https://www.allrecipes.com/recipe/74580/flank-steak-pinwheels/
+Instant Pot Shredded Flank Steak,66.0,5.5,2.75,3.25,0.5,['sapi'],https://www.allrecipes.com/recipe/265384/instant-pot-shredded-flank-steak/
+Maria's Pepper Steak,57.33,5.5,3.5,2.33,0.17,[],https://www.allrecipes.com/recipe/54611/marias-pepper-steak/
+Bracciole (Flank Steak Rolls),53.0,3.83,1.0,3.83,0.17,"['telur', 'keju']",https://www.allrecipes.com/recipe/229505/bracciole-flank-steak-rolls/
+Stuffed Flank Steak,124.25,6.5,7.25,7.25,1.0,['keju'],https://www.allrecipes.com/recipe/16319/stuffed-flank-steak/
+Rolled Flank Steak,78.83,5.17,0.5,6.17,0.17,"['sapi', 'keju']",https://www.allrecipes.com/recipe/141155/rolled-flank-steak/
+London Broil I,37.0,5.0,0.67,1.5,0.0,[],https://www.allrecipes.com/recipe/14520/london-broil-i/
+Thai Beef,30.5,2.5,3.33,0.83,0.17,[],https://www.allrecipes.com/recipe/234642/thai-beef/
+Grilled Balsamic and Soy Marinated Flank Steak,76.75,5.5,2.0,5.25,0.25,[],https://www.allrecipes.com/recipe/230738/grilled-balsamic-and-soy-marinated-flank-steak/
+Grilled Mexican Steak,91.33,4.83,1.17,7.5,0.33,[],https://www.allrecipes.com/recipe/47844/grilled-mexican-steak/
+Teriyaki Steak,81.25,9.0,5.75,2.0,0.0,['sapi'],https://www.allrecipes.com/recipe/16446/teriyaki-steak/
+Citrus Carne Asada Marinade,19.75,1.88,0.88,1.0,0.25,[],https://www.allrecipes.com/recipe/264983/citrus-carne-asada-marinade/
+G's Flank Steak Marinade,42.83,4.17,1.17,2.33,0.0,['sapi'],https://www.allrecipes.com/recipe/50579/gs-flank-steak-marinade/
+Overnight-Marinated Flank Steak,104.75,5.5,1.25,8.75,0.0,[],https://www.allrecipes.com/recipe/231755/overnight-marinated-flank-steak/
+Tuscan Flank Steak,124.25,5.25,1.25,11.0,0.25,[],https://www.allrecipes.com/recipe/229452/tuscan-flank-steak/
+Flank Steak Marinade,80.33,2.5,5.5,5.33,0.17,[],https://www.allrecipes.com/recipe/215562/flank-steak-marinade/
+Parisian-Style Steak Frites,92.5,7.0,0.5,6.5,0.0,['sapi'],https://www.allrecipes.com/recipe/246296/parisian-style-steak-frites/
+Slow Cooker London Broil,24.75,1.88,1.25,1.38,0.0,[],https://www.allrecipes.com/recipe/14684/slow-cooker-london-broil/
+Braised Flank Steak with Lemon and Garlic,23.0,2.0,1.5,1.0,0.0,"['ayam', 'sapi']",https://www.allrecipes.com/recipe/146231/braised-flank-steak-with-lemon-and-garlic/
+Sous Vide Marinated Flank Steak,147.5,7.5,10.0,9.0,0.0,[],https://www.allrecipes.com/recipe/273467/sous-vide-marinated-flank-steak/
+Broiled Flank Steak,31.6,2.8,0.4,2.0,0.0,[],https://www.allrecipes.com/recipe/277347/broiled-flank-steak/
+Flank Steak with Mushroom Sauce,65.0,4.75,1.25,4.5,0.25,['sapi'],https://www.allrecipes.com/recipe/219543/flank-steak-with-mushroom-sauce/
+Tender Flank Steak,31.25,3.75,1.25,1.25,0.0,[],https://www.allrecipes.com/recipe/230197/tender-flank-steak/
+Korean Marinated Flank Steak,69.5,4.0,7.83,2.5,0.17,['sapi'],https://www.allrecipes.com/recipe/139430/korean-marinated-flank-steak/
+Grilled or Fried Skirt Steak,145.25,7.5,1.5,11.75,N/A,"['sapi', 'keju']",https://www.allrecipes.com/recipe/81078/grilled-or-fried-skirt-steak/
+Tacos de Carne Asada,32.5,1.75,0.38,2.75,0.12,[],https://www.allrecipes.com/recipe/222495/tacos-de-carne-asada/
+Flank Steak Barbecue,63.67,2.33,1.83,5.33,0.0,[],https://www.allrecipes.com/recipe/84156/flank-steak-barbecue/
+Sous Vide Flank Steak,38.0,3.5,1.25,2.0,0.25,[],https://www.allrecipes.com/recipe/283614/sous-vide-flank-steak/
+Braised Flank Steak in the Oven,19.88,1.75,0.88,1.0,0.12,[],https://www.allrecipes.com/recipe/283335/braised-flank-steak-in-the-oven/
+"Sliced Steak, Peppers, and Mushrooms in the Oven",52.5,4.25,2.5,2.75,0.75,[],https://www.allrecipes.com/recipe/283393/sliced-steak-peppers-and-mushrooms-in-the-oven/
+Grilled Flank Steak,89.0,3.5,1.0,8.0,0.0,[],https://www.allrecipes.com/recipe/273560/grilled-flank-steak/
+Spicy Flank Steak,40.0,3.17,0.33,2.83,0.17,[],https://www.allrecipes.com/recipe/87048/spicy-flank-steak/
+Carne Asada al Cilantro,84.0,7.0,0.5,5.75,0.0,['sapi'],https://www.allrecipes.com/recipe/265336/carne-asada-al-cilantro/
+Beerbecue Beef Flank Steak,70.5,5.25,7.5,1.75,0.25,['sapi'],https://www.allrecipes.com/recipe/233294/beerbecue-beef-flank-steak/
+Greek Flank Steak,73.75,8.25,1.0,4.0,0.5,['keju'],https://www.allrecipes.com/recipe/259355/greek-flank-steak/
+Marinated Flank Steak with Horseradish Cream,89.0,6.0,5.0,4.75,0.5,[],https://www.allrecipes.com/recipe/274371/marinated-flank-steak-with-horseradish-cream/
+Marinated Grilled Flank Steak,41.25,4.25,0.75,2.25,0.0,[],https://www.allrecipes.com/recipe/273559/marinated-grilled-flank-steak/
+Tex-Mex Grilled Flank Steak,17.12,1.75,0.25,0.88,N/A,[],https://www.allrecipes.com/recipe/273923/tex-mex-grilled-flank-steak/
+Grilled Sesame Steak,160.0,10.0,5.25,11.25,1.0,[],https://www.allrecipes.com/recipe/235144/grilled-sesame-steak/
+Garlic Fennel Flank Steak with Oranges,79.75,7.0,1.5,5.0,0.5,[],https://www.allrecipes.com/recipe/237726/garlic-fennel-flank-steak-with-oranges/
+Teriyaki Flank Steak,88.75,5.75,3.5,5.25,0.25,['sapi'],https://www.allrecipes.com/recipe/38046/teriyaki-flank-steak/
+Perfect Flat Iron Steak,57.5,5.17,0.17,3.83,0.0,[],https://www.allrecipes.com/recipe/150685/perfect-flat-iron-steak/
+Grilled Flat Iron Steak with Blue Cheese-Chive Butter,137.75,9.25,0.75,11.0,0.25,['keju'],https://www.allrecipes.com/recipe/161194/grilled-flat-iron-steak-with-blue-cheese-chive-butter/
+Marinated Flat Iron Steak,52.0,4.0,1.83,3.33,0.0,[],https://www.allrecipes.com/recipe/160405/marinated-flat-iron-steak/
+Flat Iron Steak with Balsamic Reduction,89.33,7.83,1.33,5.83,0.17,[],https://www.allrecipes.com/recipe/158753/flat-iron-steak-with-balsamic-reduction/
+Foolproof Flat Iron Steaks,134.25,11.75,1.0,9.0,0.0,[],https://www.allrecipes.com/recipe/237831/foolproof-flat-iron-steaks/
+Roasted Garlic Flat Iron Steak,177.75,11.75,1.0,14.25,0.0,[],https://www.allrecipes.com/recipe/150353/roasted-garlic-flat-iron-steak/
+Lemon Basil Pesto Flat Iron Steak,94.83,6.67,0.67,7.33,0.17,['keju'],https://www.allrecipes.com/recipe/161598/lemon-basil-pesto-flat-iron-steak/
+Flat Iron Steak with Mushroom Sauce,109.25,7.0,1.75,7.75,0.5,['sapi'],https://www.allrecipes.com/recipe/231521/flat-iron-steak-with-mushroom-sauce/
+Asian Flat Iron Steak,134.5,12.5,4.75,7.25,0.25,[],https://www.allrecipes.com/recipe/237770/asian-flat-iron-steak/
+Easy Flat Iron Steak in Wine Sauce,355.5,19.0,4.5,27.5,1.5,[],https://www.allrecipes.com/recipe/180325/easy-flat-iron-steak-in-wine-sauce/
+Flat Iron Steak with Three Pepper Rub,49.17,5.33,0.5,3.0,0.17,[],https://www.allrecipes.com/recipe/164439/flat-iron-steak-with-three-pepper-rub/
+Flat Iron Steaks Marinated in Red Wine,129.25,11.75,0.5,8.5,0.0,[],https://www.allrecipes.com/recipe/161596/flat-iron-steaks-marinated-in-red-wine/
+Spicy Flat Iron Steak Rub,146.5,11.75,2.25,10.0,0.25,[],https://www.allrecipes.com/recipe/150292/spicy-flat-iron-steak-rub/
+"Flat Iron, Grilled",98.25,8.75,1.0,6.75,0.25,[],https://www.allrecipes.com/recipe/155544/flat-iron-grilled/
+Drunken Flat Iron Steak,61.67,5.17,0.67,3.83,0.0,[],https://www.allrecipes.com/recipe/151099/drunken-flat-iron-steak/
+Asian Flair Flat Iron Steak,148.33,8.0,2.33,12.0,0.33,[],https://www.allrecipes.com/recipe/169263/asian-flair-flat-iron-steak/
+Flat Iron Steak Grilled to a 'Tea',83.0,9.0,0.25,5.25,N/A,[],https://www.allrecipes.com/recipe/237771/flat-iron-steak-grilled-to-a-tea/
+Grilled Gorgonzola Flat Irons,192.25,14.25,5.5,11.25,0.75,['keju'],https://www.allrecipes.com/recipe/171939/grilled-gorgonzola-flat-irons/
+Focaccia Bread,14.25,0.5,1.92,0.5,0.08,['keju'],https://www.allrecipes.com/recipe/17918/focaccia-bread/
+Naan,3.71,0.07,0.29,0.29,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/14565/naan/
+Norwegian Potato Lefsa,94.5,2.12,16.62,2.25,1.5,[],https://www.allrecipes.com/recipe/16077/norwegian-potato-lefsa/
+Tex-Mex Pork Crescent Roll Squares,3.84,0.19,0.25,0.22,0.03,['keju'],https://www.allrecipes.com/recipe/8532983/tex-mex-pork-crescent-roll-squares/
+Lentil Flatbread,44.25,3.25,7.5,0.25,3.75,[],https://www.allrecipes.com/recipe/8542186/lentil-flatbread/
+South African Traditional Vetkoek (Fried Bread),27.67,0.67,5.0,0.5,0.17,[],https://www.allrecipes.com/recipe/245683/south-african-traditional-vetkoek-fried-bread/
+Homemade Pita Bread,23.38,0.62,4.12,0.5,0.12,[],https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/
+Bread Machine Focaccia,13.83,0.33,2.08,0.42,0.08,[],https://www.allrecipes.com/recipe/25213/bread-machine-focaccia/
+Lebanese Mountain Bread,5.88,0.12,0.75,0.25,0.0,[],https://www.allrecipes.com/recipe/259099/lebanese-mountain-bread/
+Garlic Naan,37.83,1.0,5.17,1.5,0.17,[],https://www.allrecipes.com/recipe/270860/garlic-naan/
+Bazlama - Turkish Flat Bread,126.25,3.75,25.0,1.0,1.0,[],https://www.allrecipes.com/recipe/215599/bazlama-turkish-flat-bread/
+Deliciously Easy Garlic Herb Focaccia,18.75,0.58,2.17,0.83,0.08,['keju'],https://www.allrecipes.com/recipe/245776/deliciously-easy-garlic-herb-focaccia/
+No-Knead Focaccia,12.92,0.42,2.33,0.17,0.08,[],https://www.allrecipes.com/recipe/8443216/no-knead-big-bubble-focaccia/
+Syrian Bread,25.5,0.62,4.5,0.5,0.12,[],https://www.allrecipes.com/recipe/20834/syrian-bread/
+Peppy's Pita Bread,23.88,0.62,4.62,0.25,0.12,[],https://www.allrecipes.com/recipe/6821/peppys-pita-bread/
+Injera (Ethiopian Teff Bread),112.5,3.5,20.5,2.0,4.0,[],https://www.allrecipes.com/recipe/264651/injera-ethiopian-teff-bread/
+Easiest Focaccia Recipe,74.0,1.75,12.25,1.75,0.5,[],https://www.allrecipes.com/recipe/23419/easiest-focaccia-recipe/
+Decorated Focaccia Bread,22.75,0.58,3.42,0.75,0.25,['susu'],https://www.allrecipes.com/recipe/279147/decorated-focaccia-bread/
+How To Make Focaccia,32.17,0.17,0.17,3.5,0.0,[],https://www.allrecipes.com/recipe/234312/how-to-make-focaccia/
+Schlotsky's Bread,1.58,0.08,0.25,0.0,0.0,['susu'],https://www.allrecipes.com/recipe/7173/schlotskys-bread/
+Michael's Focaccia Bread,20.75,0.58,3.5,0.5,0.17,['keju'],https://www.allrecipes.com/recipe/105038/michaels-foccacia-bread/
+Focaccia di Recco,23.25,0.62,3.0,3.0,0.12,['keju'],https://www.allrecipes.com/recipe/235857/focaccia-di-recco/
+Noni Afghani,38.62,1.0,6.25,1.0,0.25,['telur'],https://www.allrecipes.com/recipe/60861/noni-afghani/
+Za'atar Bread,12.31,0.38,2.12,0.25,0.12,[],https://www.allrecipes.com/recipe/267826/zaatar-bread/
+Homemade Focaccia Bread,16.08,0.42,2.42,0.58,0.08,['telur'],https://www.allrecipes.com/recipe/6780/homemade-focaccia-bread/
+Naan Bread,52.33,1.33,8.33,1.5,0.33,['susu'],https://www.allrecipes.com/recipe/15074/naan-bread/
+Ekmek Turkish Bread,0.5,0.08,0.08,0.0,0.0,[],https://www.allrecipes.com/recipe/21106/ekmek-turkish-bread/
+Easy Naan,21.0,0.67,3.58,0.42,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/279560/easy-naan/
+Black Olive and Rosemary Focaccia,14.62,0.38,0.38,1.38,0.12,['keju'],https://www.allrecipes.com/recipe/49494/black-olive-and-rosemary-focaccia/
+Garlic Cheese Flatbread,10.7,0.2,0.3,1.0,0.0,['keju'],https://www.allrecipes.com/recipe/105053/garlic-cheese-flatbread/
+Hotteok,27.1,0.6,4.8,0.7,0.2,['susu'],https://www.allrecipes.com/recipe/244541/hotteok/
+Lepinja (Balkan Flatbread),8.0,0.25,1.67,0.0,0.08,['susu'],https://www.allrecipes.com/recipe/214925/lepinja-balkan-flatbread/
+Indian Naan,39.5,0.83,5.5,1.5,0.17,[],https://www.allrecipes.com/recipe/7021/indian-naan-ii/
+Gluten-Free Pita Flatbread,26.0,0.83,5.17,0.5,0.67,[],https://www.allrecipes.com/recipe/283085/gluten-free-pita-flatbread/
+Scacce Ragusane (Sicilian Stuffed Flatbread),125.75,5.5,15.75,4.25,1.0,['keju'],https://www.allrecipes.com/recipe/281007/scacce-ragusane-sicilian-stuffed-flatbread/
+Flammkuchen (Tarte Flambee),248.75,5.0,24.25,14.75,1.5,[],https://www.allrecipes.com/recipe/259111/flammkuchen-tarte-flambee/
+Best Gluten-Free Pita Bread,51.33,1.0,7.33,2.17,1.5,"['susu', 'telur']",https://www.allrecipes.com/recipe/263129/best-gluten-free-pita-bread/
+Fantastic Focaccia Bread,88.75,1.75,12.25,3.5,0.5,[],https://www.allrecipes.com/recipe/23451/fantastic-focaccia-bread/
+Easy Focaccia,8.47,0.2,1.4,0.2,0.07,['keju'],https://www.allrecipes.com/recipe/6991/easy-focaccia/
+Hychin,46.67,2.42,5.08,1.83,0.25,['keju'],https://www.allrecipes.com/recipe/262170/hychin/
+Pocket Bread,0.06,0.0,0.0,N/A,0.0,[],https://www.allrecipes.com/recipe/17824/pocket-bread/
+Lebanese Zaatar (Za'atar) Bread,6.65,0.1,0.65,0.42,0.07,[],https://www.allrecipes.com/recipe/236328/lebanese-zaatar-zaatar-bread/
+Traditional Pita Breads,14.33,0.33,2.33,0.42,0.08,[],https://www.allrecipes.com/recipe/228430/traditional-pita-breads/
+Finnish-American Flatbread,33.67,1.08,6.5,0.33,0.33,[],https://www.allrecipes.com/recipe/111837/finnish-american-flatbread/
+Easy Rosemary Focaccia,74.75,1.75,12.5,2.0,0.5,[],https://www.allrecipes.com/recipe/279639/easy-rosemary-focaccia/
+Fougasse (French-Style Flatbread),25.38,0.75,5.0,0.25,0.25,[],https://www.allrecipes.com/recipe/8360874/fougasse-french-style-flatbread/
+Sourdough Focaccia alla Genovese,33.75,0.75,4.25,1.5,0.25,[],https://www.allrecipes.com/recipe/280275/sourdough-focaccia-alla-genovese/
+Samoon (Iraqi Flatbread),24.08,0.75,4.42,0.33,0.17,['susu'],https://www.allrecipes.com/recipe/283719/samoon-iraqi-flatbread/
+Best Vegan Naan,14.12,0.12,0.5,1.38,0.12,[],https://www.allrecipes.com/recipe/262554/best-vegan-naan/
+Serendipity Bread,9.3,0.3,0.4,0.8,0.0,"['susu', 'keju']",https://www.allrecipes.com/recipe/46713/serendipity-bread/
+Easy Festive Focaccia,12.0,0.25,1.33,0.67,0.08,[],https://www.allrecipes.com/recipe/8311570/easy-festive-focaccia/
+Focaccia Alla Genovese,94.25,2.75,15.75,2.0,0.5,[],https://www.allrecipes.com/recipe/69437/focaccia-alla-genovese/
+Traditional Chinese Scallion Pancakes,37.0,0.83,6.0,1.0,0.33,[],https://www.allrecipes.com/recipe/260479/traditional-chinese-scallion-pancakes/
+Focaccia Barese al Pomodoro e Olive (Homemade Italian Focaccia with Tomatoes and Olives),32.17,0.83,4.92,1.0,0.33,[],https://www.allrecipes.com/recipe/258761/focaccia-barese-al-pomodoro-e-olive-homemade-italian-focaccia-with-tomatoes-and-olives/
+Manaaeesh Flatbread,53.67,0.83,5.67,3.17,0.33,[],https://www.allrecipes.com/recipe/227991/manaaeesh-flatbread/
+Marshmallow Fondant,55.5,N/A,12.7,0.5,N/A,[],https://www.allrecipes.com/recipe/191275/marshmallow-fondant/
+Fondant Icing,18.31,0.0,4.38,0.12,N/A,[],https://www.allrecipes.com/recipe/7930/rolled-fondant/
+Cake Fondant,20.64,0.07,3.93,0.57,0.0,['susu'],https://www.allrecipes.com/recipe/228519/cake-fondant/
+Rolled Buttercream Fondant,3.11,N/A,0.58,0.11,N/A,[],https://www.allrecipes.com/recipe/93157/rolled-buttercream-fondant/
+Homemade Marzipan,12.92,0.33,1.58,0.67,0.17,['telur'],https://www.allrecipes.com/recipe/255125/homemade-marzipan/
+Fondant for Chocolate Cherries,0.9,N/A,0.17,0.03,N/A,[],https://www.allrecipes.com/recipe/228520/fondant-for-chocolate-cherries/
+Chocolate Fondant A La Maille®,118.67,1.83,8.33,8.67,0.67,[],https://www.allrecipes.com/recipe/218682/chocolate-fondant-a-la-maille/
+Panettone,4.25,0.08,0.64,0.17,0.03,"['susu', 'telur']",https://www.allrecipes.com/recipe/9426/panettone-loaves/
+Biscotti,2.67,0.06,0.39,0.11,0.0,[],https://www.allrecipes.com/recipe/17241/biscotti/
+Creole Seasoning Blend,0.8,0.05,0.15,0.0,0.1,[],https://www.allrecipes.com/recipe/38214/creole-seasoning-blend/
+The Best Scottish Shortbread,22.25,0.25,2.42,1.33,0.08,[],https://www.allrecipes.com/recipe/232956/scotch-shortbread/
+Russian Tea Cakes,2.81,0.03,0.22,0.19,0.0,[],https://www.allrecipes.com/recipe/10192/russian-tea-cakes-i/
+Peppermint Holiday Cookies,3.42,0.03,0.5,0.14,0.0,['telur'],https://www.allrecipes.com/recipe/235104/peppermint-holiday-cookies/
+Kentucky Bourbon Balls,10.38,0.08,1.42,0.54,0.08,[],https://www.allrecipes.com/recipe/176961/kentucky-bourbon-balls/
+Grandma's Best Zucchini Bread,9.38,0.12,1.33,0.42,0.04,[],https://www.allrecipes.com/recipe/147954/grandmas-best-zucchini-bread/
+Homemade Limoncello,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/32451/limoncello/
+Homemade Mini Cinnamon Rolls,80.25,1.38,12.88,2.62,0.25,"['susu', 'keju']",https://www.allrecipes.com/recipe/8508239/homemade-mini-cinnamon-rolls/
+Caramel Apple Chocolate Bark,7.67,0.08,1.17,0.38,0.08,[],https://www.allrecipes.com/recipe/8495585/caramel-apple-chocolate-bark/
+Pecan Pie Cookies,7.71,0.08,0.92,0.42,0.04,['telur'],https://www.allrecipes.com/recipe/212863/pecan-pie-cookies/
+To Die For Blueberry Muffins,47.62,0.5,7.12,2.0,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
+Banana Banana Bread,19.25,0.33,2.92,0.75,0.17,[],https://www.allrecipes.com/recipe/20144/banana-banana-bread/
+Mom's Zucchini Bread,10.67,0.12,1.33,0.54,0.04,[],https://www.allrecipes.com/recipe/6698/moms-zucchini-bread/
+Best Chocolate Chip Cookies,3.04,0.04,0.4,0.17,0.02,[],https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
+Grandma's Lemon Meringue Pie,59.0,1.12,9.75,2.0,0.62,['telur'],https://www.allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/
+"Best Big, Fat, Chewy Chocolate Chip Cookie",15.78,0.17,2.17,0.78,0.11,['telur'],https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
+Easiest Peanut Butter Fudge,5.25,0.06,0.88,0.19,0.0,['susu'],https://www.allrecipes.com/recipe/22724/easiest-peanut-butter-fudge/
+Homemade Dog Treats (Peanut Butter and Pumpkin),2.24,0.12,0.36,0.04,0.08,[],https://www.allrecipes.com/recipe/133123/peanut-butter-and-pumpkin-dog-treats/
+Fudge,22.44,0.31,2.81,1.12,N/A,['susu'],https://www.allrecipes.com/recipe/9368/fudge/
+Candied Pecans,39.9,0.5,2.7,3.3,0.4,['telur'],https://www.allrecipes.com/recipe/230557/candied-pecans/
+Janet's Rich Banana Bread,29.1,0.3,3.6,1.6,0.1,[],https://www.allrecipes.com/recipe/17066/janets-rich-banana-bread/
+Best Toffee Ever - Super Easy,7.06,0.06,0.62,0.53,0.03,[],https://www.allrecipes.com/recipe/73412/best-toffee-ever-super-easy/
+Strawberry Jam,2.12,0.0,0.55,0.0,0.03,[],https://www.allrecipes.com/recipe/38410/strawberry-jam/
+Greek Baklava,21.83,0.33,2.11,1.44,0.17,[],https://www.allrecipes.com/recipe/9454/greek-baklava/
+Cranberry Pistachio Biscotti,2.56,0.06,0.33,0.11,0.03,[],https://www.allrecipes.com/recipe/10638/cranberry-pistachio-biscotti/
+Downeast Maine Pumpkin Bread,10.96,0.12,1.71,0.42,0.04,[],https://www.allrecipes.com/recipe/6820/downeast-maine-pumpkin-bread/
+Pickled Beets,1.0,0.02,0.23,0.0,0.03,[],https://www.allrecipes.com/recipe/38109/pickled-beets/
+Chocolate Crinkle Cookies,0.81,0.01,0.14,0.03,0.01,[],https://www.allrecipes.com/recipe/9861/chocolate-crinkles-ii/
+Church Window Cookies,1.81,0.02,0.23,0.1,0.02,[],https://www.allrecipes.com/recipe/10063/church-windows-i/
+Old-Fashioned Coconut Cream Pie,52.88,0.88,5.75,3.0,0.25,[],https://www.allrecipes.com/recipe/12481/old-fashioned-coconut-cream-pie/
+Iced Pumpkin Cookies,3.39,0.03,0.61,0.08,0.03,"['susu', 'telur']",https://www.allrecipes.com/recipe/10033/iced-pumpkin-cookies/
+Key Lime Pie,69.12,1.38,10.62,2.62,0.12,['susu'],https://www.allrecipes.com/recipe/15880/key-lime-pie-vii/
+Easy Caramel Sauce,26.5,0.0,3.38,1.5,N/A,['susu'],https://www.allrecipes.com/recipe/245648/oh-so-easy-caramel-sauce/
+Doc's Best Beef Jerky,22.8,1.9,0.5,1.4,0.0,['sapi'],https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/
+Old-Fashioned Chocolate Fudge,0.55,0.0,0.11,0.02,0.0,['susu'],https://www.allrecipes.com/recipe/9420/old-fashioned-chocolate-fudge/
+Chocolate Chip Pumpkin Bread,8.4,0.1,1.23,0.37,0.03,[],https://www.allrecipes.com/recipe/6732/chocolate-chip-pumpkin-bread/
+Clone of a Cinnabon,41.83,0.67,6.42,1.58,0.17,"['susu', 'keju']",https://www.allrecipes.com/recipe/20156/clone-of-a-cinnabon/
+Saltine Cracker Toffee,4.29,0.03,0.43,0.29,0.03,[],https://www.allrecipes.com/recipe/11376/saltine-toffee-cookies/
+Extreme Banana Nut Bread 'EBNB',9.67,0.12,1.25,0.5,0.04,[],https://www.allrecipes.com/recipe/67937/extreme-banana-nut-bread-ebnb/
+Mexican Wedding Cookies,2.89,0.03,0.28,0.19,0.03,[],https://www.allrecipes.com/recipe/15542/mexican-wedding-cookies/
+Homemade Beef Jerky,47.67,5.5,2.33,1.83,0.17,['sapi'],https://www.allrecipes.com/recipe/241555/homemade-beef-jerky/
+Peanut Butter Bars,44.33,0.75,4.08,3.08,0.25,[],https://www.allrecipes.com/recipe/9999/peanut-butter-bars-i/
+Homemade Pickling Spice,4.83,0.17,0.67,0.17,0.33,[],https://www.allrecipes.com/recipe/231256/homemade-pickling-spice/
+Chocolate-Covered Strawberries,4.79,0.04,0.54,0.29,0.0,['susu'],https://www.allrecipes.com/recipe/21712/chocolate-covered-strawberries/
+Chocolate Trifle,40.67,0.42,6.17,1.58,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/19017/chocolate-trifle/
+Banana Crumb Muffins,26.3,0.3,4.6,0.8,0.2,['telur'],https://www.allrecipes.com/recipe/17652/banana-crumb-muffins/
+Raspberry Thumbprint Cookies,2.89,0.03,0.39,0.14,0.0,['susu'],https://www.allrecipes.com/recipe/10222/raspberry-and-almond-shortbread-thumbprints/
+The Best Caramel Apples,99.88,0.62,17.75,3.5,0.62,['susu'],https://www.allrecipes.com/recipe/228210/the-best-caramel-apples/
+"Sweet, Salty, Spicy Party Nuts",13.69,0.31,0.81,1.12,0.12,[],https://www.allrecipes.com/recipe/230159/sweet-salty-spicy-party-nuts/
+Too Much Chocolate Cake,42.92,0.5,4.33,2.83,0.17,[],https://www.allrecipes.com/recipe/7565/too-much-chocolate-cake/
+Blackened Seasoning Mix,0.75,0.0,0.17,0.0,0.08,[],https://www.allrecipes.com/recipe/174668/blackened-seasoning-mix/
+Italian Seasoning,1.4,0.1,0.3,0.0,0.2,[],https://www.allrecipes.com/recipe/34450/italian-seasoning-i/
+Coconut Macaroons,29.0,0.42,4.17,1.25,0.33,['susu'],https://www.allrecipes.com/recipe/25787/coconut-macaroons-iii/
+Banana Pudding,32.33,0.58,4.58,1.25,0.08,"['susu', 'keju']",https://www.allrecipes.com/recipe/21398/banana-pudding-iv/
+Rolo Pretzel Turtles,4.1,0.1,0.7,0.1,0.05,[],https://www.allrecipes.com/recipe/96749/pretzel-turtles/
+Candied Almonds,38.0,1.0,4.12,2.25,0.62,[],https://www.allrecipes.com/recipe/152931/candied-almonds/
+Banana Sour Cream Bread,8.22,0.12,1.25,0.31,0.03,[],https://www.allrecipes.com/recipe/6984/banana-sour-cream-bread/
+Herbs de Provence,0.08,0.0,0.02,0.0,0.0,[],https://www.allrecipes.com/recipe/223272/herbs-de-provence/
+Canned Apple Pie Filling,1.73,0.0,0.45,0.0,0.02,[],https://www.allrecipes.com/recipe/15942/canned-apple-pie-filling/
+Sugar-Coated Pecans,27.33,0.33,1.83,2.25,0.33,['telur'],https://www.allrecipes.com/recipe/13838/sugar-coated-pecans/
+Buckeye Balls,1.7,0.03,0.18,0.1,0.02,[],https://www.allrecipes.com/recipe/15171/buckeye-balls-ii/
+Scotcharoos,10.0,0.21,1.42,0.46,0.04,[],https://www.allrecipes.com/recipe/15585/scotcharoos/
+Homemade Irish Cream,N/A,N/A,N/A,N/A,N/A,['susu'],https://www.allrecipes.com/recipe/23534/original-irish-cream/
+Rich and Simple French Onion Soup,146.5,5.25,7.0,11.0,0.75,"['sapi', 'keju']",https://www.allrecipes.com/recipe/13309/rich-and-simple-french-onion-soup/
+Slow Cooker French Onion Soup,55.25,2.25,7.12,2.0,0.38,"['sapi', 'keju']",https://www.allrecipes.com/recipe/228859/slow-cooker-french-onion-soup/
+French Onion Soup Gratinée,154.5,7.5,9.75,9.0,1.0,"['ayam', 'sapi', 'keju']",https://www.allrecipes.com/recipe/91192/french-onion-soup-gratinee/
+Restaurant-Style French Onion Soup,132.0,5.17,12.83,6.33,1.17,"['sapi', 'keju']",https://www.allrecipes.com/recipe/228857/restaurant-style-french-onion-soup/
+American French Onion Soup,76.67,2.83,5.33,5.0,0.5,"['ayam', 'sapi', 'keju']",https://www.allrecipes.com/recipe/223049/american-french-onion-soup/
+French Onion Soup I,183.0,8.25,19.75,7.25,1.0,"['sapi', 'keju']",https://www.allrecipes.com/recipe/12926/french-onion-soup-i/
+French Onion Soup with Homemade Beef Stock,216.25,10.5,20.75,10.25,3.5,"['sapi', 'keju']",https://www.allrecipes.com/recipe/218464/french-onion-soup-with-homemade-beef-stock/
+Beef Short Rib French Onion Soup,145.25,6.0,7.88,9.88,0.62,"['sapi', 'keju']",https://www.allrecipes.com/recipe/228856/beef-short-rib-french-onion-soup/
+Southern-Style French Onion Soup,165.5,7.75,17.25,6.75,0.75,"['sapi', 'keju']",https://www.allrecipes.com/recipe/18076/southern-style-french-onion-soup/
+Vegetarian French Onion Soup,119.5,5.25,9.25,6.5,0.75,['keju'],https://www.allrecipes.com/recipe/273579/vegetarian-french-onion-soup/
+French Onion Soup with Port Wine,91.0,3.4,7.4,5.2,0.8,"['sapi', 'keju']",https://www.allrecipes.com/recipe/219781/french-onion-soup-with-port-wine/
+French Onion Soup VI,73.67,6.17,4.0,3.67,0.5,"['sapi', 'keju']",https://www.allrecipes.com/recipe/23435/french-onion-soup-vi/
+The Ultimate Ribeye French Onion Soup,55.62,3.5,2.75,2.88,0.5,"['sapi', 'keju']",https://www.allrecipes.com/recipe/281595/the-ultimate-ribeye-french-onion-soup/
+French Onion Soup (Slow Cooker),20.0,0.5,1.67,1.33,0.33,['sapi'],https://www.allrecipes.com/recipe/231612/french-onion-soup-slow-cooker/
+French Onion Soup IX,26.62,1.5,3.25,0.88,0.25,"['sapi', 'keju']",https://www.allrecipes.com/recipe/25748/french-onion-soup-ix/
+French Onion Soup VII,57.17,2.33,4.83,2.5,0.5,['keju'],https://www.allrecipes.com/recipe/23867/french-onion-soup-vii/
+French Onion Soup with Celeriac,70.88,2.38,6.88,3.62,0.62,"['sapi', 'keju']",https://www.allrecipes.com/recipe/55862/french-onion-soup-with-celeriac/
+French Onion Soup X,55.25,1.75,9.0,0.25,1.0,['keju'],https://www.allrecipes.com/recipe/25750/french-onion-soup-x/
+French Onion Soup IV,65.5,4.33,4.0,3.17,0.17,"['sapi', 'keju']",https://www.allrecipes.com/recipe/15341/french-onion-soup-iv/
+Vegetarian Stout French Onion Soup,99.75,3.5,15.0,2.0,1.75,['keju'],https://www.allrecipes.com/recipe/237060/vegetarian-stout-french-onion-soup/
+Baked French Toast,32.92,0.92,3.67,1.67,0.08,['susu'],https://www.allrecipes.com/recipe/20934/baked-french-toast/
+Croissant French Toast,109.0,2.75,9.0,6.75,0.5,[],https://www.allrecipes.com/recipe/8495603/croissant-french-toast/
+French Toast,80.0,3.67,11.33,2.0,0.67,['susu'],https://www.allrecipes.com/recipe/7016/french-toast-i/
+Fluffy French Toast,10.25,0.42,1.58,0.25,0.08,['susu'],https://www.allrecipes.com/recipe/16895/fluffy-french-toast/
+Overnight Blueberry French Toast,48.5,1.5,5.2,2.5,0.1,"['susu', 'keju']",https://www.allrecipes.com/recipe/15057/overnight-blueberry-french-toast/
+Best Oven Baked French Toast,42.88,1.0,5.12,2.12,0.12,['susu'],https://www.allrecipes.com/recipe/221259/best-oven-baked-french-toast/
+Chicken Leg Toast,345.5,18.0,27.0,19.0,1.0,"['ayam', 'keju']",https://www.allrecipes.com/recipe/8544579/chicken-leg-toast/
+French Toast without Milk,144.5,5.0,16.5,6.5,1.0,[],https://www.allrecipes.com/recipe/280361/french-toast-without-milk/
+Crème Brûlée French Toast,85.0,1.67,9.83,4.5,0.17,[],https://www.allrecipes.com/recipe/35255/creme-brulee-french-toast/
+French Toast for One,481.0,12.0,61.0,21.0,2.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/275216/french-toast-for-one/
+Best Brioche French Toast,183.0,5.25,20.0,9.25,0.5,['susu'],https://www.allrecipes.com/recipe/255531/best-brioche-french-toast/
+Eggnog French Toast,26.33,1.0,3.17,1.17,0.17,[],https://www.allrecipes.com/recipe/100490/eggnog-french-toast/
+Sweet French Toast,63.75,2.25,10.25,1.5,0.5,['susu'],https://www.allrecipes.com/recipe/21726/sweet-french-toast/
+Air Fryer French Toast,36.25,1.5,3.75,1.75,0.25,['susu'],https://www.allrecipes.com/recipe/283136/air-fryer-french-toast/
+Eggless French Toast,28.0,1.0,4.25,0.75,0.25,['susu'],https://www.allrecipes.com/recipe/254403/eggless-french-toast/
+Cinnamon-Accented French Toast,18.17,0.83,2.5,0.5,0.17,['susu'],https://www.allrecipes.com/recipe/222916/cinnamon-accented-french-toast/
+French Toast Sticks,27.83,0.83,5.0,0.5,0.17,['susu'],https://www.allrecipes.com/recipe/280405/french-toast-sticks/
+Banana Bread French Toast,136.0,2.75,18.25,6.0,0.5,['susu'],https://www.allrecipes.com/recipe/56689/banana-bread-french-toast/
+Savory Parmesan French Toast,51.0,3.25,3.25,2.75,0.5,"['susu', 'keju']",https://www.allrecipes.com/recipe/245899/savory-parmesan-french-toast/
+Panettone French Toast,346.0,10.0,31.0,22.0,2.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/256482/panettone-french-toast/
+Make Ahead French Toast,62.88,1.38,6.5,3.62,0.25,['susu'],https://www.allrecipes.com/recipe/21315/make-ahead-french-toast/
+Deep Fried French Toast,223.75,6.25,18.75,13.75,0.75,['susu'],https://www.allrecipes.com/recipe/162597/deep-fried-french-toast/
+Stuffed French Toast,132.75,4.25,16.5,5.5,0.5,"['susu', 'keju']",https://www.allrecipes.com/recipe/33092/stuffed-french-toast-ii/
+Caramelized French Toast,31.0,0.88,3.88,1.38,0.12,['susu'],https://www.allrecipes.com/recipe/24571/caramelized-french-toast/
+Peanut Butter and Banana French Toast,173.0,5.0,14.0,11.5,1.5,['telur'],https://www.allrecipes.com/recipe/21484/peanut-butter-and-banana-french-toast/
+Reduced Fat French Toast,12.83,0.83,2.0,0.17,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/21206/reduced-fat-french-toast/
+Chef John's French Toast,33.17,1.5,5.0,0.83,0.33,['susu'],https://www.allrecipes.com/recipe/237140/chef-johns-french-toast/
+Air Fryer French Toast Sticks,39.75,1.75,4.5,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/267555/air-fryer-french-toast-sticks/
+Nutella-Stuffed French Toast,148.0,5.5,20.0,6.5,2.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/239753/nutella-stuffed-french-toast/
+Grandma's Peach French Toast,45.25,0.88,6.38,1.88,0.25,[],https://www.allrecipes.com/recipe/72662/grandmas-peach-french-toast/
+Easy French Toast,81.5,4.0,10.0,2.5,1.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/20901/easy-french-toast/
+Peanut Butter French Toast,286.5,11.5,24.0,16.5,1.5,['susu'],https://www.allrecipes.com/recipe/213730/peanut-butter-french-toast/
+Chocolate French Toast,23.75,0.88,4.12,0.5,0.25,['susu'],https://www.allrecipes.com/recipe/190955/chocolate-french-toast/
+Ultimate French Toast,52.25,2.5,6.5,1.75,0.25,['susu'],https://www.allrecipes.com/recipe/23186/ultimate-french-toast/
+Overnight Apple Cinnamon French Toast,25.0,0.4,4.07,0.87,0.13,['susu'],https://www.allrecipes.com/recipe/17063/overnight-apple-cinnamon-french-toast/
+Orange Pecan French Toast,19.58,0.42,3.0,0.75,0.08,"['susu', 'telur']",https://www.allrecipes.com/recipe/76278/orange-pecan-french-toast/
+French Toast II,85.25,3.5,13.0,2.25,0.75,['susu'],https://www.allrecipes.com/recipe/16719/french-toast-ii/
+Simple French Toast in a Cup,345.0,12.0,30.0,19.0,2.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/236648/simple-french-toast-in-a-cup/
+Oven-Baked Caramel French Toast,76.88,1.5,9.12,4.12,0.38,['susu'],https://www.allrecipes.com/recipe/21466/oven-baked-caramel-french-toast/
+Pain Perdu,90.0,2.0,9.75,4.75,0.25,"['susu', 'telur']",https://www.allrecipes.com/recipe/7126/pain-perdu-i/
+Buttermilk French Toast with Maple Syrup,90.25,1.75,18.75,1.0,0.25,[],https://www.allrecipes.com/recipe/244768/buttermilk-french-toast-with-maple-syrup/
+Strawberry Cheesecake French Toast,54.5,1.25,6.62,2.62,0.12,"['susu', 'keju']",https://www.allrecipes.com/recipe/220107/strawberry-cheesecake-french-toast/
+French Egg and Bacon Sandwich,369.0,11.5,39.5,18.5,0.5,[],https://www.allrecipes.com/recipe/23757/french-egg-and-bacon-sandwich/
+Mascarpone Stuffed French Toast with Peaches,57.12,1.62,7.0,2.5,0.12,"['susu', 'keju']",https://www.allrecipes.com/recipe/173452/mascarpone-stuffed-french-toast-with-peaches/
+Overnight French Toast,27.6,1.3,3.2,1.1,0.1,['susu'],https://www.allrecipes.com/recipe/280284/overnight-french-toast/
+Pumpkin Pie French Toast,71.0,2.75,7.5,3.5,0.75,[],https://www.allrecipes.com/recipe/213009/pumpkin-pie-french-toast/
+Easy Baked Banana French Toast,67.5,2.5,7.83,3.0,0.5,['susu'],https://www.allrecipes.com/recipe/245145/easy-baked-banana-french-toast/
+Overnight French Toast II,144.6,4.0,20.8,5.4,0.4,['susu'],https://www.allrecipes.com/recipe/24130/overnight-french-toast-ii/
+French Toast Waffles,20.5,0.83,3.33,0.5,0.0,['susu'],https://www.allrecipes.com/recipe/18053/french-toast-waffles/
+Baked Caramel-Apple French Toast,30.08,0.83,4.75,0.92,0.25,['susu'],https://www.allrecipes.com/recipe/17295/baked-caramel-apple-french-toast/
+Pumpkin French Toast,59.5,3.5,6.5,2.25,1.25,[],https://www.allrecipes.com/recipe/180568/pumpkin-french-toast/
+Skiers' French Toast,55.5,1.25,7.75,2.12,0.12,['susu'],https://www.allrecipes.com/recipe/7229/skiers-french-toast/
+Gingerbread French Toast,40.5,1.5,4.5,1.75,0.25,['susu'],https://www.allrecipes.com/recipe/245487/gingerbread-french-toast/
+Feta Cheese French Toast with Spiced Honey Syrup,476.5,13.5,49.5,26.0,1.5,['keju'],https://www.allrecipes.com/recipe/8299911/feta-cheese-french-toast-with-spiced-honey-syrup/
+Chef John's Buttermilk Fried Chicken,315.5,16.5,14.0,21.25,0.75,['ayam'],https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/
+Triple-Dipped Fried Chicken,110.17,7.0,12.17,3.17,0.5,"['ayam', 'telur']",https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/
+Tender Pan-Fried Chicken Breasts,56.62,5.12,3.38,2.38,0.25,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/159972/tender-pan-fried-chicken-breasts/
+Southern Fried Chicken Livers,117.5,6.0,7.0,7.25,0.25,"['susu', 'ayam', 'telur']",https://www.allrecipes.com/recipe/200036/southern-fried-chicken-livers/
+Chef John's Nashville Hot Chicken,278.75,13.5,18.75,16.5,0.75,"['ayam', 'telur']",https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/
+Crispy Fried Chicken,61.12,5.12,3.75,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/
+Oven-Fried Chicken,51.67,4.0,3.0,2.5,0.17,['ayam'],https://www.allrecipes.com/recipe/8841/oven-fried-chicken-ii/
+Crispy Panko Chicken Breasts,83.75,7.75,5.0,4.5,0.0,"['ayam', 'telur']",https://www.allrecipes.com/recipe/239428/crispy-panko-chicken-breasts/
+Fried Chicken Tenders,102.62,5.62,4.38,6.88,0.25,['ayam'],https://www.allrecipes.com/recipe/16669/fried-chicken-tenders/
+Air Fryer Chicken Katsu with Homemade Katsu Sauce,79.5,8.0,10.25,1.75,0.0,['ayam'],https://www.allrecipes.com/recipe/278708/air-fryer-chicken-katsu-with-homemade-katsu-sauce/
+Southern-Style Buttermilk Fried Chicken,60.0,3.62,3.62,3.38,0.12,['ayam'],https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/
+Better than Best Fried Chicken,132.75,8.0,8.25,7.25,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/24778/better-than-best-fried-chicken/
+The Best Ever Chicken Nuggets,64.38,4.5,6.38,2.25,0.25,['ayam'],https://www.allrecipes.com/recipe/161469/the-best-ever-chicken-nuggets/
+Easy Skinless Fried Chicken Thighs,120.75,11.0,5.5,5.75,0.25,['ayam'],https://www.allrecipes.com/recipe/257306/easy-skinless-fried-chicken-thighs/
+Popcorn Chicken,75.17,3.5,8.17,3.0,0.33,['ayam'],https://www.allrecipes.com/recipe/261087/popcorn-chicken/
+Air Fryer Chicken Kiev,391.5,32.0,32.0,17.5,0.5,"['ayam', 'telur']",https://www.allrecipes.com/recipe/278820/air-fryer-chicken-kiev/
+Southern Spicy Fried Chicken,48.0,2.5,4.2,2.4,0.2,['ayam'],https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/
+Millie Pasquinelli's Fried Chicken,51.83,3.42,2.25,3.17,0.08,[],https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/
+Mustard Fried Chicken,40.0,2.0,3.2,2.1,0.2,['ayam'],https://www.allrecipes.com/recipe/87473/mustard-fried-chicken/
+Air Fryer Stuffed Chicken Breasts,101.75,9.25,2.5,6.0,0.25,"['ayam', 'telur', 'keju']",https://www.allrecipes.com/recipe/281151/air-fryer-stuffed-chicken-breasts/
+Korean Fried Chicken,118.0,4.75,11.0,6.0,0.5,['ayam'],https://www.allrecipes.com/recipe/238844/korean-fried-chicken/
+Southern Fried Chicken,122.75,8.25,4.0,8.0,0.25,['ayam'],https://www.allrecipes.com/recipe/8635/southern-fried-chicken/
+Bang Bang Chicken,101.0,6.75,6.75,5.25,0.25,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/273785/bang-bang-chicken/
+Firecracker Fried Chicken Drumsticks,118.75,10.5,3.0,7.0,0.25,['ayam'],https://www.allrecipes.com/recipe/25492/firecracker-fried-chicken-drumsticks/
+Air-Fried Breaded Chicken Thighs,212.5,20.5,3.75,12.25,0.25,"['ayam', 'keju']",https://www.allrecipes.com/recipe/283454/air-fried-breaded-chicken-thighs/
+Air Fryer Chicken Thigh Schnitzel,73.25,6.0,4.25,3.5,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/272398/air-fryer-chicken-thigh-schnitzel/
+Spicy Korean Fried Chicken with Gochujang Sauce,99.5,7.25,13.0,2.0,0.25,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/273786/spicy-korean-fried-chicken-with-gochujang-sauce/
+Karaage (Japanese Fried Chicken) with Honey Mayoster Sauce,170.25,5.5,11.5,12.0,0.0,"['ayam', 'telur']",https://www.allrecipes.com/recipe/258032/karaage-japanese-fried-chicken-with-honey-mayoster-sauce/
+Baked BBQ Fried Chicken,47.33,2.33,5.67,1.67,0.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/55867/baked-bbq-fried-chicken/
+Air-Fried Popcorn Chicken Gizzards,59.25,6.0,3.0,2.5,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/281577/air-fried-popcorn-chicken-gizzards/
+Easy Fried Chinese Chicken Balls,84.5,6.75,8.5,2.5,0.25,['ayam'],https://www.allrecipes.com/recipe/262501/easy-fried-chinese-chicken-balls/
+Karaage (Japanese Fried Chicken),565.75,7.25,8.0,56.5,0.0,['ayam'],https://www.allrecipes.com/recipe/8325387/karaage-japanese-fried-chicken/
+Chicken Fried Chicken,147.83,4.83,2.33,13.33,0.17,"['ayam', 'telur']",https://www.allrecipes.com/recipe/16573/chicken-fried-chicken/
+Fried Chicken with Creamy Gravy,63.38,5.12,2.38,3.62,0.12,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/
+Amazingly Tasty and Crispy Chicken Schnitzel,22.33,1.92,2.08,0.67,0.08,['ayam'],https://www.allrecipes.com/recipe/244951/amazingly-tasty-and-crispy-chicken-schnitzel/
+Fried Chicken Gizzards,47.83,3.67,2.0,2.67,0.17,['ayam'],https://www.allrecipes.com/recipe/143351/fried-chicken-gizzards/
+Flavorful Southern Fried Chicken,126.25,8.5,12.0,4.75,0.5,"['ayam', 'susu', 'keju']",https://www.allrecipes.com/recipe/86296/flavorful-southern-fried-chicken/
+Chicken 65,79.0,6.75,3.25,4.25,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/267615/chicken-65/
+Crispy Southern Fried Chicken,134.33,8.5,13.17,5.0,0.5,['ayam'],https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/
+Fried Chicken,77.88,4.88,2.75,5.12,0.12,['ayam'],https://www.allrecipes.com/recipe/8836/fried-chicken/
+Fried Buttermilk Chicken Strips,129.5,11.25,10.75,4.25,0.5,['ayam'],https://www.allrecipes.com/recipe/282395/fried-buttermilk-chicken-strips/
+Air Fryer Coconut Chicken,104.5,7.75,10.25,4.25,0.75,"['ayam', 'susu']",https://www.allrecipes.com/recipe/274723/air-fryer-coconut-chicken/
+Nashville Hot Chicken and Waffle Sandwich,247.5,9.5,28.5,10.75,1.75,"['ayam', 'telur']",https://www.allrecipes.com/recipe/283202/nashville-hot-chicken-and-waffle-sandwich/
+Gluten-Free Chicken Nuggets,81.5,9.0,6.0,2.25,0.25,['ayam'],https://www.allrecipes.com/recipe/235724/gluten-free-chicken-nuggets/
+Potato Crunchy Tenders,92.67,7.5,5.83,4.33,0.33,"['ayam', 'susu', 'telur']",https://www.allrecipes.com/recipe/213199/potato-crunchy-tenders/
+CindyD's Somewhat Southern Fried Chicken,165.25,12.0,9.25,8.75,0.5,['ayam'],https://www.allrecipes.com/recipe/219072/cindyds-somewhat-southern-fried-chicken/
+Tanya's Louisiana Southern Fried Chicken,106.33,7.17,8.0,5.0,0.33,"['susu', 'ayam']",https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/
+Japanese-Style Deep Fried Chicken,32.0,2.62,0.62,2.12,0.0,['ayam'],https://www.allrecipes.com/recipe/28179/japanese-style-deep-fried-chicken/
+Air Fryer Bang-Bang Chicken,81.5,3.5,5.83,5.5,0.17,['ayam'],https://www.allrecipes.com/recipe/273734/air-fryer-bang-bang-chicken/
+Air Fryer Cornflake Chicken Fingers,187.5,27.5,7.0,5.0,0.5,"['ayam', 'telur']",https://www.allrecipes.com/recipe/281147/air-fryer-cornflake-chicken-fingers/
+Fried Chicken Chunks (Chicharrones De Pollo) Dominican,130.6,6.0,14.4,4.4,0.6,['ayam'],https://www.allrecipes.com/recipe/158204/fried-chicken-chunks-chicharrones-de-pollo-dominican/
+Air Fryer Chicken Katsu,205.5,21.5,20.5,6.5,0.0,"['ayam', 'telur']",https://www.allrecipes.com/recipe/278705/air-fryer-chicken-katsu/
+Crisp Fried Chicken Wings,66.2,3.0,2.8,4.6,0.2,"['ayam', 'susu']",https://www.allrecipes.com/recipe/241153/crisp-fried-chicken-wings/
+Pickle-Fried Chicken,92.25,4.75,8.75,4.25,0.25,['ayam'],https://www.allrecipes.com/recipe/261228/pickle-fried-chicken/
+Extra-Crispy Fried Chicken Strips,129.5,11.5,9.25,4.75,0.25,['ayam'],https://www.allrecipes.com/recipe/282397/extra-crispy-fried-chicken-strips/
+Easy Kimchi Fried Rice,61.75,1.75,7.25,3.0,0.5,[],https://www.allrecipes.com/recipe/277723/kimchi-fried-rice/
+Leftover Pork Fried Rice,367.5,19.5,28.0,19.5,1.5,[],https://www.allrecipes.com/recipe/8535348/leftover-pork-fried-rice/
+Gochujang Fried Rice,85.0,1.5,13.75,2.5,0.5,[],https://www.allrecipes.com/recipe/8527056/gochujang-fried-rice/
+Easy Fried Rice,19.0,0.5,2.38,0.88,0.12,[],https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/
+Pork Fried Rice,278.5,13.0,40.5,6.5,1.5,['telur'],https://www.allrecipes.com/recipe/230818/pork-fried-rice/
+Quick Pork Fried Rice,63.5,2.67,8.17,2.17,0.33,[],https://www.allrecipes.com/recipe/228917/quick-pork-fried-rice/
+Vegetable Fried Rice,74.75,2.25,9.25,3.75,1.25,[],https://www.allrecipes.com/recipe/21186/vegetable-fried-rice/
+Shrimp Fried Rice,120.75,5.0,15.0,4.5,0.5,['udang'],https://www.allrecipes.com/recipe/21561/shrimp-fried-rice-ii/
+Chicken Fried Rice,63.75,3.5,6.5,2.5,0.25,"['ayam', 'telur']",https://www.allrecipes.com/recipe/16954/chinese-chicken-fried-rice-ii/
+Leftover Turkey Fried Rice,46.17,3.17,4.33,1.67,0.17,[],https://www.allrecipes.com/recipe/281607/leftover-turkey-fried-rice/
+Stir-Fried Rice,95.5,3.5,15.0,2.25,0.25,['ayam'],https://www.allrecipes.com/recipe/150439/stir-fried-rice/
+Thai Spicy Basil Chicken Fried Rice,132.33,4.83,19.33,3.67,0.5,"['ayam', 'ikan']",https://www.allrecipes.com/recipe/145572/thai-spicy-basil-chicken-fried-rice/
+Chinese Chicken Fried Rice,60.71,5.0,6.86,1.43,0.43,['ayam'],https://www.allrecipes.com/recipe/17161/chinese-chicken-fried-rice-i/
+Easy Egg Fried Rice,26.5,1.0,4.0,0.75,0.5,['telur'],https://www.allrecipes.com/recipe/23298/egg-fried-rice/
+Fried Rice with Ham,100.0,4.25,11.5,4.0,1.0,[],https://www.allrecipes.com/recipe/143444/fried-rice-with-ham/
+Easy Shrimp Fried Rice,138.0,7.5,16.0,4.75,0.75,['udang'],https://www.allrecipes.com/recipe/272834/easy-homemade-shrimp-fried-rice/
+Hibachi-Style Fried Rice,37.67,1.83,2.83,2.17,0.17,['ayam'],https://www.allrecipes.com/recipe/237608/hibachi-style-fried-rice/
+Air Fryer Fried Rice,196.0,5.5,27.5,7.5,2.0,['telur'],https://www.allrecipes.com/recipe/280335/air-fryer-fried-rice/
+Island-Style Fried Rice,50.17,2.0,3.33,3.17,0.17,[],https://www.allrecipes.com/recipe/195042/island-style-fried-rice/
+Crab Fried Rice,54.0,2.25,5.0,3.0,0.75,['telur'],https://www.allrecipes.com/recipe/34690/crab-fried-rice/
+Tsao Mi Fun (Taiwanese Fried Rice Noodles),130.75,4.75,15.75,5.0,1.25,['udang'],https://www.allrecipes.com/recipe/173959/tsao-mi-fun-taiwanese-fried-rice-noodles/
+Egg Fried Rice,83.5,2.5,13.75,2.0,1.0,[],https://www.allrecipes.com/recipe/239487/take-out-style-fried-rice/
+Garlic Fried Rice,46.75,1.0,9.75,0.25,0.25,[],https://www.allrecipes.com/recipe/144479/garlic-fried-rice/
+"Fried Rice with Ginger, Hoisin, and Sesame",50.0,1.5,7.17,1.83,1.0,[],https://www.allrecipes.com/recipe/87955/fried-rice-with-ginger-hoisin-and-sesame/
+Easy Pineapple Fried Rice,59.75,1.0,9.0,2.25,0.75,[],https://www.allrecipes.com/recipe/281154/quick-and-easy-pineapple-fried-rice/
+House Fried Rice,29.5,1.62,3.25,1.0,0.25,"['ayam', 'udang', 'telur']",https://www.allrecipes.com/recipe/18294/house-fried-rice/
+Thai Fried Rice with Pineapple and Chicken,44.5,2.17,5.0,1.67,0.17,"['ikan', 'ayam', 'telur']",https://www.allrecipes.com/recipe/233419/thai-fried-rice-with-pineapple-and-chicken/
+Ginger Fried Rice,37.75,0.88,4.0,2.12,0.25,[],https://www.allrecipes.com/recipe/280073/ginger-fried-rice/
+Duck Fried Rice,93.75,5.25,9.0,4.0,0.25,[],https://www.allrecipes.com/recipe/162383/duck-fried-rice/
+Japanese Shrimp Fried Rice with Yum Yum Sauce,130.83,3.83,11.67,7.83,1.0,['udang'],https://www.allrecipes.com/recipe/272802/japanese-shrimp-fried-rice-with-yum-yum-sauce/
+Mom's Smoked Salmon Fried Rice,76.33,2.17,12.83,1.67,0.33,[],https://www.allrecipes.com/recipe/148097/moms-smoked-salmon-fried-rice/
+Nasi Goreng (Indonesian Fried Rice),103.75,7.75,12.5,2.5,0.75,"['udang', 'ayam']",https://www.allrecipes.com/recipe/165963/indonesian-fried-rice-nasi-goreng/
+Steak Fried Rice,127.5,5.75,13.25,5.75,0.75,[],https://www.allrecipes.com/recipe/277421/steak-fried-rice/
+Bacon and Chicken Fried Rice,64.0,4.17,7.0,2.0,0.33,['ayam'],https://www.allrecipes.com/recipe/229360/bacon-and-chicken-fried-rice/
+Protein-Packed Vegetarian Fried Rice,36.17,1.67,4.67,1.17,0.33,[],https://www.allrecipes.com/recipe/246345/protein-packed-vegetarian-fried-rice/
+Curry Pineapple Fried Rice,58.67,2.83,9.5,1.0,0.33,"['ayam', 'ikan']",https://www.allrecipes.com/recipe/214222/curry-pineapple-fried-rice/
+Ground Beef Fried Rice,99.25,5.75,4.75,6.5,0.5,"['sapi', 'telur']",https://www.allrecipes.com/recipe/277422/ground-beef-fried-rice/
+Vegetarian Thai Curry Fried Rice,47.33,1.5,5.83,2.83,0.33,['susu'],https://www.allrecipes.com/recipe/284900/vegetarian-thai-curry-fried-rice/
+Chinese Stir-Fried Sticky Rice with Chinese Sausage,90.83,3.67,13.83,2.67,1.0,['udang'],https://www.allrecipes.com/recipe/247190/chinese-stir-fried-sticky-rice-with-chinese-sausage/
+Perfect Thai Fried Rice With Marinated Chicken,123.25,6.75,13.75,4.25,0.25,['ayam'],https://www.allrecipes.com/recipe/255315/perfect-thai-fried-rice-with-marinated-chicken/
+Fried Rice,129.0,4.25,16.0,5.25,1.0,[],https://www.allrecipes.com/recipe/18286/fried-rice-i/
+Spam Fried Rice,172.0,7.75,14.0,9.5,0.75,[],https://www.allrecipes.com/recipe/279731/spam-fried-rice/
+Day Before Pay Day Fried Rice,52.5,3.33,4.67,2.17,0.33,['ayam'],https://www.allrecipes.com/recipe/125394/day-before-pay-day-fried-rice/
+Easy Japanese Fried Rice,148.0,3.0,20.0,6.25,0.5,['ayam'],https://www.allrecipes.com/recipe/284317/easy-japanese-fried-rice/
+Korean Saewoo Bokkeumbap (Shrimp Fried Rice),138.25,6.5,15.25,5.75,0.75,['udang'],https://www.allrecipes.com/recipe/229293/korean-saewoo-bokkeumbap-shrimp-fried-rice/
+Yellow Curry Fried Rice,80.0,1.5,7.25,5.25,1.25,[],https://www.allrecipes.com/recipe/282347/yellow-curry-fried-rice/
+Fried Rice with Cilantro,158.5,8.25,21.0,4.25,0.5,"['ayam', 'ikan']",https://www.allrecipes.com/recipe/34911/fried-rice-with-cilantro/
+Pineapple Fried Rice with Ham,97.75,2.25,15.25,3.25,1.75,[],https://www.allrecipes.com/recipe/265489/pineapple-fried-rice-with-ham/
+Thai Fried Rice,114.0,4.0,19.0,2.5,1.0,[],https://www.allrecipes.com/recipe/263804/thai-fried-rice/
+Pineapple Shrimp Fried Rice,94.83,2.17,18.67,1.17,0.5,['udang'],https://www.allrecipes.com/recipe/272835/pineapple-shrimp-fried-rice/
+Thai Shrimp Fried Rice (Kao Pad Goong),109.75,7.0,12.25,3.75,1.0,"['udang', 'ikan']",https://www.allrecipes.com/recipe/285628/thai-shrimp-fried-rice-kao-pad-goong/
+Kimchi Fried Rice,266.0,9.0,34.5,9.5,1.0,"['sapi', 'telur']",https://www.allrecipes.com/recipe/237053/kimchi-fried-rice-kimchi-bokkeumbap/
+Shrimp Fried Rice I,23.0,1.08,3.58,0.42,0.17,['udang'],https://www.allrecipes.com/recipe/17418/shrimp-fried-rice-i/
+Thai Beef Fried Rice,354.5,21.0,26.5,18.0,1.5,"['telur', 'sapi', 'ikan']",https://www.allrecipes.com/recipe/277724/thai-beef-fried-rice/
+Pineapple Fried Rice II,93.5,3.25,13.75,2.75,0.75,['telur'],https://www.allrecipes.com/recipe/56140/pineapple-fried-rice-ii/
+Sheet Pan Fried Rice,129.75,3.5,16.5,5.5,0.75,[],https://www.allrecipes.com/recipe/285646/sheet-pan-fried-rice/
+Glo's Sausage Fried Rice,67.5,2.12,5.75,4.0,0.62,[],https://www.allrecipes.com/recipe/47022/glos-sausage-fried-rice/
+Instant Pot Chicken Fried Rice,86.5,4.83,11.5,2.5,1.17,"['ayam', 'telur']",https://www.allrecipes.com/recipe/277493/instant-pot-chicken-fried-rice/
+Thai-Inspired Beef Fried Rice,290.5,16.0,26.5,13.0,1.0,"['sapi', 'ikan']",https://www.allrecipes.com/recipe/281581/thai-inspired-beef-fried-rice/
+Fried Rice with Tofu,78.25,2.75,9.75,3.0,0.25,[],https://www.allrecipes.com/recipe/269920/fried-rice-with-tofu/
+Vegetarian Fried Rice,27.33,0.83,5.0,0.5,0.33,['telur'],https://www.allrecipes.com/recipe/231989/vegetarian-fried-rice/
+Air Fryer Potato Wedges,32.25,0.5,4.75,1.25,0.75,[],https://www.allrecipes.com/recipe/266826/air-fryer-potato-wedges/
+Oven-Fresh Seasoned Potato Wedges,34.5,1.0,5.0,1.25,0.75,['keju'],https://www.allrecipes.com/recipe/199575/oven-fresh-seasoned-potato-wedges/
+Chef John's French Fries (How to Make),193.0,2.0,16.0,13.5,1.5,[],https://www.allrecipes.com/recipe/219634/chef-johns-french-fries/
+Air Fryer Sweet Potato Fries,57.0,0.5,6.0,3.5,1.0,[],https://www.allrecipes.com/recipe/264825/air-fried-sweet-potato-fries/
+Homemade Crispy Seasoned French Fries,24.12,0.5,4.75,0.38,0.38,[],https://www.allrecipes.com/recipe/50223/homemade-crispy-seasoned-french-fries/
+Air Fryer French Fries,27.0,0.5,5.0,0.5,0.75,[],https://www.allrecipes.com/recipe/278581/air-fryer-french-fries/
+French Fried Potatoes,124.5,1.0,12.25,8.25,1.0,[],https://www.allrecipes.com/recipe/35963/french-fried-potatoes/
+Baked French Fries,357.0,5.0,55.0,14.0,5.0,[],https://www.allrecipes.com/recipe/20849/baked-french-fries-i/
+Baked Sweet Potato Fries,30.0,0.25,2.5,2.5,0.5,[],https://www.allrecipes.com/recipe/237083/oven-baked-sweet-potato-fries/
+Best Baked French Fries,97.0,1.75,15.0,3.5,1.75,[],https://www.allrecipes.com/recipe/229310/best-baked-french-fries/
+Salt and Pepper Skillet Fries,70.5,1.5,12.0,2.0,1.5,[],https://www.allrecipes.com/recipe/236025/salt-and-pepper-skillet-fries/
+Fried Potato Wedges,82.4,1.6,10.6,3.8,1.0,"['susu', 'ayam']",https://www.allrecipes.com/recipe/277810/fried-potato-wedges/
+Oven-Baked Garlic and Parmesan Fries,120.25,3.5,17.25,4.5,1.25,['keju'],https://www.allrecipes.com/recipe/216539/oven-baked-garlic-and-parmesan-fries/
+Yuca French Fries,72.83,0.83,6.83,4.83,0.33,[],https://www.allrecipes.com/recipe/165419/yuca-french-fries/
+Chef John's Cottage Fries,46.75,0.75,7.25,1.75,0.75,[],https://www.allrecipes.com/recipe/221899/chef-johns-cottage-fries/
+Baked Panko-Breaded Zucchini Fries,147.0,9.0,23.5,5.0,2.0,['keju'],https://www.allrecipes.com/recipe/238534/baked-panko-breaded-zucchini-fries/
+Oven-Fried Potatoes,90.83,1.83,10.33,4.67,1.0,[],https://www.allrecipes.com/recipe/18905/oven-fried-potatoes-i/
+Flemish Frites - Belgian Fries with Andalouse Sauce,96.5,1.0,7.33,7.33,0.5,[],https://www.allrecipes.com/recipe/236509/flemish-frites-belgian-fries-with-andalouse-sauce/
+Yummy Cheese Fries,178.67,6.33,19.0,9.33,2.0,['keju'],https://www.allrecipes.com/recipe/222752/yummy-cheese-fries/
+Air-Fryer Fries,24.25,0.5,5.0,0.25,0.75,[],https://www.allrecipes.com/recipe/269889/air-fryer-fries/
+Air Fryer Truffle Fries,56.5,1.25,9.0,2.0,0.75,['keju'],https://www.allrecipes.com/recipe/280533/air-fryer-truffle-fries/
+Spicy Chili French Fries,106.75,2.0,17.25,3.75,2.25,[],https://www.allrecipes.com/recipe/188423/spicy-chili-french-fries/
+Cajun Potato Wedges,64.5,1.25,9.5,2.5,1.25,[],https://www.allrecipes.com/recipe/223408/cajun-potato-wedges/
+Oven Fries,26.0,0.67,5.67,0.17,0.5,[],https://www.allrecipes.com/recipe/13907/oven-fries/
+"Air Fryer Okra ""Fries""",51.5,2.5,8.0,2.0,3.5,[],https://www.allrecipes.com/recipe/277128/air-fryer-okra-fries/
+Old Bay Fries,71.83,2.0,6.5,4.33,0.5,"['susu', 'keju']",https://www.allrecipes.com/recipe/279276/old-bay-fries/
+Mojo French Fries,63.33,1.5,10.33,1.83,1.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/222989/mojo-french-fries/
+SPAM Fries with Spicy Garlic Sriracha Dipping Sauce,70.25,1.5,0.5,7.0,0.0,[],https://www.allrecipes.com/recipe/237501/spam-fries-with-spicy-garlic-sriracha-dipping-sauce/
+Butternut Squash Fries,25.5,0.5,6.75,0.0,1.25,[],https://www.allrecipes.com/recipe/153205/butternut-squash-fries/
+Duck Fat Steak Fries,50.75,1.0,8.5,1.75,0.75,[],https://www.allrecipes.com/recipe/236804/duck-fat-steak-fries/
+Air Fryer Butternut Squash Home Fries,23.0,0.25,3.25,1.0,0.5,[],https://www.allrecipes.com/recipe/269234/air-fryer-butternut-squash-home-fries/
+Crispy Baked Zucchini Fries,54.25,1.5,4.5,3.5,0.5,['keju'],https://www.allrecipes.com/recipe/217280/oven-baked-zucchini-fries/
+Chili Cheese Fries,84.83,3.33,8.67,4.17,0.83,"['susu', 'keju']",https://www.allrecipes.com/recipe/188823/chili-cheese-fries/
+Cajun Baked French Fries,61.5,1.33,11.0,1.5,1.33,[],https://www.allrecipes.com/recipe/232106/cajun-baked-french-fries/
+Parmesan Truffle Fries,99.25,2.25,16.25,3.0,2.0,['keju'],https://www.allrecipes.com/recipe/247267/parmesan-truffle-fries/
+Air Fryer Frozen French Fries,98.0,1.5,14.0,4.5,1.0,[],https://www.allrecipes.com/recipe/8395452/air-fryer-frozen-french-fries/
+Air Fryer Salt and Vinegar Fries for One,150.0,4.0,33.0,0.0,3.0,[],https://www.allrecipes.com/recipe/279510/air-fryer-salt-and-vinegar-fries-for-one/
+Quick and Easy Parmesan Zucchini Fries,35.5,3.0,2.5,1.75,0.75,['keju'],https://www.allrecipes.com/recipe/261309/quick-and-easy-parmesan-zucchini-fries/
+Air Fryer Fish and Chips,232.5,19.0,31.0,3.0,2.0,[],https://www.allrecipes.com/recipe/280973/air-fryer-fish-and-chips/
+Sweet and Spicy Air Fried Sweet Potatoes,63.0,1.0,11.67,1.67,1.67,[],https://www.allrecipes.com/recipe/283047/sweet-and-spicy-air-fried-sweet-potatoes/
+French Fries in the Air Fryer,52.5,1.0,9.5,1.5,0.5,[],https://www.allrecipes.com/recipe/284981/french-fries-in-the-air-fryer/
+Super Easy Oven-Baked Garlic-Parmesan Fries,80.5,3.0,8.5,4.0,1.25,['keju'],https://www.allrecipes.com/recipe/269763/super-easy-oven-baked-garlic-parmesan-fries/
+Double Ranch Fries,50.83,0.67,6.33,2.67,0.5,['susu'],https://www.allrecipes.com/recipe/72893/double-ranch-fries/
+Baked Cauliflower Fries,89.5,6.0,8.0,4.5,3.5,['keju'],https://www.allrecipes.com/recipe/257426/baked-cauliflower-fries/
+Potato Hay,28.25,0.5,4.75,1.0,0.5,[],https://www.allrecipes.com/recipe/257092/potato-hay/
+Air Fryer Peri-Peri Fries,59.25,1.25,10.0,1.75,1.25,[],https://www.allrecipes.com/recipe/280551/air-fryer-peri-peri-fries/
+Bacon Fries,30.62,1.12,3.12,1.5,0.25,[],https://www.allrecipes.com/recipe/246007/bacon-fries/
+Crispy Coated Cajun Fries,57.0,0.83,7.83,2.5,0.67,[],https://www.allrecipes.com/recipe/74817/crispy-coated-cajun-fries/
+Air Fryer Tajin Sweet Potato Fries,58.25,0.5,6.0,3.75,1.0,[],https://www.allrecipes.com/recipe/276518/air-fryer-tajin-sweet-potato-fries/
+Baked French Fries II,36.25,1.25,7.0,0.5,1.0,['keju'],https://www.allrecipes.com/recipe/31519/baked-french-fries-ii/
+McDonald's Fries,150.0,2.25,23.75,5.5,2.25,[],https://www.allrecipes.com/recipe/241869/mcdonalds-fries/

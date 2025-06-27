@@ -3,7 +3,6 @@ url = "https://www.dapurumami.com/resep?tested=du&sortby=terbaru"
 path_to_file = r"D:\recipe_scrape\python\test\\"
 
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 from bs4 import BeautifulSoup
@@ -17,11 +16,9 @@ mode = "scrape2"
 if(mode == "scrape"):
     driver = webdriver.Chrome()
     driver.maximize_window()
-
     driver.get(url)
 
     last_height = 0
-
     while True:
         driver.execute_script('window.scrollBy(0, 1000)')
         time.sleep(6)
@@ -31,12 +28,10 @@ if(mode == "scrape"):
 
         if(new_height == last_height):
             break
-
         else:
             last_height = new_height
-
+            
     page_source = driver.page_source
-
     f = open(path_to_file + "source.txt", "w", encoding="utf-8")
     f.write(page_source)
     f.close()
@@ -50,16 +45,16 @@ elif(mode == "extract"):
 
     soup = BeautifulSoup(page_source, features="lxml")
 
-    recipe_links = []
+    food_links = []
     items = soup.find_all("div", class_="wrappedInfo")
 
     for item in items:
         link_tag = item.find("a", class_="transparent")
         if link_tag and "href" in link_tag.attrs:
-            recipe_links.append(link_tag["href"])
+            food_links.append(link_tag["href"])
     
     with open(path_to_file + "links.txt", "w", encoding="utf-8") as f:
-        for link in recipe_links:
+        for link in food_links:
             f.write(link + "\n")
 
 elif(mode == "scrape2"):
@@ -68,15 +63,15 @@ elif(mode == "scrape2"):
     ]
 
     with open(path_to_file + "links.txt", "r", encoding="utf-8") as f:
-        recipe_links = [line.strip() for line in f.readlines()]
+        food_links = [line.strip() for line in f.readlines()]
 
     driver = webdriver.Chrome()
     driver.maximize_window()
 
-    recipe_data = []
+    food_data = []
 
-    for recipe_link in recipe_links:
-        driver.get(recipe_link)
+    for food_link in food_links:
+        driver.get(food_link)
         time.sleep(2)  
 
         soup = BeautifulSoup(driver.page_source, "lxml")
@@ -111,19 +106,19 @@ elif(mode == "scrape2"):
 
 
         # Append structured data
-        recipe_data.append({
+        food_data.append({
             "RecipeName": title,
             **nutrition_values,
             "ProteinName": list(protein_found),
-            "url": recipe_link
+            "url": food_link
         })
 
     driver.quit()
 
     # Save to CSV
-    df = pd.DataFrame(recipe_data)
+    df = pd.DataFrame(food_data)
     df.to_csv(path_to_file + "recipes.csv", index=False, encoding="utf-8")
 
     # Save to JSON
     with open(path_to_file + "recipes.json", "w", encoding="utf-8") as f:
-        json.dump(recipe_data, f, indent=4, ensure_ascii=False)
+        json.dump(food_data, f, indent=4, ensure_ascii=False)

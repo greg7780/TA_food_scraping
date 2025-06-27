@@ -1,0 +1,5560 @@
+[
+    {
+        "RecipeName": "Instant Pot Polenta",
+        "Calories": 94.0,
+        "Protein": 3.5,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275647/instant-pot-polenta/"
+    },
+    {
+        "RecipeName": "Southern Cheese Grits",
+        "Calories": 27.75,
+        "Protein": 1.12,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277283/southern-cheese-grits/"
+    },
+    {
+        "RecipeName": "Grilled Polenta Bites with Black Bean Salsa",
+        "Calories": 15.5,
+        "Protein": 0.62,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/280714/grilled-polenta-bites-with-black-bean-salsa/"
+    },
+    {
+        "RecipeName": "Vegan Polenta",
+        "Calories": 49.0,
+        "Protein": 1.17,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268859/vegan-polenta/"
+    },
+    {
+        "RecipeName": "Polenta Taragna with Taleggio and Radicchio",
+        "Calories": 166.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 18.25,
+        "Total Fat": 8.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/281224/polenta-taragna-with-taleggio-and-radicchio/"
+    },
+    {
+        "RecipeName": "Creamy Southern Shrimp and Cheese Grits",
+        "Calories": 42.5,
+        "Protein": 3.33,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 2.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220904/creamy-southern-shrimp-and-cheese-grits/"
+    },
+    {
+        "RecipeName": "Creamy Polenta with Roasted Corn and Fresh Sage",
+        "Calories": 94.5,
+        "Protein": 3.0,
+        "Total Carbohydrate": 11.5,
+        "Total Fat": 4.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24718/creamy-polenta-with-roasted-corn-and-fresh-sage/"
+    },
+    {
+        "RecipeName": "Robin's Cheesy Chipotle Grits",
+        "Calories": 12.33,
+        "Protein": 0.58,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 0.58,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "keju",
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/169702/robins-cheesy-chipotle-grits/"
+    },
+    {
+        "RecipeName": "Stuffed Tomatoes with Grits and Ricotta",
+        "Calories": 15.38,
+        "Protein": 0.88,
+        "Total Carbohydrate": 1.88,
+        "Total Fat": 0.62,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/186558/stuffed-tomatoes-with-grits-and-ricotta/"
+    },
+    {
+        "RecipeName": "Air Fryer Polenta Pizza Bites",
+        "Calories": 15.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/286258/air-fryer-polenta-pizza-bites/"
+    },
+    {
+        "RecipeName": "Instant Pot Cream Cheese Grits",
+        "Calories": 88.0,
+        "Protein": 3.0,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277914/instant-pot-cream-cheese-grits/"
+    },
+    {
+        "RecipeName": "Baked Polenta with Sausage",
+        "Calories": 91.0,
+        "Protein": 4.17,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276486/baked-polenta-with-sausage/"
+    },
+    {
+        "RecipeName": "Calzagatti (Pan-Fried Polenta and Beans)",
+        "Calories": 27.25,
+        "Protein": 0.62,
+        "Total Carbohydrate": 2.62,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/276701/calzagatti-pan-fried-polenta-and-beans/"
+    },
+    {
+        "RecipeName": "Pan-fried Polenta with Corn, Kale and Goat Cheese",
+        "Calories": 345.0,
+        "Protein": 12.0,
+        "Total Carbohydrate": 44.5,
+        "Total Fat": 15.5,
+        "Dietary Fiber": 5.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14034/pan-fried-polenta-with-corn-kale-and-goat-cheese/"
+    },
+    {
+        "RecipeName": "Vegan Polenta with Ragu",
+        "Calories": 178.75,
+        "Protein": 11.0,
+        "Total Carbohydrate": 19.25,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 5.75,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268860/vegan-polenta-with-ragu/"
+    },
+    {
+        "RecipeName": "Air-Fried Cajun Polenta Fries",
+        "Calories": 104.5,
+        "Protein": 1.5,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 7.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278667/air-fried-cajun-polenta-fries/"
+    },
+    {
+        "RecipeName": "TV's Grits Casserole",
+        "Calories": 50.75,
+        "Protein": 1.62,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/205678/tvs-grits-casserole/"
+    },
+    {
+        "RecipeName": "Shrimp Wrapped with Prosciutto",
+        "Calories": 100.67,
+        "Protein": 2.17,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 8.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18160/shrimp-wrapped-with-prosciutto/"
+    },
+    {
+        "RecipeName": "Kettle Corn",
+        "Calories": 41.8,
+        "Protein": 0.4,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 2.4,
+        "Dietary Fiber": 0.6,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/20808/kettle-corn/"
+    },
+    {
+        "RecipeName": "Microwave Popcorn",
+        "Calories": 45.67,
+        "Protein": 1.33,
+        "Total Carbohydrate": 8.33,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 1.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/87305/microwave-popcorn/"
+    },
+    {
+        "RecipeName": "Coconut Oil Popcorn",
+        "Calories": 106.5,
+        "Protein": 1.5,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241449/coconut-oil-popcorn/"
+    },
+    {
+        "RecipeName": "Instant Pot Popcorn",
+        "Calories": 37.75,
+        "Protein": 0.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277794/instant-pot-popcorn/"
+    },
+    {
+        "RecipeName": "Cajun-Spiced Popcorn",
+        "Calories": 5.35,
+        "Protein": 0.05,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 0.45,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/149548/cajun-spiced-popcorn/"
+    },
+    {
+        "RecipeName": "Movie Star Popcorn",
+        "Calories": 37.4,
+        "Protein": 0.6,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.8,
+        "Dietary Fiber": 0.6,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/150711/movie-star-popcorn/"
+    },
+    {
+        "RecipeName": "Truffle Lovers' Popcorn",
+        "Calories": 47.25,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216733/truffle-lovers-popcorn/"
+    },
+    {
+        "RecipeName": "Daddy's Popcorn",
+        "Calories": 71.25,
+        "Protein": 0.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/73032/daddys-popcorn/"
+    },
+    {
+        "RecipeName": "Bacon Popcorn",
+        "Calories": 21.6,
+        "Protein": 0.6,
+        "Total Carbohydrate": 1.1,
+        "Total Fat": 1.7,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/159505/bacon-popcorn/"
+    },
+    {
+        "RecipeName": "Homemade Chili Seasoning Popcorn",
+        "Calories": 38.75,
+        "Protein": 0.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/232668/homemade-chili-seasoning-popcorn/"
+    },
+    {
+        "RecipeName": "Italian Popcorn with Parmesan",
+        "Calories": 37.83,
+        "Protein": 1.17,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/244649/italian-popcorn-with-parmesan/"
+    },
+    {
+        "RecipeName": "Protein Popcorn",
+        "Calories": 35.5,
+        "Protein": 0.8,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 1.8,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/186153/protein-popcorn/"
+    },
+    {
+        "RecipeName": "Kool-Aid® Popcorn",
+        "Calories": 12.75,
+        "Protein": 0.05,
+        "Total Carbohydrate": 1.95,
+        "Total Fat": 0.6,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/231996/kool-aid-popcorn/"
+    },
+    {
+        "RecipeName": "Spicy-Sweet Buffalo Popcorn",
+        "Calories": 26.25,
+        "Protein": 0.12,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261199/spicy-sweet-buffalo-popcorn/"
+    },
+    {
+        "RecipeName": "Gourmet Microwave Popcorn",
+        "Calories": 57.0,
+        "Protein": 1.5,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215052/gourmet-microwave-popcorn/"
+    },
+    {
+        "RecipeName": "Cinnamon Heart Popcorn",
+        "Calories": 15.12,
+        "Protein": 0.06,
+        "Total Carbohydrate": 1.88,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/216730/cinnamon-heart-popcorn/"
+    },
+    {
+        "RecipeName": "Confetti Puffed Corn",
+        "Calories": 76.57,
+        "Protein": 1.14,
+        "Total Carbohydrate": 7.43,
+        "Total Fat": 6.14,
+        "Dietary Fiber": 0.71,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/282918/confetti-puffed-corn/"
+    },
+    {
+        "RecipeName": "Skillet-Popped Lentils with Parsley",
+        "Calories": 15.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/258959/skillet-popped-lentils-with-parsley/"
+    },
+    {
+        "RecipeName": "Sesame Parmesan Popcorn",
+        "Calories": 15.75,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 1.38,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255222/sesame-parmesan-popcorn/"
+    },
+    {
+        "RecipeName": "Butter Popcorn With Sumac",
+        "Calories": 142.0,
+        "Protein": 2.0,
+        "Total Carbohydrate": 12.67,
+        "Total Fat": 9.67,
+        "Dietary Fiber": 2.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/254239/butter-popcorn-with-sumac/"
+    },
+    {
+        "RecipeName": "Chinese Popcorn Snack Mix",
+        "Calories": 61.0,
+        "Protein": 2.17,
+        "Total Carbohydrate": 10.83,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 2.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/284073/chinese-popcorn-snack-mix/"
+    },
+    {
+        "RecipeName": "Popcorn Nachos",
+        "Calories": 8.12,
+        "Protein": 0.12,
+        "Total Carbohydrate": 0.31,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/25535/popcorn-nachos/"
+    },
+    {
+        "RecipeName": "Chili Taco Popcorn",
+        "Calories": 127.33,
+        "Protein": 3.5,
+        "Total Carbohydrate": 20.83,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 4.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/176497/chili-taco-popcorn/"
+    },
+    {
+        "RecipeName": "Curried Microwave Popcorn",
+        "Calories": 189.0,
+        "Protein": 6.0,
+        "Total Carbohydrate": 38.0,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 8.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235544/curried-microwave-popcorn/"
+    },
+    {
+        "RecipeName": "Pop Mix",
+        "Calories": 32.17,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 2.33,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261090/pop-mix/"
+    },
+    {
+        "RecipeName": "Classic Caramel Corn",
+        "Calories": 49.38,
+        "Protein": 2.12,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/173309/classic-caramel-corn/"
+    },
+    {
+        "RecipeName": "Caramel Popcorn",
+        "Calories": 12.65,
+        "Protein": 0.05,
+        "Total Carbohydrate": 1.65,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24952/caramel-popcorn/"
+    },
+    {
+        "RecipeName": "Puffed Caramel Corn",
+        "Calories": 78.88,
+        "Protein": 0.75,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/259226/puffed-caramel-corn/"
+    },
+    {
+        "RecipeName": "Microwave Caramel Popcorn",
+        "Calories": 10.81,
+        "Protein": 0.06,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.56,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/73761/microwave-caramel-popcorn/"
+    },
+    {
+        "RecipeName": "Clone of a Cracker Jack",
+        "Calories": 31.73,
+        "Protein": 0.36,
+        "Total Carbohydrate": 3.36,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.18,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/237265/clone-of-a-cracker-jack/"
+    },
+    {
+        "RecipeName": "Caramel Chocolate Corn",
+        "Calories": 4.59,
+        "Protein": 0.06,
+        "Total Carbohydrate": 0.47,
+        "Total Fat": 0.28,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/23367/caramel-chocolate-corn/"
+    },
+    {
+        "RecipeName": "Sticky Popcorn",
+        "Calories": 70.6,
+        "Protein": 0.4,
+        "Total Carbohydrate": 9.2,
+        "Total Fat": 3.8,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239892/sticky-popcorn/"
+    },
+    {
+        "RecipeName": "Peanut Butter Popcorn Balls",
+        "Calories": 15.56,
+        "Protein": 0.31,
+        "Total Carbohydrate": 2.19,
+        "Total Fat": 0.69,
+        "Dietary Fiber": 0.19,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234943/peanut-butter-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Soft Caramel Corn",
+        "Calories": 3.98,
+        "Protein": 0.03,
+        "Total Carbohydrate": 0.62,
+        "Total Fat": 0.17,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/55537/soft-caramel-corn/"
+    },
+    {
+        "RecipeName": "Caramel Popcorn with Marshmallow",
+        "Calories": 70.25,
+        "Protein": 0.38,
+        "Total Carbohydrate": 9.38,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/218331/caramel-popcorn-with-marshmallow/"
+    },
+    {
+        "RecipeName": "Chocolate-Covered Caramel Corn Recipe",
+        "Calories": 34.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 3.44,
+        "Total Fat": 2.31,
+        "Dietary Fiber": 0.31,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/259225/chocolate-covered-caramel-corn/"
+    },
+    {
+        "RecipeName": "Cashew Caramel Corn",
+        "Calories": 11.5,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.29,
+        "Total Fat": 0.71,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/229143/cashew-caramel-corn/"
+    },
+    {
+        "RecipeName": "Caramel Corn I",
+        "Calories": 13.88,
+        "Protein": 0.24,
+        "Total Carbohydrate": 1.6,
+        "Total Fat": 0.8,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9386/caramel-corn-i/"
+    },
+    {
+        "RecipeName": "DB's Caramel Popcorn Bacon Mix",
+        "Calories": 207.83,
+        "Protein": 4.0,
+        "Total Carbohydrate": 22.5,
+        "Total Fat": 12.17,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230429/dbs-caramel-popcorn-bacon-mix/"
+    },
+    {
+        "RecipeName": "Vegan Caramel Popcorn",
+        "Calories": 20.94,
+        "Protein": 0.12,
+        "Total Carbohydrate": 3.62,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/266756/vegan-caramel-popcorn/"
+    },
+    {
+        "RecipeName": "Chocolaty Caramel-Nut Popcorn",
+        "Calories": 275.75,
+        "Protein": 3.0,
+        "Total Carbohydrate": 33.25,
+        "Total Fat": 16.0,
+        "Dietary Fiber": 2.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/147094/chocolaty-caramel-nut-popcorn/"
+    },
+    {
+        "RecipeName": "Grandma's Caramel Popcorn Balls",
+        "Calories": 17.0,
+        "Protein": 0.15,
+        "Total Carbohydrate": 2.15,
+        "Total Fat": 0.95,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255506/grandmas-caramel-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Chocolate Almond Popcorn",
+        "Calories": 9.32,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.04,
+        "Total Fat": 0.56,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215517/chocolate-almond-popcorn/"
+    },
+    {
+        "RecipeName": "Easy Caramel Popcorn Balls",
+        "Calories": 25.0,
+        "Protein": 0.25,
+        "Total Carbohydrate": 4.17,
+        "Total Fat": 0.92,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255505/easy-caramel-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Maple and Honey Caramel Corn",
+        "Calories": 12.4,
+        "Protein": 0.05,
+        "Total Carbohydrate": 1.55,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/274959/maple-and-honey-caramel-corn/"
+    },
+    {
+        "RecipeName": "Crunchy Baked Caramel Corn",
+        "Calories": 43.9,
+        "Protein": 0.2,
+        "Total Carbohydrate": 6.3,
+        "Total Fat": 2.2,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/259224/crunchy-baked-caramel-corn/"
+    },
+    {
+        "RecipeName": "Reindeer Poop Popcorn",
+        "Calories": 98.62,
+        "Protein": 0.62,
+        "Total Carbohydrate": 12.12,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/237919/reindeer-poop-popcorn/"
+    },
+    {
+        "RecipeName": "Pop's Molasses Popcorn Balls and Taffy",
+        "Calories": 26.0,
+        "Protein": 0.0,
+        "Total Carbohydrate": 5.58,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261200/pops-molasses-popcorn-balls-and-taffy/"
+    },
+    {
+        "RecipeName": "Caramel Corn IV",
+        "Calories": 37.5,
+        "Protein": 0.38,
+        "Total Carbohydrate": 5.62,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9457/caramel-corn-iv/"
+    },
+    {
+        "RecipeName": "Lovely Lisa's Sweet and Salty Caramel Popcorn",
+        "Calories": 8.31,
+        "Protein": 0.06,
+        "Total Carbohydrate": 1.22,
+        "Total Fat": 0.41,
+        "Dietary Fiber": 0.03,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236287/lovely-lisas-sweet-and-salty-caramel-popcorn/"
+    },
+    {
+        "RecipeName": "Caramel Corn II",
+        "Calories": 24.3,
+        "Protein": 0.3,
+        "Total Carbohydrate": 4.8,
+        "Total Fat": 0.6,
+        "Dietary Fiber": 0.3,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/9392/caramel-corn-ii/"
+    },
+    {
+        "RecipeName": "Chocolate Popcorn",
+        "Calories": 11.62,
+        "Protein": 0.19,
+        "Total Carbohydrate": 1.19,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/160595/chocolate-popcorn/"
+    },
+    {
+        "RecipeName": "White Chocolate Popcorn",
+        "Calories": 6.58,
+        "Protein": 0.08,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/245687/white-chocolate-popcorn/"
+    },
+    {
+        "RecipeName": "Stovetop Dark Chocolate Popcorn",
+        "Calories": 7.83,
+        "Protein": 0.08,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/245689/stovetop-dark-chocolate-popcorn/"
+    },
+    {
+        "RecipeName": "Dark Chocolate Popcorn",
+        "Calories": 8.62,
+        "Protein": 0.06,
+        "Total Carbohydrate": 1.06,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/245690/dark-chocolate-popcorn/"
+    },
+    {
+        "RecipeName": "Easter Popcorn",
+        "Calories": 37.57,
+        "Protein": 1.0,
+        "Total Carbohydrate": 6.29,
+        "Total Fat": 1.07,
+        "Dietary Fiber": 1.14,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/273004/easter-popcorn/"
+    },
+    {
+        "RecipeName": "Delicious Popcorn Crunch",
+        "Calories": 23.2,
+        "Protein": 0.13,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 1.27,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235665/delicious-popcorn-crunch/"
+    },
+    {
+        "RecipeName": "Marshmallow Popcorn Balls",
+        "Calories": 29.62,
+        "Protein": 0.25,
+        "Total Carbohydrate": 4.38,
+        "Total Fat": 1.38,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/19154/marshmallow-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Best Ever Popcorn Balls",
+        "Calories": 8.25,
+        "Protein": 0.05,
+        "Total Carbohydrate": 1.55,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/20519/best-ever-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Grandpa's Popcorn Balls",
+        "Calories": 45.8,
+        "Protein": 0.2,
+        "Total Carbohydrate": 7.5,
+        "Total Fat": 1.9,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15817/grandpas-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Festive JELL-O Popcorn Balls",
+        "Calories": 7.94,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.19,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239973/festive-jell-o-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Favorite Popcorn Balls",
+        "Calories": 19.36,
+        "Protein": 0.29,
+        "Total Carbohydrate": 3.79,
+        "Total Fat": 0.43,
+        "Dietary Fiber": 0.29,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15668/favorite-popcorn-balls/"
+    },
+    {
+        "RecipeName": "Halloween Popcorn Pumpkins",
+        "Calories": 27.33,
+        "Protein": 0.33,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/127501/halloween-popcorn-pumpkins/"
+    },
+    {
+        "RecipeName": "Quick and Easy Yorkshire Pudding",
+        "Calories": 6.92,
+        "Protein": 0.25,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22539/quick-and-easy-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Popovers",
+        "Calories": 20.0,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/7238/popovers/"
+    },
+    {
+        "RecipeName": "Sky-High Yorkshire Pudding",
+        "Calories": 13.33,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.58,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/95339/sky-high-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Traditional Yorkshire Pudding",
+        "Calories": 8.58,
+        "Protein": 0.83,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276147/traditional-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Traditional Popovers",
+        "Calories": 30.5,
+        "Protein": 1.17,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24581/traditional-popovers/"
+    },
+    {
+        "RecipeName": "Grandma's Yorkshire Pudding",
+        "Calories": 79.17,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 7.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/70230/grandmas-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Simple Yorkshire Pudding",
+        "Calories": 11.25,
+        "Protein": 0.5,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 0.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240795/simple-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Blueberry Popovers",
+        "Calories": 43.0,
+        "Protein": 1.17,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231149/blueberry-popovers/"
+    },
+    {
+        "RecipeName": "Classic Yorkshire Pudding",
+        "Calories": 13.12,
+        "Protein": 0.75,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21389/classic-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Blender Yorkshire Pudding",
+        "Calories": 20.5,
+        "Protein": 1.5,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230167/blender-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Chef John's Popovers",
+        "Calories": 18.67,
+        "Protein": 0.83,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228641/chef-johns-popovers/"
+    },
+    {
+        "RecipeName": "Hi-Rise Easy Yorkshire Pudding",
+        "Calories": 27.83,
+        "Protein": 1.17,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240794/hi-rise-easy-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Easy and Delicious Crusty Popovers",
+        "Calories": 8.08,
+        "Protein": 0.33,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229318/easy-and-delicious-crusty-popovers/"
+    },
+    {
+        "RecipeName": "Blue Cheese Popovers",
+        "Calories": 12.14,
+        "Protein": 0.43,
+        "Total Carbohydrate": 1.14,
+        "Total Fat": 0.64,
+        "Dietary Fiber": 0.07,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282660/blue-cheese-popovers/"
+    },
+    {
+        "RecipeName": "Laura's Famous Aebleskiver",
+        "Calories": 82.5,
+        "Protein": 3.75,
+        "Total Carbohydrate": 13.5,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/204241/lauras-famous-aebleskiver/"
+    },
+    {
+        "RecipeName": "Easy Yorkshire Pudding",
+        "Calories": 23.33,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240801/easy-yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Spring Herb Popovers",
+        "Calories": 11.0,
+        "Protein": 0.42,
+        "Total Carbohydrate": 1.08,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/247006/spring-herb-popovers/"
+    },
+    {
+        "RecipeName": "Fancy Pear Popovers",
+        "Calories": 33.5,
+        "Protein": 1.17,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/258972/fancy-pear-popovers/"
+    },
+    {
+        "RecipeName": "Pumpkin Popovers",
+        "Calories": 25.5,
+        "Protein": 1.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239217/pumpkin-popovers/"
+    },
+    {
+        "RecipeName": "Yorkshire Pudding",
+        "Calories": 19.62,
+        "Protein": 1.5,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 0.38,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/9239/yorkshire-pudding/"
+    },
+    {
+        "RecipeName": "Smoky Grilled Pork Chops",
+        "Calories": 63.5,
+        "Protein": 6.25,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/218068/smoky-grilled-pork-chops/"
+    },
+    {
+        "RecipeName": "Best Grilled Pork Chops",
+        "Calories": 63.33,
+        "Protein": 6.83,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/223405/best-grilled-pork-chops/"
+    },
+    {
+        "RecipeName": "Doritos Pork Chops",
+        "Calories": 101.5,
+        "Protein": 10.5,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 5.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "keju",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8376875/doritos-pork-chops/"
+    },
+    {
+        "RecipeName": "Pork Schnitzel",
+        "Calories": 149.75,
+        "Protein": 9.0,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 9.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8532147/pork-schnitzel/"
+    },
+    {
+        "RecipeName": "Pan-Fried Pork Chops",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8495583/pan-fried-pork-chops/"
+    },
+    {
+        "RecipeName": "World's Best Honey Garlic Pork Chops",
+        "Calories": 48.33,
+        "Protein": 5.0,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235158/worlds-best-honey-garlic-pork-chops/"
+    },
+    {
+        "RecipeName": "Best Pork Chop Marinade",
+        "Calories": 378.0,
+        "Protein": 31.0,
+        "Total Carbohydrate": 15.0,
+        "Total Fat": 21.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234059/best-pork-chop-marinade/"
+    },
+    {
+        "RecipeName": "Easy Air Fryer Pork Chops",
+        "Calories": 76.25,
+        "Protein": 8.75,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 4.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275576/easy-air-fryer-pork-chops/"
+    },
+    {
+        "RecipeName": "Mushroom Pork Chops",
+        "Calories": 52.5,
+        "Protein": 6.0,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14746/mushroom-pork-chops/"
+    },
+    {
+        "RecipeName": "Pork Steaks",
+        "Calories": 58.83,
+        "Protein": 4.5,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/70463/pork-steaks/"
+    },
+    {
+        "RecipeName": "Italian Breaded Pork Chops",
+        "Calories": 108.25,
+        "Protein": 6.25,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/31064/italian-breaded-pork-chops/"
+    },
+    {
+        "RecipeName": "Fried Pork Chops",
+        "Calories": 51.75,
+        "Protein": 3.75,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/55593/fried-pork-chop/"
+    },
+    {
+        "RecipeName": "Sous Vide Maple Chipotle BBQ Pork Chops",
+        "Calories": 168.0,
+        "Protein": 13.75,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8526866/sous-vide-maple-chipotle-bbq-pork-chops/"
+    },
+    {
+        "RecipeName": "Chef John's Smothered Pork Chops",
+        "Calories": 92.5,
+        "Protein": 7.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/234803/chef-johns-smothered-pork-chops/"
+    },
+    {
+        "RecipeName": "Pork Chop and Potato Casserole",
+        "Calories": 141.0,
+        "Protein": 6.6,
+        "Total Carbohydrate": 7.6,
+        "Total Fat": 9.4,
+        "Dietary Fiber": 0.8,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18803/pork-chop-and-potato-casserole/"
+    },
+    {
+        "RecipeName": "Oven-Fried Pork Chops",
+        "Calories": 105.5,
+        "Protein": 8.0,
+        "Total Carbohydrate": 9.75,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24681/oven-fried-pork-chops/"
+    },
+    {
+        "RecipeName": "Marinated Baked Pork Chops",
+        "Calories": 27.67,
+        "Protein": 2.5,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 1.5,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/44742/marinated-baked-pork-chops/"
+    },
+    {
+        "RecipeName": "Stuffed Pork Chops",
+        "Calories": 103.5,
+        "Protein": 4.25,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21140/stuffed-pork-chops-i/"
+    },
+    {
+        "RecipeName": "Pork Sinigang",
+        "Calories": 60.0,
+        "Protein": 6.75,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/204958/pork-sinigang/"
+    },
+    {
+        "RecipeName": "German Pork Chops and Sauerkraut",
+        "Calories": 45.38,
+        "Protein": 3.62,
+        "Total Carbohydrate": 4.88,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/216330/german-pork-chops-and-sauerkraut/"
+    },
+    {
+        "RecipeName": "Grilled Pork Loin Chops",
+        "Calories": 214.5,
+        "Protein": 20.0,
+        "Total Carbohydrate": 24.5,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/218075/grilled-pork-loin-chops/"
+    },
+    {
+        "RecipeName": "Breaded Baked Pork Chops",
+        "Calories": 75.17,
+        "Protein": 5.5,
+        "Total Carbohydrate": 5.17,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277231/breaded-baked-pork-chops/"
+    },
+    {
+        "RecipeName": "Simple Pork Chops",
+        "Calories": 81.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/139299/simple-time-pork-chops/"
+    },
+    {
+        "RecipeName": "Easy Baked BBQ Pork Chops",
+        "Calories": 31.5,
+        "Protein": 2.5,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241372/easy-baked-bbq-pork-chops/"
+    },
+    {
+        "RecipeName": "Pork Chops in Garlic Mushroom Sauce",
+        "Calories": 24.88,
+        "Protein": 2.0,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/269592/pork-chops-in-garlic-mushroom-sauce/"
+    },
+    {
+        "RecipeName": "Pork Chops for the Slow Cooker",
+        "Calories": 24.33,
+        "Protein": 2.67,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25150/pork-chops-for-the-slow-cooker/"
+    },
+    {
+        "RecipeName": "Applesauce Pork Chops",
+        "Calories": 193.0,
+        "Protein": 10.5,
+        "Total Carbohydrate": 21.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/229254/applesauce-pork-chops/"
+    },
+    {
+        "RecipeName": "Breaded Air Fryer Pork Chops",
+        "Calories": 81.75,
+        "Protein": 8.75,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275553/breaded-air-fryer-pork-chops/"
+    },
+    {
+        "RecipeName": "Baked Pork Chops with Cream of Mushroom Soup",
+        "Calories": 104.75,
+        "Protein": 11.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277019/baked-pork-chops-with-cream-of-mushroom-soup/"
+    },
+    {
+        "RecipeName": "Easy Pork Chops for the Slow Cooker",
+        "Calories": 23.7,
+        "Protein": 2.5,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/237411/easy-pork-chops-for-the-slow-cooker/"
+    },
+    {
+        "RecipeName": "Pork Rub Rubbed and Baked Pork Chops",
+        "Calories": 48.67,
+        "Protein": 7.0,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241609/pork-rub-rubbed-and-baked-pork-chops/"
+    },
+    {
+        "RecipeName": "Baked Stuffed Pork Chops",
+        "Calories": 118.75,
+        "Protein": 6.0,
+        "Total Carbohydrate": 12.5,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21859/stuffed-pork-chops-ii/"
+    },
+    {
+        "RecipeName": "Gravy Baked Pork Chops",
+        "Calories": 58.5,
+        "Protein": 5.75,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 3.0,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/17546/gravy-baked-pork-chops/"
+    },
+    {
+        "RecipeName": "Honey Mustard Pork Chops",
+        "Calories": 71.75,
+        "Protein": 5.5,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/223296/honey-mustard-pork-chops/"
+    },
+    {
+        "RecipeName": "Easy Baked Pork Chops",
+        "Calories": 76.17,
+        "Protein": 5.0,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 3.33,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16348/baked-pork-chops-i/"
+    },
+    {
+        "RecipeName": "Asian Marinated Pork Chops",
+        "Calories": 74.67,
+        "Protein": 9.5,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/218072/asian-marinated-pork-chops/"
+    },
+    {
+        "RecipeName": "Slow Cooker BBQ Pork Chops",
+        "Calories": 90.67,
+        "Protein": 3.83,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 6.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/18397/slow-cooker-bbq-pork-chops/"
+    },
+    {
+        "RecipeName": "Pork Chop Soup",
+        "Calories": 19.62,
+        "Protein": 1.25,
+        "Total Carbohydrate": 2.62,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213144/pork-chop-soup/"
+    },
+    {
+        "RecipeName": "Perfect Simple Roasted Pork Chops",
+        "Calories": 42.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/266162/perfect-simple-roasted-pork-chops/"
+    },
+    {
+        "RecipeName": "Parmesan Crusted Pork Chops",
+        "Calories": 123.0,
+        "Protein": 15.5,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/247066/parmesan-crusted-pork-chops/"
+    },
+    {
+        "RecipeName": "Air Fryer Tonkatsu",
+        "Calories": 79.75,
+        "Protein": 5.75,
+        "Total Carbohydrate": 10.25,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278809/air-fryer-tonkatsu/"
+    },
+    {
+        "RecipeName": "Broiled Pork Chops",
+        "Calories": 30.5,
+        "Protein": 4.0,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15089/broiled-pork-chops/"
+    },
+    {
+        "RecipeName": "Best Baked Pork Chops",
+        "Calories": 87.5,
+        "Protein": 10.5,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/273131/easy-baked-pork-chops/"
+    },
+    {
+        "RecipeName": "Chinese Pork Chops",
+        "Calories": 30.5,
+        "Protein": 3.33,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/72007/chinese-pork-chops/"
+    },
+    {
+        "RecipeName": "Southern Smothered Pork Chops in Brown Gravy",
+        "Calories": 89.75,
+        "Protein": 7.5,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277208/southern-smothered-pork-chops-in-brown-gravy/"
+    },
+    {
+        "RecipeName": "Oven-Baked Stuffed Pork Chops",
+        "Calories": 76.5,
+        "Protein": 6.17,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 5.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239506/oven-baked-stuffed-pork-chops/"
+    },
+    {
+        "RecipeName": "Creamy Herbed Pork Chops",
+        "Calories": 150.25,
+        "Protein": 10.0,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 11.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235432/creamy-herbed-pork-chops/"
+    },
+    {
+        "RecipeName": "Frozen Pork Chops in the Instant Pot",
+        "Calories": 66.5,
+        "Protein": 4.5,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 4.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/277522/frozen-pork-chops-in-the-instant-pot/"
+    },
+    {
+        "RecipeName": "Oven-Baked Baby Back Ribs",
+        "Calories": 122.0,
+        "Protein": 4.75,
+        "Total Carbohydrate": 13.0,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/220987/baked-bbq-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Prize-Winning Baby Back Ribs",
+        "Calories": 151.83,
+        "Protein": 8.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 11.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Slow Cooker Baby Back Ribs",
+        "Calories": 83.5,
+        "Protein": 4.0,
+        "Total Carbohydrate": 5.33,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Dry Rub for Ribs",
+        "Calories": 3.38,
+        "Protein": 0.0,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14556/dry-rub-for-ribs/"
+    },
+    {
+        "RecipeName": "BBQ Country-Style Ribs",
+        "Calories": 125.0,
+        "Protein": 9.2,
+        "Total Carbohydrate": 7.8,
+        "Total Fat": 6.2,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/23221/bbq-country-style-ribs/"
+    },
+    {
+        "RecipeName": "Baby Back Ribs",
+        "Calories": 259.5,
+        "Protein": 12.0,
+        "Total Carbohydrate": 13.0,
+        "Total Fat": 17.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16091/baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Tender Pork Spare Ribs",
+        "Calories": 117.88,
+        "Protein": 7.25,
+        "Total Carbohydrate": 4.62,
+        "Total Fat": 7.62,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/216985/tender-pork-spare-ribs/"
+    },
+    {
+        "RecipeName": "Southern Grilled BBQ Ribs",
+        "Calories": 64.88,
+        "Protein": 3.12,
+        "Total Carbohydrate": 3.12,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16429/southern-grilled-barbecued-ribs/"
+    },
+    {
+        "RecipeName": "Simple BBQ Ribs",
+        "Calories": 110.25,
+        "Protein": 8.25,
+        "Total Carbohydrate": 6.25,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16448/simple-bbq-ribs/"
+    },
+    {
+        "RecipeName": "Grilled Country-Style Ribs",
+        "Calories": 96.17,
+        "Protein": 6.5,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 6.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234339/grilled-country-style-ribs/"
+    },
+    {
+        "RecipeName": "Chinese Spareribs",
+        "Calories": 251.5,
+        "Protein": 15.0,
+        "Total Carbohydrate": 11.5,
+        "Total Fat": 15.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/77408/chinese-spareribs/"
+    },
+    {
+        "RecipeName": "Boiled & Baked Ribs",
+        "Calories": 116.5,
+        "Protein": 6.25,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 7.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/220280/boiled-baked-ribs/"
+    },
+    {
+        "RecipeName": "Oven-Baked Barbecue Rib Tips",
+        "Calories": 41.0,
+        "Protein": 2.33,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275141/oven-baked-barbecue-rib-tips/"
+    },
+    {
+        "RecipeName": "Instant Pot Baby Back Ribs",
+        "Calories": 83.75,
+        "Protein": 5.0,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/262225/instant-pot-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Barbecue Ribs",
+        "Calories": 63.0,
+        "Protein": 3.75,
+        "Total Carbohydrate": 2.88,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/22469/barbecue-ribs/"
+    },
+    {
+        "RecipeName": "Air Fryer BBQ Baby Back Ribs",
+        "Calories": 153.75,
+        "Protein": 9.25,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 11.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275255/air-fryer-bbq-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Best Stovetop BBQ Ribs",
+        "Calories": 61.5,
+        "Protein": 5.25,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/69780/best-stovetop-bbq-ribs/"
+    },
+    {
+        "RecipeName": "Instant Pot Ribs from Frozen",
+        "Calories": 77.25,
+        "Protein": 4.5,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/279624/instant-pot-ribs-from-frozen/"
+    },
+    {
+        "RecipeName": "Honey Garlic Ribs",
+        "Calories": 59.62,
+        "Protein": 3.75,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/17949/honey-garlic-ribs/"
+    },
+    {
+        "RecipeName": "Fall-off-the-Bone Instant Pot Ribs",
+        "Calories": 51.88,
+        "Protein": 2.38,
+        "Total Carbohydrate": 4.12,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/262470/fall-off-the-bone-30-minute-instant-pot-ribs/"
+    },
+    {
+        "RecipeName": "Simple Country Ribs",
+        "Calories": 220.5,
+        "Protein": 9.0,
+        "Total Carbohydrate": 23.5,
+        "Total Fat": 9.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25432/simple-country-ribs/"
+    },
+    {
+        "RecipeName": "Easy St. Louis-Style Pork Ribs on Gas Grill",
+        "Calories": 60.88,
+        "Protein": 3.62,
+        "Total Carbohydrate": 2.88,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/258727/easy-st-louis-style-pork-ribs-on-gas-grill/"
+    },
+    {
+        "RecipeName": "Oven-Baked BBQ Ribs",
+        "Calories": 124.67,
+        "Protein": 6.17,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24849/oven-baked-bbq-ribs/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pork Rib Tips",
+        "Calories": 113.25,
+        "Protein": 3.75,
+        "Total Carbohydrate": 13.75,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/274865/slow-cooker-pork-rib-tips/"
+    },
+    {
+        "RecipeName": "Sweet Smoked Pork Ribs",
+        "Calories": 82.7,
+        "Protein": 4.9,
+        "Total Carbohydrate": 2.3,
+        "Total Fat": 5.9,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/172967/sweet-smoked-pork-ribs/"
+    },
+    {
+        "RecipeName": "Quick Baby Back Ribs",
+        "Calories": 116.25,
+        "Protein": 6.0,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/76057/quick-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Mom's \"Sweet 'n Sours\" Pork Ribs",
+        "Calories": 167.25,
+        "Protein": 8.0,
+        "Total Carbohydrate": 14.75,
+        "Total Fat": 8.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/60155/moms-sweet-n-sours-pork-ribs/"
+    },
+    {
+        "RecipeName": "Not-Your-Everyday Smoked Pork Spare Ribs",
+        "Calories": 154.5,
+        "Protein": 9.83,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 10.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/85634/not-your-every-day-smoked-pork-spare-ribs/"
+    },
+    {
+        "RecipeName": "Salt and Pepper Spare Ribs",
+        "Calories": 50.0,
+        "Protein": 3.62,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/280667/salt-and-pepper-spare-ribs/"
+    },
+    {
+        "RecipeName": "Slow Cooker Potluck Spare Ribs",
+        "Calories": 43.67,
+        "Protein": 2.5,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/231768/slow-cooker-potluck-spareribs/"
+    },
+    {
+        "RecipeName": "Slow Cooker Ribs",
+        "Calories": 110.83,
+        "Protein": 10.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 6.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/216773/slow-cooker-ribs/"
+    },
+    {
+        "RecipeName": "Traditional Rub for St. Louis Ribs",
+        "Calories": 274.5,
+        "Protein": 14.25,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 21.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/242372/traditional-rub-for-st-louis-ribs/"
+    },
+    {
+        "RecipeName": "Mom's Stovetop Pork Ribs",
+        "Calories": 76.83,
+        "Protein": 5.67,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 5.33,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/75811/moms-stovetop-pork-ribs/"
+    },
+    {
+        "RecipeName": "Barbequed Ribs",
+        "Calories": 73.5,
+        "Protein": 5.5,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/19856/barbequed-ribs/"
+    },
+    {
+        "RecipeName": "Scott Hibb's Amazing Whisky Grilled Baby Back Ribs",
+        "Calories": 257.25,
+        "Protein": 12.5,
+        "Total Carbohydrate": 13.25,
+        "Total Fat": 17.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/35753/scott-hibbs-amazing-whisky-grilled-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Filipino Ribs",
+        "Calories": 64.42,
+        "Protein": 3.25,
+        "Total Carbohydrate": 1.58,
+        "Total Fat": 4.92,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14756/filipino-ribs/"
+    },
+    {
+        "RecipeName": "Oven-Roasted Ribs",
+        "Calories": 158.5,
+        "Protein": 12.0,
+        "Total Carbohydrate": 9.0,
+        "Total Fat": 8.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234522/oven-roasted-ribs/"
+    },
+    {
+        "RecipeName": "Air Fryer Baby Back Ribs",
+        "Calories": 111.25,
+        "Protein": 4.5,
+        "Total Carbohydrate": 6.75,
+        "Total Fat": 7.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275250/air-fryer-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Greek Ribs",
+        "Calories": 78.83,
+        "Protein": 4.17,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/258000/greek-ribs/"
+    },
+    {
+        "RecipeName": "BBQ Pork for Sandwiches",
+        "Calories": 29.58,
+        "Protein": 2.5,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/21174/bbq-pork-for-sandwiches/"
+    },
+    {
+        "RecipeName": "Slow-Cooker Barbecue Ribs",
+        "Calories": 62.12,
+        "Protein": 3.25,
+        "Total Carbohydrate": 4.12,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/22230/slow-cooker-barbecue-ribs/"
+    },
+    {
+        "RecipeName": "BBQ Country-Style Pork Ribs - Sous Vide",
+        "Calories": 69.5,
+        "Protein": 3.75,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 4.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/260585/bbq-country-style-pork-ribs-sous-vide/"
+    },
+    {
+        "RecipeName": "Texas Pork Ribs",
+        "Calories": 51.25,
+        "Protein": 2.75,
+        "Total Carbohydrate": 4.42,
+        "Total Fat": 2.58,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16913/texas-pork-ribs/"
+    },
+    {
+        "RecipeName": "Instant Pot BBQ Rib Tips",
+        "Calories": 124.25,
+        "Protein": 7.25,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275243/instant-pot-bbq-rib-tips/"
+    },
+    {
+        "RecipeName": "Chef John's Copycat McRib Sandwich",
+        "Calories": 240.75,
+        "Protein": 11.25,
+        "Total Carbohydrate": 20.25,
+        "Total Fat": 13.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/274040/chef-johns-copycat-mcrib-sandwich/"
+    },
+    {
+        "RecipeName": "Maple Glazed Ribs",
+        "Calories": 80.83,
+        "Protein": 4.0,
+        "Total Carbohydrate": 5.17,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14503/maple-glazed-ribs/"
+    },
+    {
+        "RecipeName": "Drunken Ribs",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/47105/drunken-ribs/"
+    },
+    {
+        "RecipeName": "Asian Style Country Ribs",
+        "Calories": 108.83,
+        "Protein": 8.0,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 7.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/191199/asian-style-country-ribs/"
+    },
+    {
+        "RecipeName": "Chinese Five Spice Spare Ribs",
+        "Calories": 427.5,
+        "Protein": 29.5,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 31.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/204890/chinese-five-spice-spare-ribs/"
+    },
+    {
+        "RecipeName": "Italian Country Style Ribs",
+        "Calories": 99.67,
+        "Protein": 7.83,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 5.83,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14718/italian-country-style-ribs/"
+    },
+    {
+        "RecipeName": "Slow Cooker Spare Ribs",
+        "Calories": 120.75,
+        "Protein": 7.75,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 7.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/24538/slow-cooker-spare-ribs/"
+    },
+    {
+        "RecipeName": "Chinese Braised Spare Ribs",
+        "Calories": 61.0,
+        "Protein": 3.75,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/64450/chinese-braised-spare-ribs/"
+    },
+    {
+        "RecipeName": "Pineapple Sticky Ribs",
+        "Calories": 93.0,
+        "Protein": 4.33,
+        "Total Carbohydrate": 8.33,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/255220/pineapple-sticky-ribs/"
+    },
+    {
+        "RecipeName": "Bourbon-BBQ Glazed Baby Back Ribs",
+        "Calories": 109.25,
+        "Protein": 4.75,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/247440/bourbon-bbq-glazed-baby-back-ribs/"
+    },
+    {
+        "RecipeName": "Stuffed Ribs",
+        "Calories": 233.75,
+        "Protein": 13.5,
+        "Total Carbohydrate": 9.5,
+        "Total Fat": 15.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/34530/stuffed-ribs/"
+    },
+    {
+        "RecipeName": "Spicy Chinese Barbeque Riblets",
+        "Calories": 193.5,
+        "Protein": 7.5,
+        "Total Carbohydrate": 22.5,
+        "Total Fat": 8.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/213749/spicy-chinese-barbeque-riblets/"
+    },
+    {
+        "RecipeName": "Baby Back Ribs, Smoked to Perfection",
+        "Calories": 141.67,
+        "Protein": 9.25,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 11.25,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/264048/baby-back-ribs-smoked-to-perfection/"
+    },
+    {
+        "RecipeName": "Sunday Afternoon Slow-Cooked Spare Ribs",
+        "Calories": 40.38,
+        "Protein": 2.38,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213202/sunday-afternoon-slow-cooked-spare-ribs/"
+    },
+    {
+        "RecipeName": "Slow-Cooker Teriyaki Ribs",
+        "Calories": 126.75,
+        "Protein": 8.25,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 9.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/264148/slow-cooker-teriyaki-ribs/"
+    },
+    {
+        "RecipeName": "Japanese-Style Braised Pork Ribs",
+        "Calories": 116.5,
+        "Protein": 5.17,
+        "Total Carbohydrate": 10.17,
+        "Total Fat": 5.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278869/japanese-style-braised-pork-ribs/"
+    },
+    {
+        "RecipeName": "Slow-Smoked Pork Spareribs",
+        "Calories": 54.88,
+        "Protein": 3.69,
+        "Total Carbohydrate": 0.94,
+        "Total Fat": 3.81,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/173108/slow-smoked-pork-spareribs/"
+    },
+    {
+        "RecipeName": "Simple Spare Ribs",
+        "Calories": 73.75,
+        "Protein": 7.0,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/71463/simple-spare-ribs/"
+    },
+    {
+        "RecipeName": "BBQ Ribs on the Grill",
+        "Calories": 101.75,
+        "Protein": 7.25,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241889/bbq-ribs-on-the-grill/"
+    },
+    {
+        "RecipeName": "Slow Cooker Texas Pulled Pork",
+        "Calories": 66.0,
+        "Protein": 4.0,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/"
+    },
+    {
+        "RecipeName": "Bob's Smoked Pulled Pork",
+        "Calories": 22.1,
+        "Protein": 1.2,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 1.6,
+        "Dietary Fiber": 0.05,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236104/bobs-pulled-pork-on-a-smoker/"
+    },
+    {
+        "RecipeName": "Pork Steaks",
+        "Calories": 58.83,
+        "Protein": 4.5,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/70463/pork-steaks/"
+    },
+    {
+        "RecipeName": "Daddy Eddie's Roast Pork (Pernil), Puerto Rican-Style",
+        "Calories": 44.38,
+        "Protein": 4.0,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/254168/daddy-eddies-roast-pork-pernil-puerto-rican-style/"
+    },
+    {
+        "RecipeName": "Boudin Balls",
+        "Calories": 25.08,
+        "Protein": 1.17,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240805/boudin-balls/"
+    },
+    {
+        "RecipeName": "Pork Carnitas",
+        "Calories": 20.83,
+        "Protein": 1.33,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 1.58,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/219048/pork-carnitas/"
+    },
+    {
+        "RecipeName": "Home-Cured Holiday Ham",
+        "Calories": 30.25,
+        "Protein": 2.44,
+        "Total Carbohydrate": 1.38,
+        "Total Fat": 1.62,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/245724/home-cured-holiday-ham/"
+    },
+    {
+        "RecipeName": "Slow Cooker Carnitas",
+        "Calories": 22.3,
+        "Protein": 2.2,
+        "Total Carbohydrate": 0.1,
+        "Total Fat": 1.4,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/139603/slow-cooker-carnitas/"
+    },
+    {
+        "RecipeName": "Mile High Green Chile",
+        "Calories": 21.75,
+        "Protein": 1.0,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/218772/mile-high-green-chili/"
+    },
+    {
+        "RecipeName": "Slow Cooker Carolina BBQ",
+        "Calories": 29.3,
+        "Protein": 2.8,
+        "Total Carbohydrate": 0.4,
+        "Total Fat": 1.7,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/148544/slow-cooker-carolina-bbq/"
+    },
+    {
+        "RecipeName": "Chef John's Irish Pork Stew",
+        "Calories": 66.83,
+        "Protein": 3.33,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 3.17,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/236988/chef-johns-irish-pork-stew/"
+    },
+    {
+        "RecipeName": "Bigos (Hunter's Stew)",
+        "Calories": 35.6,
+        "Protein": 2.0,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 2.4,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/138131/bigos-hunters-stew/"
+    },
+    {
+        "RecipeName": "Mexican Chorizo",
+        "Calories": 19.38,
+        "Protein": 1.75,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/214089/mexican-chorizo/"
+    },
+    {
+        "RecipeName": "Pozole Rojo (Mexican Pork and Hominy Stew)",
+        "Calories": 51.0,
+        "Protein": 3.75,
+        "Total Carbohydrate": 4.38,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 1.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/257061/pozole-rojo-mexican-pork-and-hominy-stew/"
+    },
+    {
+        "RecipeName": "Cajun Boudin",
+        "Calories": 10.44,
+        "Protein": 0.61,
+        "Total Carbohydrate": 1.11,
+        "Total Fat": 0.39,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/173206/cajun-boudin/"
+    },
+    {
+        "RecipeName": "Slow Cooker Chile Verde",
+        "Calories": 33.12,
+        "Protein": 2.88,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/81969/slow-cooker-chile-verde/"
+    },
+    {
+        "RecipeName": "Slow Cooker Beer Pulled Pork",
+        "Calories": 13.06,
+        "Protein": 0.94,
+        "Total Carbohydrate": 0.56,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/"
+    },
+    {
+        "RecipeName": "Easy Mexican Pork Burritos",
+        "Calories": 83.2,
+        "Protein": 4.4,
+        "Total Carbohydrate": 7.1,
+        "Total Fat": 3.9,
+        "Dietary Fiber": 0.6,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229057/easy-mexican-pork-burritos/"
+    },
+    {
+        "RecipeName": "Asado de Puerco (Mexican Pork Stew)",
+        "Calories": 29.67,
+        "Protein": 2.33,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/280443/asado-de-puerco-mexican-pork-stew/"
+    },
+    {
+        "RecipeName": "Slow-Smoked Pulled Pork (Boston Butt)",
+        "Calories": 116.67,
+        "Protein": 5.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/254510/slow-smoked-pulled-pork-boston-butt/"
+    },
+    {
+        "RecipeName": "Crispy Pork Carnitas",
+        "Calories": 52.83,
+        "Protein": 4.33,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239786/crispy-pork-carnitas/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pulled Pork Barbeque",
+        "Calories": 30.17,
+        "Protein": 2.5,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236422/slow-cooker-pulled-pork-barbeque/"
+    },
+    {
+        "RecipeName": "Instant Pot Red Posole",
+        "Calories": 32.88,
+        "Protein": 2.25,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268882/instant-pot-red-posole/"
+    },
+    {
+        "RecipeName": "Instant Pot Tacos al Pastor",
+        "Calories": 35.92,
+        "Protein": 1.83,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.42,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/270608/instant-pot-tacos-al-pastor/"
+    },
+    {
+        "RecipeName": "Dirty, Dirty Rice",
+        "Calories": 59.33,
+        "Protein": 2.5,
+        "Total Carbohydrate": 9.17,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276821/dirty-dirty-rice/"
+    },
+    {
+        "RecipeName": "Cuban-Style Roast Pork",
+        "Calories": 33.12,
+        "Protein": 3.62,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241452/cuban-style-roast-pork/"
+    },
+    {
+        "RecipeName": "Traditional Kentucky Burgoo",
+        "Calories": 30.08,
+        "Protein": 1.83,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/221096/traditional-kentucky-burgoo/"
+    },
+    {
+        "RecipeName": "BBQ Pulled Pork Pizza",
+        "Calories": 43.17,
+        "Protein": 2.17,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/219890/bbq-pulled-pork-pizza/"
+    },
+    {
+        "RecipeName": "Irish Boiled Ham Dinner",
+        "Calories": 125.5,
+        "Protein": 6.33,
+        "Total Carbohydrate": 10.67,
+        "Total Fat": 6.83,
+        "Dietary Fiber": 2.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/162534/classic-irish-boiled-dinner/"
+    },
+    {
+        "RecipeName": "St. Louis Pork Steaks",
+        "Calories": 103.4,
+        "Protein": 8.0,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 7.2,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/73669/st-louis-pork-steaks/"
+    },
+    {
+        "RecipeName": "Pork Chili Verde (Green Pork Chili)",
+        "Calories": 64.12,
+        "Protein": 4.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 3.88,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/245359/pork-chili-verde-green-pork-chili/"
+    },
+    {
+        "RecipeName": "Chinese Barbeque Pork (Char Siu)",
+        "Calories": 85.5,
+        "Protein": 4.33,
+        "Total Carbohydrate": 8.17,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/258494/chinese-barbeque-pork-char-siu/"
+    },
+    {
+        "RecipeName": "Easy Oven Pulled Pork",
+        "Calories": 48.4,
+        "Protein": 2.9,
+        "Total Carbohydrate": 0.2,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/285153/easy-oven-pulled-pork/"
+    },
+    {
+        "RecipeName": "Carne con Chile",
+        "Calories": 153.5,
+        "Protein": 12.25,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/217165/carne-con-chile/"
+    },
+    {
+        "RecipeName": "Wine and Garlic Pork (Portuguese Vina Dosh)",
+        "Calories": 36.38,
+        "Protein": 2.25,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/223185/wine-and-garlic-pork-portuguese-vina-dosh/"
+    },
+    {
+        "RecipeName": "Instant Pot Pork Stew",
+        "Calories": 24.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/280428/instant-pot-pork-stew/"
+    },
+    {
+        "RecipeName": "Chef John's Pulled Pork BBQ",
+        "Calories": 28.67,
+        "Protein": 1.42,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235566/chef-johns-pulled-pork-bbq/"
+    },
+    {
+        "RecipeName": "Slow Cooker Apple Cider Braised Pork",
+        "Calories": 48.62,
+        "Protein": 3.0,
+        "Total Carbohydrate": 1.75,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230568/slow-cooker-apple-cider-braised-pork/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pulled Pork with Orange Juice",
+        "Calories": 47.62,
+        "Protein": 3.62,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 3.38,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234697/slow-cooker-pulled-pork-with-orange-juice/"
+    },
+    {
+        "RecipeName": "Instant Pot® Pulled Pork",
+        "Calories": 19.75,
+        "Protein": 1.0,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 1.31,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/274650/instant-pot-pulled-pork/"
+    },
+    {
+        "RecipeName": "Pork Stew in Green Salsa (Guisado de Puerco con Tomatillos)",
+        "Calories": 57.67,
+        "Protein": 5.33,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.67,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/211541/pork-stew-in-green-salsa-guisado-de-puerco-con-tomatillos/"
+    },
+    {
+        "RecipeName": "Barbecued Pork Skewers",
+        "Calories": 32.75,
+        "Protein": 2.75,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/281030/barbecued-pork-skewers/"
+    },
+    {
+        "RecipeName": "Pork Agrodolce",
+        "Calories": 16.58,
+        "Protein": 1.17,
+        "Total Carbohydrate": 0.58,
+        "Total Fat": 1.08,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/270676/pork-agrodolce/"
+    },
+    {
+        "RecipeName": "Sweet and Savory Slow Cooker Pulled Pork",
+        "Calories": 48.5,
+        "Protein": 2.9,
+        "Total Carbohydrate": 4.6,
+        "Total Fat": 1.9,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/213262/sweet-and-savory-slow-cooker-pulled-pork/"
+    },
+    {
+        "RecipeName": "Homestyle Kalua Pork with Cabbage in a Slow Cooker",
+        "Calories": 50.2,
+        "Protein": 3.0,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 4.1,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/222403/homestyle-kalua-pork-with-cabbage-in-a-slow-cooker/"
+    },
+    {
+        "RecipeName": "Cider-Braised Pork Shoulder",
+        "Calories": 174.0,
+        "Protein": 9.0,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 11.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/260735/cider-braised-pork-shoulder/"
+    },
+    {
+        "RecipeName": "Easy North Carolina Barbeque",
+        "Calories": 44.9,
+        "Protein": 2.3,
+        "Total Carbohydrate": 0.4,
+        "Total Fat": 3.8,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/143172/easy-north-carolina-barbeque/"
+    },
+    {
+        "RecipeName": "Chef John's Paper Pork Shoulder",
+        "Calories": 116.0,
+        "Protein": 9.0,
+        "Total Carbohydrate": 0.83,
+        "Total Fat": 8.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/255280/chef-johns-paper-pork-shoulder/"
+    },
+    {
+        "RecipeName": "Tamales de Puerco (Red Pork Tamales)",
+        "Calories": 22.93,
+        "Protein": 0.67,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/261633/tamales-de-puerco-red-pork-tamales/"
+    },
+    {
+        "RecipeName": "Easy Slow Cooker Apple Pork Roast",
+        "Calories": 37.64,
+        "Protein": 3.21,
+        "Total Carbohydrate": 1.36,
+        "Total Fat": 2.07,
+        "Dietary Fiber": 0.14,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/213270/easy-slow-cooker-apple-pork-roast/"
+    },
+    {
+        "RecipeName": "Home-style Tacos al Pastor (Chile and Pineapple Pork Tacos)",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215235/home-style-tacos-al-pastor-chile-and-pineapple-pork-tacos/"
+    },
+    {
+        "RecipeName": "Chef John's Breakfast Sausage Patties",
+        "Calories": 26.67,
+        "Protein": 2.33,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235183/chef-johns-breakfast-sausage-patties/"
+    },
+    {
+        "RecipeName": "Hog's Head Cheese",
+        "Calories": 3.96,
+        "Protein": 0.29,
+        "Total Carbohydrate": 0.08,
+        "Total Fat": 0.29,
+        "Dietary Fiber": 0.04,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/53275/hogs-head-cheese/"
+    },
+    {
+        "RecipeName": "Braised Pork Ragu",
+        "Calories": 43.83,
+        "Protein": 3.17,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 2.33,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213799/braised-pork-ragu/"
+    },
+    {
+        "RecipeName": "Big V's Slow-Cooker Pulled Pork",
+        "Calories": 70.33,
+        "Protein": 4.83,
+        "Total Carbohydrate": 3.33,
+        "Total Fat": 3.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235170/big-vs-slow-cooker-pulled-pork/"
+    },
+    {
+        "RecipeName": "Dan's Fallin' Apart Pork Pot Roast with Cracked Pepper Gravy",
+        "Calories": 73.29,
+        "Protein": 4.14,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 4.14,
+        "Dietary Fiber": 0.71,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/215784/dans-fallin-apart-pork-pot-roast-with-cracked-pepper-gravy/"
+    },
+    {
+        "RecipeName": "Instant Pot® Chile Verde",
+        "Calories": 59.5,
+        "Protein": 4.0,
+        "Total Carbohydrate": 0.83,
+        "Total Fat": 4.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277645/instant-pot-chile-verde/"
+    },
+    {
+        "RecipeName": "Pork, Sauerkraut and Dumplings",
+        "Calories": 99.17,
+        "Protein": 5.0,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 4.67,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228629/pork-sauerkraut-and-dumplings/"
+    },
+    {
+        "RecipeName": "Slow Cooker Root Beer Pulled Pork",
+        "Calories": 34.5,
+        "Protein": 1.9,
+        "Total Carbohydrate": 0.4,
+        "Total Fat": 2.8,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241143/slow-cooker-root-beer-pulled-pork/"
+    },
+    {
+        "RecipeName": "Pork Stir Fry",
+        "Calories": 31.33,
+        "Protein": 3.0,
+        "Total Carbohydrate": 2.17,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/241091/pork-stir-fry/"
+    },
+    {
+        "RecipeName": "Sheet Pan Balsamic Pork Tenderloin with Rainbow Vegetables",
+        "Calories": 38.25,
+        "Protein": 3.88,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8544430/sheet-balsamic-pork-tenderloin-with-rainbow-vegetables/"
+    },
+    {
+        "RecipeName": "Air Fryer Pork Tenderloin with Sweet Potatoes",
+        "Calories": 78.67,
+        "Protein": 6.83,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 2.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/8529787/air-fryer-pork-tenderloin-with-sweet-potatoes/"
+    },
+    {
+        "RecipeName": "Pork Tenderloin with Peaches",
+        "Calories": 25.0,
+        "Protein": 3.25,
+        "Total Carbohydrate": 1.12,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "ikan",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8420615/pork-tenderloin-with-peaches/"
+    },
+    {
+        "RecipeName": "Grilled Pork Tenderloin",
+        "Calories": 23.12,
+        "Protein": 3.0,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14726/grilled-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Amazing Pork Tenderloin in the Slow Cooker",
+        "Calories": 30.0,
+        "Protein": 4.17,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/"
+    },
+    {
+        "RecipeName": "Balsamic Braised Pork Tenderloins with Fresh Figs",
+        "Calories": 38.38,
+        "Protein": 4.5,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8465712/balsamic-braised-pork-tenderloins-with-fresh-figs/"
+    },
+    {
+        "RecipeName": "Easy Marinated Pork Tenderloin",
+        "Calories": 52.17,
+        "Protein": 6.83,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/176359/easy-marinated-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pulled Pork",
+        "Calories": 41.88,
+        "Protein": 2.62,
+        "Total Carbohydrate": 6.12,
+        "Total Fat": 0.62,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/141678/slow-cooker-pulled-pork/"
+    },
+    {
+        "RecipeName": "Char Siu (Chinese BBQ Pork)",
+        "Calories": 120.75,
+        "Protein": 11.0,
+        "Total Carbohydrate": 13.5,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/232681/char-siu-chinese-bbq-pork/"
+    },
+    {
+        "RecipeName": "Crispy Pork Cutlets",
+        "Calories": 187.0,
+        "Protein": 16.75,
+        "Total Carbohydrate": 17.75,
+        "Total Fat": 7.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228045/crispy-pork-cutlets/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pork and Sauerkraut",
+        "Calories": 89.5,
+        "Protein": 5.5,
+        "Total Carbohydrate": 9.0,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228630/slow-cooker-pork-and-sauerkraut/"
+    },
+    {
+        "RecipeName": "Asian Pork Tenderloin",
+        "Calories": 96.25,
+        "Protein": 9.25,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/83117/asian-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Stuffed Pork Tenderloin",
+        "Calories": 59.2,
+        "Protein": 6.4,
+        "Total Carbohydrate": 0.8,
+        "Total Fat": 3.2,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230213/stuffed-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Roasted Pork Bánh Mì (Vietnamese Sandwich)",
+        "Calories": 1263.0,
+        "Protein": 54.0,
+        "Total Carbohydrate": 91.0,
+        "Total Fat": 76.0,
+        "Dietary Fiber": 7.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/246028/roasted-pork-banh-mi-vietnamese-sandwich/"
+    },
+    {
+        "RecipeName": "Slow-Cooked Pork Tenderloin",
+        "Calories": 45.12,
+        "Protein": 4.5,
+        "Total Carbohydrate": 1.38,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275193/slow-cooked-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Pork Tenderloin with Apples and Onions",
+        "Calories": 52.17,
+        "Protein": 6.0,
+        "Total Carbohydrate": 2.17,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275977/pork-tenderloin-with-apples-and-onions/"
+    },
+    {
+        "RecipeName": "Slow Cooker Teriyaki Pork Tenderloin",
+        "Calories": 22.12,
+        "Protein": 2.38,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/165025/slow-cooker-teriyaki-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Tuscan Pork Tenderloin",
+        "Calories": 10.56,
+        "Protein": 1.88,
+        "Total Carbohydrate": 0.06,
+        "Total Fat": 0.31,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/269652/tuscan-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Traditional Indiana Breaded Tenderloin Sandwich",
+        "Calories": 119.5,
+        "Protein": 7.5,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213440/traditional-indiana-breaded-tenderloin-sandwich/"
+    },
+    {
+        "RecipeName": "Pork Lo Mein",
+        "Calories": 103.75,
+        "Protein": 6.5,
+        "Total Carbohydrate": 13.75,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/231523/pork-lo-mein/"
+    },
+    {
+        "RecipeName": "Honey-Glazed Pork Tenderloin",
+        "Calories": 35.0,
+        "Protein": 3.0,
+        "Total Carbohydrate": 3.17,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/62825/honey-glazed-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Bacon-Wrapped Pork Medallions",
+        "Calories": 35.12,
+        "Protein": 4.25,
+        "Total Carbohydrate": 0.12,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/209691/bacon-wrapped-pork-medallions/"
+    },
+    {
+        "RecipeName": "Souvlaki",
+        "Calories": 15.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 0.33,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14713/souvlaki/"
+    },
+    {
+        "RecipeName": "Pork Medallions with Balsamic Vinegar and Capers",
+        "Calories": 41.5,
+        "Protein": 4.5,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/169749/pork-medallions-with-balsamic-vinegar-and-capers/"
+    },
+    {
+        "RecipeName": "Easy and Elegant Pork Tenderloin",
+        "Calories": 72.83,
+        "Protein": 4.83,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/22224/easy-and-elegant-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Breaded Pork Tenderloin",
+        "Calories": 42.0,
+        "Protein": 5.5,
+        "Total Carbohydrate": 1.17,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14739/breaded-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Instant Pot® Pork Tenderloin",
+        "Calories": 20.62,
+        "Protein": 2.5,
+        "Total Carbohydrate": 0.62,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/269977/instant-pot-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Italian Pork Tenderloin",
+        "Calories": 89.0,
+        "Protein": 7.25,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 6.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/71555/italian-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Apricot Pork Tenderloin",
+        "Calories": 73.33,
+        "Protein": 4.0,
+        "Total Carbohydrate": 10.5,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/201010/apricot-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Southern Pork Tenderloin",
+        "Calories": 90.0,
+        "Protein": 6.0,
+        "Total Carbohydrate": 9.75,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/229427/southern-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Brown Sugar and Balsamic Glazed Pork Tenderloin",
+        "Calories": 28.5,
+        "Protein": 3.38,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/275191/brown-sugar-and-balsamic-glazed-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Air Fryer Mustard-Crusted Pork Tenderloin with Potatoes and Green Beans",
+        "Calories": 71.5,
+        "Protein": 6.25,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278038/air-fryer-mustard-crusted-pork-tenderloin-with-potatoes-and-green-beans/"
+    },
+    {
+        "RecipeName": "Sweet and Sour Pork Tenderloin",
+        "Calories": 74.25,
+        "Protein": 6.5,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/222342/sweet-and-sour-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Marinated Grilled Pork Tenderloin",
+        "Calories": 78.25,
+        "Protein": 8.0,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228266/marinated-grilled-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Spicy Pork Curry",
+        "Calories": 108.75,
+        "Protein": 6.0,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 8.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/234659/spicy-pork-curry/"
+    },
+    {
+        "RecipeName": "Stuffed and Rolled Pork Tenderloin",
+        "Calories": 71.0,
+        "Protein": 6.0,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239233/stuffed-and-rolled-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Cheese-Stuffed Pork Tenderloin",
+        "Calories": 116.33,
+        "Protein": 10.67,
+        "Total Carbohydrate": 9.33,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230214/cheese-stuffed-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Orange Marinated Pork Tenderloin",
+        "Calories": 47.5,
+        "Protein": 7.0,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/58941/orange-marinated-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pork Tenderloin and Potatoes",
+        "Calories": 51.33,
+        "Protein": 4.67,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276778/slow-cooker-pork-tenderloin-and-potatoes/"
+    },
+    {
+        "RecipeName": "Garlic Pork Tenderloin with Mushroom Gravy",
+        "Calories": 64.0,
+        "Protein": 4.33,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/233480/garlic-pork-tenderloin-with-mushroom-gravy/"
+    },
+    {
+        "RecipeName": "Grilled Pork Tenderloin with Balsamic Honey Glaze",
+        "Calories": 31.38,
+        "Protein": 3.88,
+        "Total Carbohydrate": 0.5,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/272655/grilled-pork-tenderloin-with-balsamic-honey-glaze/"
+    },
+    {
+        "RecipeName": "Pork Chop Suey",
+        "Calories": 32.33,
+        "Protein": 2.67,
+        "Total Carbohydrate": 2.33,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22331/pork-chop-suey/"
+    },
+    {
+        "RecipeName": "Maple-Garlic Marinated Pork Tenderloin",
+        "Calories": 48.0,
+        "Protein": 4.0,
+        "Total Carbohydrate": 6.17,
+        "Total Fat": 0.83,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/51997/maple-garlic-marinated-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Pork Tenderloin Diablo",
+        "Calories": 78.33,
+        "Protein": 8.0,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 4.67,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222187/pork-tenderloin-diablo/"
+    },
+    {
+        "RecipeName": "Authentic Tacos al Pastor",
+        "Calories": 20.4,
+        "Protein": 1.7,
+        "Total Carbohydrate": 2.3,
+        "Total Fat": 0.6,
+        "Dietary Fiber": 0.3,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/257538/authentic-tacos-al-pastor/"
+    },
+    {
+        "RecipeName": "Pork Tenderloin",
+        "Calories": 22.0,
+        "Protein": 2.4,
+        "Total Carbohydrate": 1.8,
+        "Total Fat": 0.4,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16415/pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Roasted Pork Tenderloin",
+        "Calories": 33.17,
+        "Protein": 4.17,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 0.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25148/roasted-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Bacon Wrapped Stuffed Pork Tenderloin",
+        "Calories": 82.5,
+        "Protein": 6.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/230600/bacon-wrapped-stuffed-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Pork Saltimbocca",
+        "Calories": 276.0,
+        "Protein": 24.5,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 15.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/261610/pork-saltimbocca/"
+    },
+    {
+        "RecipeName": "Burgundy Pork Tenderloin",
+        "Calories": 100.0,
+        "Protein": 12.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16362/burgundy-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Marinated Pork Tenderloin",
+        "Calories": 69.5,
+        "Protein": 6.75,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14495/marinated-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Instant Pot Dr Pepper Pulled Pork",
+        "Calories": 156.75,
+        "Protein": 6.25,
+        "Total Carbohydrate": 26.5,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/268514/instant-pot-dr-pepper-pulled-pork/"
+    },
+    {
+        "RecipeName": "Rosemary Pork Roast",
+        "Calories": 49.83,
+        "Protein": 7.83,
+        "Total Carbohydrate": 0.17,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16449/rosemary-pork-roast/"
+    },
+    {
+        "RecipeName": "Parsley and Parmesan Crusted Pork Tenderloin",
+        "Calories": 63.0,
+        "Protein": 7.75,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220214/parsley-and-parmesan-crusted-pork-tenderloin/"
+    },
+    {
+        "RecipeName": "Pork Tenderloin with Dijon Marsala Sauce",
+        "Calories": 77.17,
+        "Protein": 5.5,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 4.33,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/57002/pork-tenderloin-with-dijon-marsala-sauce/"
+    },
+    {
+        "RecipeName": "Pepper Jelly Pork",
+        "Calories": 40.25,
+        "Protein": 4.5,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/238401/pepper-jelly-pork/"
+    },
+    {
+        "RecipeName": "Prosciutto-Wrapped Pork Tenderloin with Crispy Sage",
+        "Calories": 73.5,
+        "Protein": 6.5,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 5.0,
+        "Dietary Fiber": "N/A",
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/"
+    },
+    {
+        "RecipeName": "Roasted Pork Tenderloin with Fresh Plum Sauce",
+        "Calories": 185.0,
+        "Protein": 18.5,
+        "Total Carbohydrate": 11.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/239147/roasted-pork-tenderloin-with-fresh-plum-sauce/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pie Casserole",
+        "Calories": 53.38,
+        "Protein": 2.5,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8521866/chicken-pot-pie-casserole/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pie",
+        "Calories": 51.5,
+        "Protein": 2.25,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26317/chicken-pot-pie-ix/"
+    },
+    {
+        "RecipeName": "Easy Chicken Pot Pie",
+        "Calories": 77.17,
+        "Protein": 3.17,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8618/easy-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Dad's Leftover Turkey Pot Pie",
+        "Calories": 44.92,
+        "Protein": 1.67,
+        "Total Carbohydrate": 3.33,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215447/dads-leftover-turkey-pot-pie/"
+    },
+    {
+        "RecipeName": "Mom's Fabulous Chicken Pot Pie with Biscuit Crust",
+        "Calories": 51.5,
+        "Protein": 2.5,
+        "Total Carbohydrate": 3.75,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216758/moms-fabulous-chicken-pot-pie-with-biscuit-crust/"
+    },
+    {
+        "RecipeName": "Seafood Pot Pie",
+        "Calories": 156.67,
+        "Protein": 8.0,
+        "Total Carbohydrate": 9.83,
+        "Total Fat": 9.17,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "ikan",
+            "telur",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8465302/seafood-pot-pie/"
+    },
+    {
+        "RecipeName": "Healthier Chicken Pot Pie",
+        "Calories": 39.75,
+        "Protein": 1.88,
+        "Total Carbohydrate": 3.38,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222131/healthier-chicken-pot-pie-ix/"
+    },
+    {
+        "RecipeName": "Veggie Pot Pie",
+        "Calories": 78.17,
+        "Protein": 1.33,
+        "Total Carbohydrate": 9.0,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16765/veggie-pot-pie/"
+    },
+    {
+        "RecipeName": "Beef Pot Pie",
+        "Calories": 87.83,
+        "Protein": 3.33,
+        "Total Carbohydrate": 9.67,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22851/beef-pot-pie-iii/"
+    },
+    {
+        "RecipeName": "Puff Pastry Chicken Pot Pie",
+        "Calories": 77.5,
+        "Protein": 1.88,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 5.62,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/270617/puff-pastry-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Chicken and Biscuit Casserole",
+        "Calories": 75.17,
+        "Protein": 5.67,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8700/chicken-and-biscuit-casserole/"
+    },
+    {
+        "RecipeName": "Rotisserie Chicken Pot Pie",
+        "Calories": 59.0,
+        "Protein": 2.75,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/272462/rotisserie-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Mom's Chicken Pot Pie",
+        "Calories": 87.62,
+        "Protein": 2.12,
+        "Total Carbohydrate": 8.25,
+        "Total Fat": 5.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/234974/moms-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pie with Crescent Rolls",
+        "Calories": 71.0,
+        "Protein": 5.0,
+        "Total Carbohydrate": 5.12,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/285301/chicken-pot-pie-with-crescent-rolls/"
+    },
+    {
+        "RecipeName": "Campbell's Kitchen Easy Chicken Pot Pie",
+        "Calories": "N/A",
+        "Protein": "N/A",
+        "Total Carbohydrate": "N/A",
+        "Total Fat": "N/A",
+        "Dietary Fiber": "N/A",
+        "ProteinName": [
+            "ayam",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/151597/campbells-kitchen-easy-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Turkey Pot Pie",
+        "Calories": 60.12,
+        "Protein": 1.75,
+        "Total Carbohydrate": 5.62,
+        "Total Fat": 3.38,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/9230/turkey-pot-pie/"
+    },
+    {
+        "RecipeName": "Easy Vegetable Pot Pie",
+        "Calories": 63.33,
+        "Protein": 1.0,
+        "Total Carbohydrate": 6.83,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/13884/easy-vegetable-pot-pie/"
+    },
+    {
+        "RecipeName": "Reuben Crescent Bake",
+        "Calories": 164.5,
+        "Protein": 9.25,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 10.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216980/reuben-crescent-bake/"
+    },
+    {
+        "RecipeName": "Beef, Mushroom, and Guinness Pie",
+        "Calories": 53.0,
+        "Protein": 4.83,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 2.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216928/beef-mushroom-and-guinness-pie/"
+    },
+    {
+        "RecipeName": "To-Die-For Chicken Pot Pie",
+        "Calories": 113.0,
+        "Protein": 4.17,
+        "Total Carbohydrate": 10.83,
+        "Total Fat": 6.33,
+        "Dietary Fiber": 1.33,
+        "ProteinName": [
+            "susu",
+            "ayam",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/219491/to-die-for-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "4-Ingredient Chicken Pot Pie",
+        "Calories": 52.38,
+        "Protein": 3.12,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.38,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12281/chicken-pot-pie-i/"
+    },
+    {
+        "RecipeName": "Gram's Chicken Pot Pie",
+        "Calories": 133.0,
+        "Protein": 6.83,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 8.67,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8809/grams-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Grandma Carlson's Turkey Pot Pie",
+        "Calories": 62.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215445/grandma-carlsons-turkey-pot-pie/"
+    },
+    {
+        "RecipeName": "Homemade Chicken Pot Pie",
+        "Calories": 50.25,
+        "Protein": 1.5,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 3.25,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275753/homemade-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pie III",
+        "Calories": 43.25,
+        "Protein": 1.62,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 2.38,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12659/chicken-pot-pie-iii/"
+    },
+    {
+        "RecipeName": "Pheasant Pot Pie",
+        "Calories": 87.38,
+        "Protein": 2.75,
+        "Total Carbohydrate": 6.75,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "ayam",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/240764/pheasant-pot-pie/"
+    },
+    {
+        "RecipeName": "Fast and Easy Turkey Pot Pie",
+        "Calories": 90.17,
+        "Protein": 4.0,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/215442/fast-and-easy-turkey-pot-pie/"
+    },
+    {
+        "RecipeName": "Easy Weeknight Tuna Pot Pie",
+        "Calories": 33.25,
+        "Protein": 1.75,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/79601/easy-weeknight-tuna-pot-pie/"
+    },
+    {
+        "RecipeName": "Cornbread Chicken Pot Pie",
+        "Calories": 135.25,
+        "Protein": 6.75,
+        "Total Carbohydrate": 14.75,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju",
+            "ayam",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/213319/cornbread-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Old Fashioned Chicken Pot Pie",
+        "Calories": 117.0,
+        "Protein": 7.17,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 6.67,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/24093/old-fashioned-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Homemade Turkey Pot Pie",
+        "Calories": 60.25,
+        "Protein": 1.75,
+        "Total Carbohydrate": 5.75,
+        "Total Fat": 3.38,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/13567/turkey-pot-pie-i/"
+    },
+    {
+        "RecipeName": "Left-Over Turkey Pot Pie",
+        "Calories": 56.5,
+        "Protein": 2.75,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 3.12,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/131686/left-over-turkey-pot-pie/"
+    },
+    {
+        "RecipeName": "Best Homemade Chicken Pot Pie",
+        "Calories": 67.75,
+        "Protein": 3.12,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 4.38,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8343156/best-homemade-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Hearty Chicken Pot Pie",
+        "Calories": 232.5,
+        "Protein": 16.75,
+        "Total Carbohydrate": 18.0,
+        "Total Fat": 10.0,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "ayam",
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8808/chicken-pot-pie-ii/"
+    },
+    {
+        "RecipeName": "Cheesy Chicken Pot Pie",
+        "Calories": 46.25,
+        "Protein": 1.88,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "keju",
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12690/cheesy-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Steak and Irish Stout Pie",
+        "Calories": 74.62,
+        "Protein": 3.75,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/220515/steak-and-irish-stout-pie/"
+    },
+    {
+        "RecipeName": "Venison Pot Pie",
+        "Calories": 66.5,
+        "Protein": 2.75,
+        "Total Carbohydrate": 7.75,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.88,
+        "ProteinName": [
+            "susu",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/278598/venison-pot-pie/"
+    },
+    {
+        "RecipeName": "Low-Fat Chicken Pot Pie",
+        "Calories": 38.25,
+        "Protein": 1.62,
+        "Total Carbohydrate": 4.25,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12620/low-fat-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Pot Pie with Leftover Pot Roast and Vegetables",
+        "Calories": 62.12,
+        "Protein": 2.38,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 4.12,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284814/pot-pie-with-leftover-pot-roast-and-vegetables/"
+    },
+    {
+        "RecipeName": "Individual Turkey Pot Pies",
+        "Calories": 248.5,
+        "Protein": 8.5,
+        "Total Carbohydrate": 17.5,
+        "Total Fat": 16.0,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "ayam",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255646/individual-turkey-pot-pies/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pie",
+        "Calories": 77.88,
+        "Protein": 2.38,
+        "Total Carbohydrate": 5.25,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/26318/chicken-pot-pie-viii/"
+    },
+    {
+        "RecipeName": "Meat Pie, Southern Version",
+        "Calories": 53.0,
+        "Protein": 2.2,
+        "Total Carbohydrate": 3.1,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "keju",
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216874/meat-pie-southern-version/"
+    },
+    {
+        "RecipeName": "Speedy Chili Pot Pie",
+        "Calories": 51.0,
+        "Protein": 2.67,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "telur",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/217121/speedy-chili-pot-pie/"
+    },
+    {
+        "RecipeName": "Chicken Pot Pies with Puff Pastry",
+        "Calories": 237.0,
+        "Protein": 8.75,
+        "Total Carbohydrate": 14.0,
+        "Total Fat": 16.25,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju",
+            "ayam",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/53926/chicken-pot-pies-with-puff-pastry/"
+    },
+    {
+        "RecipeName": "Lew's Famous Lobster Pot Pie",
+        "Calories": 97.83,
+        "Protein": 4.33,
+        "Total Carbohydrate": 7.83,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "ayam",
+            "susu",
+            "udang"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220119/lews-famous-lobster-pot-pie/"
+    },
+    {
+        "RecipeName": "Simple Classic Chicken Pot Pie",
+        "Calories": 40.0,
+        "Protein": 2.0,
+        "Total Carbohydrate": 2.42,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/113131/simple-classic-chicken-potpie/"
+    },
+    {
+        "RecipeName": "Chicken Biscuit Pie",
+        "Calories": 123.0,
+        "Protein": 5.8,
+        "Total Carbohydrate": 11.4,
+        "Total Fat": 6.0,
+        "Dietary Fiber": 0.8,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/12651/chicken-biscuit-pie/"
+    },
+    {
+        "RecipeName": "Cheater Pot Pie",
+        "Calories": 32.88,
+        "Protein": 1.25,
+        "Total Carbohydrate": 3.38,
+        "Total Fat": 1.62,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18370/cheater-pot-pie/"
+    },
+    {
+        "RecipeName": "Steak and Potato Pie",
+        "Calories": 51.75,
+        "Protein": 2.0,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216877/steak-and-potato-pie/"
+    },
+    {
+        "RecipeName": "Indian Samosa Pie",
+        "Calories": 40.5,
+        "Protein": 1.17,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/237072/indian-samosa-pie/"
+    },
+    {
+        "RecipeName": "Make-Ahead Chicken Pot Pie",
+        "Calories": 29.81,
+        "Protein": 1.0,
+        "Total Carbohydrate": 2.31,
+        "Total Fat": 1.88,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/282175/make-ahead-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Mini Lobster Pot Pies",
+        "Calories": 512.5,
+        "Protein": 14.0,
+        "Total Carbohydrate": 34.0,
+        "Total Fat": 36.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "kerang",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/8319857/mini-lobster-pot-pies/"
+    },
+    {
+        "RecipeName": "Easy Hand-Held Chicken Pot Pies",
+        "Calories": 17.94,
+        "Protein": 0.94,
+        "Total Carbohydrate": 1.81,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/262493/easy-hand-held-chicken-pot-pies/"
+    },
+    {
+        "RecipeName": "Crust for Veggie Pot Pie",
+        "Calories": 33.12,
+        "Protein": 0.38,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/15998/crust-for-veggie-pot-pie/"
+    },
+    {
+        "RecipeName": "Easy Pot Pie with Biscuits",
+        "Calories": 120.0,
+        "Protein": 6.75,
+        "Total Carbohydrate": 11.25,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/276222/easy-pot-pie-with-biscuits/"
+    },
+    {
+        "RecipeName": "Turkey Tamale Pie",
+        "Calories": 56.88,
+        "Protein": 3.75,
+        "Total Carbohydrate": 5.12,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju",
+            "ayam",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/269275/turkey-tamale-pie/"
+    },
+    {
+        "RecipeName": "Tofu Vegetable Pot Pie",
+        "Calories": 30.75,
+        "Protein": 0.62,
+        "Total Carbohydrate": 2.5,
+        "Total Fat": 2.12,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228486/tofu-vegetable-pot-pie/"
+    },
+    {
+        "RecipeName": "Upside-Down Pizza Pot Pie",
+        "Calories": 157.5,
+        "Protein": 7.0,
+        "Total Carbohydrate": 10.0,
+        "Total Fat": 9.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/232373/upside-down-pizza-pot-pie/"
+    },
+    {
+        "RecipeName": "Cajun Chicken Pot Pie",
+        "Calories": 109.17,
+        "Protein": 4.0,
+        "Total Carbohydrate": 8.33,
+        "Total Fat": 6.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/218141/cajun-chicken-pot-pie/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pot Roast",
+        "Calories": 67.5,
+        "Protein": 5.75,
+        "Total Carbohydrate": 2.25,
+        "Total Fat": 3.88,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16346/maries-easy-slow-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Mississippi Pot Roast",
+        "Calories": 69.12,
+        "Protein": 3.62,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 5.75,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/"
+    },
+    {
+        "RecipeName": "Easy Pressure Cooker Pot Roast",
+        "Calories": 56.25,
+        "Protein": 3.12,
+        "Total Carbohydrate": 4.75,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220869/easy-pressure-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Easiest Pot Roast Ever",
+        "Calories": 87.67,
+        "Protein": 5.33,
+        "Total Carbohydrate": 7.0,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/"
+    },
+    {
+        "RecipeName": "Stove Top Pot Roast",
+        "Calories": 101.33,
+        "Protein": 5.5,
+        "Total Carbohydrate": 8.67,
+        "Total Fat": 5.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/131931/stove-top-pot-roast/"
+    },
+    {
+        "RecipeName": "Awesome Slow Cooker Pot Roast",
+        "Calories": 35.5,
+        "Protein": 3.83,
+        "Total Carbohydrate": 0.42,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16066/awesome-slow-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Simple Beef Pot Roast",
+        "Calories": 84.5,
+        "Protein": 5.33,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/219173/simple-beef-pot-roast/"
+    },
+    {
+        "RecipeName": "Pot Roast",
+        "Calories": 127.0,
+        "Protein": 7.75,
+        "Total Carbohydrate": 10.25,
+        "Total Fat": 6.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/232756/pot-roast/"
+    },
+    {
+        "RecipeName": "Oven Pot Roast",
+        "Calories": 31.25,
+        "Protein": 2.25,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25206/oven-pot-roast/"
+    },
+    {
+        "RecipeName": "Beef Pot Roast",
+        "Calories": 68.88,
+        "Protein": 4.88,
+        "Total Carbohydrate": 0.25,
+        "Total Fat": 5.25,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14621/beef-pot-roast/"
+    },
+    {
+        "RecipeName": "Slow Cooker Beef Pot Roast",
+        "Calories": 97.25,
+        "Protein": 6.88,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 7.12,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi",
+            "ayam"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220125/slow-cooker-beef-pot-roast/"
+    },
+    {
+        "RecipeName": "Oven Bag Pot Roast",
+        "Calories": 44.25,
+        "Protein": 3.38,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/239046/oven-bag-pot-roast/"
+    },
+    {
+        "RecipeName": "Mississippi Roast (Slow Cooker Pepperoncini Pot Roast)",
+        "Calories": 89.5,
+        "Protein": 6.17,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 6.5,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/246721/mississippi-roast-slow-cooker-pepperoncini-pot-roast/"
+    },
+    {
+        "RecipeName": "Easy Slow Cooker Pot Roast",
+        "Calories": 64.17,
+        "Protein": 4.0,
+        "Total Carbohydrate": 3.5,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/218547/slow-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Instant Pot Pot Roast",
+        "Calories": 19.42,
+        "Protein": 1.25,
+        "Total Carbohydrate": 0.92,
+        "Total Fat": 1.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/268516/instant-pot-pot-roast/"
+    },
+    {
+        "RecipeName": "Garlic Top Sirloin Pot Roast",
+        "Calories": 47.25,
+        "Protein": 4.0,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/22681/garlic-top-sirloin-pot-roast/"
+    },
+    {
+        "RecipeName": "Instant Pot Pot Roast with Potatoes and Carrots",
+        "Calories": 40.38,
+        "Protein": 3.25,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/267624/instant-pot-pot-roast-with-potatoes-and-carrots/"
+    },
+    {
+        "RecipeName": "Awesome Red Wine Pot Roast",
+        "Calories": 20.25,
+        "Protein": 1.17,
+        "Total Carbohydrate": 0.83,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/162091/awesome-red-wine-pot-roast/"
+    },
+    {
+        "RecipeName": "Slow Cooker Au Jus Pot Roast",
+        "Calories": 48.25,
+        "Protein": 3.38,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 3.62,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229957/slow-cooker-au-jus-pot-roast/"
+    },
+    {
+        "RecipeName": "Perfect Pressure Cooker Pot Roast",
+        "Calories": 73.83,
+        "Protein": 4.67,
+        "Total Carbohydrate": 1.83,
+        "Total Fat": 5.17,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/66404/perfect-pressure-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Pot Roast in Foil",
+        "Calories": 48.62,
+        "Protein": 4.38,
+        "Total Carbohydrate": 0.38,
+        "Total Fat": 3.12,
+        "Dietary Fiber": 0.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16593/pot-roast-in-foil/"
+    },
+    {
+        "RecipeName": "Jen's Pressure Cooker Pot Roast",
+        "Calories": 116.67,
+        "Protein": 8.0,
+        "Total Carbohydrate": 11.83,
+        "Total Fat": 4.17,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220860/jens-pressure-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Cola Pot Roast II",
+        "Calories": 53.0,
+        "Protein": 4.88,
+        "Total Carbohydrate": 1.62,
+        "Total Fat": 2.88,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14618/cola-pot-roast-ii/"
+    },
+    {
+        "RecipeName": "Paula's Dutch Oven Pot Roast",
+        "Calories": 51.25,
+        "Protein": 2.12,
+        "Total Carbohydrate": 2.62,
+        "Total Fat": 3.38,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/281196/paulas-dutch-oven-pot-roast/"
+    },
+    {
+        "RecipeName": "Slow Cooker Creamy Pot Roast",
+        "Calories": 33.6,
+        "Protein": 3.3,
+        "Total Carbohydrate": 1.1,
+        "Total Fat": 1.7,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/241726/slow-cooker-creamy-pot-roast/"
+    },
+    {
+        "RecipeName": "Grandma's Best Pot Roast",
+        "Calories": 39.5,
+        "Protein": 5.67,
+        "Total Carbohydrate": 0.67,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/283628/grandmas-best-pot-roast/"
+    },
+    {
+        "RecipeName": "Healthier Marie's Easy Slow Cooker Pot Roast",
+        "Calories": 43.75,
+        "Protein": 3.38,
+        "Total Carbohydrate": 3.12,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222080/healthier-maries-easy-slow-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Boliche (Cuban Pot Roast)",
+        "Calories": 73.25,
+        "Protein": 4.88,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 4.12,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/207840/boliche-cuban-pot-roast/"
+    },
+    {
+        "RecipeName": "Slow Cooker Pot Roast with Malbec (Red Wine)",
+        "Calories": 58.33,
+        "Protein": 3.83,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/241263/slow-cooker-pot-roast-with-malbec-red-wine/"
+    },
+    {
+        "RecipeName": "Mother's Pot Roast",
+        "Calories": 110.4,
+        "Protein": 9.0,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 7.4,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14648/mothers-pot-roast/"
+    },
+    {
+        "RecipeName": "My Favorite Pot Roast",
+        "Calories": 62.25,
+        "Protein": 3.75,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230980/my-favorite-pot-roast/"
+    },
+    {
+        "RecipeName": "Stovetop Yankee Pot Roast",
+        "Calories": 38.8,
+        "Protein": 2.8,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 2.4,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/104763/stovetop-yankee-pot-roast/"
+    },
+    {
+        "RecipeName": "Pot Pie with Leftover Pot Roast and Vegetables",
+        "Calories": 62.12,
+        "Protein": 2.38,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 4.12,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284814/pot-pie-with-leftover-pot-roast-and-vegetables/"
+    },
+    {
+        "RecipeName": "Asian Pot Roast in an Instant Pot",
+        "Calories": 56.17,
+        "Protein": 3.33,
+        "Total Carbohydrate": 1.67,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/263513/asian-pot-roast-in-an-instant-pot/"
+    },
+    {
+        "RecipeName": "Stove Pot Roast With Mashed Potatoes",
+        "Calories": 85.25,
+        "Protein": 3.88,
+        "Total Carbohydrate": 7.88,
+        "Total Fat": 4.38,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "sapi",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229955/stove-pot-roast-with-mashed-potatoes/"
+    },
+    {
+        "RecipeName": "Pot Roast, Vegetables, and Beer",
+        "Calories": 94.67,
+        "Protein": 5.67,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 4.83,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/184667/pot-roast-vegetables-and-beer/"
+    },
+    {
+        "RecipeName": "Healthier (but still awesome) Awesome Slow Cooker Pot Roast",
+        "Calories": 25.42,
+        "Protein": 2.0,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/219438/healthier-but-still-awesome-awesome-slow-cooker-pot-roast/"
+    },
+    {
+        "RecipeName": "Instant Pot Yankee Pot Roast",
+        "Calories": 18.0,
+        "Protein": 1.07,
+        "Total Carbohydrate": 0.71,
+        "Total Fat": 1.14,
+        "Dietary Fiber": 0.07,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/269030/instant-pot-yankee-pot-roast/"
+    },
+    {
+        "RecipeName": "Irish Stout Beer Pot Roast",
+        "Calories": 157.25,
+        "Protein": 9.5,
+        "Total Carbohydrate": 9.25,
+        "Total Fat": 9.0,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/216228/irish-stout-beer-pot-roast/"
+    },
+    {
+        "RecipeName": "Mexican Pot Roast",
+        "Calories": 17.75,
+        "Protein": 1.75,
+        "Total Carbohydrate": 0.42,
+        "Total Fat": 0.92,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229053/mexican-pot-roast/"
+    },
+    {
+        "RecipeName": "Awesome Slow Cooker Pot Roast Plus Extras Recipe",
+        "Calories": 25.12,
+        "Protein": 3.56,
+        "Total Carbohydrate": 0.62,
+        "Total Fat": 0.81,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236872/awesome-slow-cooker-pot-roast-plus-extras/"
+    },
+    {
+        "RecipeName": "Apple-Flavored Pot Roast",
+        "Calories": 132.0,
+        "Protein": 7.0,
+        "Total Carbohydrate": 8.5,
+        "Total Fat": 7.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/98056/apple-flavored-pot-roast/"
+    },
+    {
+        "RecipeName": "Instant Pot 'Pot Roast'",
+        "Calories": 46.5,
+        "Protein": 2.88,
+        "Total Carbohydrate": 2.38,
+        "Total Fat": 2.62,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/269923/instant-pot-pot-roast/"
+    },
+    {
+        "RecipeName": "Red Pot Roast",
+        "Calories": 81.38,
+        "Protein": 4.38,
+        "Total Carbohydrate": 7.88,
+        "Total Fat": 3.62,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/53096/red-pot-roast/"
+    },
+    {
+        "RecipeName": "Baja Pot Roast",
+        "Calories": 15.69,
+        "Protein": 0.88,
+        "Total Carbohydrate": 0.75,
+        "Total Fat": 0.94,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/270632/baja-pot-roast/"
+    },
+    {
+        "RecipeName": "Cranberry Pot Roast",
+        "Calories": 58.7,
+        "Protein": 3.3,
+        "Total Carbohydrate": 3.4,
+        "Total Fat": 3.5,
+        "Dietary Fiber": 0.2,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/81456/cranberry-pot-roast/"
+    },
+    {
+        "RecipeName": "Autumn Pot Roast II",
+        "Calories": 56.75,
+        "Protein": 3.38,
+        "Total Carbohydrate": 0.88,
+        "Total Fat": 4.0,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/152181/autumn-pot-roast-ii/"
+    },
+    {
+        "RecipeName": "Pot Roast in Beer",
+        "Calories": 64.5,
+        "Protein": 5.67,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/14637/pot-roast-in-beer/"
+    },
+    {
+        "RecipeName": "Instant Pot® Cranberry-Thyme Pot Roast",
+        "Calories": 35.2,
+        "Protein": 2.0,
+        "Total Carbohydrate": 2.2,
+        "Total Fat": 2.1,
+        "Dietary Fiber": 0.3,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/275518/instant-pot-cranberry-thyme-pot-roast/"
+    },
+    {
+        "RecipeName": "Apple Cider Pepper Pot Roast (Pressure Cooker Recipe)",
+        "Calories": 37.5,
+        "Protein": 2.25,
+        "Total Carbohydrate": 0.62,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/245859/apple-cider-pepper-pot-roast-pressure-cooker-recipe/"
+    },
+    {
+        "RecipeName": "Autumn Pot Roast",
+        "Calories": 32.38,
+        "Protein": 2.25,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.62,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/231538/autumn-pot-roast/"
+    },
+    {
+        "RecipeName": "Pot Roast Caribe",
+        "Calories": 99.17,
+        "Protein": 5.5,
+        "Total Carbohydrate": 6.67,
+        "Total Fat": 5.67,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/100728/pot-roast-caribe/"
+    },
+    {
+        "RecipeName": "Cranberry Pot Roast by Michelle",
+        "Calories": 69.0,
+        "Protein": 3.75,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/212835/cranberry-pot-roast-by-michelle/"
+    },
+    {
+        "RecipeName": "Pot Roast with Vegetables",
+        "Calories": 94.5,
+        "Protein": 6.0,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 5.5,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229953/pot-roast-with-vegetables/"
+    },
+    {
+        "RecipeName": "Old-Fashioned Potato Cakes",
+        "Calories": 63.75,
+        "Protein": 1.75,
+        "Total Carbohydrate": 11.25,
+        "Total Fat": 1.25,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/223597/old-fashioned-potato-cakes/"
+    },
+    {
+        "RecipeName": "Potato Pancakes",
+        "Calories": 47.17,
+        "Protein": 1.17,
+        "Total Carbohydrate": 7.83,
+        "Total Fat": 1.33,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/14089/potato-pancakes-i/"
+    },
+    {
+        "RecipeName": "My Crispy Mashed Potato Pancake",
+        "Calories": 51.0,
+        "Protein": 1.25,
+        "Total Carbohydrate": 6.0,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/222608/my-crispy-mashed-potato-pancake/"
+    },
+    {
+        "RecipeName": "German Potato Pancakes",
+        "Calories": 47.17,
+        "Protein": 1.17,
+        "Total Carbohydrate": 6.83,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.83,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/33118/german-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Irish Boxty",
+        "Calories": 37.83,
+        "Protein": 0.83,
+        "Total Carbohydrate": 4.83,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "susu",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/161679/irish-boxty/"
+    },
+    {
+        "RecipeName": "Potato Latkes",
+        "Calories": 33.17,
+        "Protein": 0.83,
+        "Total Carbohydrate": 3.67,
+        "Total Fat": 1.83,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16073/potato-latkes-i/"
+    },
+    {
+        "RecipeName": "Instant Potato Pancakes",
+        "Calories": 33.75,
+        "Protein": 0.75,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 2.75,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220323/instant-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Easy Leftover Potato Pancakes",
+        "Calories": 50.8,
+        "Protein": 1.4,
+        "Total Carbohydrate": 4.8,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/18028/potato-pancakes-ii/"
+    },
+    {
+        "RecipeName": "Air Fryer Latkes",
+        "Calories": 19.4,
+        "Protein": 0.6,
+        "Total Carbohydrate": 3.8,
+        "Total Fat": 1.4,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/277453/air-fryer-latkes/"
+    },
+    {
+        "RecipeName": "Leftover Mashed Potato Pancakes",
+        "Calories": 186.5,
+        "Protein": 4.5,
+        "Total Carbohydrate": 23.5,
+        "Total Fat": 8.5,
+        "Dietary Fiber": 2.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/262978/leftover-mashed-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Panko Crusted Mashed Potato Cakes",
+        "Calories": 20.5,
+        "Protein": 0.5,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/216977/panko-crusted-mashed-potato-cakes/"
+    },
+    {
+        "RecipeName": "Cheesy Potato Pancakes",
+        "Calories": 71.17,
+        "Protein": 2.5,
+        "Total Carbohydrate": 7.17,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju",
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220614/cheesy-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Easy Potato Pancakes",
+        "Calories": 58.2,
+        "Protein": 1.6,
+        "Total Carbohydrate": 8.6,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/21487/easy-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Mom's Potato Latkes",
+        "Calories": 92.75,
+        "Protein": 1.5,
+        "Total Carbohydrate": 5.5,
+        "Total Fat": 7.5,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/235052/moms-potato-latkes/"
+    },
+    {
+        "RecipeName": "Baked Potato Latkes",
+        "Calories": 43.8,
+        "Protein": 1.0,
+        "Total Carbohydrate": 5.2,
+        "Total Fat": 2.2,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/236019/baked-potato-latkes/"
+    },
+    {
+        "RecipeName": "Foolproof Potato Latkes",
+        "Calories": 57.8,
+        "Protein": 1.4,
+        "Total Carbohydrate": 7.4,
+        "Total Fat": 2.6,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/212816/foolproof-potato-latkes/"
+    },
+    {
+        "RecipeName": "Bramboracky (Czech Savory Potato Pancakes)",
+        "Calories": 175.67,
+        "Protein": 5.0,
+        "Total Carbohydrate": 31.33,
+        "Total Fat": 3.67,
+        "Dietary Fiber": 4.0,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/212824/bramboracky-czech-savory-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Corned Beef Potato Pancakes",
+        "Calories": 65.0,
+        "Protein": 4.0,
+        "Total Carbohydrate": 7.25,
+        "Total Fat": 2.25,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/72190/corned-beef-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Potato Latkes from Simply Potatoes",
+        "Calories": 19.0,
+        "Protein": 0.67,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 0.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/230706/potato-latkes-from-simply-potatoes/"
+    },
+    {
+        "RecipeName": "Chef John's Classic Potato Pancakes",
+        "Calories": 78.75,
+        "Protein": 2.25,
+        "Total Carbohydrate": 13.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/238261/chef-johns-classic-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Crispy Potato Pancakes",
+        "Calories": 44.67,
+        "Protein": 1.17,
+        "Total Carbohydrate": 5.83,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/228234/crispy-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Loaded Mashed Potato Cakes",
+        "Calories": 25.38,
+        "Protein": 0.88,
+        "Total Carbohydrate": 2.0,
+        "Total Fat": 1.5,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [
+            "keju",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/229264/loaded-mashed-potato-cakes/"
+    },
+    {
+        "RecipeName": "Roesti",
+        "Calories": 31.0,
+        "Protein": 0.5,
+        "Total Carbohydrate": 5.17,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/149259/roesti/"
+    },
+    {
+        "RecipeName": "Bacon Potato Pancakes",
+        "Calories": 42.83,
+        "Protein": 1.33,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/220613/bacon-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Dad's Potato Pancakes",
+        "Calories": 13.13,
+        "Protein": 0.33,
+        "Total Carbohydrate": 2.6,
+        "Total Fat": 0.13,
+        "Dietary Fiber": 0.13,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/21304/potato-pancakes/"
+    },
+    {
+        "RecipeName": "Delicious Stuffed Potato Pancakes",
+        "Calories": 64.83,
+        "Protein": 3.0,
+        "Total Carbohydrate": 9.67,
+        "Total Fat": 1.67,
+        "Dietary Fiber": 1.17,
+        "ProteinName": [
+            "sapi",
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/206817/delicious-stuffed-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Vegetable and Feta Latkes",
+        "Calories": 37.5,
+        "Protein": 1.33,
+        "Total Carbohydrate": 2.83,
+        "Total Fat": 2.5,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/16120/vegetable-and-feta-latkes/"
+    },
+    {
+        "RecipeName": "Anne's Potato Pancakes",
+        "Calories": 18.2,
+        "Protein": 0.6,
+        "Total Carbohydrate": 3.1,
+        "Total Fat": 0.5,
+        "Dietary Fiber": 0.4,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/85431/annes-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Sausage-Stuffed Potato Pancakes",
+        "Calories": 40.33,
+        "Protein": 1.33,
+        "Total Carbohydrate": 3.83,
+        "Total Fat": 2.17,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284273/sausage-stuffed-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Kay Dee's Recipe for Potato Latkes",
+        "Calories": 14.67,
+        "Protein": 0.33,
+        "Total Carbohydrate": 1.5,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/212383/kay-dees-recipe-for-potato-latkes/"
+    },
+    {
+        "RecipeName": "Reibekuchen (German Potato Pancakes)",
+        "Calories": 39.9,
+        "Protein": 1.0,
+        "Total Carbohydrate": 7.8,
+        "Total Fat": 0.7,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/284424/reibekuchen-german-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Boxty",
+        "Calories": 41.5,
+        "Protein": 1.17,
+        "Total Carbohydrate": 7.33,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/111190/boxty/"
+    },
+    {
+        "RecipeName": "Cajun Potato Latkes",
+        "Calories": 18.83,
+        "Protein": 0.67,
+        "Total Carbohydrate": 2.17,
+        "Total Fat": 0.83,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/212382/cajun-potato-latkes/"
+    },
+    {
+        "RecipeName": "Potato Leek Latkes",
+        "Calories": 36.8,
+        "Protein": 2.0,
+        "Total Carbohydrate": 4.0,
+        "Total Fat": 1.6,
+        "Dietary Fiber": 0.8,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/256185/potato-leek-latkes/"
+    },
+    {
+        "RecipeName": "Chorizo Latkes",
+        "Calories": 9.11,
+        "Protein": 0.44,
+        "Total Carbohydrate": 0.44,
+        "Total Fat": 0.61,
+        "Dietary Fiber": 0.06,
+        "ProteinName": [
+            "sapi"
+        ],
+        "url": "https://www.allrecipes.com/recipe/246879/chorizo-latkes/"
+    },
+    {
+        "RecipeName": "Scallion Mashed Potato Pancakes",
+        "Calories": 14.4,
+        "Protein": 0.3,
+        "Total Carbohydrate": 1.3,
+        "Total Fat": 0.9,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/282131/scallion-mashed-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Easy Air Fryer Latkes",
+        "Calories": 39.25,
+        "Protein": 1.75,
+        "Total Carbohydrate": 6.5,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.75,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/284820/easy-air-fryer-latkes/"
+    },
+    {
+        "RecipeName": "Bacon Potato Cakes with Ham Steak, Egg, and Sliced Avocado",
+        "Calories": 198.5,
+        "Protein": 10.5,
+        "Total Carbohydrate": 9.25,
+        "Total Fat": 15.0,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/262704/bacon-potato-cakes-with-ham-steak-egg-and-sliced-avocado/"
+    },
+    {
+        "RecipeName": "Backyard Skillet Smashed Potatoes and Onions",
+        "Calories": 64.5,
+        "Protein": 1.25,
+        "Total Carbohydrate": 11.25,
+        "Total Fat": 1.75,
+        "Dietary Fiber": 1.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/274315/backyard-skillet-smashed-potatoes-and-onions/"
+    },
+    {
+        "RecipeName": "Family Latkes",
+        "Calories": 9.5,
+        "Protein": 0.33,
+        "Total Carbohydrate": 1.42,
+        "Total Fat": 0.33,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/282521/family-latkes/"
+    },
+    {
+        "RecipeName": "Kicked-Up Potato Pancakes",
+        "Calories": 91.25,
+        "Protein": 5.5,
+        "Total Carbohydrate": 8.75,
+        "Total Fat": 3.75,
+        "Dietary Fiber": 1.0,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/220616/kicked-up-potato-pancakes/"
+    },
+    {
+        "RecipeName": "Apple-Potato Latkes",
+        "Calories": 41.0,
+        "Protein": 0.75,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 2.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "telur"
+        ],
+        "url": "https://www.allrecipes.com/recipe/255070/apple-potato-latkes/"
+    },
+    {
+        "RecipeName": "Potato Latkes with Caramelized Pears, Goat Cheese, and Sherry Vinegar Drizzle",
+        "Calories": 54.83,
+        "Protein": 2.17,
+        "Total Carbohydrate": 5.0,
+        "Total Fat": 3.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/235268/potato-latkes-with-caramelized-pears-goat-cheese-and-sherry-vinegar-drizzle/"
+    },
+    {
+        "RecipeName": "Rainbow Potato Pancakes with Harissa and Eggs",
+        "Calories": 121.25,
+        "Protein": 4.5,
+        "Total Carbohydrate": 15.5,
+        "Total Fat": 4.75,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/278061/rainbow-potato-pancakes-with-harissa-and-eggs/"
+    },
+    {
+        "RecipeName": "Old-Fashioned Potato Salad",
+        "Calories": 25.75,
+        "Protein": 0.75,
+        "Total Carbohydrate": 3.88,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/"
+    },
+    {
+        "RecipeName": "Authentic German Potato Salad",
+        "Calories": 45.75,
+        "Protein": 1.25,
+        "Total Carbohydrate": 8.0,
+        "Total Fat": 1.0,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/"
+    },
+    {
+        "RecipeName": "Light and Easy Greek Potato Salad",
+        "Calories": 13.12,
+        "Protein": 0.12,
+        "Total Carbohydrate": 1.25,
+        "Total Fat": 0.88,
+        "Dietary Fiber": 0.12,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/223380/light-and-easy-greek-potato-salad/"
+    },
+    {
+        "RecipeName": "Authentic Russian Salad 'Olivye'",
+        "Calories": 26.1,
+        "Protein": 0.8,
+        "Total Carbohydrate": 3.1,
+        "Total Fat": 1.2,
+        "Dietary Fiber": 0.5,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/234949/authentic-russian-salad-olivye/"
+    },
+    {
+        "RecipeName": "Red-Skinned Potato Salad",
+        "Calories": 35.83,
+        "Protein": 0.83,
+        "Total Carbohydrate": 1.33,
+        "Total Fat": 3.08,
+        "Dietary Fiber": 0.08,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/"
+    },
+    {
+        "RecipeName": "Hot German Potato Salad",
+        "Calories": 17.08,
+        "Protein": 0.33,
+        "Total Carbohydrate": 2.75,
+        "Total Fat": 0.58,
+        "Dietary Fiber": 0.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/18085/hot-german-potato-salad-iii/"
+    },
+    {
+        "RecipeName": "BBQ Potato Salad",
+        "Calories": 33.17,
+        "Protein": 0.58,
+        "Total Carbohydrate": 3.25,
+        "Total Fat": 2.08,
+        "Dietary Fiber": 0.33,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/143446/barbeque-potato-salad/"
+    },
+    {
+        "RecipeName": "Southern Potato Salad",
+        "Calories": 115.0,
+        "Protein": 2.75,
+        "Total Carbohydrate": 11.25,
+        "Total Fat": 6.75,
+        "Dietary Fiber": 1.25,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/16727/southern-potato-salad/"
+    },
+    {
+        "RecipeName": "All-American Loaded Baked Potato Salad",
+        "Calories": 72.33,
+        "Protein": 2.17,
+        "Total Carbohydrate": 5.83,
+        "Total Fat": 4.5,
+        "Dietary Fiber": 0.67,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/254568/all-american-loaded-baked-potato-salad/"
+    },
+    {
+        "RecipeName": "Potato Salad",
+        "Calories": 16.95,
+        "Protein": 0.2,
+        "Total Carbohydrate": 1.0,
+        "Total Fat": 1.4,
+        "Dietary Fiber": 0.1,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/232864/potato-salad/"
+    },
+    {
+        "RecipeName": "World's Best Potato Salad",
+        "Calories": 92.5,
+        "Protein": 1.83,
+        "Total Carbohydrate": 4.5,
+        "Total Fat": 7.67,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [
+            "susu"
+        ],
+        "url": "https://www.allrecipes.com/recipe/86662/worlds-best-potato-salad/"
+    },
+    {
+        "RecipeName": "Red Potato Salad",
+        "Calories": 13.58,
+        "Protein": 0.42,
+        "Total Carbohydrate": 2.08,
+        "Total Fat": 0.42,
+        "Dietary Fiber": 0.17,
+        "ProteinName": [],
+        "url": "https://www.allrecipes.com/recipe/87373/red-potato-salad/"
+    },
+    {
+        "RecipeName": "Warm Dijon Potato Salad",
+        "Calories": 19.38,
+        "Protein": 0.38,
+        "Total Carbohydrate": 3.0,
+        "Total Fat": 0.75,
+        "Dietary Fiber": 0.38,
+        "ProteinName": [
+            "keju"
+        ],
+        "url": "https://www.allrecipes.com/recipe/228116/warm-dijon-potato-salad/"
+    }
+]

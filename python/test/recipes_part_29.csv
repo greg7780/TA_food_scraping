@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Bacon Wrapped Stuffed Mushrooms,6.15,0.25,0.1,0.55,0.0,['keju'],https://www.allrecipes.com/recipe/54795/bacon-wrapped-stuffed-mushrooms/
+Andie's Stuffed Mushrooms,31.7,1.8,1.2,2.2,0.2,"['keju', 'sapi']",https://www.allrecipes.com/recipe/23593/andies-stuffed-mushrooms/
+The Best Stuffed Mushrooms,27.0,1.17,0.67,2.33,0.17,['keju'],https://www.allrecipes.com/recipe/169625/the-best-stuffed-mushrooms/
+Sausage Stuffed Mushrooms II,17.8,0.5,0.2,1.7,0.0,['keju'],https://www.allrecipes.com/recipe/24886/sausage-stuffed-mushrooms-ii/
+Artichoke Stuffed Mushrooms,13.0,0.5,0.5,1.08,0.17,['keju'],https://www.allrecipes.com/recipe/175989/artichoke-stuffed-mushrooms/
+Sausage-Stuffed Portobello Mushrooms,16.83,0.92,0.67,1.25,0.17,['keju'],https://www.allrecipes.com/recipe/216395/stuffed-portobello-mushrooms/
+Jalapeno Popper Mushrooms,37.75,1.5,0.75,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/218787/jalapeno-popper-mushrooms/
+Spinach Stuffed Mushrooms,1.4,0.07,0.07,0.1,0.03,"['keju', 'telur']",https://www.allrecipes.com/recipe/214927/spinach-stuffed-mushrooms/
+Crab and Lobster Stuffed Mushrooms,38.75,2.75,0.88,2.75,0.12,['keju'],https://www.allrecipes.com/recipe/47179/crab-and-lobster-stuffed-mushrooms/
+Perfect Crab-Stuffed Mushrooms,54.83,2.5,1.83,4.17,0.33,"['keju', 'telur']",https://www.allrecipes.com/recipe/229826/perfect-crab-stuffed-mushrooms/
+Giant Stuffed Mushrooms,49.5,1.75,7.25,2.0,1.5,[],https://www.allrecipes.com/recipe/14025/giant-stuffed-mushrooms/
+Beef-Stuffed Mushrooms,8.92,0.33,0.25,0.75,0.0,['sapi'],https://www.allrecipes.com/recipe/13654/stuffed-mushrooms-iv/
+Pesto-Stuffed Grilled Portobellos,94.0,5.0,5.0,6.67,1.33,['keju'],https://www.allrecipes.com/recipe/238585/pesto-stuffed-grilled-portobellos/
+Blue Bacon Stuffed Mushrooms,116.0,5.0,4.33,9.0,0.33,['keju'],https://www.allrecipes.com/recipe/137428/blue-bacon-stuffed-mushrooms/
+Gary's Stuffed Mushrooms,34.42,0.5,1.17,3.17,0.08,"['keju', 'ayam']",https://www.allrecipes.com/recipe/24174/garys-stuffed-mushrooms/
+Savory Crab Stuffed Mushrooms,22.0,1.25,0.88,1.5,0.12,"['keju', 'telur']",https://www.allrecipes.com/recipe/25497/savory-crab-stuffed-mushrooms/
+Chicken-Stuffed Mushrooms,38.0,1.17,1.33,3.33,0.17,"['keju', 'ayam']",https://www.allrecipes.com/recipe/239038/chicken-stuffed-mushrooms/
+Stuffed Portobello Mushroom Caps,13.83,1.0,1.58,0.5,0.17,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/228153/stuffed-portobello-mushroom-caps/
+Stuffed Mushrooms with Spinach,13.58,0.33,0.25,1.33,0.08,['keju'],https://www.allrecipes.com/recipe/25498/stuffed-mushrooms-with-spinach/
+Stuffed Morel Mushrooms,20.62,1.0,0.5,1.62,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/246301/stuffed-morel-mushrooms/
+Dinah's Stuffed Mushrooms,38.3,1.6,1.1,3.1,0.2,['keju'],https://www.allrecipes.com/recipe/24582/dinahs-stuffed-mushrooms/
+Shrimp Stuffed Mushrooms,19.1,1.3,0.8,1.3,0.1,"['keju', 'udang']",https://www.allrecipes.com/recipe/25487/shrimp-stuffed-mushrooms/
+Stuffed Mushrooms with Sour Cream,1.79,0.08,0.08,0.12,0.0,['keju'],https://www.allrecipes.com/recipe/260627/stuffed-mushrooms-with-sour-cream/
+Amazing Shrimp Stuffed Mushrooms,10.3,0.7,0.3,0.7,0.1,"['keju', 'udang']",https://www.allrecipes.com/recipe/184032/amazing-shrimp-stuffed-mushrooms/
+Tuna-Stuffed Mushrooms,6.9,0.6,0.2,0.4,0.0,['keju'],https://www.allrecipes.com/recipe/202436/tuna-stuffed-mushrooms/
+Sausage Stuffed Mushrooms,1.25,0.06,0.04,0.1,0.0,['keju'],https://www.allrecipes.com/recipe/220080/sausage-stuffed-mushrooms/
+Shrimpcargot,67.67,3.67,0.67,5.67,0.0,"['keju', 'udang']",https://www.allrecipes.com/recipe/165535/shrimpcargot/
+Grilled Portobello Mushrooms with Mashed Cannellini Beans and Harissa Sauce,78.0,4.25,11.25,2.5,3.25,[],https://www.allrecipes.com/recipe/256728/grilled-portobello-mushrooms-with-mashed-cannellini-beans-and-harissa-sauce/
+Stuffed Portobello Mushrooms with Egg and Pesto,54.5,2.5,0.5,4.75,0.25,['keju'],https://www.allrecipes.com/recipe/285571/stuffed-portobello-mushrooms-with-egg-and-pesto/
+Buffalo Chicken Stuffed Mushrooms (Low-Carb),16.5,0.9,0.3,1.3,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/239615/buffalo-chicken-stuffed-mushrooms-low-carb/
+Sausage-Stuffed Mushrooms,14.1,0.9,0.8,0.9,0.1,['keju'],https://www.allrecipes.com/recipe/230826/sausage-stuffed-mushrooms/
+Grilled Mushrooms Stuffed with Basil and Blue Cheese Butter,33.0,1.0,0.5,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/258663/grilled-mushrooms-stuffed-with-basil-and-blue-cheese-butter/
+Chinese Style Stuffed Mushrooms,35.5,3.0,1.25,2.25,0.25,[],https://www.allrecipes.com/recipe/38762/chinese-style-stuffed-mushrooms/
+Portabella Nirvana,113.75,2.75,5.25,9.5,0.25,['keju'],https://www.allrecipes.com/recipe/39432/portabella-nirvana/
+"Chicken, Artichoke, and Spinach-Stuffed Portobellos",190.5,15.25,4.0,12.75,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/256642/chicken-artichoke-and-spinach-stuffed-portobellos/
+Sausage Stuffed Mushrooms I,60.0,1.5,2.5,4.5,0.17,['keju'],https://www.allrecipes.com/recipe/22642/sausage-stuffed-mushrooms-i/
+Happy Hour Mushrooms,16.0,0.5,0.6,1.3,0.1,['keju'],https://www.allrecipes.com/recipe/256151/happy-hour-mushrooms/
+Spinach Stuffed Portobello Mushrooms with Avocado,134.75,3.5,8.5,11.0,5.0,['keju'],https://www.allrecipes.com/recipe/220815/spinach-stuffed-portobello-mushrooms-with-avocado/
+Stuffed Mushrooms II,20.0,0.9,1.8,1.1,0.2,"['keju', 'telur']",https://www.allrecipes.com/recipe/15571/stuffed-mushrooms-ii/
+Cheesy Mashed Potato Stuffed Mushrooms,N/A,N/A,N/A,N/A,N/A,['keju'],https://www.allrecipes.com/recipe/231887/cheesy-mashed-potato-stuffed-mushrooms/
+Vegan Stuffed Mushrooms,7.42,0.33,0.5,0.58,0.08,[],https://www.allrecipes.com/recipe/268508/vegan-stuffed-mushrooms/
+Bacon Stuffed Mushrooms,43.0,1.83,1.17,3.67,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/230108/bacon-stuffed-mushrooms/
+Stuffed Mushrooms III,65.25,4.0,1.0,5.25,0.25,['keju'],https://www.allrecipes.com/recipe/16909/stuffed-mushrooms-iii/
+Easy Vegetarian Stuffed Mushrooms,24.8,0.4,1.4,2.0,0.2,['keju'],https://www.allrecipes.com/recipe/285654/easy-vegetarian-stuffed-mushrooms/
+Stuffed Portobello Mushrooms with Spinach and Feta,62.0,4.5,7.75,2.25,2.25,['keju'],https://www.allrecipes.com/recipe/286282/stuffed-portobello-mushrooms-with-spinach-and-feta/
+Clam-Stuffed Portobello Mushrooms,12.8,0.8,0.9,0.8,0.1,['keju'],https://www.allrecipes.com/recipe/285575/clam-stuffed-portobello-mushrooms/
+Crab Stuffed Mushrooms II,2.6,0.15,0.1,0.2,0.0,['keju'],https://www.allrecipes.com/recipe/20717/crab-stuffed-mushrooms-ii/
+Easy Feta-Stuffed Mushrooms,23.75,2.0,0.75,1.75,0.25,['keju'],https://www.allrecipes.com/recipe/286281/easy-feta-stuffed-mushrooms/
+Spicy Shrimp-Stuffed Mushrooms,7.19,0.31,0.31,0.56,0.06,"['keju', 'udang']",https://www.allrecipes.com/recipe/268054/spicy-shrimp-stuffed-mushrooms/
+Seafood Stuffed Mushrooms,3.75,0.17,0.17,0.29,0.04,"['keju', 'udang']",https://www.allrecipes.com/recipe/14825/seafood-stuffed-mushrooms/
+Megan's Marvelous Mushrooms,5.2,0.3,0.3,0.3,0.1,['keju'],https://www.allrecipes.com/recipe/230231/megans-marvelous-mushrooms/
+Creole Crab-Stuffed Mushrooms,5.58,0.25,0.17,0.46,0.04,['keju'],https://www.allrecipes.com/recipe/284854/creole-crab-stuffed-mushrooms/
+Cheddar Pecan Stuffed Mushrooms,8.8,0.27,0.33,0.8,0.07,['keju'],https://www.allrecipes.com/recipe/230017/cheddar-pecan-stuffed-mushrooms/
+Pizza-Stuffed Mushrooms,17.42,0.83,0.33,1.42,0.08,['keju'],https://www.allrecipes.com/recipe/286286/pizza-stuffed-mushrooms/
+Italian Stuffed Cubanelle Peppers,37.0,2.75,2.12,1.88,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/256619/italian-stuffed-cubanelle-peppers/
+Unstuffed Pepper Skillet,128.25,8.0,16.0,3.25,1.25,['keju'],https://www.allrecipes.com/recipe/8538585/unstuffed-pepper-skillet/
+Stuffed Peppers,41.33,2.67,4.33,1.5,0.67,['sapi'],https://www.allrecipes.com/recipe/16330/stuffed-peppers/
+Stuffed Green Peppers,77.17,4.5,6.0,4.0,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/17991/stuffed-green-peppers-i/
+Chef John's Stuffed Peppers,47.12,2.5,4.38,2.12,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/222002/chef-johns-stuffed-peppers/
+Baked Stuffed Peppers,113.5,7.5,7.5,5.75,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/228806/baked-stuffed-peppers/
+Beef and Rice Stuffed Bell Peppers,62.67,5.0,4.33,2.83,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/236359/beef-and-rice-stuffed-bell-peppers/
+Vegetarian Mexican Inspired Stuffed Peppers,127.25,6.0,14.0,5.75,3.0,['keju'],https://www.allrecipes.com/recipe/231514/vegetarian-mexican-inspired-stuffed-peppers/
+Healthier Stuffed Peppers,48.5,3.33,4.83,1.83,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/219447/healthier-stuffed-peppers/
+Stuffed Peppers with Turkey and Vegetables,69.75,6.25,2.5,4.0,0.75,[],https://www.allrecipes.com/recipe/79805/stuffed-peppers-with-turkey-and-vegetables/
+Stuffed Peppers My Way,192.5,5.5,26.5,7.5,2.5,['keju'],https://www.allrecipes.com/recipe/21190/stuffed-peppers-my-way/
+Homestyle Stuffed Peppers,139.25,10.75,9.75,6.5,1.5,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/220003/homestyle-stuffed-peppers/
+Stuffed Bell Peppers,133.0,14.25,9.5,5.25,2.0,['keju'],https://www.allrecipes.com/recipe/13886/stuffed-bell-peppers/
+Quick and Easy Stuffed Peppers,44.75,2.25,7.0,1.0,1.75,['keju'],https://www.allrecipes.com/recipe/14044/quick-and-easy-stuffed-peppers/
+Slow Cooker Stuffed Peppers,38.83,2.67,3.17,1.83,0.5,['sapi'],https://www.allrecipes.com/recipe/236881/slow-cooker-stuffed-peppers/
+Meaty Stuffed Pepper Casserole,64.0,3.5,3.75,3.88,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/231565/meaty-stuffed-pepper-casserole/
+Italian-Style Stuffed Peppers,159.5,12.0,9.25,8.25,1.75,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/238614/italian-style-stuffed-peppers/
+Stuffed Mexican Peppers,53.67,3.5,2.83,3.17,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/216899/stuffed-mexican-peppers/
+N'Awlins Stuffed Bell Peppers,41.5,2.42,3.33,2.0,0.25,"['sapi', 'udang']",https://www.allrecipes.com/recipe/43640/nawlins-stuffed-bell-peppers/
+Cajun Style Stuffed Peppers,51.17,2.83,6.67,1.67,0.83,"['ayam', 'udang']",https://www.allrecipes.com/recipe/38215/cajun-style-stuffed-peppers/
+Sausage and Rice Stuffed Peppers,212.83,7.33,25.83,8.83,0.83,['keju'],https://www.allrecipes.com/recipe/23517/sausage-and-rice-stuffed-peppers/
+Peppers Stuffed with Cream Cheese and Sausage,40.12,1.88,0.88,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/282473/peppers-stuffed-with-cream-cheese-and-sausage/
+Simple and Easy Stuffed Peppers,52.0,3.83,2.33,3.0,0.67,"['keju', 'sapi', 'ayam']",https://www.allrecipes.com/recipe/105016/simple-and-easy-stuffed-peppers/
+Stuffed Red Peppers,84.0,4.0,12.33,2.17,1.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/229617/stuffed-red-peppers/
+Chorizo Stuffed Bell Peppers,93.17,4.67,5.67,5.83,0.67,['keju'],https://www.allrecipes.com/recipe/87137/chorizo-stuffed-bell-peppers/
+Classic Beef Stuffed Peppers,99.17,5.83,8.83,4.33,1.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/229124/classic-beef-stuffed-peppers/
+Bolognese Stuffed Bell Peppers,51.67,2.33,2.83,3.33,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/77194/bolognese-stuffed-bell-peppers/
+Low Carb Turkey-Stuffed Peppers,115.75,9.0,5.5,6.75,1.5,['keju'],https://www.allrecipes.com/recipe/276832/low-carb-turkey-stuffed-peppers/
+Quinoa Stuffed Peppers,41.83,1.83,5.33,1.67,1.33,['keju'],https://www.allrecipes.com/recipe/223211/quinoa-stuffed-peppers/
+Ali's Stuffed Green Peppers,58.0,3.0,7.83,1.67,0.67,['sapi'],https://www.allrecipes.com/recipe/229260/stuffed-green-peppers/
+Tofu and Rice Stuffed Peppers,138.5,7.25,14.0,6.25,2.0,['keju'],https://www.allrecipes.com/recipe/88207/tofu-and-rice-stuffed-peppers/
+Beef and Mushroom Stuffed Peppers,200.0,12.33,6.0,14.33,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/25882/beef-and-mushroom-stuffed-peppers/
+Amanda's Stuffed Peppers,152.0,10.0,11.5,7.25,2.0,"['keju', 'sapi', 'telur']",https://www.allrecipes.com/recipe/140653/amandas-stuffed-peppers/
+Kelsey's Favorite Stuffed Green Peppers,77.5,5.83,5.83,3.33,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/26615/kelseys-favorite-stuffed-green-peppers/
+Saucy Stuffed Peppers,58.38,3.0,6.62,2.5,0.5,[],https://www.allrecipes.com/recipe/25195/saucy-stuffed-peppers/
+Black Bean Stuffed Peppers,38.33,1.83,5.5,1.17,1.17,['keju'],https://www.allrecipes.com/recipe/229886/black-bean-stuffed-peppers/
+Easy Stuffed Green Peppers,69.0,4.5,6.67,2.83,1.17,['sapi'],https://www.allrecipes.com/recipe/23432/stuffed-green-peppers-ii/
+Impossible Stuffed Peppers,64.67,1.5,8.67,1.83,1.83,[],https://www.allrecipes.com/recipe/282235/impossible-stuffed-peppers/
+Di's Stuffed Green Peppers,52.83,3.33,4.17,2.5,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/235323/dis-stuffed-green-peppers/
+Stuffed Jack-O'-Lantern Bell Peppers,44.33,3.17,3.83,1.83,0.67,"['sapi', 'telur']",https://www.allrecipes.com/recipe/180596/stuffed-jack-o-lantern-bell-peppers/
+Stuffed Bell Peppers with Beef and Cabbage,22.0,1.58,1.25,1.25,0.42,"['keju', 'sapi']",https://www.allrecipes.com/recipe/282636/stuffed-bell-peppers-with-beef-and-cabbage/
+Greek Stuffed Tomatoes and Peppers (Yemista),29.0,1.08,2.42,1.75,0.25,['sapi'],https://www.allrecipes.com/recipe/233236/greek-stuffed-tomatoes-and-peppers-yemista/
+Stuffed Orange Peppers,49.17,3.83,3.83,2.0,0.33,['keju'],https://www.allrecipes.com/recipe/235320/stuffed-orange-peppers/
+Stuffed Peppers Italian Style,30.75,1.0,4.38,1.0,0.5,[],https://www.allrecipes.com/recipe/32001/stuffed-peppers-italian-style/
+Turkey-Stuffed Peppers,130.0,9.25,7.0,7.75,0.75,"['keju', 'susu']",https://www.allrecipes.com/recipe/233445/turkey-stuffed-peppers/
+Greek-Style Stuffed Peppers,44.38,1.88,3.62,2.62,0.62,['keju'],https://www.allrecipes.com/recipe/88084/greek-style-stuffed-peppers/
+Jack-o'-Lantern Stuffed Peppers,153.25,7.25,5.5,11.5,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/8284459/jack-o-lantern-stuffed-peppers/
+Yummy Stuffed Peppers,45.75,2.38,2.88,2.75,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/241937/yummy-stuffed-peppers/
+Orzo and Chicken Stuffed Peppers,49.0,2.67,5.5,1.83,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/223203/orzo-and-chicken-stuffed-peppers/
+Cheesy Sausage-Stuffed Mini Peppers,N/A,N/A,N/A,N/A,N/A,['keju'],https://www.allrecipes.com/recipe/285084/cheesy-sausage-stuffed-mini-peppers/
+Peppers Stuffed with Chicken and Rice,204.5,21.0,20.0,4.5,2.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282482/peppers-stuffed-with-chicken-and-rice/
+Mexican Stuffed Peppers,143.67,5.17,13.33,7.83,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/232790/mexican-stuffed-peppers/
+Bison and Brown Rice Stuffed Peppers,29.67,2.83,3.83,0.33,0.67,[],https://www.allrecipes.com/recipe/236628/bison-and-brown-rice-stuffed-peppers/
+Breakfast Stuffed Bell Peppers,164.5,9.25,9.5,12.25,1.25,['keju'],https://www.allrecipes.com/recipe/282206/breakfast-stuffed-bell-peppers/
+Ellen's Vegan Stuffed Peppers,43.0,1.25,7.75,1.25,1.75,[],https://www.allrecipes.com/recipe/261725/ellens-vegan-stuffed-peppers/
+Peppers Stuffed with Grilled Chicken and Rice,91.75,6.25,8.75,3.5,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/282479/peppers-stuffed-with-grilled-chicken-and-rice/
+Vegetarian Stuffed Green Peppers,193.0,10.75,19.25,8.25,3.0,['keju'],https://www.allrecipes.com/recipe/21293/vegetarian-stuffed-green-peppers/
+My Favorite Stuffed Green Peppers,84.0,5.67,6.5,4.0,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/231272/my-favorite-stuffed-green-peppers/
+Sausage Alfredo Stuffed Peppers,147.33,6.33,2.67,12.5,0.33,['keju'],https://www.allrecipes.com/recipe/223213/sausage-alfredo-stuffed-peppers/
+Laurie's Stuffed Peppers,61.25,2.58,8.75,1.67,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/79754/lauries-stuffed-peppers/
+Cream Cheese Cut-Outs II,1.25,0.02,0.17,0.06,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/26133/cream-cheese-cut-outs-ii/
+Colored Sugar,12.09,N/A,3.12,N/A,N/A,[],https://www.allrecipes.com/recipe/24421/colored-sugar/
+Sugar Cookie Glaze,0.92,N/A,0.25,N/A,N/A,[],https://www.allrecipes.com/recipe/11082/sugar-cookie-glaze/
+Chewy Sugar Cookies,5.73,0.07,0.8,0.27,0.0,[],https://www.allrecipes.com/recipe/22850/chewy-sugar-cookies/
+Sandy's Super Sugar Cookies,12.96,0.17,1.62,0.67,0.04,[],https://www.allrecipes.com/recipe/239670/sandys-super-sugar-cookies/
+The Best Rolled Sugar Cookies,1.83,0.03,0.25,0.08,0.0,[],https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/
+Sugar Cookies with Buttercream Frosting,1.87,0.02,0.27,0.08,0.0,[],https://www.allrecipes.com/recipe/9440/sugar-cookies-with-buttercream-frosting/
+Thick Cut-Outs,2.06,0.03,0.29,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/24462/thick-cut-outs/
+Soft Sugar Cookies,9.42,0.12,1.21,0.46,0.04,[],https://www.allrecipes.com/recipe/15295/soft-sugar-cookies-iv/
+Easy Sugar Cookies,1.79,0.02,0.25,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/9870/easy-sugar-cookies/
+Grandma's Old Fashioned Tea Cakes,7.83,0.08,1.12,0.33,0.0,[],https://www.allrecipes.com/recipe/25766/grandmas-old-fashioned-tea-cakes/
+Perfect Vegan Sugar Cookies,2.37,0.03,0.37,0.1,0.0,['susu'],https://www.allrecipes.com/recipe/261803/perfect-vegan-sugar-cookies/
+Best Soft Christmas Cookies,2.02,0.02,0.29,0.08,0.0,[],https://www.allrecipes.com/recipe/10110/soft-christmas-cookies/
+Soft Sugar Cookies V,2.15,0.02,0.29,0.1,0.0,['telur'],https://www.allrecipes.com/recipe/25130/soft-sugar-cookies-v/
+Cream Cheese Sugar Cookies,0.74,0.01,0.08,0.04,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/11116/cream-cheese-sugar-cookies/
+Cookie Mold Sugar Cookies,1.71,0.02,0.21,0.08,0.0,[],https://www.allrecipes.com/recipe/11172/cookie-mold-sugar-cookies/
+Butter Cookies with Buttercream Frosting,1.82,0.01,0.28,0.07,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/230230/old-fashioned-butter-cookies-with-butter-frosting/
+Cinnamon Sugar Cookies,0.75,0.0,0.12,0.03,0.0,['telur'],https://www.allrecipes.com/recipe/14987/cinnamon-sugar-cookies/
+"Sugar-Free ""Sugar"" Cookies with Sugar-Free ""Sugar"" Icing",3.42,0.04,0.33,0.21,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/257834/sugar-free-sugar-cookies-with-sugar-free-sugar-icing/
+Sugar Cookie Cutouts,3.75,0.06,0.5,0.17,0.0,[],https://www.allrecipes.com/recipe/15149/sugar-cookie-cutouts/
+Sour Cream Sugar Cookies I,9.37,0.13,1.43,0.37,0.03,"['keju', 'susu']",https://www.allrecipes.com/recipe/10360/sour-cream-sugar-cookies-i/
+Mary's Sugar Cookies,4.2,0.03,0.53,0.2,0.0,['telur'],https://www.allrecipes.com/recipe/23750/marys-sugar-cookies/
+Michelle's Soft Sugar Cookies,1.28,0.02,0.18,0.05,0.0,[],https://www.allrecipes.com/recipe/11267/michelles-soft-sugar-cookies/
+Cracked Sugar Cookies I,6.79,0.08,0.88,0.33,0.0,['telur'],https://www.allrecipes.com/recipe/9864/cracked-sugar-cookies-i/
+Snickerdoodles I,3.47,0.03,0.47,0.17,0.0,[],https://www.allrecipes.com/recipe/11624/snickerdoodles-i/
+Amish Sugar Cakes,6.2,0.07,0.9,0.27,0.0,[],https://www.allrecipes.com/recipe/20967/amish-sugar-cakes/
+Chef John's Pumpkin Spice Snickerdoodles,8.0,0.11,1.22,0.33,0.06,"['susu', 'telur']",https://www.allrecipes.com/recipe/255935/chef-johns-pumpkin-spice-snickerdoodles/
+Grandma Minnie's Old Fashioned Sugar Cookies,0.65,0.01,0.08,0.04,0.0,['telur'],https://www.allrecipes.com/recipe/19145/grandma-minnies-old-fashioned-sugar-cookies/
+Fresh Strawberry Cookies,7.96,0.08,1.17,0.33,0.0,['telur'],https://www.allrecipes.com/recipe/235942/chewy-strawberry-sugar-cookies/
+Old Time Soft Sugar Cookies,4.79,0.08,0.71,0.21,0.0,['telur'],https://www.allrecipes.com/recipe/11055/old-time-soft-sugar-cookies/
+Powdered Sugar Cookies I,2.96,0.02,0.31,0.19,0.0,[],https://www.allrecipes.com/recipe/10364/powdered-sugar-cookies-i/
+Blue Ribbon Sugar Cookies,2.94,0.02,0.35,0.17,0.0,[],https://www.allrecipes.com/recipe/24464/blue-ribbon-sugar-cookies/
+Mexican Sugar Cookies,62.92,0.67,7.0,3.67,0.25,[],https://www.allrecipes.com/recipe/10420/mexican-sugar-cookies/
+Mrs. Fields Sugar Cookies,9.22,0.11,1.22,0.44,0.0,['telur'],https://www.allrecipes.com/recipe/10407/mrs-fields-sugar-cookies/
+Sweet Sourdough Cookies,19.67,0.33,3.08,0.67,0.08,['telur'],https://www.allrecipes.com/recipe/11443/sweet-sourdough-cookies/
+Biscochitos Traditional Cookies,1.56,0.01,0.18,0.08,0.0,[],https://www.allrecipes.com/recipe/88027/biscochitos-traditional-cookies/
+The Best Lavender Sugar Cookies Ever,18.67,0.25,2.25,1.0,0.08,['telur'],https://www.allrecipes.com/recipe/231318/the-best-lavender-sugar-cookies-ever/
+Melted Snowman Cookies,12.83,0.08,2.92,0.12,0.0,['telur'],https://www.allrecipes.com/recipe/235468/melted-snowman-cookies/
+Soft Frosted Sugar Cookies,4.61,0.06,0.67,0.19,0.0,['susu'],https://www.allrecipes.com/recipe/229804/soft-frosted-sugar-cookies/
+Ultimate Sugar Cookies,2.02,0.02,0.27,0.1,0.0,[],https://www.allrecipes.com/recipe/10840/ultimate-sugar-cookies/
+Pumpkin Spice Soft Sugar Cookies,2.58,0.02,0.35,0.12,0.0,[],https://www.allrecipes.com/recipe/235925/pumpkin-spice-soft-sugar-cookies/
+Amazing Sugar Cookies,1.88,0.02,0.27,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/223424/amazing-sugar-cookies/
+Sweet as Sugar Cookies,5.1,0.07,0.63,0.23,0.03,[],https://www.allrecipes.com/recipe/76273/sweet-as-sugar-cookies/
+Basic Sugar Cookies - Tried and True Since 1960,1.69,0.02,0.21,0.08,0.0,[],https://www.allrecipes.com/recipe/230295/basic-sugar-cookies-tried-and-true-since-1960/
+Lipardo's Puto Seco,13.92,0.25,2.08,0.5,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/62585/lipardos-puto-seco/
+Delilah's Frosted Cut-Out Sugar Cookies,3.69,0.03,0.58,0.14,0.0,['susu'],https://www.allrecipes.com/recipe/25065/delilahs-frosted-cut-out-sugar-cookies/
+Buttermilk Cookies,4.36,0.06,0.61,0.17,0.0,[],https://www.allrecipes.com/recipe/17843/buttermilk-cookies/
+Dead Bones (L'Ossa Morte),3.5,0.07,0.77,0.03,0.0,[],https://www.allrecipes.com/recipe/175588/dead-bones-lossa-morte/
+Anise Seed Borrachio Cookies,3.08,0.03,0.31,0.19,0.0,['telur'],https://www.allrecipes.com/recipe/72087/anise-seed-borrachio-cookies/
+Healthier Easy Sugar Cookies,1.46,0.02,0.25,0.04,0.0,['telur'],https://www.allrecipes.com/recipe/222091/healthier-easy-sugar-cookies/
+Mailäenderli (Swiss Butter Cookies),2.1,0.04,0.26,0.1,0.0,['telur'],https://www.allrecipes.com/recipe/149270/mailaenderli/
+Giant Heart-Shaped Pan Cookie,82.33,0.83,11.0,4.0,0.17,"['susu', 'telur']",https://www.allrecipes.com/recipe/259583/giant-heart-shaped-pan-cookie/
+Easy Breeze Sugar Cookies,N/A,N/A,N/A,N/A,N/A,['telur'],https://www.allrecipes.com/recipe/268603/easy-breeze-sugar-cookies/
+Swedish Cookies (Brunscrackers),23.92,0.17,3.0,1.33,0.08,[],https://www.allrecipes.com/recipe/41233/swedish-cookies-brunscrackers/
+Banana Pudding Sugar Cookies,3.77,0.07,0.53,0.17,0.0,[],https://www.allrecipes.com/recipe/11159/banana-pudding-sugar-cookies/
+Homemade Fortune Cookies,4.7,0.1,0.8,0.1,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/275116/homemade-fortune-cookies/
+Pink Icing Cookies,10.21,0.17,1.54,0.38,0.04,['susu'],https://www.allrecipes.com/recipe/11660/pink-icing-cookies/
+Sugar Cookies with Honey,2.42,0.03,0.42,0.08,0.0,['telur'],https://www.allrecipes.com/recipe/273219/sugar-cookies-with-honey/
+Grandma's Drop Sugar Cookies,2.83,0.02,0.31,0.17,0.0,[],https://www.allrecipes.com/recipe/244647/grandmas-drop-sugar-cookies/
+Sugar Cookie Bars,29.5,0.33,4.61,1.17,0.06,[],https://www.allrecipes.com/recipe/232350/sugar-cookie-bars/
+Sugar Cookies IX,14.89,0.17,2.17,0.61,0.06,[],https://www.allrecipes.com/recipe/10746/sugar-cookies-ix/
+Grandma Tibbitts Sugar Cookies,9.5,0.12,1.38,0.38,0.04,[],https://www.allrecipes.com/recipe/25067/grandma-tibbitts-sugar-cookies/
+4-Ingredient Keto Peanut Butter Cookies,11.08,0.5,1.0,0.92,0.08,['telur'],https://www.allrecipes.com/recipe/261181/4-ingredient-keto-peanut-butter-cookies/
+Best Pennsylvania Dutch Chicken Corn Soup,36.42,3.17,2.58,1.58,0.25,['susu'],https://www.allrecipes.com/recipe/26365/best-pennsylvania-dutch-chicken-corn-soup/
+No Bake Sugar Free Strawberry Cheesecake,52.0,1.0,4.17,3.5,0.5,"['keju', 'susu']",https://www.allrecipes.com/recipe/215589/no-bake-sugar-free-strawberry-cheesecake/
+No-Sugar Apple Pie,38.38,0.25,6.5,1.38,0.38,[],https://www.allrecipes.com/recipe/15697/no-sugar-apple-pie/
+Slow Cooker Ham and Beans,39.75,2.25,6.25,0.75,1.5,[],https://www.allrecipes.com/recipe/157825/slow-cooker-ham-and-beans/
+Sugar-Free Peanut Butter Cookies,5.75,0.25,0.21,0.5,0.08,[],https://www.allrecipes.com/recipe/158403/sugar-free-peanut-butter-cookies/
+Sugar-Free Cake,30.25,0.5,3.42,1.75,0.25,[],https://www.allrecipes.com/recipe/7419/sugar-free-cake/
+Low-Carb Almond Cinnamon Butter Cookies,16.33,0.42,1.08,1.5,0.17,['telur'],https://www.allrecipes.com/recipe/261182/low-carb-almond-cinnamon-butter-cookies/
+Air Fryer Pakoras,10.12,0.5,1.75,0.12,0.38,[],https://www.allrecipes.com/recipe/270817/air-fryer-pakoras/
+Brazilian White Rice,25.12,0.38,4.75,0.5,0.12,[],https://www.allrecipes.com/recipe/144308/brazilian-white-rice/
+Low-Sugar Strawberry Jam,0.5,0.0,0.12,N/A,0.0,[],https://www.allrecipes.com/recipe/217924/low-sugar-no-sugar-strawberry-jam/
+Crunchy Sugar-Free Granola,55.33,2.0,6.67,2.5,1.33,['telur'],https://www.allrecipes.com/recipe/261939/crunchy-sugar-free-granola/
+Basic Marinara for the Instant Pot,19.17,0.5,2.33,0.83,0.67,[],https://www.allrecipes.com/recipe/263334/basic-marinara-for-the-instant-pot/
+Best Pie Crust,25.12,0.25,2.25,1.62,0.12,[],https://www.allrecipes.com/recipe/12492/pie-crust-iv/
+Strawberry Fluff,26.22,1.0,3.67,1.0,0.11,['keju'],https://www.allrecipes.com/recipe/16034/strawberry-fluff/
+Reduced Fat French Toast,12.83,0.83,2.0,0.17,0.33,"['susu', 'telur']",https://www.allrecipes.com/recipe/21206/reduced-fat-french-toast/
+Bread Machine Sugar-Free Bread,7.33,0.27,1.4,0.07,0.13,['susu'],https://www.allrecipes.com/recipe/16708/bread-machine-sugar-free-bread/
+Sugar-Free Date Cookies,4.61,0.11,0.78,0.17,0.06,['telur'],https://www.allrecipes.com/recipe/275260/sugar-free-date-cookies/
+No Bake Sugar Free Cheese Cake,22.89,0.67,1.89,1.33,0.11,['keju'],https://www.allrecipes.com/recipe/19073/no-bake-sugar-free-cheese-cake/
+Espinacas con Garbanzos (Spinach with Garbanzo Beans),42.25,1.75,6.5,1.25,1.5,[],https://www.allrecipes.com/recipe/161535/espinacas-con-garbanzos-spinach-with-garbanzo-beans/
+Sugar Free Blueberry Coffee Cake,30.25,0.58,3.08,1.75,0.17,['susu'],https://www.allrecipes.com/recipe/74837/sugar-free-blueberry-coffee-cake/
+Sugar Free Brownies,2.96,0.08,0.2,0.24,0.04,['susu'],https://www.allrecipes.com/recipe/25113/sugar-free-brownies/
+Instant Millionaire Pie for Diabetics,44.62,0.5,4.25,3.0,0.25,['susu'],https://www.allrecipes.com/recipe/17590/instant-millionaire-pie-for-diabetics/
+Lime Pear Gelatin Salad,20.83,0.5,2.5,0.83,0.17,['keju'],https://www.allrecipes.com/recipe/156739/lime-pear-gelatin-salad/
+Chocolate-y Iced Mocha,105.0,5.0,17.0,2.0,1.0,['susu'],https://www.allrecipes.com/recipe/233013/chocolate-y-iced-mocha/
+Sugar-Free Frosting,11.25,0.25,0.92,0.75,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/17580/sugar-free-frosting/
+Smoked Turkey,24.83,3.33,N/A,1.17,N/A,[],https://www.allrecipes.com/recipe/35500/smoked-turkey/
+Cottage Cheese Fluff,30.5,2.67,3.0,0.67,N/A,['keju'],https://www.allrecipes.com/recipe/87198/cottage-cheese-fluff/
+Pork and Chicken Adobo,137.75,12.25,1.0,9.25,0.25,['ayam'],https://www.allrecipes.com/recipe/76455/pork-and-chicken-adobo/
+No-Sugar Pumpkin Pie,18.25,0.62,1.75,1.0,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/15403/sugarless-pumpkin-pie-ii/
+White Wine Chicken Soup,21.0,1.1,2.6,0.5,0.5,['ayam'],https://www.allrecipes.com/recipe/23857/white-wine-chicken-soup/
+Chicken and Dumplings IV,60.33,5.33,5.67,1.67,0.17,"['ayam', 'susu']",https://www.allrecipes.com/recipe/26374/chicken-and-dumplings-iv/
+Pam's Sugar Free Chocolate Pie,17.75,0.12,2.0,1.0,0.12,[],https://www.allrecipes.com/recipe/12431/pams-sugar-free-chocolate-pie/
+Spiced Air-Fried Chickpeas,31.0,1.25,4.25,1.0,1.0,[],https://www.allrecipes.com/recipe/264820/spiced-air-fried-chickpeas/
+"100% Fruit ""Cake""",29.12,0.62,7.38,0.12,0.5,[],https://www.allrecipes.com/recipe/218890/100-fruit-cake/
+Spiced Tea Mix,19.33,0.17,4.83,0.0,0.33,[],https://www.allrecipes.com/recipe/9458/spiced-tea-mix/
+Smoked Chicken Thighs,24.12,2.38,0.12,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/273871/smoked-chicken-thighs/
+Konbu Dashi,0.25,N/A,0.0,N/A,N/A,[],https://www.allrecipes.com/recipe/132030/konbu-dashi/
+Dietetic Banana Nut Muffins,6.42,0.25,1.42,0.0,0.17,['telur'],https://www.allrecipes.com/recipe/33290/dietetic-banana-nut-muffins/
+Almond Butter,3.56,0.12,0.12,0.31,0.06,[],https://www.allrecipes.com/recipe/145449/almond-butter/
+Black Olive Spread,8.0,0.12,0.25,0.75,0.12,['keju'],https://www.allrecipes.com/recipe/75618/black-olive-spread/
+Slow Cooker Cider Applesauce (No Sugar Added),4.75,0.0,1.25,0.0,0.25,[],https://www.allrecipes.com/recipe/228653/slow-cooker-cider-applesauce-no-sugar-added/
+Grandma's Secret Pie Crust,14.44,0.19,1.12,1.06,0.06,['telur'],https://www.allrecipes.com/recipe/12558/grandmas-secret-pie-crust/
+Perfect Pita Chips,16.25,0.38,2.5,0.5,0.12,[],https://www.allrecipes.com/recipe/146022/perfect-pita-chips/
+Chocolate Chip Cookies for Special Diets,1.25,0.08,0.08,0.06,0.0,['telur'],https://www.allrecipes.com/recipe/11594/chocolate-chip-cookies-for-special-diets/
+Delicious Turkey Glaze,915.0,1.0,100.0,61.0,0.0,[],https://www.allrecipes.com/recipe/13738/delicious-turkey-glaze/
+Skinny Cosmopolitan,112.0,0.0,6.0,N/A,1.0,[],https://www.allrecipes.com/recipe/228001/skinny-cosmopolitan/
+Gummy Candy,1.25,0.25,0.08,N/A,N/A,[],https://www.allrecipes.com/recipe/163124/gummy-candy/
+Chewy Keto Chocolate Cookies,11.53,0.33,0.87,1.07,0.13,[],https://www.allrecipes.com/recipe/261183/chewy-keto-chocolate-cookies/
+Ginny's Cauliflower and Pea Salad,8.92,0.67,0.75,0.42,0.25,['keju'],https://www.allrecipes.com/recipe/84012/ginnys-cauliflower-and-pea-salad/
+Sugar-Free BBQ Sauce,0.85,0.03,0.12,0.03,0.03,['sapi'],https://www.allrecipes.com/recipe/218895/sugar-free-bbq-sauce/
+Keto Crackers,0.28,0.03,0.0,0.03,0.0,"['keju', 'telur']",https://www.allrecipes.com/recipe/265673/keto-crackers/
+Scott's Sweet Potato and Butternut Squash Mashers,18.12,0.38,4.5,0.0,0.75,[],https://www.allrecipes.com/recipe/201130/scotts-sweet-potato-and-butternut-squash-mashers/
+No Sugar Added Cookies,80.5,1.33,7.33,5.33,0.67,['telur'],https://www.allrecipes.com/recipe/11349/no-sugar-added-cookies/
+Quick and Easy Grilled Cheese,471.0,18.0,27.0,32.0,2.0,['keju'],https://www.allrecipes.com/recipe/145967/quick-and-easy-grilled-cheese/
+Hot Mocha,59.0,6.0,11.0,1.0,2.0,['susu'],https://www.allrecipes.com/recipe/228004/hot-mocha/
+Jicama Appetizer,19.25,0.5,4.25,0.25,2.5,[],https://www.allrecipes.com/recipe/132280/jicama-appetizer/
+Sugar-Free Hot Chocolate Mix,18.11,1.33,2.56,0.44,0.22,['susu'],https://www.allrecipes.com/recipe/277753/sugar-free-hot-chocolate-mix/
+Sweet Dijon Salad Dressing,3.83,N/A,0.08,0.42,N/A,[],https://www.allrecipes.com/recipe/71400/sweet-dijon-salad-dressing/
+Multigrain Pancakes,30.0,1.5,5.75,0.25,0.5,"['susu', 'telur']",https://www.allrecipes.com/recipe/87475/multigrain-pancakes/
+Chicken Corn Chowder,N/A,N/A,N/A,N/A,N/A,['ayam'],https://www.allrecipes.com/recipe/26378/chicken-corn-chowder/
+Sugar-Free Peach and Banana Cobbler,20.0,0.5,3.88,0.38,0.38,"['telur', 'susu']",https://www.allrecipes.com/recipe/215588/sugar-free-peach-and-banana-cobbler/
+Simple Coffee Drink,124.0,8.0,12.0,5.0,N/A,['susu'],https://www.allrecipes.com/recipe/220310/simple-coffee-drink/
+Homemade Sushi,19.0,0.5,3.25,0.5,0.25,[],https://www.allrecipes.com/recipe/24228/sushi-roll/
+Cream Cheese and Crab Sushi Rolls,222.0,5.5,40.0,4.0,1.0,['keju'],https://www.allrecipes.com/recipe/169856/cream-cheese-and-crab-sushi-rolls/
+Cucumber and Avocado Sushi,28.5,0.5,4.83,0.83,0.5,[],https://www.allrecipes.com/recipe/99204/cucumber-and-avocado-sushi/
+Spicy Tuna Rolls,86.0,4.25,9.75,3.25,0.25,[],https://www.allrecipes.com/recipe/279434/spicy-tuna-rolls/
+Spicy Tuna Sushi Roll,86.5,3.5,11.75,3.0,1.5,[],https://www.allrecipes.com/recipe/190943/spicy-tuna-sushi-roll/
+California Roll Sushi,29.0,0.5,3.0,1.75,0.5,[],https://www.allrecipes.com/recipe/189477/california-roll-sushi/
+Vegetarian Sushi,96.25,2.0,17.5,2.25,1.25,[],https://www.allrecipes.com/recipe/221920/vegetarian-sushi/
+Perfect Sushi Rice,7.47,0.13,1.6,0.07,0.07,[],https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/
+Homemade Sushi Rolls,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/8536667/homemade-sushi-rolls/
+Spicy Yellowtail Sushi Roll,135.5,3.75,22.25,3.25,0.75,['ikan'],https://www.allrecipes.com/recipe/283035/spicy-yellowtail-sushi-roll/
+Buffalo Chicken Sushi Roll,130.5,3.75,13.75,6.5,1.0,['ayam'],https://www.allrecipes.com/recipe/239021/buffalo-chicken-sushi-roll/
+Spicy Sushi Roll,113.67,3.33,13.67,5.33,1.0,[],https://www.allrecipes.com/recipe/241197/spicy-sushi-roll/
+Mom's Sushi Rice,18.1,0.3,4.1,0.0,0.1,[],https://www.allrecipes.com/recipe/137596/moms-sushi-rice/
+California Sushi Roll,1.54,0.04,0.33,N/A,0.0,[],https://www.allrecipes.com/recipe/271058/california-sushi-roll/
+Dragon Roll,547.5,33.5,47.0,25.0,4.5,['udang'],https://www.allrecipes.com/recipe/257768/dragon-roll/
+Instant Pot Sushi Rice,24.33,0.33,5.0,0.0,0.17,[],https://www.allrecipes.com/recipe/278798/instant-pot-sushi-rice/
+Kimbop (Korean Sushi),88.25,3.0,10.25,3.75,0.25,['keju'],https://www.allrecipes.com/recipe/143496/kimbop-korean-sushi/
+Grilled Bacon Sushi Roll,165.0,5.25,7.0,12.25,0.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/259213/grilled-bacon-sushi-roll/
+Deep-Fried California Roll Rice Balls,154.2,4.0,18.6,7.2,1.2,['keju'],https://www.allrecipes.com/recipe/283897/deep-fried-california-roll-rice-balls/
+Mexican Sushi,55.33,1.5,6.83,2.67,1.33,['keju'],https://www.allrecipes.com/recipe/235848/mexican-sushi/
+Basic California Roll,88.0,2.0,8.5,5.5,1.25,['ikan'],https://www.allrecipes.com/recipe/279559/basic-california-roll/
+Spicy Crunchy Salmon Roll with Avocado,99.2,2.8,10.2,5.6,0.8,['keju'],https://www.allrecipes.com/recipe/286030/spicy-crunchy-salmon-roll-with-avocado/
+Easy California Roll Sushi Salad,122.75,3.25,22.5,2.0,1.5,[],https://www.allrecipes.com/recipe/277025/easy-california-roll-sushi-salad/
+The Best Ever Vegan Sushi,49.83,1.5,6.17,2.33,0.5,[],https://www.allrecipes.com/recipe/261714/the-best-ever-vegan-sushi/
+Crispy Rice Sushi Bites (Copycat Nobu Recipe),19.83,0.83,1.17,1.33,0.17,[],https://www.allrecipes.com/recipe/8403781/crispy-rice-sushi-bites-copycat-nobu-recipe/
+Chirashi Bowl,53.12,3.88,6.75,1.12,0.5,['udang'],https://www.allrecipes.com/recipe/271060/chirashi-bowl/
+Korean Sushi,82.0,3.83,9.67,3.0,0.5,['sapi'],https://www.allrecipes.com/recipe/23954/korean-sushi/
+Nigiri Sushi,138.75,8.75,19.25,2.5,0.25,['udang'],https://www.allrecipes.com/recipe/228952/nigiri-sushi/
+Ahi Sushi Cups,52.0,3.67,5.67,1.67,0.67,['keju'],https://www.allrecipes.com/recipe/284546/ahi-sushi-cups/
+Sushi Burritos,262.5,5.0,33.0,13.0,3.0,['keju'],https://www.allrecipes.com/recipe/282834/sushi-burritos/
+Sushi Party,43.0,1.08,7.33,1.0,0.5,['udang'],https://www.allrecipes.com/recipe/234351/sushi-party/
+Spicy Salmon Maki,126.5,4.25,14.0,6.25,1.5,[],https://www.allrecipes.com/recipe/285859/spicy-salmon-maki/
+Low-Carb Cauliflower Rice Sushi Rolls,135.67,7.33,7.0,10.0,3.0,['keju'],https://www.allrecipes.com/recipe/277688/low-carb-cauliflower-rice-sushi-rolls/
+Chakin Sushi,36.33,1.17,5.5,1.17,0.33,[],https://www.allrecipes.com/recipe/139030/chakin-sushi/
+Sushi Cake,22.25,0.5,2.81,1.0,0.12,['keju'],https://www.allrecipes.com/recipe/283496/sushi-cake/
+Mini Cucumber Sushi Rolls,3.83,0.08,0.33,0.25,0.0,['keju'],https://www.allrecipes.com/recipe/221925/mini-cucumber-sushi-rolls/
+Deconstructed California Roll Sushi,98.0,2.25,13.75,4.0,2.0,[],https://www.allrecipes.com/recipe/283521/deconstructed-california-roll-sushi/
+How to Make Japanese Rice Balls (Onigiri),168.5,8.0,30.0,1.5,1.0,[],https://www.allrecipes.com/recipe/285117/how-to-make-japanese-rice-balls-onigiri/
+Turkey Roll Sushi,56.25,3.75,4.75,2.5,0.5,['keju'],https://www.allrecipes.com/recipe/237716/turkey-roll-sushi/
+Homemade Salmon Sushi Rolls,36.75,2.0,3.75,1.5,0.25,['keju'],https://www.allrecipes.com/recipe/281297/homemade-sushi-rolls/
+How to Make Rice Balls (Onigiri),120.0,2.5,26.5,0.0,1.0,[],https://www.allrecipes.com/recipe/285116/how-to-make-rice-balls-onigiri/
+Sarah's Special Sushi,393.5,10.5,51.5,16.5,1.5,['keju'],https://www.allrecipes.com/recipe/195910/sarahs-special-sushi/
+Quick Vegan Sushi,292.0,7.0,63.0,2.0,7.0,[],https://www.allrecipes.com/recipe/277023/quick-vegan-sushi/
+Grandma's Sweet Potato Pie,62.5,0.75,9.0,2.62,0.75,[],https://www.allrecipes.com/recipe/259756/grandmas-sweet-potato-pie/
+Sweet Potato Pie,48.62,0.62,6.0,2.62,0.38,['susu'],https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/
+Sweet Potato Pie from Eagle Brand,57.62,0.75,4.75,2.5,0.38,['susu'],https://www.allrecipes.com/recipe/63971/sweet-potato-pie-from-eagle-brand/
+World's Best Sweet Potato Pie,12.54,0.21,1.33,0.71,0.12,['susu'],https://www.allrecipes.com/recipe/240205/worlds-best-sweet-potato-pie/
+Old-Fashioned Sweet Potato Pie,31.5,0.88,3.75,1.5,0.25,['susu'],https://www.allrecipes.com/recipe/19557/old-fashioned-sweet-potato-pie/
+Sweet Potato Pecan Pie,64.88,0.75,7.62,3.62,0.5,[],https://www.allrecipes.com/recipe/12446/sweet-potato-pecan-pie/
+Easy Sweet Potato Pie,40.75,0.88,4.25,2.25,0.38,['susu'],https://www.allrecipes.com/recipe/12190/easy-sweet-potato-pie/
+Sweet Potato Pie II,56.12,0.75,7.5,2.75,0.25,['susu'],https://www.allrecipes.com/recipe/19556/sweet-potato-pie-ii/
+Sweetest Southern Sweet Potato Pie,66.25,0.75,10.0,2.75,0.25,['susu'],https://www.allrecipes.com/recipe/228449/sweetest-southern-sweet-potato-pie/
+Sweet Potato Pie VII,38.75,0.62,5.88,1.5,0.38,[],https://www.allrecipes.com/recipe/17106/sweet-potato-pie-vii/
+Mom's Sweet Potato Pie,16.06,0.19,2.25,0.69,0.12,['susu'],https://www.allrecipes.com/recipe/237908/moms-sweet-potato-pie/
+Mini Sweet Potato Pies,2.88,0.08,0.42,0.12,0.04,"['telur', 'susu']",https://www.allrecipes.com/recipe/76821/mini-sweet-potato-pies/
+Southern Sweet Potato Pie,23.19,0.31,3.38,0.94,0.19,['susu'],https://www.allrecipes.com/recipe/22522/sweet-potato-pie-ix/
+Mimi's Southern Sweet Potato Pie,19.25,0.19,2.69,0.94,0.06,['susu'],https://www.allrecipes.com/recipe/277869/southern-sweet-potato-pie/
+Sweet Potato Pie IV,65.38,1.12,7.12,3.75,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/12493/sweet-potato-pie-iv/
+Sweet Potato Pie with Pecans,96.5,1.12,8.38,6.62,0.5,['susu'],https://www.allrecipes.com/recipe/13803/sweet-potato-pie-with-pecans/
+Sweet Potato Pie with Evaporated Milk,97.75,1.62,10.62,5.62,0.62,['susu'],https://www.allrecipes.com/recipe/23754/sweet-potato-pie-with-evaporated-milk/
+Grandaddy's Sweet Potato Meringue Pie,62.5,1.0,8.75,2.75,0.75,['susu'],https://www.allrecipes.com/recipe/214758/grandaddys-sweet-potato-meringue-pie/
+Healthier Sweet Potato Pie,39.5,0.5,4.25,2.38,0.25,['susu'],https://www.allrecipes.com/recipe/222124/healthier-sweet-potato-pie-i/
+Sweet Potato Butternut Squash Pie,49.88,0.88,8.12,1.5,0.38,['susu'],https://www.allrecipes.com/recipe/149702/sweet-potato-butternut-squash-pie/
+Sweet Potato Pie with Marshmallow Meringue Topping,63.5,0.75,9.12,2.75,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/150836/sweet-potato-pie-with-marshmallow-meringue-topping/
+Goldilocks Sweet Potato Pie,49.75,0.62,6.25,2.62,0.25,['susu'],https://www.allrecipes.com/recipe/234167/goldilocks-sweet-potato-pie/
+Haupia and Purple Sweet Potato Pie,25.31,0.25,2.31,1.75,0.12,['susu'],https://www.allrecipes.com/recipe/257081/haupia-and-purple-sweet-potato-pie/
+Sweet Potato and Carrot Pie,27.0,0.5,4.5,0.88,0.25,['susu'],https://www.allrecipes.com/recipe/146042/sweet-potato-and-carrot-pie/
+Sarah Contona's Sweet Potato Pie,69.75,0.88,9.5,3.0,0.25,['keju'],https://www.allrecipes.com/recipe/29906/sarah-contonas-sweet-potato-pie/
+Mini Sweet Potato Pumpkin Pies,86.33,0.83,11.5,4.33,0.83,"['susu', 'telur']",https://www.allrecipes.com/recipe/230037/mini-sweet-potato-pumpkin-pies/
+Delicious Sweet Potato Pie Recipe,40.88,0.62,6.38,1.5,0.38,[],https://www.allrecipes.com/recipe/259755/delicious-sweet-potato-pie-recipe/
+Sweet Potato Cheesecake Pie,54.6,0.8,4.3,4.0,0.4,"['keju', 'telur']",https://www.allrecipes.com/recipe/256450/sweet-potato-cheesecake-pie/
+Easy Swiss Steak,43.67,4.83,1.17,2.0,0.17,['sapi'],https://www.allrecipes.com/recipe/229345/my-mothers-swiss-steak/
+Instant Pot Swiss Steak,84.25,7.0,5.0,3.5,1.0,[],https://www.allrecipes.com/recipe/276108/instant-pot-swiss-steak/
+Slow Cooker Swiss Steak,41.0,2.83,3.17,1.83,0.5,[],https://www.allrecipes.com/recipe/49591/slow-cooker-swiss-steak/
+Easy and Quick Swiss Steak,43.62,2.75,6.12,1.12,0.88,['sapi'],https://www.allrecipes.com/recipe/74352/easy-and-quick-swiss-steak/
+Swiss Steak,64.5,5.33,1.67,4.0,0.17,['sapi'],https://www.allrecipes.com/recipe/229988/swiss-steak/
+My Mom's Swiss Steak,76.75,5.5,3.5,4.5,0.75,['sapi'],https://www.allrecipes.com/recipe/73089/my-moms-swiss-steak/
+Grandma's Slow Cooker Swiss Steak,61.33,5.0,2.67,3.17,0.17,"['keju', 'sapi']",https://www.allrecipes.com/recipe/230773/grandmas-slow-cooker-swiss-steak/
+Granny's Swiss Steak,103.25,4.75,10.5,5.0,1.0,[],https://www.allrecipes.com/recipe/42090/grannys-swiss-steak/
+Taco Salad,105.75,3.25,7.5,7.12,0.88,"['keju', 'sapi']",https://www.allrecipes.com/recipe/14253/taco-salad-i/
+Doritos® Taco Salad,84.83,4.17,6.67,4.83,1.17,"['keju', 'sapi']",https://www.allrecipes.com/recipe/283687/doritos-taco-salad/
+Taco Salad III,118.12,3.38,9.5,7.62,1.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16848/taco-salad-iii/
+Taco Salad with Lime Vinegar Dressing,138.5,7.75,13.0,6.5,3.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/241982/taco-salad-with-lime-vinegar-dressing/
+Chicken Fiesta Salad,77.75,5.75,10.5,1.5,2.75,['ayam'],https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/
+"Low-Carb ""Tacos""",130.25,8.75,4.0,8.75,1.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/239831/low-carb-tacos/
+Chicken Taco Salad,117.5,8.75,11.0,4.75,4.0,['ayam'],https://www.allrecipes.com/recipe/223029/grilled-chicken-taco-salad/
+Easy Black Bean Taco Salad,259.75,11.75,21.0,14.75,3.75,"['keju', 'sapi']",https://www.allrecipes.com/recipe/221919/easy-black-bean-taco-salad/
+Sue's Taco Salad,104.33,4.67,5.5,7.0,0.67,"['keju', 'sapi']",https://www.allrecipes.com/recipe/18071/sues-taco-salad/
+Easy Doritos Taco Salad,31.73,0.8,1.73,2.4,0.13,"['keju', 'sapi']",https://www.allrecipes.com/recipe/223008/easy-dorito-taco-salad/
+Beef Taco Salad,77.83,4.17,3.83,5.0,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16138/taco-salad-ii/
+Spicy Dorito Taco Salad,56.1,1.8,3.4,4.0,0.4,"['keju', 'sapi']",https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/
+Easy Keto Taco Salad Bowl for 2,274.0,11.5,8.0,22.5,4.5,['sapi'],https://www.allrecipes.com/recipe/264429/easy-keto-taco-salad-bowl-for-2/
+Quick Taco Salad,79.75,3.75,4.62,5.12,0.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/221915/quick-taco-salad/
+Broccoli Slaw with Spicy Dressing,35.75,0.25,3.0,2.75,0.75,[],https://www.allrecipes.com/recipe/261575/broccoli-slaw-with-spicy-dressing/
+Grilled Chicken Fajita Salad,70.75,6.75,5.0,2.5,1.25,['ayam'],https://www.allrecipes.com/recipe/256627/grilled-chicken-fajita-salad/
+Italian Taco Salad,101.67,5.5,2.33,7.83,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/24362/italian-taco-salad/
+Taco Pasta Salad with French Dressing,43.58,1.5,3.25,2.83,0.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/272283/taco-pasta-salad-with-french-dressing/
+Grandma's Easy Turkey Taco Salad,92.17,3.33,8.17,5.5,0.67,[],https://www.allrecipes.com/recipe/60015/grandmas-easy-turkey-taco-salad/
+Turkey Taco Salad,28.58,1.42,3.83,0.92,0.5,['keju'],https://www.allrecipes.com/recipe/14470/turkey-taco-salad/
+Quick Turkey Taco Salad,270.5,18.0,20.0,13.5,3.0,['keju'],https://www.allrecipes.com/recipe/232245/quick-turkey-taco-salad/
+Taco Bean Salad,82.17,2.33,3.58,6.67,1.08,"['keju', 'sapi']",https://www.allrecipes.com/recipe/228250/taco-bean-salad/
+Low-Fat Taco Salad,343.5,40.0,24.5,7.5,5.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/238102/low-fat-taco-salad/
+Mom's Hot Mexican Salad,77.12,4.12,6.25,4.12,0.62,"['keju', 'sapi']",https://www.allrecipes.com/recipe/14300/moms-hot-mexican-salad/
+Dana's Taco Salad,146.0,6.5,14.0,7.75,5.0,[],https://www.allrecipes.com/recipe/143263/danas-taco-salad/
+Healthier Taco Salad,59.88,4.12,6.38,2.12,0.62,"['keju', 'sapi']",https://www.allrecipes.com/recipe/266001/healthier-taco-salad/
+Fish Taco Salad,406.5,16.5,24.5,28.5,5.5,"['keju', 'ikan']",https://www.allrecipes.com/recipe/272599/fish-taco-salad/
+Vegetarian Taco Salad,96.57,4.57,11.57,3.71,2.71,['keju'],https://www.allrecipes.com/recipe/16814/taco-salad/
+Rio Grande Especial,106.0,6.75,12.5,3.75,1.75,['sapi'],https://www.allrecipes.com/recipe/231110/rio-grande-especial/
+Beef Birria Queso Tacos with Consommé,84.25,4.25,6.75,4.75,1.0,"['keju', 'sapi', 'ayam']",https://www.allrecipes.com/recipe/282114/beef-birria-queso-tacos-with-consome/
+Phenomenal Pork Tacos,65.33,2.5,7.5,2.83,0.67,['ayam'],https://www.allrecipes.com/recipe/269743/poblano-and-ground-pork-tacos/
+Shrimp Tacos with Cilantro-Lime Crema,7.35,0.5,0.75,0.3,0.2,['udang'],https://www.allrecipes.com/recipe/280916/shrimp-tacos-with-cilantro-lime-crema/
+Barbacoa Tacos,128.5,7.17,4.17,9.33,1.33,['sapi'],https://www.allrecipes.com/recipe/8497570/barbacoa-tacos/
+Traditional Mexican Street Tacos,348.5,32.0,22.0,15.0,5.0,['ayam'],https://www.allrecipes.com/recipe/257988/traditional-mexican-street-tacos/
+Birria de Pollo (Chicken Birria) Tacos,42.5,4.67,1.33,1.83,0.17,['ayam'],https://www.allrecipes.com/recipe/8463920/birria-de-pollo-chicken-birria-for-tacos/
+Ground Turkey Taco Meat,67.0,7.0,2.0,3.33,0.67,[],https://www.allrecipes.com/recipe/255545/ground-turkey-taco-meat/
+Sarah's Easy Shredded Chicken Taco Filling,53.25,8.75,0.25,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/220326/sarahs-easy-shredded-chicken-taco-filling/
+Authentic Tacos al Pastor,20.4,1.7,2.3,0.6,0.3,[],https://www.allrecipes.com/recipe/257538/authentic-tacos-al-pastor/
+Fish Tacos,51.12,2.12,5.38,2.38,0.62,['telur'],https://www.allrecipes.com/recipe/53729/fish-tacos/
+Easy Chorizo Street Tacos,131.0,5.0,13.0,6.5,2.0,[],https://www.allrecipes.com/recipe/257865/easy-chorizo-street-tacos/
+Navajo Fry Bread,18.61,0.22,1.28,1.39,0.06,['susu'],https://www.allrecipes.com/recipe/17053/navajo-fry-bread-ii/
+Ground Pork Tacos with Pineapple Salsa,20.75,1.25,0.5,1.5,0.12,[],https://www.allrecipes.com/recipe/8500479/ground-pork-tacos-with-pineapple-salsa/
+Low-Carb Keto Cheese Taco Shells,57.0,3.5,0.25,4.75,N/A,['keju'],https://www.allrecipes.com/recipe/261028/low-carb-keto-cheese-taco-shells/
+Arrachera (Mexican Skirt Steak for Tacos),29.0,3.17,1.0,1.0,0.17,[],https://www.allrecipes.com/recipe/265380/arrachera-mexican-skirt-steak-for-tacos/
+Birria de Res Tacos (Beef Birria Tacos),14.89,0.94,0.06,1.17,0.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/265338/birria-de-res-tacos-beef-birria-tacos/
+Taqueria-Style Tacos - Carne Asada,23.06,1.12,2.0,1.25,0.31,['keju'],https://www.allrecipes.com/recipe/70935/taqueria-style-tacos-carne-asada/
+Mexican Breakfast Tacos,134.25,7.75,7.0,8.5,1.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/85185/authentic-mexican-breakfast-tacos/
+Taco in a Bag,225.5,8.75,13.5,15.25,1.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/20852/taco-in-a-bag/
+Air Fryer Oven Taco Shells,10.25,0.25,2.0,0.25,0.25,[],https://www.allrecipes.com/recipe/280697/air-fryer-oven-taco-shells/
+Grilled Fish Tacos with Chipotle-Lime Dressing,69.33,3.83,6.5,3.17,1.0,[],https://www.allrecipes.com/recipe/142614/grilled-fish-tacos-with-chipotle-lime-dressing/
+Simple Slow-Cooked Korean Beef Soft Tacos,57.0,3.0,5.0,2.75,0.5,['sapi'],https://www.allrecipes.com/recipe/237005/simple-slow-cooked-korean-beef-soft-tacos/
+Chicken Wonton Tacos,35.0,2.57,3.0,1.43,0.43,['ayam'],https://www.allrecipes.com/recipe/245253/chicken-wonton-tacos/
+Instant Pot Tacos al Pastor,35.92,1.83,4.5,1.17,0.42,[],https://www.allrecipes.com/recipe/270608/instant-pot-tacos-al-pastor/
+Favorite Fry Bread Tacos,116.0,5.5,8.5,6.83,1.17,"['keju', 'sapi']",https://www.allrecipes.com/recipe/244351/favorite-fry-bread-tacos/
+Halibut Fish Tacos,33.62,1.5,2.25,2.12,0.62,['keju'],https://www.allrecipes.com/recipe/273350/halibut-fish-tacos/
+Tasty Lentil Tacos,50.67,1.5,7.33,1.67,1.5,['ayam'],https://www.allrecipes.com/recipe/222610/tasty-lentil-tacos/
+Slow Cooker Tacos al Pastor,39.8,2.6,4.3,1.4,0.5,[],https://www.allrecipes.com/recipe/266022/slow-cooker-tacos-al-pastor/
+Carne Asada Tacos,78.67,5.0,6.67,3.83,2.17,['sapi'],https://www.allrecipes.com/recipe/37336/carne-asada-tacos/
+Air Fryer Crispy Fish Tacos with Slaw,92.5,6.5,12.0,2.0,1.25,[],https://www.allrecipes.com/recipe/277359/air-fryer-crispy-fish-tacos-with-slaw/
+Baked Cod Fish Tacos,52.17,3.33,6.0,1.67,0.67,[],https://www.allrecipes.com/recipe/278965/baked-cod-fish-tacos/
+Lime Chicken Soft Tacos,20.4,1.6,1.9,0.7,0.1,"['keju', 'ayam']",https://www.allrecipes.com/recipe/25371/lime-chicken-soft-tacos/
+Delicious Beef Tongue Tacos,11.35,0.55,0.7,0.7,0.1,['sapi'],https://www.allrecipes.com/recipe/157899/delicious-beef-tongue-tacos/
+Fry Bread Tacos,202.0,10.0,19.25,9.25,1.75,"['keju', 'sapi', 'susu']",https://www.allrecipes.com/recipe/50435/fry-bread-tacos-ii/
+Fish Tacos with Mango Salsa,40.5,2.38,3.0,2.25,0.75,[],https://www.allrecipes.com/recipe/233899/healthy-fish-tacos-with-mango-salsa/
+Navajo Tacos,70.83,3.5,7.5,3.0,0.83,['sapi'],https://www.allrecipes.com/recipe/247201/navajo-tacos/
+Indian Tacos with Yeast Fry Bread,440.5,7.0,13.17,40.83,1.5,"['keju', 'sapi']",https://www.allrecipes.com/recipe/222993/indian-tacos-with-yeast-fry-bread/
+Tacos De Matamoros,104.83,6.33,5.5,6.5,1.0,['keju'],https://www.allrecipes.com/recipe/86347/tacos-de-matamoros/
+Air Fryer Tacos de Papa,13.7,0.5,2.2,0.4,0.2,['keju'],https://www.allrecipes.com/recipe/279985/air-fryer-tacos-de-papa/
+Eggplant Tacos,63.75,1.0,5.75,4.5,1.75,[],https://www.allrecipes.com/recipe/240499/eggplant-tacos/
+Tacos de Jamaica (Vegan Hibiscus Tacos),5.61,0.11,0.94,0.17,0.17,[],https://www.allrecipes.com/recipe/260001/tacos-de-jamaica-vegan-hibiscus-tacos/
+Shrimp Tacos,141.75,7.75,15.0,5.75,2.0,['udang'],https://www.allrecipes.com/recipe/139830/shrimp-tacos/
+Chicken Tacos,50.12,3.12,3.75,2.62,0.5,"['keju', 'ayam']",https://www.allrecipes.com/recipe/37906/chicken-tacos/
+Easy Keto Beef Tacos,169.0,10.25,2.5,13.25,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/261032/easy-keto-beef-tacos/
+Impossible™ Burger Street Tacos,61.17,1.5,7.67,1.83,0.83,['sapi'],https://www.allrecipes.com/recipe/282237/impossible-burger-street-tacos/
+Slow Cooker Shredded Venison for Tacos,57.57,9.14,1.0,1.57,0.0,[],https://www.allrecipes.com/recipe/18853/slow-cooker-shredded-venison-for-tacos/
+Quick Fish Tacos,104.0,7.5,9.75,3.75,1.0,[],https://www.allrecipes.com/recipe/221936/quick-fish-tacos/
+Shredded Chicken Tacos,30.5,3.0,2.0,1.12,0.25,['ayam'],https://www.allrecipes.com/recipe/278725/easy-shredded-chicken-tacos/
+Goya Shredded Chicken Tacos,N/A,N/A,N/A,N/A,N/A,['ayam'],https://www.allrecipes.com/recipe/215224/shredded-chicken-tacos/
+Home-style Tacos al Pastor (Chile and Pineapple Pork Tacos),N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/215235/home-style-tacos-al-pastor-chile-and-pineapple-pork-tacos/
+Black Bean Tacos,100.5,3.25,11.0,5.25,3.25,['keju'],https://www.allrecipes.com/recipe/228915/black-bean-tacos/
+Taco Lettuce Wraps,45.83,3.67,5.5,1.17,1.33,[],https://www.allrecipes.com/recipe/274968/taco-lettuce-wraps/
+Vegan Bean Taco Filling,17.75,1.0,3.0,0.38,1.12,[],https://www.allrecipes.com/recipe/84043/vegan-bean-taco-filling/
+Vegetarian Chickpea Tacos,82.75,2.25,13.75,2.0,2.0,[],https://www.allrecipes.com/recipe/260289/vegetarian-chickpea-tacos/
+Slow Cooker Texas Pulled Pork,66.0,4.0,5.75,2.88,0.38,['ayam'],https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+Best Brownies,11.5,0.12,1.56,0.56,0.06,[],https://www.allrecipes.com/recipe/10549/best-brownies/
+Juiciest Hamburgers Ever,36.0,2.75,1.12,2.25,0.12,"['susu', 'sapi', 'telur']",https://www.allrecipes.com/recipe/49404/juiciest-hamburgers-ever/
+Grilled Salmon,53.0,3.5,2.17,3.33,0.0,[],https://www.allrecipes.com/recipe/12720/grilled-salmon-i/
+Jen's Hearty Three Meat Chili,77.5,5.5,3.12,4.5,0.75,['sapi'],https://www.allrecipes.com/recipe/154905/jens-hearty-three-meat-chili/
+Prize-Winning Baby Back Ribs,151.83,8.0,3.5,11.83,0.17,[],https://www.allrecipes.com/recipe/14539/prize-winning-baby-back-ribs/
+Boilermaker Tailgate Chili,50.0,2.58,4.58,2.5,1.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/78299/boilermaker-tailgate-chili/
+Seven Layer Bars,4.31,0.06,0.47,0.28,0.03,['susu'],https://www.allrecipes.com/recipe/9889/seven-layer-bars/
+Cedar Planked Salmon,113.0,10.17,0.33,7.67,0.0,[],https://www.allrecipes.com/recipe/109297/cedar-planked-salmon/
+Homestyle Potato Chips,22.38,0.25,2.38,1.38,0.25,[],https://www.allrecipes.com/recipe/73135/homestyle-potato-chips/
+Peanut Butter Bars,44.33,0.75,4.08,3.08,0.25,[],https://www.allrecipes.com/recipe/9999/peanut-butter-bars-i/
+Slow Cooker Chili,34.12,2.38,4.12,1.0,1.38,['sapi'],https://www.allrecipes.com/recipe/48449/slow-cooker-chili-ii/
+Real Wisconsin Fried Cheese Curds,23.12,1.0,0.44,1.94,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/216711/real-wisconsin-fried-cheese-curds/
+Chicken Wing Dip,15.0,0.56,0.12,1.38,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/90544/chicken-wing-dip/
+Texas Sheet Cake,8.0,0.06,1.12,0.41,0.03,['susu'],https://www.allrecipes.com/recipe/23056/texas-sheet-cake-v/
+Detroit Hot Honey Wings,70.0,1.83,7.83,3.83,0.0,['ayam'],https://www.allrecipes.com/recipe/142120/detroit-hot-honey-wings/
+Pumpkin Cupcakes,9.88,0.12,1.5,0.42,0.04,"['keju', 'susu']",https://www.allrecipes.com/recipe/153245/pumpkin-spice-cupcakes/
+Fried Mac and Cheese Balls,67.88,2.5,5.25,4.0,0.25,"['keju', 'susu']",https://www.allrecipes.com/recipe/186033/fried-mac-and-cheese-balls/
+Blonde Brownies,79.5,1.0,10.83,3.83,0.33,['telur'],https://www.allrecipes.com/recipe/10177/blonde-brownies-i/
+Delicious Raspberry Oatmeal Cookie Bars,32.44,0.33,5.22,1.22,0.11,[],https://www.allrecipes.com/recipe/11314/delicious-raspberry-oatmeal-cookie-bars/
+Sweet Restaurant Slaw,25.0,0.12,2.88,1.5,0.12,[],https://www.allrecipes.com/recipe/142027/sweet-restaurant-slaw/
+Wisconsin Bratwurst,55.8,1.4,1.0,4.5,0.0,[],https://www.allrecipes.com/recipe/14524/wisconsin-bratwurst/
+Grill Master Chicken Wings,18.1,1.0,0.2,1.5,0.0,['ayam'],https://www.allrecipes.com/recipe/213068/grill-master-chicken-wings/
+It's Chili by George!!,30.5,2.2,2.6,1.4,0.7,['sapi'],https://www.allrecipes.com/recipe/14985/its-chili-by-george/
+Baked Hawaiian Sandwiches,17.75,0.96,1.96,0.46,0.08,['keju'],https://www.allrecipes.com/recipe/229038/baked-hawaiian-sandwiches/
+Slow Cooker Vegan Chili,8.93,0.4,1.67,0.13,0.47,[],https://www.allrecipes.com/recipe/215311/hearty-vegan-slow-cooker-chili/
+Slow Cooker Carolina BBQ,29.3,2.8,0.4,1.7,0.0,[],https://www.allrecipes.com/recipe/148544/slow-cooker-carolina-bbq/
+BBQ Turkey,107.83,9.83,1.33,6.42,0.17,['ayam'],https://www.allrecipes.com/recipe/95158/bbq-turkey/
+Marinated Grilled Shrimp,45.5,5.17,0.5,2.5,0.0,['udang'],https://www.allrecipes.com/recipe/21694/marinated-grilled-shrimp/
+Grilled Jalapeño Poppers,10.25,0.38,0.12,0.94,0.0,['keju'],https://www.allrecipes.com/recipe/215701/grilled-jalapeno-poppers/
+Simple Country Ribs,220.5,9.0,23.5,9.5,0.5,[],https://www.allrecipes.com/recipe/25432/simple-country-ribs/
+Grilled Bacon Jalapeño Wraps,65.17,1.67,0.33,6.33,0.0,['keju'],https://www.allrecipes.com/recipe/87076/grilled-bacon-jalapeno-wraps/
+Chocolate Popcorn,11.62,0.19,1.19,0.75,0.12,[],https://www.allrecipes.com/recipe/160595/chocolate-popcorn/
+Apple Squares,8.94,0.12,1.38,0.38,0.06,['telur'],https://www.allrecipes.com/recipe/15067/apple-squares/
+Chinese Pork Chops,30.5,3.33,1.83,1.0,0.0,[],https://www.allrecipes.com/recipe/72007/chinese-pork-chops/
+Outrageous Warm Chicken Nacho Dip,6.95,0.55,0.25,0.4,0.05,"['keju', 'ayam']",https://www.allrecipes.com/recipe/157940/outrageous-warm-chicken-nacho-dip/
+Slow Cooker Beer Pulled Pork,13.06,0.94,0.56,0.75,0.0,[],https://www.allrecipes.com/recipe/235950/slow-cooker-beer-pulled-pork/
+Favorite Barbecue Chicken,226.0,13.0,30.0,6.5,0.5,['ayam'],https://www.allrecipes.com/recipe/51372/favorite-barbecue-chicken/
+Quick Baby Back Ribs,116.25,6.0,6.0,7.5,0.25,[],https://www.allrecipes.com/recipe/76057/quick-baby-back-ribs/
+Baked Buffalo Chicken Dip,50.88,2.12,0.38,4.5,0.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/221131/baked-buffalo-chicken-dip/
+Cajun Deep-Fried Turkey,86.33,7.58,0.25,5.92,0.0,[],https://www.allrecipes.com/recipe/130351/cajun-deep-fried-turkey/
+Grilled Delmonico Steaks,169.0,8.5,3.75,13.5,0.5,[],https://www.allrecipes.com/recipe/68301/grilled-delmonico-steaks/
+Deep-Fried Mushrooms,15.88,0.5,1.75,0.88,0.12,['telur'],https://www.allrecipes.com/recipe/144950/deep-fried-mushrooms/
+Slow Roasted BBQ Beef Roast,48.5,4.5,0.1,3.3,0.0,[],https://www.allrecipes.com/recipe/49332/slow-roasted-bbq-beef-roast/
+Burger Sliders,9.67,0.5,0.67,0.54,0.04,"['keju', 'sapi']",https://www.allrecipes.com/recipe/178295/slider-style-mini-burgers/
+Buffalo Chicken Wraps,147.0,7.5,10.0,8.25,0.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/188473/buffalo-chicken-wraps/
+Loaded Tater Tots,21.42,0.67,1.92,1.42,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/245542/loaded-tater-tots/
+Emily's Chipotle Chili,56.0,4.12,3.0,3.12,1.0,['sapi'],https://www.allrecipes.com/recipe/150297/emilys-chipotle-chili/
+Grilled Lobster Tails,371.0,22.0,2.0,30.5,0.5,[],https://www.allrecipes.com/recipe/36996/grilled-rock-lobster-tails/
+Ranch Burgers,33.5,2.88,1.0,1.88,0.0,"['sapi', 'telur']",https://www.allrecipes.com/recipe/72715/ranch-burgers/
+Southern-Style Egg Salad,10.2,0.4,0.2,0.9,0.0,[],https://www.allrecipes.com/recipe/280034/southern-style-egg-salad/
+Hash Brown Casserole for the Slow Cooker,12.38,0.44,0.94,1.0,0.06,['keju'],https://www.allrecipes.com/recipe/149855/hash-brown-casserole-for-the-slow-cooker/
+Blueberry Crumb Bars,21.2,0.2,3.0,0.93,0.13,['telur'],https://www.allrecipes.com/recipe/10462/blueberry-crumb-bars/
+White Texas Sheet Cake,14.33,0.08,2.0,0.71,0.04,['susu'],https://www.allrecipes.com/recipe/7820/white-texas-sheet-cake/
+Cedar Plank Salmon,107.25,8.75,3.5,6.5,0.5,[],https://www.allrecipes.com/recipe/71193/cedar-plank-salmon/
+Best Football Dip Ever,48.88,2.75,0.88,3.88,0.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/96129/best-football-dip-ever/
+Milly's Oatmeal Brownies,37.25,0.5,4.83,1.92,0.25,[],https://www.allrecipes.com/recipe/219067/millys-oatmeal-brownies/
+Grilled Soy-Sesame Asparagus,25.0,1.25,2.5,1.5,1.0,[],https://www.allrecipes.com/recipe/86925/grilled-soy-sesame-asparagus/
+Grilled Teriyaki Tuna,137.75,7.75,3.25,10.5,0.0,[],https://www.allrecipes.com/recipe/23039/grilled-teriyaki-tuna/
+Sassy Tailgate Sandwiches,48.75,2.58,3.75,2.25,0.25,['keju'],https://www.allrecipes.com/recipe/216837/sassy-tailgate-sandwiches/
+Juicy Lucy Burgers,148.25,9.5,5.75,9.5,0.25,"['keju', 'sapi']",https://www.allrecipes.com/recipe/213797/juicy-lucy-burgers/
+Horseshoe,1028.5,44.0,40.5,77.0,2.0,"['keju', 'sapi']",https://www.allrecipes.com/recipe/142040/horseshoe/
+Grilled Chicken Spiedies,145.83,8.33,12.17,6.83,0.67,['ayam'],https://www.allrecipes.com/recipe/228371/grilled-chicken-spiedies/
+Barbeque Halibut Steaks,91.67,10.67,3.67,3.67,0.0,[],https://www.allrecipes.com/recipe/12837/barbeque-halibut-steaks/
+Tamales Rojos de Pollo (Red Chicken Tamales),3.74,0.14,0.34,0.23,0.06,['ayam'],https://www.allrecipes.com/recipe/261684/red-chicken-tamales-tamales-rojos-de-pollo/
+Real Homemade Tamales,15.38,0.75,1.0,0.94,0.12,['sapi'],https://www.allrecipes.com/recipe/34512/real-homemade-tamales/
+Beef Tamales,9.64,0.25,0.64,0.67,0.08,['sapi'],https://www.allrecipes.com/recipe/34759/beef-tamales/
+Poblano and Cheese Tamales (Tamales de Rajas con Queso),10.5,0.21,0.79,0.75,0.17,"['keju', 'ayam']",https://www.allrecipes.com/recipe/261634/poblano-and-cheese-tamales-tamales-de-rajas-con-queso/
+Pork for Tamales,2.0,0.19,0.06,0.12,0.0,[],https://www.allrecipes.com/recipe/20772/pork-for-tamales/
+Tamales Oaxaqueños (Oaxacan-Style Tamales),5.83,0.17,0.61,0.31,0.11,['ayam'],https://www.allrecipes.com/recipe/261685/tamales-oaxaquenos-oaxacan-style-tamales/
+Tamales de Puerco (Red Pork Tamales),22.93,0.67,2.0,1.33,0.2,[],https://www.allrecipes.com/recipe/261633/tamales-de-puerco-red-pork-tamales/
+Sweet Pineapple Tamales,6.63,0.03,0.67,0.47,0.03,[],https://www.allrecipes.com/recipe/262521/sweet-pineapple-tamales/
+Tamale Casserole,113.33,5.0,8.0,7.0,1.33,"['keju', 'sapi']",https://www.allrecipes.com/recipe/16363/tamale-casserole/
+Homemade Beef Tamales,15.0,0.84,1.2,0.8,0.24,"['keju', 'sapi']",https://www.allrecipes.com/recipe/222502/homemade-beef-tamales/
+Green Chicken Tamales,3.29,0.11,0.31,0.17,0.06,['ayam'],https://www.allrecipes.com/recipe/261636/green-chicken-tamales/
+Sweet Tamales with Pineapple and Coconut,4.19,0.03,0.61,0.19,0.06,[],https://www.allrecipes.com/recipe/261683/sweet-tamales-with-pineapple-and-coconut/
+Honduran Tamales,18.4,0.73,1.97,0.9,0.33,['ayam'],https://www.allrecipes.com/recipe/222496/honduran-tamales/
+Tamales de Frijoles (Bean Tamales),6.88,0.12,0.71,0.42,0.12,[],https://www.allrecipes.com/recipe/261686/bean-tamales-tameles-de-frijoles/
+Instant Pot Tamales,68.3,2.4,4.5,4.7,0.8,['ayam'],https://www.allrecipes.com/recipe/284436/instant-pot-tamales/
+Leftover Turkey Tamales,44.2,1.9,3.1,2.8,0.6,[],https://www.allrecipes.com/recipe/235513/leftover-turkey-tamales/
+Cuban Tamales,20.29,0.79,1.71,1.07,0.21,['sapi'],https://www.allrecipes.com/recipe/223055/cuban-tamales/
+Sweet Tamale Pie,35.83,1.25,3.58,1.92,0.17,"['keju', 'sapi', 'telur', 'susu']",https://www.allrecipes.com/recipe/233252/sweet-tamale-pie/
+Pork Tamales,27.4,1.2,1.0,2.07,0.2,['sapi'],https://www.allrecipes.com/recipe/285315/pork-tamales/
+Sweet Orange Tamales,5.78,0.05,0.78,0.3,0.05,['susu'],https://www.allrecipes.com/recipe/262523/sweet-orange-tamales/
+Spanish Omelette,42.0,0.83,1.83,3.67,0.33,[],https://www.allrecipes.com/recipe/20198/spanish-potato-omelet/
+Tortilla de Patatas,36.58,0.42,1.25,3.33,0.08,[],https://www.allrecipes.com/recipe/285671/tortilla-de-patatas/
+Crab-Stuffed Mushrooms,27.67,1.67,1.0,2.0,0.33,['keju'],https://www.allrecipes.com/recipe/12751/crab-stuffed-mushrooms/
+Authentic Mexican Shrimp Cocktail (Coctel de Camarones estilo Mexicano),102.5,7.25,10.5,4.25,2.25,"['kerang', 'udang']",https://www.allrecipes.com/recipe/228393/authentic-mexican-shrimp-cocktail-coctel-de-camarones-estilo-mexicano/
+Air Fryer Calamari,74.25,6.25,12.75,1.25,0.25,"['susu', 'telur']",https://www.allrecipes.com/recipe/280571/air-fryer-calamari/
+Spanish Garlic Shrimp (Gambas al Ajillo),56.75,4.75,0.75,3.75,0.0,['udang'],https://www.allrecipes.com/recipe/266085/spanish-garlic-shrimp-gambas-al-ajillo/
+Chef John's Patatas Bravas,169.5,1.5,10.75,13.75,1.5,[],https://www.allrecipes.com/recipe/230569/chef-johns-patatas-bravas/
+Tortilla Española (Spanish Tortilla),79.5,2.17,6.0,5.33,0.67,[],https://www.allrecipes.com/recipe/147109/tortilla-espanola-spanish-tortilla/
+Easy Garlic Escargots,101.25,6.75,2.75,6.75,0.0,['keju'],https://www.allrecipes.com/recipe/159391/easy-garlic-escargots/
+My Own Famous Stuffed Grape Leaves,25.25,0.33,2.58,1.58,0.08,['ayam'],https://www.allrecipes.com/recipe/18842/my-own-famous-stuffed-grape-leaves/
+Authentic Patatas Bravas,782.0,3.5,27.0,75.5,4.0,[],https://www.allrecipes.com/recipe/228954/authentic-patatas-bravas/
+Tomato and Mozzarella Bites,5.8,0.0,0.2,0.6,N/A,['keju'],https://www.allrecipes.com/recipe/104806/tomato-and-mozzarella-bites/
+Grilled Marinated Shrimp,74.5,4.17,0.67,6.33,0.17,['udang'],https://www.allrecipes.com/recipe/19484/grilled-marinated-shrimp/
+Ceviche Peruano,29.62,3.25,3.62,0.25,0.5,['udang'],https://www.allrecipes.com/recipe/134464/ceviche-peruano/
+Mahi Mahi Ceviche,19.5,1.83,1.17,1.0,0.33,[],https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/

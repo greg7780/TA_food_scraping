@@ -1,0 +1,501 @@
+RecipeName,Calories,Protein,Total Carbohydrate,Total Fat,Dietary Fiber,ProteinName,url
+Air Fryer Hush Puppies,7.08,0.25,1.33,0.08,0.08,['telur'],https://www.allrecipes.com/recipe/277403/air-fryer-hush-puppies/
+Simple Hush Puppies,13.5,0.25,1.33,0.83,0.08,"['telur', 'susu']",https://www.allrecipes.com/recipe/222531/simple-hush-puppies/
+Hush Puppies,93.0,1.5,8.0,6.25,0.5,"['telur', 'susu']",https://www.allrecipes.com/recipe/222532/hush-puppies/
+Buttermilk Hush Puppies,42.38,0.75,4.38,2.5,0.25,[],https://www.allrecipes.com/recipe/222243/buttermilk-hush-puppies/
+Quick and Easy Hush Puppies,8.8,0.2,1.1,0.45,0.1,['susu'],https://www.allrecipes.com/recipe/220649/quick-and-easy-hush-puppies/
+Mom's Cajun Hush Puppies,14.5,0.33,2.38,0.42,0.12,['keju'],https://www.allrecipes.com/recipe/222245/moms-cajun-hush-puppies/
+Hawaiian Hush Puppies,1.58,0.04,0.24,0.06,0.02,['keju'],https://www.allrecipes.com/recipe/278916/hawaiian-hush-puppies/
+Easy Strawberry Ice Cream,44.25,0.5,4.25,2.88,0.12,['susu'],https://www.allrecipes.com/recipe/140877/easy-eggless-strawberry-ice-cream/
+Strawberry Ice Cream,65.0,0.5,7.17,4.17,0.33,['telur'],https://www.allrecipes.com/recipe/34318/strawberry-ice-cream/
+Mason Jar Ice Cream,220.0,2.5,12.0,18.0,N/A,['susu'],https://www.allrecipes.com/recipe/8460062/mason-jar-ice-cream/
+How to Make Vanilla Ice Cream,106.25,1.5,11.5,6.25,N/A,['susu'],https://www.allrecipes.com/recipe/233928/how-to-make-vanilla-ice-cream/
+Blackberry Ice Cream,140.0,1.0,9.25,11.25,1.0,['susu'],https://www.allrecipes.com/recipe/275011/blackberry-ice-cream/
+Creamy Lemon Ice,38.67,1.33,8.0,0.33,0.33,['susu'],https://www.allrecipes.com/recipe/45633/lemon-ice-ii/
+Gelato,104.0,2.0,8.25,7.25,N/A,"['telur', 'susu']",https://www.allrecipes.com/recipe/55609/gelato/
+Maple Walnut Ice Cream,60.88,0.88,5.75,4.12,0.12,"['susu', 'telur']",https://www.allrecipes.com/recipe/234009/maple-walnut-ice-cream/
+Banana Pudding Ice Cream,33.2,0.4,4.1,1.8,0.1,[],https://www.allrecipes.com/recipe/234652/banana-pudding-ice-cream/
+Butter Pecan Ice Cream,8.0,0.12,0.81,0.5,0.0,[],https://www.allrecipes.com/recipe/21105/butter-pecan-ice-cream/
+Best Peach Ice Cream,7.16,0.06,0.78,0.44,N/A,[],https://www.allrecipes.com/recipe/20120/peach-ice-cream/
+Fresh Cherry Ice Cream,40.62,0.38,3.5,2.88,0.12,['susu'],https://www.allrecipes.com/recipe/143665/vanilla-cherry-ice-cream/
+Easy Mint Chocolate Chip Ice Cream,54.62,0.62,5.5,3.62,0.12,['susu'],https://www.allrecipes.com/recipe/51869/easy-mint-chocolate-chip-ice-cream/
+Homemade Ice Cream,4.44,0.06,0.38,0.31,N/A,[],https://www.allrecipes.com/recipe/19812/vanilla-ice-cream-v/
+Super Lemon Ice Cream,31.5,0.3,2.7,2.3,0.0,['telur'],https://www.allrecipes.com/recipe/218156/super-lemon-ice-cream/
+Homemade Cherry Ice Cream,186.25,1.5,20.25,11.75,0.75,['susu'],https://www.allrecipes.com/recipe/265815/homemade-cherry-ice-cream/
+Avocado Ice Cream,29.7,0.2,4.0,1.7,0.7,['susu'],https://www.allrecipes.com/recipe/237222/vegan-avocado-coconut-milk-ice-cream/
+Frozen Banana Ice Cream,24.83,0.33,3.33,1.33,0.33,['susu'],https://www.allrecipes.com/recipe/256919/creamy-banana-ice-cream/
+Blueberry Cheesecake Ice Cream,28.69,0.19,2.94,1.88,0.0,['susu'],https://www.allrecipes.com/recipe/222628/blueberry-cheesecake-ice-cream/
+Pumpkin Ice Cream for Ninja Creami,9.75,0.12,1.25,0.5,0.0,['susu'],https://www.allrecipes.com/recipe/8489221/pumpkin-ice-cream-for-ninja-creami/
+Fried Ice Cream,46.5,0.5,3.12,3.62,0.12,['telur'],https://www.allrecipes.com/recipe/20988/fried-ice-cream/
+Very Chocolate Ice Cream,44.12,0.5,3.38,3.38,0.12,"['telur', 'susu']",https://www.allrecipes.com/recipe/56803/very-chocolate-ice-cream/
+Easy Homemade Vanilla Ice Cream,21.92,0.33,1.17,1.08,N/A,['susu'],https://www.allrecipes.com/recipe/63952/easy-homemade-vanilla-ice-cream/
+Snow Ice Cream,16.5,0.25,3.5,0.12,N/A,['susu'],https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/
+Five Ingredient Ice Cream,19.75,0.33,1.83,1.25,N/A,['susu'],https://www.allrecipes.com/recipe/19002/five-ingredient-ice-cream/
+Homemade Peach Ice Cream,3.31,0.09,0.44,0.16,N/A,['susu'],https://www.allrecipes.com/recipe/38236/georgia-peach-homemade-ice-cream/
+Coconut Ice Cream,50.88,0.38,4.5,3.62,0.25,['susu'],https://www.allrecipes.com/recipe/59188/coconut-ice-cream/
+Five-Minute Ice Cream,64.5,0.25,8.25,3.75,0.5,[],https://www.allrecipes.com/recipe/50050/five-minute-ice-cream/
+2-Ingredient Ice Cream,181.25,2.5,14.25,13.25,N/A,['susu'],https://www.allrecipes.com/recipe/256234/2-ingredient-ice-cream/
+Rocky Road Ice Cream,15.88,0.25,1.19,1.19,0.06,['susu'],https://www.allrecipes.com/recipe/22804/rocky-road-ice-cream/
+Cinnamon Ice Cream,34.88,0.5,3.5,2.25,0.0,[],https://www.allrecipes.com/recipe/48036/cinnamon-ice-cream/
+Vanilla Ice Cream,45.12,0.38,2.88,3.62,N/A,[],https://www.allrecipes.com/recipe/8314/vanilla-ice-cream/
+Easy Banana Ice Cream,63.0,1.5,15.0,0.0,1.5,['susu'],https://www.allrecipes.com/recipe/244441/easy-banana-ice-cream/
+Matcha Green Tea Ice Cream,39.38,0.5,2.75,3.0,N/A,['susu'],https://www.allrecipes.com/recipe/241759/matcha-green-tea-ice-cream/
+Frozen Vanilla Custard,42.62,0.88,2.5,3.25,0.0,"['susu', 'telur']",https://www.allrecipes.com/recipe/258370/frozen-vanilla-custard/
+Custard Ice Cream Base,46.25,0.75,3.75,3.25,N/A,['telur'],https://www.allrecipes.com/recipe/214978/ice-cream-base/
+Eggnog Ice Cream,32.4,0.5,2.4,2.4,N/A,['susu'],https://www.allrecipes.com/recipe/212898/no-cook-eggnog-ice-cream/
+Easy Ice Cream in a Bag,167.0,4.0,18.0,9.0,N/A,['susu'],https://www.allrecipes.com/recipe/258841/easy-ice-cream-in-a-bag/
+Cookie Dough for Ice Cream (Eggless),11.0,0.12,1.88,0.38,0.0,[],https://www.allrecipes.com/recipe/71903/cookie-dough-for-ice-cream-eggless/
+Homemade Peanut Butter Ice Cream,34.0,1.1,3.9,1.7,0.1,['susu'],https://www.allrecipes.com/recipe/223484/homemade-peanut-butter-ice-cream/
+Condensed Milk Ice Cream,3.28,0.09,0.5,0.09,N/A,['susu'],https://www.allrecipes.com/recipe/19809/vanilla-ice-cream-iii/
+Chocolate Frosty,19.0,0.42,2.67,0.75,0.08,['susu'],https://www.allrecipes.com/recipe/233003/chocolate-frosty/
+Keto Ice Cream,97.0,0.67,1.0,9.67,0.33,[],https://www.allrecipes.com/recipe/274042/no-churn-keto-ice-cream/
+Chef John's Strawberry Ice Cream,17.08,0.17,1.42,1.25,0.08,['susu'],https://www.allrecipes.com/recipe/238034/chef-johns-strawberry-ice-cream/
+Irish Cream Ice Cream,13.94,0.12,1.19,0.94,N/A,[],https://www.allrecipes.com/recipe/220449/irish-cream-ice-cream/
+Easy Snow Ice Cream,51.67,0.83,10.17,1.0,N/A,['susu'],https://www.allrecipes.com/recipe/235809/easy-snow-ice-cream/
+Amaretto Ice Cream,19.75,0.08,1.5,1.42,N/A,[],https://www.allrecipes.com/recipe/234811/amaretto-ice-cream/
+Black Walnut Ice Cream,31.62,0.5,2.12,2.5,0.12,[],https://www.allrecipes.com/recipe/80643/black-walnut-ice-cream/
+Chana Masala (Indian Chickpea Curry),206.5,4.5,23.0,11.5,5.0,[],https://www.allrecipes.com/recipe/236564/chana-masala-savory-indian-chick-peas/
+Paneer Tikka Masala,53.83,2.33,2.83,3.83,0.5,[],https://www.allrecipes.com/recipe/240652/paneer-tikka-masala/
+Indian Chicken Curry (Murgh Kari),71.17,6.33,2.5,4.0,0.5,['ayam'],https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/
+Lamb (Gosht) Biryani,68.0,2.12,8.0,3.12,0.62,['susu'],https://www.allrecipes.com/recipe/212487/lamb-gosht-biryani/
+Slow Cooker Butter Chicken,83.5,5.0,3.17,6.17,0.33,"['ayam', 'susu']",https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/
+Paneer,70.17,4.5,6.33,3.0,N/A,['susu'],https://www.allrecipes.com/recipe/73715/paneer/
+My Mango Lassi,114.0,6.0,12.0,5.0,0.0,['susu'],https://www.allrecipes.com/recipe/264349/my-mango-lassi/
+Keema Aloo (Ground Beef and Potatoes),45.25,3.25,2.88,2.25,0.5,['sapi'],https://www.allrecipes.com/recipe/231026/keema-aloo-ground-beef-and-potatoes/
+Tandoori Chicken,89.0,9.0,3.5,4.75,0.75,['ayam'],https://www.allrecipes.com/recipe/50347/indian-tandoori-chicken/
+Green Onion Garlic Naan Bread,47.0,1.67,8.83,0.83,0.5,[],https://www.allrecipes.com/recipe/8467738/green-onion-garlic-naan-bread/
+Chef John's Mulligatawny Soup,43.83,3.0,4.83,1.5,1.0,['ayam'],https://www.allrecipes.com/recipe/8466000/chef-johns-mulligatawny-soup/
+Butter Chicken (Murgh Makhani),138.0,8.25,5.5,9.5,1.0,['ayam'],https://www.allrecipes.com/recipe/246717/indian-butter-chicken-chicken-makhani/
+Quick Whole Wheat Chapati,15.88,0.62,3.38,0.12,0.62,[],https://www.allrecipes.com/recipe/233531/quick-whole-wheat-chapati/
+Gajar Ka Halwa (Carrot Halwa),57.38,1.12,10.0,1.75,0.62,['susu'],https://www.allrecipes.com/recipe/282238/gajar-ka-halwa-carrot-halwa/
+Easy Garam Masala,0.5,0.0,0.08,0.0,0.08,[],https://www.allrecipes.com/recipe/142967/easy-garam-masala/
+Indian Chapati Bread,11.0,0.3,1.8,0.3,0.2,[],https://www.allrecipes.com/recipe/85469/indian-chapati-bread/
+Kheer (Rice Pudding),128.25,2.75,12.0,8.25,0.75,['susu'],https://www.allrecipes.com/recipe/74203/kheer-rice-pudding/
+Indian Style Basmati Rice,36.0,0.67,6.5,0.83,0.17,[],https://www.allrecipes.com/recipe/72349/indian-style-basmati-rice/
+Easy Indian Butter Chicken,146.67,4.33,2.17,13.67,0.5,['ayam'],https://www.allrecipes.com/recipe/141169/easy-indian-butter-chicken/
+Naan,3.71,0.07,0.29,0.29,0.0,"['telur', 'susu']",https://www.allrecipes.com/recipe/14565/naan/
+Indian Chicken Curry,78.25,4.75,3.5,5.5,1.0,"['ayam', 'susu']",https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/
+Easy Curry Sauce,9.38,0.25,0.75,0.75,0.12,[],https://www.allrecipes.com/recipe/25881/basic-curry-sauce/
+Mulligatawny Soup,37.17,1.17,2.33,2.67,0.17,['ayam'],https://www.allrecipes.com/recipe/13087/mulligatawny-soup-i/
+Chicken Makhani (Indian Butter Chicken),102.0,5.75,4.0,7.0,0.5,['ayam'],https://www.allrecipes.com/recipe/45957/chicken-makhani-indian-butter-chicken/
+Chicken Tikka Masala,101.0,6.25,3.25,7.25,0.75,['ayam'],https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/
+Authentic Saag Paneer,74.75,4.25,4.5,5.0,1.25,[],https://www.allrecipes.com/recipe/228957/authentic-saag-paneer/
+Curry Stand Chicken Tikka Masala Sauce,54.67,3.0,2.17,3.83,0.33,['ayam'],https://www.allrecipes.com/recipe/228293/curry-stand-chicken-tikka-masala-sauce/
+Red Lentil Curry,24.0,1.5,4.12,0.38,1.38,[],https://www.allrecipes.com/recipe/16641/red-lentil-curry/
+Tandoori Masala Spice Mix,2.38,0.12,0.38,0.12,0.25,[],https://www.allrecipes.com/recipe/241875/tandoori-masala-spice-mix/
+Indian Saag,30.33,0.83,1.33,2.67,0.67,[],https://www.allrecipes.com/recipe/64066/indian-saag/
+Beef Samosas,14.33,0.44,1.33,0.83,0.11,['sapi'],https://www.allrecipes.com/recipe/24871/beef-samosas/
+Vegan Sweet Potato Chickpea Curry,48.83,0.83,3.67,3.67,0.83,['susu'],https://www.allrecipes.com/recipe/265472/vegan-sweet-potato-chickpea-curry/
+Haldi Ka Doodh (Hot Turmeric Milk),154.0,8.0,19.0,5.0,1.0,['susu'],https://www.allrecipes.com/recipe/236294/haldi-ka-doodh-hot-turmeric-milk/
+Chicken Biryani,138.67,8.0,13.17,5.83,0.83,['ayam'],https://www.allrecipes.com/recipe/16102/chicken-biryani/
+Chai Tea Latte,145.0,6.0,23.0,4.0,N/A,['susu'],https://www.allrecipes.com/recipe/222513/chai-tea-latte/
+Vegetarian Korma,115.5,2.25,10.25,7.75,2.0,[],https://www.allrecipes.com/recipe/60598/vegetarian-korma/
+Chef John's Chicken Tikka Masala,156.25,8.5,4.75,12.0,1.25,"['ayam', 'susu']",https://www.allrecipes.com/recipe/239867/chef-johns-chicken-tikka-masala/
+Indian Spiced Onions,7.0,0.25,1.75,0.0,0.25,[],https://www.allrecipes.com/recipe/84965/indian-spiced-onions/
+Indian Shrimp Curry,104.0,5.75,2.75,8.0,0.75,"['susu', 'udang']",https://www.allrecipes.com/recipe/205544/indian-shrimp-curry/
+Chicken Saag,75.0,6.5,3.0,4.33,1.0,"['ayam', 'susu']",https://www.allrecipes.com/recipe/215021/chicken-saag/
+Indian-Style Seekh Kebab,38.88,2.5,0.75,2.88,0.12,[],https://www.allrecipes.com/recipe/33252/indian-style-sheekh-kabab/
+Easy Two-Ingredient Naan,12.75,0.38,2.0,0.38,0.12,['susu'],https://www.allrecipes.com/recipe/280310/two-ingredient-naan/
+"Spicy Indian Green Beans, Gujarati Style",42.75,0.75,2.75,3.5,1.25,[],https://www.allrecipes.com/recipe/75087/spicy-indian-gujarati-green-beans/
+Chicken Madras,105.75,9.5,4.5,5.5,1.0,['ayam'],https://www.allrecipes.com/recipe/262542/authentic-chicken-madras/
+Paneer Butter Masala,117.25,2.75,3.75,10.25,0.5,['susu'],https://www.allrecipes.com/recipe/232203/paneer-butter-masala/
+Authentic Chicken Tikka Masala,100.75,6.75,5.25,6.25,1.25,['ayam'],https://www.allrecipes.com/recipe/228446/authentic-chicken-tikka-masala/
+Indian Fish Curry,84.5,10.5,3.0,3.5,0.5,['ikan'],https://www.allrecipes.com/recipe/213238/indian-fish-curry/
+Punjabi Chicken in Thick Gravy,40.62,3.5,0.5,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/150340/punjabi-chicken-in-thick-gravy/
+Goan Pork Vindaloo,33.0,2.5,1.12,2.0,0.25,[],https://www.allrecipes.com/recipe/217331/goan-pork-vindaloo/
+Crispy Vegetable Pakoras,36.17,0.83,2.67,2.67,0.5,[],https://www.allrecipes.com/recipe/23595/crispy-vegetable-pakoras/
+Easy Chicken Curry,41.17,4.83,1.33,1.83,0.5,['ayam'],https://www.allrecipes.com/recipe/15156/easy-chicken-curry/
+Gujarati Kadhi,46.25,2.0,4.75,2.25,0.25,[],https://www.allrecipes.com/recipe/212449/gujarati-kadhi/
+Indian Lassi,8.33,0.67,1.0,0.17,N/A,[],https://www.allrecipes.com/recipe/20435/indian-lassi/
+Air Fryer Pakoras,10.12,0.5,1.75,0.12,0.38,[],https://www.allrecipes.com/recipe/270817/air-fryer-pakoras/
+Indian Saffron Rice,25.67,0.5,4.33,0.67,0.0,[],https://www.allrecipes.com/recipe/24709/indian-saffron-rice/
+Mild Curry Powder,0.35,0.0,0.05,0.0,0.05,[],https://www.allrecipes.com/recipe/46767/mild-curry-powder/
+Instant Pot Bahn Flan (Vietnamese Flan),209.33,5.0,40.0,3.67,N/A,"['telur', 'susu']",https://www.allrecipes.com/recipe/279981/instant-pot-bahn-flan-vietnamese-flan/
+Instant Pot® Hawaii-Style Shoyu Chicken Drumsticks,50.33,4.17,6.0,1.0,0.0,['ayam'],https://www.allrecipes.com/recipe/272540/instant-pot-hawaii-style-shoyu-chicken-drumsticks/
+Instant Pot Carnitas,6.42,0.5,0.08,0.46,0.0,[],https://www.allrecipes.com/recipe/246332/carnitas-pressure-cooker/
+Instant Pot Dump and Go Seven Can Soup,48.0,2.5,7.5,1.17,1.5,['keju'],https://www.allrecipes.com/recipe/8532487/instant-pot-dump-and-go-seven-can-soup/
+Dump-and-Go Instant Pot Tortilla Soup,74.25,6.0,12.0,4.0,1.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/8532956/dump-and-go-instant-pot-tortilla-soup/
+Instant Pot Chicken Tortilla Soup,61.0,5.75,8.5,0.75,2.5,['ayam'],https://www.allrecipes.com/recipe/8468894/instant-pot-chicken-tortilla-soup/
+Instant Pot Wheat Berries,12.6,0.5,2.7,0.1,0.5,[],https://www.allrecipes.com/recipe/269283/instant-pot-wheat-berries/
+Instant Pot Peach Cobbler,108.0,1.0,18.0,4.0,1.25,[],https://www.allrecipes.com/recipe/283081/instant-pot-peach-cobbler/
+Slow-Cooked Cashew Chicken,68.0,5.83,4.67,3.0,0.33,['ayam'],https://www.allrecipes.com/recipe/261453/slow-cooked-cashew-chicken/
+Instant Pot Pickled Jalapeño Rings,0.81,0.0,0.19,0.0,0.06,[],https://www.allrecipes.com/recipe/279795/instant-pot-pickled-jalapeno-rings/
+Pineapple Cake Moonshine,24.42,0.0,3.42,0.0,0.08,[],https://www.allrecipes.com/recipe/276199/pineapple-cake-moonshine/
+Easy Pressure Cooker Pot Roast,56.25,3.12,4.75,2.75,0.62,['sapi'],https://www.allrecipes.com/recipe/220869/easy-pressure-cooker-pot-roast/
+Beef Stroganoff for Instant Pot,67.0,3.62,5.62,3.25,0.25,"['sapi', 'ayam', 'telur']",https://www.allrecipes.com/recipe/258468/beef-stroganoff-for-instant-pot/
+Instant Pot Pinto Beans (No Soaking),29.5,1.88,4.88,0.38,1.12,['ayam'],https://www.allrecipes.com/recipe/275053/instant-pot-pinto-beans-no-soaking/
+Instant Pot Loaded Baked Potato Soup,57.0,2.0,6.67,2.67,0.67,['keju'],https://www.allrecipes.com/recipe/276654/instant-pot-loaded-baked-potato-soup/
+Instant Pot Best Beef Stew,88.0,5.0,8.0,4.0,1.0,['sapi'],https://www.allrecipes.com/recipe/263037/instant-pot-best-beef-stew/
+Instant Pot Mexican Rice,56.25,1.25,10.25,1.0,0.25,['ayam'],https://www.allrecipes.com/recipe/263330/instant-pot-mexican-rice/
+Instant Pot Chicken Cacciatore,98.0,7.5,3.5,6.25,0.75,['ayam'],https://www.allrecipes.com/recipe/260109/instant-pot-chicken-cacciatore/
+Instant Pot Venison Pot Roast,45.83,5.5,3.5,1.0,0.33,['sapi'],https://www.allrecipes.com/recipe/278108/instant-pot-venison-pot-roast/
+Instant Pot Beef Bone Broth,2.62,0.12,0.62,0.0,0.12,['sapi'],https://www.allrecipes.com/recipe/269284/instant-pot-beef-bone-broth/
+Pressure Cooker Hard-Boiled Eggs,7.88,0.75,0.0,0.5,N/A,[],https://www.allrecipes.com/recipe/237562/pressure-cooker-hard-boiled-eggs/
+Instant Pot Pot Roast,19.42,1.25,0.92,1.17,0.17,['sapi'],https://www.allrecipes.com/recipe/268516/instant-pot-pot-roast/
+Pressure Cooker Beef Stew,60.88,3.25,5.25,3.0,0.75,['sapi'],https://www.allrecipes.com/recipe/75086/pressure-cooker-beef-stew/
+Instant Pot Mushroom Risotto,136.25,3.75,10.75,8.0,0.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/259455/instant-pot-mushroom-risotto/
+Instant Pot Salsa Chicken,150.0,23.0,7.0,2.5,0.5,['ayam'],https://www.allrecipes.com/recipe/260193/instant-pot-salsa-chicken/
+Pressure Cooker Chili,58.83,3.67,5.83,2.5,2.0,['sapi'],https://www.allrecipes.com/recipe/192357/pressure-cooker-chili/
+Instant Pot Simple Steamed Crab Legs,49.75,3.25,0.25,4.0,N/A,[],https://www.allrecipes.com/recipe/268805/instant-pot-simple-steamed-crab-legs/
+Instant Pot Meatloaf,36.88,2.75,2.38,1.88,0.12,"['sapi', 'telur']",https://www.allrecipes.com/recipe/265169/instant-pot-meatloaf/
+Instant Pot Ribs from Frozen,77.25,4.5,2.0,5.5,0.0,[],https://www.allrecipes.com/recipe/279624/instant-pot-ribs-from-frozen/
+Easy Instant Pot Spaghetti Squash,28.25,0.5,6.25,0.5,0.0,[],https://www.allrecipes.com/recipe/262646/easy-instant-pot-spaghetti-squash/
+Instant Pot Baked Beans,26.75,0.92,3.0,1.25,0.75,[],https://www.allrecipes.com/recipe/272258/instant-pot-baked-beans/
+Instant Pot Steel-Cut Oats,150.0,5.0,27.0,2.5,4.0,[],https://www.allrecipes.com/recipe/263512/instant-pot-steel-cut-oats/
+Easy Pressure Cooker Potatoes,28.0,0.75,6.38,0.0,0.5,[],https://www.allrecipes.com/recipe/261107/easy-pressure-cooker-potatoes/
+Fall-off-the-Bone Instant Pot Ribs,51.88,2.38,4.12,2.88,0.25,[],https://www.allrecipes.com/recipe/262470/fall-off-the-bone-30-minute-instant-pot-ribs/
+Instant Pot Lasagna Soup,152.0,9.5,16.0,5.5,1.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/269946/instant-pot-lasagna-soup/
+Instant Pot Basic Cabbage Rolls,52.67,3.67,7.0,1.5,1.83,['sapi'],https://www.allrecipes.com/recipe/268289/instant-pot-basic-cabbage-rolls/
+Pressure Cooker Corned Beef,22.2,1.5,0.2,1.5,0.0,['sapi'],https://www.allrecipes.com/recipe/256749/pressure-cooker-corned-beef-brisket/
+Instant Pot Hard-Boiled Eggs,3.94,0.38,0.0,0.25,N/A,[],https://www.allrecipes.com/recipe/275944/instant-pot-hard-boiled-eggs/
+Instant Pot Colcannon,89.25,2.0,13.75,3.25,2.0,['susu'],https://www.allrecipes.com/recipe/270204/instant-pot-colcannon/
+Afghani Kabli Pulao,63.0,1.5,11.83,1.33,0.67,[],https://www.allrecipes.com/recipe/231795/afghani-kabli-pulao/
+Instant Pot Frozen Salmon,86.0,12.5,1.5,3.5,0.0,[],https://www.allrecipes.com/recipe/259216/instant-pot-frozen-salmon/
+Instant Pot Navy Bean and Ham Soup,38.4,2.5,4.6,1.1,1.8,['ayam'],https://www.allrecipes.com/recipe/262468/instant-pot-navy-bean-and-ham-soup/
+Frozen Pork Chops in the Instant Pot,66.5,4.5,2.75,4.25,0.5,[],https://www.allrecipes.com/recipe/277522/frozen-pork-chops-in-the-instant-pot/
+Instant Pot Italian Wedding Soup,77.25,5.25,6.25,3.5,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/270310/instant-pot-italian-wedding-soup/
+Copycat V8 Juice,15.25,0.5,3.5,0.0,0.75,[],https://www.allrecipes.com/recipe/235433/copycat-v8-juice/
+Best Instant Pot Scalloped Potatoes,126.5,5.5,11.0,6.75,1.0,['keju'],https://www.allrecipes.com/recipe/263876/best-instant-pot-scalloped-potatoes/
+Instant Pot Pork Chops,52.0,2.75,3.0,3.25,0.25,[],https://www.allrecipes.com/recipe/269979/instant-pot-pork-chops/
+Instant Pot Turkey Breast,73.0,10.75,0.62,2.75,0.12,['ayam'],https://www.allrecipes.com/recipe/260227/instant-pot-turkey-breast/
+Instant Pot Creamy Mushroom Soup,42.33,1.0,2.5,3.17,0.33,['ayam'],https://www.allrecipes.com/recipe/270423/instant-pot-creamy-mushroom-soup/
+"Pressure Cooker Bone-In Pork Chops, Baked Potatoes, and Carrots",143.5,8.75,15.0,5.5,1.25,[],https://www.allrecipes.com/recipe/236566/pressure-cooker-bone-in-pork-chops-baked-potatoes-and-carrots/
+Instant Pot Southern Cabbage,17.0,0.38,1.12,1.38,0.5,['ayam'],https://www.allrecipes.com/recipe/216619/southern-cabbage-for-the-pressure-cooker/
+Instant Pot Chicken Miso Soup,33.75,3.0,2.12,1.38,0.38,['ayam'],https://www.allrecipes.com/recipe/256345/chicken-and-veggie-miso-soup-instant-pot-version/
+Instant Pot Vegan Cabbage Detox Soup,11.17,0.33,2.17,0.0,0.67,[],https://www.allrecipes.com/recipe/261823/instant-pot-vegan-cabbage-detox-soup/
+Instant Pot Shepherd's Pie,57.83,3.0,4.83,3.0,0.83,['sapi'],https://www.allrecipes.com/recipe/270606/instant-pot-shepherds-pie/
+Guinness Bread,15.42,0.42,2.5,0.42,0.25,[],https://www.allrecipes.com/recipe/109907/guinness-bread/
+Irish Brown Soda Bread,17.17,0.75,3.42,0.17,0.42,[],https://www.allrecipes.com/recipe/17873/irish-brown-soda-bread/
+Nana Dot's Irish Soda Bread,5.08,0.08,0.83,0.17,0.04,['susu'],https://www.allrecipes.com/recipe/161706/nana-dots-irish-soda-bread/
+Irish Soda Bread,10.75,0.25,1.85,0.3,0.05,[],https://www.allrecipes.com/recipe/6750/irish-soda-bread-i/
+Real Traditional Irish Soda Bread,63.0,2.25,12.75,0.25,0.5,[],https://www.allrecipes.com/recipe/213827/real-traditional-irish-soda-bread/
+Irresistible Irish Soda Bread,16.0,0.42,2.67,0.42,0.08,['telur'],https://www.allrecipes.com/recipe/7095/irresistible-irish-soda-bread/
+Brennan's Irish Soda Bread,16.88,0.5,3.38,0.12,0.12,['susu'],https://www.allrecipes.com/recipe/213830/brennans-irish-soda-bread/
+Amazingly Easy Irish Soda Bread,8.6,0.15,1.15,0.4,0.05,['telur'],https://www.allrecipes.com/recipe/16947/amazingly-easy-irish-soda-bread/
+Irish Potato Farls,54.5,1.25,10.75,0.75,1.25,[],https://www.allrecipes.com/recipe/100506/irish-potato-farls/
+Perfectly Moist Irish Wheaten Bread,22.5,0.6,2.8,1.1,0.4,[],https://www.allrecipes.com/recipe/150426/perfectly-moist-irish-wheaten-bread/
+Irish Soda Farls,63.0,2.25,12.75,0.25,0.5,[],https://www.allrecipes.com/recipe/100502/irish-soda-farls/
+Best Ever Irish Soda Bread,30.0,0.67,5.17,0.83,0.17,[],https://www.allrecipes.com/recipe/213826/best-ever-irish-soda-bread/
+Irish Soda Bread with Caraway Seeds,63.88,1.38,12.5,1.12,0.38,[],https://www.allrecipes.com/recipe/18456/irish-soda-bread/
+Irish Brown Bread,12.5,0.5,2.33,0.17,0.25,['susu'],https://www.allrecipes.com/recipe/220525/irish-brown-bread/
+Chef John's Irish Soda Bread,12.19,0.31,2.25,0.25,0.12,['telur'],https://www.allrecipes.com/recipe/241738/chef-johns-irish-soda-bread/
+Mom's Irish Soda Bread,25.42,0.5,4.33,0.75,0.17,['telur'],https://www.allrecipes.com/recipe/220452/moms-irish-soda-bread/
+Irish Soda Bread with Raisins,21.5,0.44,3.56,0.67,0.11,[],https://www.allrecipes.com/recipe/278833/irish-soda-bread-with-raisins/
+Grandpa McAndrew's Irish Soda Bread,31.88,0.88,6.0,0.5,0.25,['telur'],https://www.allrecipes.com/recipe/34900/grandpa-mcandrews-irish-soda-bread/
+Irish Soda Bread and Whiskey Butter,26.75,0.42,3.67,1.0,0.17,[],https://www.allrecipes.com/recipe/220462/irish-soda-bread-and-whiskey-butter/
+Macomb's Irish Soda Bread,24.42,0.58,3.92,0.75,0.17,[],https://www.allrecipes.com/recipe/213825/macombs-irish-soda-bread/
+Sweet Irish Bread,32.3,0.5,5.3,1.1,0.1,[],https://www.allrecipes.com/recipe/47903/sweet-irish-bread/
+Irish Bread,14.06,0.31,3.25,0.06,0.12,[],https://www.allrecipes.com/recipe/231777/irish-bread/
+Spotted Dog Irish Bread,8.17,0.17,1.79,0.04,0.04,['susu'],https://www.allrecipes.com/recipe/220461/spotted-dog-irish-bread/
+Liquor-Infused Irish Soda Bread,11.8,0.2,1.8,0.4,0.05,['telur'],https://www.allrecipes.com/recipe/237442/liquor-infused-irish-soda-bread/
+Irish Soda Bread with Buttermilk,27.2,0.8,4.3,0.8,0.3,[],https://www.allrecipes.com/recipe/270927/irish-soda-bread-with-buttermilk/
+Basic Irish Soda Bread With Cheese,35.83,1.67,5.67,0.67,0.17,"['keju', 'susu']",https://www.allrecipes.com/recipe/213824/basic-irish-soda-bread-with-cheese/
+O'Kee's Irish Soda Oatmeal Bread,36.88,1.38,7.5,0.25,0.88,[],https://www.allrecipes.com/recipe/220455/okees-irish-soda-oatmeal-bread/
+McNamara's Irish Soda Bread,16.67,0.33,3.0,0.42,0.08,['susu'],https://www.allrecipes.com/recipe/220453/mcnamaras-irish-soda-bread/
+Aunt Kathy's Irish Soda Bread,34.6,0.9,7.4,0.2,0.3,['susu'],https://www.allrecipes.com/recipe/231928/aunt-kathys-irish-soda-bread/
+Auntie Mae's Irish Bread,19.17,0.42,4.08,0.17,0.17,['susu'],https://www.allrecipes.com/recipe/241207/auntie-maes-irish-bread/
+Bob's Stuffed Banana Peppers,74.12,3.12,3.62,5.38,0.62,"['keju', 'telur']",https://www.allrecipes.com/recipe/23074/bobs-stuffed-banana-peppers/
+Cherry Tomato Pasta Sauce,118.75,4.5,19.0,3.0,1.0,"['keju', 'ayam']",https://www.allrecipes.com/recipe/237321/cherry-tomato-sauce-with-penne/
+Pepperoni Casserole,86.75,5.12,6.75,4.25,0.5,['keju'],https://www.allrecipes.com/recipe/53514/pepperoni-casserole/
+Gelato,104.0,2.0,8.25,7.25,N/A,"['telur', 'susu']",https://www.allrecipes.com/recipe/55609/gelato/
+Baked Rigatoni,48.33,2.67,4.5,2.17,0.25,['keju'],https://www.allrecipes.com/recipe/278364/baked-rigatoni-for-a-crowd/
+Italian Easter Grain Pie,28.38,0.69,3.25,1.44,0.12,['keju'],https://www.allrecipes.com/recipe/17432/easter-grain-pie/
+Eggs in Purgatory,122.5,4.5,5.0,10.0,1.5,[],https://www.allrecipes.com/recipe/265087/uova-in-purgatorio-eggs-in-purgatory/
+Easy and Delicious Homemade Ricotta Cheese,19.75,1.0,1.62,1.0,N/A,['susu'],https://www.allrecipes.com/recipe/254480/easy-and-delicious-homemade-ricotta-cheese/
+Sicilian Homemade Ricotta Cheese,10.95,0.4,0.6,0.8,N/A,['susu'],https://www.allrecipes.com/recipe/168941/sicilian-homemade-ricotta-cheese/
+Panettone,4.25,0.08,0.64,0.17,0.03,"['telur', 'susu']",https://www.allrecipes.com/recipe/9426/panettone-loaves/
+Cioccolata Calda (Hot Chocolate Italian-Style),84.5,4.0,13.5,2.5,1.5,['susu'],https://www.allrecipes.com/recipe/216167/cioccolata-calda-hot-chocolate-italian-style/
+Real Italian Calzones,41.88,1.75,4.0,2.12,0.25,"['keju', 'telur']",https://www.allrecipes.com/recipe/18874/real-italian-calzones/
+Creamy Wild Mushroom Risotto,80.25,2.75,11.0,2.25,0.75,"['keju', 'ayam']",https://www.allrecipes.com/recipe/150033/gorgonzola-and-wild-mushroom-risotto/
+Genoise Sponge,23.29,0.43,2.93,1.14,0.0,['telur'],https://www.allrecipes.com/recipe/7894/genoese-sponge/
+Firehouse Jalapenos,4.6,0.13,0.1,0.43,0.0,['keju'],https://www.allrecipes.com/recipe/97000/firehouse-jalapenos/
+Grilled Bacon Jalapeño Wraps,65.17,1.67,0.33,6.33,0.0,['keju'],https://www.allrecipes.com/recipe/87076/grilled-bacon-jalapeno-wraps/
+Air-Fried Jalapeno Poppers,9.42,0.42,0.08,0.83,0.0,['keju'],https://www.allrecipes.com/recipe/281638/air-fried-jalapeno-poppers/
+Bacon Jalapeño Popper Puffs,34.38,1.0,1.12,2.88,0.12,['keju'],https://www.allrecipes.com/recipe/246256/bacon-jalapeno-popper-puffs/
+Stuffed Jalapeño Firecrackers,22.38,1.0,0.25,2.0,0.12,['keju'],https://www.allrecipes.com/recipe/216909/stuffed-jalapeno-firecrackers/
+Texas Twinkies,17.67,0.5,0.58,1.5,0.08,['keju'],https://www.allrecipes.com/recipe/281688/texas-twinkies/
+Healthier Jalapeño Poppers,3.94,0.19,0.25,0.25,0.06,['keju'],https://www.allrecipes.com/recipe/8525126/healthier-jalapeno-poppers/
+Bacon-Wrapped Jalapeño Poppers,44.17,2.33,0.83,3.5,0.17,['keju'],https://www.allrecipes.com/recipe/233603/bacon-wrapped-jalapeno-poppers/
+Best Ever Jalapeño Poppers,8.05,0.3,0.55,0.5,0.05,"['keju', 'susu']",https://www.allrecipes.com/recipe/20858/best-ever-jalapeno-poppers/
+Sausage Stuffed Jalapeños,30.17,0.75,0.33,2.83,0.08,['keju'],https://www.allrecipes.com/recipe/83500/sausage-stuffed-jalapenos/
+Baked Jalapeño Poppers,34.25,1.5,2.0,2.5,0.25,['keju'],https://www.allrecipes.com/recipe/240785/baked-jalapeno-poppers/
+Grilled Jalapeño Poppers,10.25,0.38,0.12,0.94,0.0,['keju'],https://www.allrecipes.com/recipe/215701/grilled-jalapeno-poppers/
+Baked Cream Cheese Jalapeño Poppers,9.67,0.33,0.25,0.83,0.0,['keju'],https://www.allrecipes.com/recipe/240839/baked-cream-cheese-jalapeno-poppers/
+Keto Air Fryer Jalapeño Poppers,26.67,0.83,0.67,2.17,0.0,['keju'],https://www.allrecipes.com/recipe/277358/keto-air-fryer-jalapeno-poppers/
+Deer Poppers,30.8,1.3,0.5,2.6,0.0,[],https://www.allrecipes.com/recipe/77625/deer-poppers/
+Duck Jalapeño Poppers,10.25,0.56,0.12,0.81,0.0,['keju'],https://www.allrecipes.com/recipe/261982/duck-jalapeno-poppers/
+Sausage Jalapeno Poppers,9.45,0.25,0.1,0.9,0.05,['keju'],https://www.allrecipes.com/recipe/25539/sausage-jalapeno-poppers/
+Baked Bacon Jalapeno Wraps,7.83,0.25,0.08,0.75,0.0,['keju'],https://www.allrecipes.com/recipe/228679/baked-bacon-jalapeno-wraps/
+Jalapeno Popper Cups,6.75,0.25,0.25,0.5,0.0,['keju'],https://www.allrecipes.com/recipe/213558/jalapeno-popper-cups/
+Grilled Pheasant Poppers,51.67,5.5,0.17,3.0,0.17,[],https://www.allrecipes.com/recipe/173956/grilled-pheasant-poppers/
+Bacon Cheddar Jalapeno Poppers,23.42,1.08,0.08,2.08,0.0,['keju'],https://www.allrecipes.com/recipe/22484/bacon-cheddar-jalapeno-poppers/
+Jalapeno Poppers of Champions,4.06,0.11,0.11,0.39,0.06,['keju'],https://www.allrecipes.com/recipe/100056/jalapeno-poppers-of-champions/
+Jalapeno Popper Mushrooms,37.75,1.5,0.75,3.25,0.25,['keju'],https://www.allrecipes.com/recipe/218787/jalapeno-popper-mushrooms/
+Cheesy Baked Jalapeño Poppers,12.47,0.47,0.67,0.93,0.0,"['keju', 'susu']",https://www.allrecipes.com/recipe/26835/jalapeno-poppers-i/
+Four Cheese Stuffed Jalapeños,75.0,2.75,1.25,6.75,0.25,['keju'],https://www.allrecipes.com/recipe/223306/four-cheese-stuffed-jalapenos/
+Jalapeño Popper Wontons,90.2,1.4,6.2,6.8,0.4,['keju'],https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/
+Turkey Bacon-Wrapped Jalapeño Poppers,7.0,0.25,0.05,0.65,0.0,['keju'],https://www.allrecipes.com/recipe/261984/turkey-bacon-wrapped-jalapeno-poppers/
+Bacon-Wrapped Peanut Butter Jalapeños,18.5,1.0,0.5,1.5,0.12,[],https://www.allrecipes.com/recipe/210089/bacon-wrapped-peanut-butter-jalapenos/
+Sweet Heat Jalapeno Poppers,13.7,0.3,0.9,1.0,0.1,['keju'],https://www.allrecipes.com/recipe/268502/sweet-heat-jalapeno-poppers/
+Baked Mummy Jalapeno Poppers,15.75,0.42,1.17,1.0,0.0,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/261033/baked-mummy-jalapeno-poppers/
+Stuffed Jalapenos I,9.91,0.55,0.45,0.73,0.09,"['keju', 'ayam']",https://www.allrecipes.com/recipe/15467/stuffed-jalapenos-i/
+Jalapeno Snacks,26.1,1.1,0.5,2.2,0.1,['keju'],https://www.allrecipes.com/recipe/169512/jalapeno-snacks/
+Cheese and Bacon Jalapeno Rellenos,2.72,0.11,0.11,0.22,0.0,['keju'],https://www.allrecipes.com/recipe/217200/cheese-and-bacon-jalapeno-rellenos/
+Kickin Stuffed Peppers,53.0,2.67,0.67,4.33,0.17,['keju'],https://www.allrecipes.com/recipe/176206/kickin-stuffed-peppers/
+Vegan Jalapeno Poppers,2.17,0.08,0.08,0.17,0.04,['keju'],https://www.allrecipes.com/recipe/282914/vegan-jalapeno-poppers/
+Stuffed Jalapenos,8.1,0.3,0.35,0.65,0.05,['keju'],https://www.allrecipes.com/recipe/15510/stuffed-jalapenos/
+Loaded Stuffed Jalapeno Poppers,24.25,1.33,1.08,1.83,0.0,['keju'],https://www.allrecipes.com/recipe/261986/loaded-stuffed-jalapeno-poppers/
+Crawfish-Stuffed Jalapenos,8.38,0.46,0.42,0.54,0.04,['keju'],https://www.allrecipes.com/recipe/160481/crawfish-stuffed-jalapenos/
+Bluezy's Stuffed Jalapenos with Bacon,3.17,0.17,0.04,0.25,0.0,['keju'],https://www.allrecipes.com/recipe/228540/bluezys-stuffed-jalapenos-with-bacon/
+Triple Cheese Gluten-Free Jalapeno Poppers,27.38,1.62,0.62,2.12,0.12,['keju'],https://www.allrecipes.com/recipe/268492/triple-cheese-gluten-free-jalapeno-poppers/
+Tikka Chicken Jalapeno Poppers,68.29,4.86,0.86,5.0,0.29,"['keju', 'ayam']",https://www.allrecipes.com/recipe/278241/tikka-chicken-jalapeno-poppers/
+Spicy Ramen-Stuffed Jalapenos,11.0,0.57,0.21,0.86,0.07,['keju'],https://www.allrecipes.com/recipe/285035/spicy-ramen-stuffed-jalapenos/
+Peanut Butter Jalapeno Poppers,1.86,0.09,0.14,0.11,0.0,['keju'],https://www.allrecipes.com/recipe/233810/peanut-butter-jalapeno-poppers/
+Jalapeno Poppers II,92.0,2.2,4.0,7.6,0.4,['keju'],https://www.allrecipes.com/recipe/26836/jalapeno-poppers-ii/
+Easy Jalapeño Popper Dip,3.44,0.06,0.03,0.34,0.0,['keju'],https://www.allrecipes.com/recipe/139012/jalapeno-popper-spread/
+Spicy Jalapeno Bites,27.3,1.4,1.7,1.6,0.1,"['keju', 'telur']",https://www.allrecipes.com/recipe/268699/spicy-jalapeno-bites/
+Best Jambalaya,77.5,4.67,7.0,3.33,0.5,['ayam'],https://www.allrecipes.com/recipe/31848/jambalaya/
+Chef John's Sausage & Shrimp Jambalaya,123.75,7.5,9.25,6.25,1.25,"['ayam', 'udang']",https://www.allrecipes.com/recipe/220126/chef-johns-sausage-shrimp-jambalaya/
+Colleen's Slow Cooker Jambalaya,19.58,1.67,0.5,1.17,0.08,"['ayam', 'udang']",https://www.allrecipes.com/recipe/73634/colleens-slow-cooker-jambalaya/
+Easy Cajun Jambalaya,81.33,4.83,9.83,2.33,0.33,['ayam'],https://www.allrecipes.com/recipe/31833/easy-cajun-jambalaya/
+Spruced-Up Zatarain's Jambalaya,143.5,4.67,10.83,8.83,0.33,[],https://www.allrecipes.com/recipe/234504/spruced-up-zatarains-jambalaya/
+Shrimp and Smoked Sausage Jambalaya,51.75,2.5,6.25,1.88,0.38,"['ayam', 'udang']",https://www.allrecipes.com/recipe/269944/shrimp-and-smoked-sausage-jambalaya/
+Bubba's Jambalaya,29.08,1.92,2.67,1.17,0.17,"['sapi', 'ayam', 'udang']",https://www.allrecipes.com/recipe/77572/bubbas-jambalaya/
+Oven Baked Jambalaya,33.81,1.81,3.0,1.62,0.19,"['ayam', 'udang']",https://www.allrecipes.com/recipe/38060/oven-baked-jambalaya/
+"Shrimp, Sausage, and Fish Jambalaya",103.67,5.83,11.17,3.83,0.67,"['ayam', 'udang']",https://www.allrecipes.com/recipe/220219/shrimp-sausage-and-fish-jambalaya/
+Low Carb Jambalaya,43.33,5.33,2.5,1.5,0.67,"['ayam', 'udang']",https://www.allrecipes.com/recipe/228087/low-carb-jambalaya/
+Cabbage Jambalaya,91.67,4.83,7.5,4.83,0.83,['sapi'],https://www.allrecipes.com/recipe/36110/cabbage-jambalaya/
+Instant Pot Jambalaya with Shrimp and Chicken,40.12,3.38,0.88,2.38,0.25,"['ayam', 'udang']",https://www.allrecipes.com/recipe/269929/instant-pot-jambalaya-with-shrimp-and-chicken/
+Quinoa Jambalaya,70.0,2.5,4.33,4.67,0.5,['ayam'],https://www.allrecipes.com/recipe/239445/quinoa-jambalaya/
+One-Pot Keto Jambalaya with Cauliflower Rice,84.0,6.0,2.17,5.67,0.67,"['ayam', 'udang']",https://www.allrecipes.com/recipe/272538/one-pot-keto-jambalaya-with-cauliflower-rice/
+Chicken Jambalaya,77.0,6.25,7.5,2.25,0.5,['ayam'],https://www.allrecipes.com/recipe/15849/chicken-jambalaya-i/
+Texas Jambalaya,66.67,2.83,8.83,2.0,1.67,['ayam'],https://www.allrecipes.com/recipe/46704/texas-jambalaya/
+Slow Cooker Jambalaya (Vegan),55.67,3.33,6.83,1.67,0.67,[],https://www.allrecipes.com/recipe/238662/slow-cooker-jambalaya-vegan/
+Instant Pot® Cajun Jambalaya,95.0,7.0,12.0,2.0,0.75,"['ayam', 'udang']",https://www.allrecipes.com/recipe/269922/instant-pot-cajun-jambalaya/
+New Orleans Jambalaya,9.24,0.8,0.54,0.4,0.04,"['ayam', 'udang']",https://www.allrecipes.com/recipe/12866/new-orleans-jambalaya/
+Jen's Jambalaya,93.75,5.25,8.0,4.25,0.5,"['ayam', 'udang']",https://www.allrecipes.com/recipe/133604/jens-jambalaya/
+Jambalaya In a Jiffy,88.17,3.0,8.0,4.67,0.67,[],https://www.allrecipes.com/recipe/231412/jambalaya-in-a-jiffy/
+Simple Slow Cooker Jambalaya,33.67,2.17,2.67,1.58,0.17,"['ayam', 'udang']",https://www.allrecipes.com/recipe/245096/simple-slow-cooker-jambalaya/
+Shrimp Jambalaya,33.75,3.38,3.75,0.62,0.38,"['ayam', 'udang']",https://www.allrecipes.com/recipe/29459/shrimp-jambalaya/
+My Jambalaya,101.83,8.5,4.33,5.5,0.5,"['ayam', 'udang']",https://www.allrecipes.com/recipe/237040/my-jambalaya/
+The Captain's Famous Jambalaya,37.75,2.25,5.5,0.88,0.62,[],https://www.allrecipes.com/recipe/39345/the-captains-famous-jambalaya/
+Easy Onion Jam,15.33,0.17,3.0,0.33,0.17,[],https://www.allrecipes.com/recipe/237282/easy-onion-jam/
+Orange Marmalade,3.0,0.0,0.78,N/A,0.03,[],https://www.allrecipes.com/recipe/8530802/orange-marmalade/
+Strawberry Jam,2.12,0.0,0.55,0.0,0.03,[],https://www.allrecipes.com/recipe/38410/strawberry-jam/
+Hot Pepper Jelly,1.85,0.0,0.48,N/A,0.0,[],https://www.allrecipes.com/recipe/17692/hot-pepper-jelly/
+Concord Grape Jelly,1.58,0.0,0.41,0.0,0.0,[],https://www.allrecipes.com/recipe/35158/concord-grape-jelly/
+Easy Small-Batch Blueberry Jam,4.31,0.0,1.12,0.0,0.06,[],https://www.allrecipes.com/recipe/239514/easy-small-batch-blueberry-jam/
+Strawberry Freezer Jam,1.5,0.0,0.38,0.0,0.03,[],https://www.allrecipes.com/recipe/51835/strawberry-freezer-jam/
+Jalapeño Jelly,3.41,0.0,0.88,0.0,0.0,[],https://www.allrecipes.com/recipe/47520/jalapeno-jelly/
+Rhubarb Jam,1.78,0.0,0.44,0.0,0.03,[],https://www.allrecipes.com/recipe/86346/rhubarb-jam/
+Amazing Apple Butter,1.56,0.0,0.42,0.0,0.04,[],https://www.allrecipes.com/recipe/229892/amazing-apple-butter/
+Raspberry Jam without Pectin,1.07,0.0,0.27,N/A,0.02,[],https://www.allrecipes.com/recipe/263781/raspberry-jam-without-pectin/
+All-Day Apple Butter,0.27,0.0,0.07,N/A,0.01,[],https://www.allrecipes.com/recipe/21205/all-day-apple-butter/
+Chef John's Kumquat Marmalade,1.09,0.0,0.28,0.0,0.03,[],https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/
+Peach Preserves,0.92,N/A,0.23,N/A,N/A,[],https://www.allrecipes.com/recipe/21351/peach-preserves/
+Mint Jelly,2.69,N/A,0.69,N/A,0.0,[],https://www.allrecipes.com/recipe/43399/mint-jelly/
+Strawberry-Rhubarb Jam,0.23,0.0,0.06,0.0,0.0,[],https://www.allrecipes.com/recipe/214106/strawberry-rhubarb-jam/
+Grandma's Pear Preserves,3.15,0.0,0.81,0.0,0.02,[],https://www.allrecipes.com/recipe/53839/grandmas-pear-preserves/
+Apricot Jam,2.1,0.0,0.54,0.0,0.02,[],https://www.allrecipes.com/recipe/222949/apricot-jam/
+Pear Jam,1.55,0.0,0.41,0.0,0.0,[],https://www.allrecipes.com/recipe/228625/pear-jam/
+Apple Jelly,0.68,0.0,0.18,0.0,0.0,[],https://www.allrecipes.com/recipe/228810/apple-jelly/
+Onion Jam,1.16,0.0,0.16,0.06,0.0,[],https://www.allrecipes.com/recipe/220546/onion-jam/
+Crab Apple Jelly,2.94,0.0,0.75,0.0,0.0,[],https://www.allrecipes.com/recipe/40275/mary-wynnes-crabapple-jelly/
+Red Onion Marmalade,14.0,0.12,1.5,0.62,0.12,[],https://www.allrecipes.com/recipe/222719/red-onion-marmalade/
+Pumpkin Butter,0.97,0.0,0.25,0.0,0.03,[],https://www.allrecipes.com/recipe/13632/pumpkin-butter/
+Plum Jam,0.5,N/A,0.12,N/A,0.0,[],https://www.allrecipes.com/recipe/215131/plum-jam/
+Prickly Pear Jelly,8.04,0.04,2.04,0.04,0.17,[],https://www.allrecipes.com/recipe/254409/prickly-pear-jelly/
+Mango Jam,3.04,0.0,0.79,0.0,0.04,[],https://www.allrecipes.com/recipe/142747/mango-jam/
+Chef John's Apple Butter,2.56,0.0,0.69,N/A,0.06,[],https://www.allrecipes.com/recipe/268029/chef-johns-apple-butter/
+Habanero Pepper Jelly,1.28,0.0,0.33,N/A,0.0,[],https://www.allrecipes.com/recipe/170998/habanero-pepper-jelly/
+Real Fig Preserves,0.56,0.0,0.11,0.02,0.02,[],https://www.allrecipes.com/recipe/215775/real-fig-preserves/
+Grape Jelly,1.96,0.0,0.5,N/A,N/A,[],https://www.allrecipes.com/recipe/70697/grape-jelly/
+Strawberry Fig Preserves,1.95,0.0,0.5,N/A,0.03,[],https://www.allrecipes.com/recipe/228524/strawberry-fig-preserves/
+Dandelion Jelly,2.3,0.0,0.6,0.0,0.0,[],https://www.allrecipes.com/recipe/246823/dandelion-jelly/
+Wine Jelly,2.65,N/A,0.57,N/A,N/A,[],https://www.allrecipes.com/recipe/9492/wine-jelly/
+Watermelon Rind Preserves,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/39358/watermelon-rind-preserves/
+Grapefruit Marmalade,27.6,0.1,7.1,0.0,0.2,[],https://www.allrecipes.com/recipe/272814/grapefruit-marmalade/
+Low-Sugar Strawberry Jam,0.5,0.0,0.12,N/A,0.0,[],https://www.allrecipes.com/recipe/217924/low-sugar-no-sugar-strawberry-jam/
+Strawberry Rhubarb Jam with Jell-O,4.79,0.04,1.21,0.0,0.04,[],https://www.allrecipes.com/recipe/35545/rhubarb-strawberry-jam/
+Apple Butter for the Slow Cooker,0.21,N/A,0.05,N/A,0.0,[],https://www.allrecipes.com/recipe/229899/apple-butter-for-the-slow-cooker/
+Ginger Marmalade,4.6,0.0,1.17,0.0,0.0,[],https://www.allrecipes.com/recipe/217783/ginger-marmalade/
+Blackberry Jam,1.06,0.0,0.25,0.0,0.03,[],https://www.allrecipes.com/recipe/223332/blackberry-jam/
+Pear Honey,1.73,0.0,0.45,N/A,0.02,[],https://www.allrecipes.com/recipe/75639/pear-honey/
+Pepper Jelly,6.5,0.0,1.68,N/A,0.0,[],https://www.allrecipes.com/recipe/9397/pepper-jelly/
+Mulberry Jam,0.62,0.0,0.16,0.0,0.0,[],https://www.allrecipes.com/recipe/232732/mulberry-preserves/
+Dried Apricot Jam,0.33,0.0,0.08,N/A,0.0,[],https://www.allrecipes.com/recipe/223062/dried-apricot-jam/
+Purple Yam Jam,32.75,0.62,4.62,1.38,0.25,['susu'],https://www.allrecipes.com/recipe/257083/purple-yam-jam/
+Pear Butter,2.56,0.0,0.66,0.0,0.06,[],https://www.allrecipes.com/recipe/75545/pear-butter/
+Red Currant Jelly,1.58,0.0,0.41,0.0,0.02,[],https://www.allrecipes.com/recipe/75073/red-currant-jelly/
+Nectarine Jam,1.95,0.03,0.5,0.0,0.03,[],https://www.allrecipes.com/recipe/265910/nectarine-jam/
+Raspberry Jalapeño Jelly,2.41,0.0,0.62,N/A,0.0,[],https://www.allrecipes.com/recipe/35472/raspberry-jalapeno-jelly/
+Blackberry Jalapeño Jelly,0.6,N/A,0.15,N/A,N/A,[],https://www.allrecipes.com/recipe/210067/blackberry-jalapeno-jelly/
+Blood Orange Marmalade,1.12,0.0,0.3,N/A,0.03,[],https://www.allrecipes.com/recipe/283064/blood-orange-marmalade/
+Cherry Jam,1.75,0.0,0.45,0.0,0.0,[],https://www.allrecipes.com/recipe/218434/bc-cherry-jam/
+Easy Apple Rhubarb Jam,0.79,0.0,0.21,N/A,0.0,[],https://www.allrecipes.com/recipe/117575/easy-apple-rhubarb-jam/
+Strawberry Preserves,2.6,0.0,0.68,0.0,0.03,[],https://www.allrecipes.com/recipe/35776/strawberry-preserves-i/
+Strawberry Jam with JELL-O,0.71,0.0,0.17,N/A,0.0,[],https://www.allrecipes.com/recipe/20888/strawberry-jam-with-jell-o/
+Easy Persimmon Jam,4.31,0.0,1.12,0.0,0.06,[],https://www.allrecipes.com/recipe/256073/easy-persimmon-jam/
+Fig Preserves,2.2,0.02,0.58,0.0,0.03,[],https://www.allrecipes.com/recipe/20854/fig-preserves/
+Red and Green Christmas Jalapeno Jelly,3.11,0.0,0.78,N/A,0.0,[],https://www.allrecipes.com/recipe/19137/red-and-green-christmas-jalapeno-jelly/
+Pectin-Free Strawberry Rhubarb Jam,1.4,0.0,0.37,0.0,0.0,[],https://www.allrecipes.com/recipe/222688/pectin-free-strawberry-rhubarb-jam/
+Apple Pear Sauce,9.62,0.12,2.5,0.0,0.5,[],https://www.allrecipes.com/recipe/229225/apple-pear-sauce/
+Apple Butter Recipe,11.4,0.0,3.0,0.0,0.2,[],https://www.allrecipes.com/recipe/229900/apple-butter-recipe/
+Grandma's Cranberry-Orange Gelatin Salad,19.25,0.25,2.67,0.92,0.17,['keju'],https://www.allrecipes.com/recipe/152405/grandmas-cranberry-orange-gelatin-salad/
+Strawberry Pretzel Salad,35.33,0.42,4.33,1.92,0.08,['keju'],https://www.allrecipes.com/recipe/20338/strawberry-pretzel-salad/
+Orange Gelatin Salad,41.29,1.43,5.86,1.14,0.14,['keju'],https://www.allrecipes.com/recipe/14465/orange-gelatin-salad/
+Cranberry Salad,45.0,0.57,7.86,1.57,0.57,[],https://www.allrecipes.com/recipe/13466/cranberry-salad-ii/
+Lime Gelatin Salad,41.2,0.5,2.7,3.3,0.2,['keju'],https://www.allrecipes.com/recipe/13595/lime-gelatin-salad-i/
+Judy's Strawberry Pretzel Salad,23.19,0.25,2.56,1.38,0.06,['keju'],https://www.allrecipes.com/recipe/16080/judys-strawberry-pretzel-salad/
+Pink Fluff,56.33,1.83,8.17,1.67,0.17,['keju'],https://www.allrecipes.com/recipe/24613/pink-fluff/
+Blueberry Salad,16.53,0.2,2.73,0.6,0.07,['keju'],https://www.allrecipes.com/recipe/20260/blueberry-salad/
+Cranberry Jell-O Salad,10.25,0.08,1.92,0.25,0.08,[],https://www.allrecipes.com/recipe/17265/cranberry-gelatin-salad-i/
+Orange Fluff I,49.12,1.25,6.5,2.12,0.12,['keju'],https://www.allrecipes.com/recipe/14251/orange-fluff-i/
+Seven Layer Gelatin Salad,10.5,0.22,1.94,0.22,N/A,['susu'],https://www.allrecipes.com/recipe/24704/seven-layer-gelatin-salad/
+Almond Jelly,24.67,0.83,4.83,0.33,N/A,['susu'],https://www.allrecipes.com/recipe/62723/almond-jelly/
+Fun Finger Gelatin,2.12,0.06,0.5,N/A,N/A,[],https://www.allrecipes.com/recipe/220412/fun-finger-gelatin/
+Red Hot Applesauce Jell-O,6.5,0.08,1.58,N/A,0.08,[],https://www.allrecipes.com/recipe/229387/red-hot-applesauce-jell-o/
+Broken Glass Cake,36.33,0.42,4.42,2.0,0.08,[],https://www.allrecipes.com/recipe/220153/broken-glass-cake/
+Strawberry Fluff,26.22,1.0,3.67,1.0,0.11,['keju'],https://www.allrecipes.com/recipe/16034/strawberry-fluff/
+Old-Fashioned Strawberry Pretzel Salad,52.1,0.6,6.5,2.8,0.2,['keju'],https://www.allrecipes.com/recipe/14244/old-fashioned-strawberry-pretzel-salad/
+Thanksgiving Jell-O Salad,58.5,2.0,6.5,3.0,0.17,['keju'],https://www.allrecipes.com/recipe/240295/thanksgiving-jell-o-salad/
+Lime Pear Gelatin Salad,20.83,0.5,2.5,0.83,0.17,['keju'],https://www.allrecipes.com/recipe/156739/lime-pear-gelatin-salad/
+Sea Foam Salad,62.17,0.83,6.67,3.83,0.33,"['keju', 'susu']",https://www.allrecipes.com/recipe/14197/sea-foam-salad/
+Lemon Lime Vegetable Salad,12.38,0.25,2.5,0.25,0.12,[],https://www.allrecipes.com/recipe/140514/lemon-lime-vegetable-salad/
+Orange Buttermilk Salad,20.3,0.3,3.5,0.6,0.0,[],https://www.allrecipes.com/recipe/38647/orange-buttermilk-salad/
+Cottage Cheese Fluff,30.5,2.67,3.0,0.67,N/A,['keju'],https://www.allrecipes.com/recipe/87198/cottage-cheese-fluff/
+Lime Fluff,59.11,0.67,8.44,2.67,0.22,[],https://www.allrecipes.com/recipe/18312/lime-fluff/
+Cranberry Jell-O® Salad with Walnuts,6.55,0.1,1.2,0.2,0.05,[],https://www.allrecipes.com/recipe/229674/cranberry-jell-o-salad-with-walnuts/
+Ambrosia Salad with Jell-O,56.12,0.62,7.88,2.5,0.12,[],https://www.allrecipes.com/recipe/277216/ambrosia-salad-with-jell-o/
+Bing Cherry Congealed Salad,27.67,0.44,3.89,1.33,0.22,['keju'],https://www.allrecipes.com/recipe/13700/bing-cherry-congealed-salad/
+Kelly's Ham Jell-O Salad,25.0,0.62,1.88,1.75,0.12,[],https://www.allrecipes.com/recipe/229938/kellys-ham-jell-o-salad/
+Orange Tapioca Salad,30.62,0.25,5.62,0.88,0.12,[],https://www.allrecipes.com/recipe/72832/orange-tapioca-salad/
+Carrot Gelatin Salad,16.62,0.38,4.12,0.0,0.25,[],https://www.allrecipes.com/recipe/60300/carrot-gelatin-salad/
+Sawdust Salad,40.42,0.42,7.67,0.83,0.17,['keju'],https://www.allrecipes.com/recipe/20306/sawdust-salad/
+Strawberry Whip,8.93,0.13,1.6,0.27,0.0,[],https://www.allrecipes.com/recipe/14313/strawberry-whip/
+Pretzel Salad,14.33,0.17,1.83,0.72,0.06,['keju'],https://www.allrecipes.com/recipe/19529/pretzel-salad/
+Cranberry Jell-O Salad with Mandarin Oranges,17.42,0.25,3.08,0.58,0.17,[],https://www.allrecipes.com/recipe/229386/cranberry-jell-o-salad/
+White Gelatin,11.75,0.25,1.0,0.75,N/A,"['keju', 'susu']",https://www.allrecipes.com/recipe/92316/white-gelatin/
+Stained Glass Gelatin Cake,43.3,0.9,6.1,1.8,N/A,['susu'],https://www.allrecipes.com/recipe/255526/stained-glass-gelatin-cake/
+Lime Salad,16.12,0.38,2.5,0.62,0.12,[],https://www.allrecipes.com/recipe/9338/lime-salad/
+Creamy Cranberry Salad,29.25,0.33,3.42,1.75,0.25,['keju'],https://www.allrecipes.com/recipe/24274/creamy-cranberry-salad/
+Orange Sherbet Salad,19.83,0.5,4.83,N/A,0.0,[],https://www.allrecipes.com/recipe/132465/orange-sherbet-salad/
+Spooky JELL-O JIGGLERS,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/234568/spooky-jell-o-jigglers/
+Pineapple Cranberry Salad,20.44,0.22,5.11,0.0,0.11,[],https://www.allrecipes.com/recipe/15716/pineapple-cranberry-salad/
+Congealed Salad,55.67,2.11,6.89,2.44,0.33,['keju'],https://www.allrecipes.com/recipe/18208/congeal-salad/
+Sour Cream Cranberry Jell-O Salad,3.92,0.04,0.58,0.17,0.0,[],https://www.allrecipes.com/recipe/229676/sour-cream-cranberry-jell-o-salad/
+Easy Watergate Salad,25.5,0.12,3.88,1.12,0.12,[],https://www.allrecipes.com/recipe/240435/easy-watergate-salad/
+Heavenly Raspberry Dessert,35.7,0.5,4.7,1.8,0.2,[],https://www.allrecipes.com/recipe/244321/heavenly-raspberry-dessert/
+Orange Gelatin,23.5,0.33,5.83,0.0,0.0,[],https://www.allrecipes.com/recipe/24306/orange-gelatin/
+Mother's Whipped Lime Dessert,62.0,1.17,9.33,2.33,0.17,['susu'],https://www.allrecipes.com/recipe/162039/mothers-whipped-lime-dessert/
+Swedish Cream,49.67,0.5,3.67,3.83,0.17,[],https://www.allrecipes.com/recipe/55044/swedish-cream/
+Vegan Gelatin,2.17,N/A,0.58,N/A,N/A,[],https://www.allrecipes.com/recipe/131067/vegan-gelatin/
+Mom G's Cranberry Jell-O Salad,32.5,0.38,6.75,0.62,0.38,[],https://www.allrecipes.com/recipe/229384/mom-gs-cranberry-jell-o-salad/
+Holiday Green Gelatin Salad,51.75,1.12,3.62,3.88,0.12,"['keju', 'susu']",https://www.allrecipes.com/recipe/131454/holiday-green-gelatin-salad/
+Mom's Secret Cherry JELL-O Salad,53.75,0.75,8.12,2.25,0.12,"['keju', 'telur']",https://www.allrecipes.com/recipe/229381/moms-secret-cherry-jell-o-salad/
+Almond Gelatin,29.75,1.0,5.5,0.5,0.25,['susu'],https://www.allrecipes.com/recipe/63834/almond-gelatin/
+Fish Egg Salad,90.67,0.5,11.67,4.83,0.0,[],https://www.allrecipes.com/recipe/81994/fish-egg-salad/
+Rhubarb Gelatin Salad,34.17,0.5,6.0,1.17,0.33,[],https://www.allrecipes.com/recipe/49777/rhubarb-gelatin-salad/
+"""CranCrack"" Cranberry Salad",23.56,0.22,6.0,0.0,0.33,[],https://www.allrecipes.com/recipe/240769/crancrack-cranberry-salad/
+Blueberry Cream Dessert,19.25,0.25,2.0,1.17,0.08,[],https://www.allrecipes.com/recipe/231055/blueberry-cream-dessert/
+Bing Cherry Salad,13.2,0.2,2.6,0.3,0.1,['keju'],https://www.allrecipes.com/recipe/217832/bing-cherry-salad/
+Mandarin Orange Gelatin Salad,34.56,1.67,3.67,1.56,0.0,['keju'],https://www.allrecipes.com/recipe/19531/mandarin-orange-gelatin-salad/
+Blueberry Gelatin Salad,55.0,0.62,8.88,2.0,0.25,['keju'],https://www.allrecipes.com/recipe/57798/blueberry-gelatin-salad/
+Bing Cherry Gelatin Mold,31.62,0.5,5.12,1.25,0.38,[],https://www.allrecipes.com/recipe/13467/bing-cherry-gelatin-mold/
+Lemon-Lime Soda Gelatin Salad,108.25,2.0,9.5,7.25,0.5,['keju'],https://www.allrecipes.com/recipe/24826/lemon-lime-soda-gelatin-salad/
+Strawberry Lemonade Marshmallow Jell-O®,13.5,0.3,3.2,N/A,0.0,[],https://www.allrecipes.com/recipe/257689/strawberry-lemonade-marshmallow-jell-o/
+Pimento Cheese Jell-O® Salad,37.12,1.0,4.12,2.0,0.0,['keju'],https://www.allrecipes.com/recipe/229389/pimento-cheese-jell-o-salad/
+Pudding Shots,N/A,N/A,N/A,N/A,N/A,['susu'],https://www.allrecipes.com/recipe/176054/pudding-shots/
+RumChata Pudding Shots,9.2,0.07,1.13,0.4,0.0,['susu'],https://www.allrecipes.com/recipe/242116/rumchata-pudding-shots/
+Halloween Jell-O Shots,12.62,0.19,1.38,0.12,N/A,['susu'],https://www.allrecipes.com/recipe/254844/halloween-candy-corn-jell-o-shots/
+Chocolate Pudding Shots,7.06,0.06,0.81,0.25,0.0,['susu'],https://www.allrecipes.com/recipe/233741/chocolate-pudding-shots/
+Tainted Fruit Shots,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/23542/tainted-fruit-shots/
+White Russian Pudding Shot,12.08,0.08,1.33,0.42,N/A,['susu'],https://www.allrecipes.com/recipe/242065/white-russian-pudding-shot/
+Margarita Jell-O® Shots,3.47,0.07,0.47,N/A,N/A,[],https://www.allrecipes.com/recipe/264533/margarita-jell-o-shots/
+Raspberry Party Shots,N/A,N/A,N/A,N/A,N/A,[],https://www.allrecipes.com/recipe/104416/raspberry-party-shots/
+Buttery Nipple Gourmet Pudding Shots,8.08,0.08,1.17,0.08,N/A,['susu'],https://www.allrecipes.com/recipe/242118/buttery-nipple-gourmet-pudding-shots/
+Mangonada Jell-O Shots,2.45,0.05,0.25,N/A,N/A,[],https://www.allrecipes.com/recipe/277691/mangonada-jell-o-shots/
+Oreo Cookie Gourmet Pudding Shots,11.67,0.08,1.17,0.42,N/A,['susu'],https://www.allrecipes.com/recipe/242117/oreo-cookie-gourmet-pudding-shots/
+Pink Brain Shooter,21.0,0.42,3.42,0.25,N/A,['susu'],https://www.allrecipes.com/recipe/216072/pink-brain-shooter/
+Piña Colada Pudding Shots!,2.96,0.0,0.25,0.12,0.0,['susu'],https://www.allrecipes.com/recipe/239846/pina-colada-pudding-shots/
+Sex on the Beach Jell-O Shots,4.1,0.05,0.55,N/A,N/A,[],https://www.allrecipes.com/recipe/275057/sex-on-the-beach-jell-o-shots/
+Strawberry Cheesecake Jell-O Shots,18.75,0.25,1.17,0.92,0.0,['keju'],https://www.allrecipes.com/recipe/256702/strawberry-cheesecake-jell-o-shots/
+St. Patrick's Day Jell-O Shots,15.75,0.12,1.75,N/A,N/A,[],https://www.allrecipes.com/recipe/270882/st-patricks-day-jell-o-shots/
+Baileys and Coffee Jell-O Shots,8.5,0.38,0.88,0.0,N/A,[],https://www.allrecipes.com/recipe/270950/baileys-and-coffee-jell-o-shots/
+French 75 Jell-O Shots,4.06,0.06,0.38,N/A,N/A,[],https://www.allrecipes.com/recipe/246200/french-75-jell-o-shots/
+Caramel Apple Martini Pudding Shots,12.33,0.08,1.5,0.42,N/A,['susu'],https://www.allrecipes.com/recipe/239027/caramel-apple-martini-pudding-shots/
+Chocolate-Strawberry-Baileys® Pudding Shots,10.0,0.06,1.38,0.31,0.0,['susu'],https://www.allrecipes.com/recipe/270946/chocolate-strawberry-baileys-pudding-shots/
+Top Shelf Sparkling Margarita Jell-O,6.04,0.04,0.83,N/A,N/A,[],https://www.allrecipes.com/recipe/229549/top-shelf-sparkling-margarita-jell-o/
+Tart Lemon Drop Jelly Shots,2.12,0.02,0.32,0.0,0.02,[],https://www.allrecipes.com/recipe/221032/tart-lemon-drop-jelly-shots/
+Doc's Best Beef Jerky,22.8,1.9,0.5,1.4,0.0,['sapi'],https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/
+Homemade Beef Jerky,47.67,5.5,2.33,1.83,0.17,['sapi'],https://www.allrecipes.com/recipe/241555/homemade-beef-jerky/
+Deer Jerky,13.88,1.75,0.38,0.62,0.0,[],https://www.allrecipes.com/recipe/46324/deer-jerky/
+"Jerky Lover's Jerky - Sweet, Hot and Spicy!",131.75,5.75,11.75,7.0,0.25,['sapi'],https://www.allrecipes.com/recipe/86194/jerky-lovers-jerky-sweet-hot-and-spicy/
+Sweet and Spicy Venison Jerky,26.0,1.88,2.75,0.88,0.12,[],https://www.allrecipes.com/recipe/212396/sweet-and-spicy-venison-jerky/
+Dad's Jerky Marinade,9.0,0.12,2.12,0.0,0.0,[],https://www.allrecipes.com/recipe/58946/dads-jerky-marinade/
+Smoked Beef Jerky,60.33,5.33,1.0,3.83,0.33,[],https://www.allrecipes.com/recipe/16242/beef-jerky-in-a-smoker/
+Ground Beef Jerky,15.75,1.5,0.12,1.0,0.0,['sapi'],https://www.allrecipes.com/recipe/234518/ground-beef-jerky/
+Venison Jerky,5.4,0.93,0.0,0.13,0.0,['sapi'],https://www.allrecipes.com/recipe/57829/venison-jerky/
+Air Fryer Oven Beef Jerky,8.31,0.81,0.06,0.5,N/A,[],https://www.allrecipes.com/recipe/279345/air-fryer-oven-beef-jerky/
+Spicy Salmon Jerky,19.33,2.17,0.67,0.92,0.0,[],https://www.allrecipes.com/recipe/247352/spicy-salmon-jerky/
+Mike's Peppered Beef Jerky,7.04,1.17,0.17,0.17,0.0,['sapi'],https://www.allrecipes.com/recipe/220286/mikes-peppered-beef-jerky/
+Teriyaki Beef Jerky,17.25,1.08,2.42,0.33,0.0,['sapi'],https://www.allrecipes.com/recipe/233611/teriyaki-beef-jerky/
+Air Fryer Steak Jerky,36.75,5.25,1.0,1.25,0.0,['sapi'],https://www.allrecipes.com/recipe/279281/air-fryer-steak-jerky/
+Amazing Turkey Jerky,13.7,1.5,0.4,0.7,0.0,['sapi'],https://www.allrecipes.com/recipe/257159/amazing-turkey-jerky/
+Air Fryer Oven Pork Jerky,1.63,0.14,0.0,0.11,N/A,[],https://www.allrecipes.com/recipe/273425/air-fryer-oven-pork-jerky/
+Spicy Chicken Jerky in the Air Fryer,9.0,1.67,0.0,0.17,0.0,['ayam'],https://www.allrecipes.com/recipe/279283/spicy-chicken-jerky-in-the-air-fryer/
+Dylan's Salmon Jerky,14.75,1.5,0.38,0.75,0.0,[],https://www.allrecipes.com/recipe/247353/dylans-salmon-jerky/
+T Bird's Beef Jerky,1.02,0.09,0.03,0.06,0.0,[],https://www.allrecipes.com/recipe/30795/t-birds-beef-jerky/
+Beef or Moose Jerky,188.17,8.83,19.67,8.5,0.17,[],https://www.allrecipes.com/recipe/23916/beef-or-moose-jerky/
+Mesquite Smoked Jerky,N/A,N/A,N/A,N/A,N/A,['sapi'],https://www.allrecipes.com/recipe/40970/mesquite-smoked-jerky/
+Beer-Marinated Deer Jerky,4.88,0.69,0.19,0.06,0.0,[],https://www.allrecipes.com/recipe/282127/beer-marinated-deer-jerky/
+Spicy Beef Jerky,88.6,10.2,1.8,4.4,0.2,[],https://www.allrecipes.com/recipe/228088/spicy-beef-jerky/
+Air Fryer Oven Buffalo Chicken Jerky Sticks,16.5,2.83,0.17,0.5,0.0,['ayam'],https://www.allrecipes.com/recipe/279344/air-fryer-oven-buffalo-chicken-jerky-sticks/
+Matt's Jerky Recipe,18.0,2.7,0.6,0.5,0.1,['sapi'],https://www.allrecipes.com/recipe/257160/matts-jerky-recipe/
+Best Beef Jerky,10.15,0.45,0.65,0.65,0.0,['sapi'],https://www.allrecipes.com/recipe/261542/best-beef-jerky/
+A Jerky Chicken,49.25,7.25,3.5,0.75,0.0,['ayam'],https://www.allrecipes.com/recipe/50726/a-jerky-chicken/
+Swen's Smokehouse Beef Jerky,39.62,2.5,6.12,0.62,0.12,[],https://www.allrecipes.com/recipe/173876/swens-smokehouse-beef-jerky/
+Midg's Mouth Watering Beef Jerky,23.25,3.0,0.58,1.0,0.0,['sapi'],https://www.allrecipes.com/recipe/230890/midgs-mouth-watering-beef-jerky/
+Griswolds Turkey Jerky,0.71,0.14,N/A,0.03,N/A,[],https://www.allrecipes.com/recipe/277921/griswolds-turkey-jerky/
+Sara's Beef Jerky,101.0,8.5,1.25,6.75,0.0,[],https://www.allrecipes.com/recipe/16385/saras-beef-jerky/
+Corned Beef Jerky,5.8,0.4,0.05,0.45,0.0,['sapi'],https://www.allrecipes.com/recipe/8400442/corned-beef-jerky/
+McKagen's Beef Jerky,20.38,2.62,0.5,0.75,0.0,[],https://www.allrecipes.com/recipe/191287/mckagens-beef-jerky/
+Gefilte Fish,51.3,6.2,3.2,1.4,0.3,[],https://www.allrecipes.com/recipe/17121/gefilte-fish/
+Matzah,7.88,0.25,1.5,0.12,0.0,[],https://www.allrecipes.com/recipe/213682/matzah/
+Great-Grandmother Bubbie's Hamantaschen,5.06,0.08,0.94,0.14,0.06,[],https://www.allrecipes.com/recipe/191359/great-grandmother-bubbies-hamantaschen/
+Cinnamon Noodle Kugel,20.5,0.69,2.38,0.94,0.06,"['keju', 'susu', 'telur']",https://www.allrecipes.com/recipe/220950/cinnamon-noodle-kugel/
+Simple Chopped Liver,15.12,1.38,0.38,0.88,0.12,['ayam'],https://www.allrecipes.com/recipe/76193/simple-chopped-liver/
+Corned Beef Roast,58.12,3.5,3.5,3.25,0.5,['sapi'],https://www.allrecipes.com/recipe/83646/corned-beef-roast/
+Coney Island Knishes,18.81,0.44,1.94,1.06,0.19,"['sapi', 'telur']",https://www.allrecipes.com/recipe/272334/coney-island-knishes/
+Sarah's Knish,1.33,0.03,0.18,0.05,0.02,"['susu', 'telur']",https://www.allrecipes.com/recipe/212834/sarahs-knish/
+Fried Matzo,485.0,19.0,49.0,24.0,N/A,[],https://www.allrecipes.com/recipe/221193/fried-matzoh/
+Rugelach,2.12,0.02,0.17,0.15,0.0,['keju'],https://www.allrecipes.com/recipe/10115/rugelach/
+Overnight Matzo Bake,38.88,1.25,6.0,1.12,0.12,['susu'],https://www.allrecipes.com/recipe/8465380/overnight-matzo-bake/
+Chocolate Hamantaschen,2.86,0.05,0.36,0.14,0.0,"['telur', 'susu']",https://www.allrecipes.com/recipe/8448268/chocolate-hamantaschen/
+Best Matzo Balls,6.62,0.19,0.62,0.38,0.0,[],https://www.allrecipes.com/recipe/231327/best-matzah-balls/
+Kugel,45.4,1.5,3.7,2.8,0.1,"['keju', 'telur']",https://www.allrecipes.com/recipe/25228/kugel/
+Charoset,9.8,0.2,0.7,0.8,0.2,[],https://www.allrecipes.com/recipe/242217/charoset/
+Sufganiyot,120.0,2.33,12.67,6.67,0.33,[],https://www.allrecipes.com/recipe/11438/sufganiyot/
+Matzo Brei,222.0,9.0,24.0,10.0,N/A,['telur'],https://www.allrecipes.com/recipe/16045/matzo-brei/
+Jewish Apple Cake,28.14,0.36,4.0,1.29,0.14,[],https://www.allrecipes.com/recipe/7969/jewish-apple-cake-i/
+Real NY Jewish Rye Bread,10.57,0.29,1.64,0.36,0.21,[],https://www.allrecipes.com/recipe/230396/real-ny-jewish-rye-bread/
+Easy Hamantaschen,10.29,0.17,1.67,0.33,0.04,[],https://www.allrecipes.com/recipe/27201/easy-hamantaschen/
+Shakshuka,52.25,2.0,3.25,3.75,0.75,[],https://www.allrecipes.com/recipe/213717/chakchouka-shakshouka/
+Potato Latkes,33.17,0.83,3.67,1.83,0.33,['telur'],https://www.allrecipes.com/recipe/16073/potato-latkes-i/
+Real Homemade Bagels,46.33,0.33,9.33,1.17,0.17,[],https://www.allrecipes.com/recipe/220619/real-homemade-bagels/
+Challah Bread,5.5,0.13,1.0,0.1,0.03,[],https://www.allrecipes.com/recipe/6760/challah-i/
+Jewish Chicken Soup,65.62,4.0,5.0,3.38,0.38,['ayam'],https://www.allrecipes.com/recipe/51255/jewish-chicken-soup/
+Oma's Fabulous Matzo Ball Soup,44.8,1.7,6.4,1.4,0.1,['ayam'],https://www.allrecipes.com/recipe/17110/omas-fabulous-matzo-ball-soup/
+Chef John's Cheese Blintzes,90.4,3.8,6.6,5.4,0.2,"['keju', 'telur', 'susu']",https://www.allrecipes.com/recipe/242406/chef-johns-cheese-blintzes/
+Homemade Lox,15.0,1.25,1.62,0.38,N/A,[],https://www.allrecipes.com/recipe/254896/homemade-lox/
+Haroset for Passover,40.17,0.67,4.67,2.17,0.83,[],https://www.allrecipes.com/recipe/45301/haroset-for-passover/
+Slow Cooker Reuben Dip,24.83,1.5,0.5,1.92,0.08,"['keju', 'sapi']",https://www.allrecipes.com/recipe/89707/slow-cooker-reuben-dip/
+Bread Machine Challah,9.1,0.2,1.3,0.35,0.05,['telur'],https://www.allrecipes.com/recipe/24419/bread-machine-challah-ii/
+Loukoumades,6.68,0.12,0.96,0.28,0.04,['susu'],https://www.allrecipes.com/recipe/212392/loukoumades/
+Sweet Potato Latkes,54.25,2.0,9.25,1.25,1.25,[],https://www.allrecipes.com/recipe/212381/kerrys-sweet-potato-latkes/
+Jewish Apple Cake from Bubba's Recipe Box,44.0,0.5,6.92,1.67,0.25,[],https://www.allrecipes.com/recipe/179285/jewish-apple-cake-from-bubbas-recipe-box/
+Blintz Souffle II,51.25,1.75,6.62,2.38,0.38,['keju'],https://www.allrecipes.com/recipe/212822/blintz-souffle-ii/
+The Best Ever Classic Jewish Noodle Kugel,26.08,0.67,3.92,0.92,0.17,['telur'],https://www.allrecipes.com/recipe/153758/the-best-ever-classic-jewish-noodle-kugel/
+Chocolate-Covered Matzo,35.1,0.2,3.9,2.2,0.1,[],https://www.allrecipes.com/recipe/221190/chocolate-covered-matzo/
+Best Sweet and Sour Brisket,40.1,1.9,2.4,2.5,0.1,['sapi'],https://www.allrecipes.com/recipe/212741/jewish-style-sweet-and-sour-brisket/
+Apple Matzo Kugel,30.0,0.5,4.75,1.12,0.12,[],https://www.allrecipes.com/recipe/70770/apple-matzo-kugel/
